@@ -1,0 +1,36 @@
+{% assign whisky = site.data.reviews[include.id] %}
+
+
+{% if whisky %}
+<div class="whisky-review">
+  <h3>{{ whisky.name }}</h3>
+  <p><strong>Age:</strong> {{ whisky.age }}</p>
+  <p><strong>Grade:</strong> {{ whisky.grade }}/100</p>
+
+  <ul>
+    {% for key in whisky.tasting_notes %}
+      <li><strong>{{ key | capitalize }}:</strong> {{ whisky.tasting_notes[key] }}</li>
+    {% endfor %}
+  </ul>
+
+    {% if whisky.bottle_info.image %}
+    <figure class="whisky-image">
+        <img
+        src="{{ whisky.bottle_info.image.url }}"
+        alt="{{ whisky.bottle_info.name }} bottle"
+        loading="lazy"
+        >
+        {% if whisky.bottle_info.image.attribution %}
+        <figcaption>{{ whisky.bottle_info.image.attribution }}</figcaption>
+        {% endif %}
+    </figure>
+    {% endif %}
+
+</div>
+{% else %}
+<p><em>Review not found: {{ include.id }}</em></p>
+{% endif %}
+
+
+
+

@@ -1,0 +1,75 @@
+lagavulin-16:
+  bottle_info:
+    name: "Lagavulin 16"
+    distillery: "Lagavulin"
+    region: "Islay"
+    age: 16
+    vintage: null
+    bottled: null
+    abv: 43
+    cask: "Ex-bourbon"
+    color: "Natural"
+    image:
+      provider: whiskybase
+      url: "https://static.whiskybase.com/storage/whiskies/2/0/8876/368639-big.jpg"
+      attribution: "Image © Whiskybase"
+  meta_data:
+    review_date: 2025-01-10
+    source: "Bottle"
+    reviewer: "Emil"
+  tasting_notes:
+    nose: "Heavy peat smoke, iodine, seaweed"
+    palate: "Oily, smoky, dried fruit"
+    finish: "Long, warming, ashy"
+  grade:
+    score: 90
+    scale: 100
+    personal_rank: "Excellent"
+
+
+# linkwood_24_glmo:
+#   bottle_info:
+#     wbid: 208876
+#     distillery: "Linkwood"
+#     bottler: "Gleann Mor" 
+#     series: "Rare Find"
+#     name : null
+#     age: 24
+#     vintage: 1997
+#     abv: 54.3
+#     cask: "Ex-bourbon"
+#     image:
+#       provider: "whiskybase"
+#       url: "https://static.whiskybase.com/storage/whiskies/2/0/8876/368639-big.jpg"
+#       attribution: "Image © Whiskybase"
+#   tasting_notes:
+#     nosing: "Golden sultanas, overripe pineapple, rum, liquorice, beeswax, jasmine tea, white pepper, cinnamon, leather, oak."
+#     sipping: "Full and mouth-coating, malty-sweet, with a distinct bitterness that’s typical of Linkwood. Orange marmalade, dried mulberries and gooseberries. Not overly complex, but delicious. Longish finish with gooseberry and tropical fruit"
+#     comment: null
+#   grade: 89
+
+
+# lagavulin-16:
+#   bottle_info:
+#     name: "Lagavulin 16"
+#     distillery: "Lagavulin"
+#     region: "Islay"
+#     age: 16
+#     vintage: null
+#     bottled: null
+#     abv: 43
+#     cask: "Ex-bourbon"
+#     color: "Natural"
+#   meta_data:
+#     review_date: 2025-01-10
+#     source: "Bottle"      # Bottle | Sample | Bar
+#     batch: null
+#     reviewer: "Emil"
+#   tasting_notes:
+#     nose: "Heavy peat smoke, iodine, seaweed"
+#     palate: "Oily, smoky, dried fruit"
+#     finish: "Long, warming, ashy"
+#   grade:
+#     score: 90
+#     scale: 100
+#     personal_rank: "Excellent"

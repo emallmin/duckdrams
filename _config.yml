@@ -1,0 +1,14 @@
+title: "My Whisky Blog -> moved"
+description: "Tasting notes and grades for whiskies I explore"
+remote_theme: mmistakes/minimal-mistakes
+
+# Optional: Markdown and posts
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+
+# Optional: baseurl if deploying to github.io/USERNAME
+# baseurl: ""
