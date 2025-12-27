@@ -1,0 +1,75 @@
+
+# Scotch Single Malt
+## Highland
+
+loch-lomond:
+  name: "Loch Lomond"
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  produces:
+    - inchmurrin
+    - inchmoan
+    - croftengea
+
+inchmurrin:
+  name: "Inchmurrin"
+  kind: line
+  distillery: loch-lomond
+  class: "Single Malt"
+  style: "Unpeated"
+  peated: no
+
+croftengea:
+  name: "Croftengea"
+  kind: line
+  distillery: loch-lomond
+  class: "Single Malt"
+  style: "Heavily peated"
+  peated: yes
+
+## Islay
+
+bruichladdich:
+  name: "Bruichladdich"
+  kind: distillery
+  country: "Scotland"
+  region: "Islay"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  status: "Active"
+  founded: 1881
+
+port-charlotte:
+  name: "Port Charlotte"
+  kind: line
+  distillery: bruichladdich
+  spirit_category: "Scotch Whisky"
+  spirit_type: "Single Malt"
+  region: "Islay"
+  peated: true
+  peat_ppm: 40
+  style: "Heavily peated, maritime"
+
+octomore:
+  name: "Octomore"
+  kind: line
+  distillery: bruichladdich
+  peated: yes
+  style: "Extremely peated, experimental"
+
+bruichladdich-unpeated:
+  name: "Bruichladdich (Unpeated)"
+  kind: line
+  distillery: bruichladdich
+  peated: no
+  style: "Unpeated"
+
+johnnie-walker-blend:
+  name: "Johnnie Walker"
+  kind: brand
+  category: "Scotch Whisky"
+  class: "Blend"
+  owner: "Diageo"

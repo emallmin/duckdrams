@@ -1,0 +1,43 @@
+# Template for review and distillery entries info to copy into the
+
+product-key:
+  stats:
+    producer: ###
+    bottler: ###
+    age: ###
+    vintage: ###
+    abv: ###
+    cask: ###
+    natural_color: ### 
+    unchillfiltered: ###
+  meta:
+    date: 2026-###
+    whiskybase_id: ###
+    availability: ###
+    price:
+      amount: ###
+      currency: "EUR"
+    sample: ###
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      system: "Legacy"
+      score: ###
+# Some symbols
+#
+#
+#
+#
+
+distillery_name:
+  name: #
+  type # Single Malt Scotch Whisky
+
+  
+

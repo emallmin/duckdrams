@@ -1,30 +1,77 @@
-lagavulin-16:
-  bottle_info:
-    name: "Lagavulin 16"
-    distillery: "Lagavulin"
-    region: "Islay"
-    age: 16
-    vintage: null
-    bottled: null
-    abv: 43
-    cask: "Ex-bourbon"
-    color: "Natural"
-    image:
-      provider: whiskybase
-      url: "https://static.whiskybase.com/storage/whiskies/2/0/8876/368639-big.jpg"
-      attribution: "Image © Whiskybase"
-  meta_data:
-    review_date: 2025-01-10
-    source: "Bottle"
-    reviewer: "Emil"
-  tasting_notes:
-    nose: "Heavy peat smoke, iodine, seaweed"
-    palate: "Oily, smoky, dried fruit"
-    finish: "Long, warming, ashy"
-  grade:
-    score: 90
-    scale: 100
-    personal_rank: "Excellent"
+inchmurrin-23-lt:
+  stats:
+    producer: inchmurrin
+    bottler: liquid-treasures
+    age: 23
+    vintage: 1997
+    abv: 48.5
+    cask: "Barrel"
+    natural_color: yes  #natural color
+    unchillfiltered: yes #unchillfiltered
+  meta:
+    date: 2023-10-04
+    whiskybase_id: 168406  #whiskybase id
+    availability: "Unavailable. Estimated retail price €160"
+    price:
+      amount: 160
+      currency: "EUR"
+    sample: "Sample bought from bottler at Bad Homburg Whisky Fair 2023 (2cl, €7 I think)"
+  review:
+    nosing: >
+      Predominantly fruity on the nose. Ripe yellow apples, golden sultanas, some rosewater, subtle woodchip smoke. 
+      Characteristic bourbon cask notes of vanilla and cream.
+    sipping: >
+      The palate is somewhat dry, the taste contains stone fruits and a hint of ash,
+       and is slightly pungent (like overripe fruit, or fruit punch). The finish is long and satisfying with stone fruits and gooseberry.
+    comments: >
+      Surprisingly, I’m most excited about the finish here. Usually, I’m more captivated by the nose, or the palate. 
+      It’s a great bourbon-casky dram, not so complex, but definitely tasty. I personally wouldn’t go out of my way to obtain a bottle, though.
+    grade:
+      system: "Legacy"
+      score: "Great Quality ⭐"
+
+inchmurrin-24-chwh:
+  stats:
+    producer: inchmurrin
+    bottler: chorlton
+    age: 24
+    vintage: 1997
+    abv: 47.7
+    cask: "Bourbon barrel"
+    natural_color: yes 
+    unchillfiltered: yes
+  meta:
+    date: 2023-10-04
+    whiskybase_id: 180878
+    availability: "Original price £115 (UK, 2021). Currently available for €200 (via Italy, 2023)"
+    price:
+      amount: 115
+      currency: "GBP"
+    sample: "Review sample bought from Hop/Scotch (UK) (25ml, £11)"
+  review:
+    intro: >
+      I will review this one by comparison to the first. Once more yellow apples, stone fruits – but less intense.
+    nosing: >
+      The nose is more ethereal, wet linen and light white wine come to mind. Less vanilla, but more milk chocolate.
+    sipping: >
+      The palate is very well balanced in terms of flavours, but in the taste there is the unmistakable cardboard storage-defect note. 
+      Not to the point of ruining the whole experience, though. Again, the finish is lovely, with gooseberry and sultanas.
+    comments: >
+      I have had this sample for 6 months, and it may have been bottles a few months before then. Clearly, this was too long, 
+      but I still feel confident that this dram, under optimal conditions, would be nice but not amazing in my book.
+    grade:
+      system: "Legacy"
+      score: "Inconclusive (tainted sample)"
+
+
+    
+    
+
+
+#     image:
+#       provider: whiskybase
+#       url: "https://static.whiskybase.com/storage/whiskies/2/0/8876/368639-big.jpg"
+#       attribution: "Image © Whiskybase"
 
 
 # linkwood_24_glmo:

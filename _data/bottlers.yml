@@ -1,0 +1,11 @@
+chorlton:
+  name: "Chorlton"
+  kind: bottler
+  status: "active"
+  country: "UK"
+
+liquid-treasures:
+  name: "Liquid Treasures"
+  kind: bottler
+  status: "active"
+  country: "Netherlands"

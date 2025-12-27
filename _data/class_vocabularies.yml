@@ -1,0 +1,29 @@
+# Entries are the valid categories; each define its valid classes
+
+Scotch Whisky:
+  - Single Malt
+  - Single Grain
+  - Blended Malt
+  - Blended Grain
+  - Blended Scotch Whisky
+
+Irish Whiskey:
+  - Single Malt
+  - Single Pot Still
+  - Single Grain
+  - Blended Irish Whiskey
+
+Rum:
+  - Pot Still Rum
+  - Column Still Rum
+  - Blended Rum
+  - Agricole Rum
+  - Cane Juice Rum
+
+Cognac:
+  - VS
+  - VSOP
+  - XO
+  - Hors d’Age
+  - Millésimé
+# Note terror put on the product level
