@@ -2,9 +2,9 @@
 
 {% if review %}
 <div class="review">
-  {% assign producer = site.data.producers[review.stats.producer] }
-  {% assign bottler = site.data.producers[review.stats.producer] }
-  {% assign age = review.stats.age}
+  {% assign producer = site.data.producers[review.stats.producer] %}
+  {% assign bottler = site.data.producers[review.stats.producer] %}
+  {% assign age = review.stats.age %}
   <h2>
     {{producer.name}} {{age}}yo {{bottler.name}}
   </h2>
