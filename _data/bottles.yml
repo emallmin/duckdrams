@@ -58,7 +58,7 @@ inchmurrin-24-chwh:
 convalmore-20-sv:
   stats:
     batching: single_cask
-    producer: Convalmore
+    producer: convalmore
     bottler: signatory
     vintage: 1981
     age: 20
@@ -76,7 +76,7 @@ convalmore-20-sv:
 ben-wyvis-31-sv:
   stats:
     batching: single_cask
-    producer: Ben Wyvis
+    producer: ben-wyvis
     bottler: Signatory Vintage
     vintage: 1968
     bottled: 2000

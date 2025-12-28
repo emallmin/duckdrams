@@ -12,6 +12,14 @@ linkwood:
   category: "Scotch Whisky"
   owner: "Diageo"
 
+convalmore:
+  name: "Convalmore"
+  kind: distillery
+  status: closed
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  peated: no
+
 ## Highland
 
 loch-lomond:
