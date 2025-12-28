@@ -18,6 +18,7 @@ product-key:
       amount: ###
       currency: "EUR"
     sample: ###
+    blind: no
   review:
     intro: null
     nosing: >

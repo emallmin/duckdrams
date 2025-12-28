@@ -16,6 +16,7 @@ inchmurrin-23-lt:
       amount: 160
       currency: "EUR"
     sample: "Sample bought from bottler at Bad Homburg Whisky Fair 2023 (2cl, €7 I think)"
+    blind: no
   review:
     nosing: >
       Predominantly fruity on the nose. Ripe yellow apples, golden sultanas, some rosewater, subtle woodchip smoke. 
@@ -48,6 +49,7 @@ inchmurrin-24-chwh:
       amount: 115
       currency: "GBP"
     sample: "Review sample bought from Hop/Scotch (UK) (25ml, £11)"
+    blind: no
   review:
     intro: >
       I will review this one by comparison to the first. Once more yellow apples, stone fruits – but less intense.

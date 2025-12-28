@@ -5,19 +5,48 @@
   {% assign producer = site.data.producers[review.stats.producer] %}
   {% assign bottler = site.data.bottlers[review.stats.bottler] %}
   {% assign age = review.stats.age %}
-
+  {% assign vintage = review.stats.vintage %}
+  {% assign abv = review.stats.abv %}
+  {% assign cask = review.stats.cask %}
+  {% assign abv = review.stats.abv %}
+  
+  <!-- Header -->
   {% capture producer_distillery %}
-  {{producer.name}}
-  {% if producer.kind == "line"%} ({{site.data.producers[producer.distillery].name}}) {% endif %}
+    {{producer.name}}
+    {% if producer.kind == "line"%} ({{site.data.producers[producer.distillery].name}}) {% endif %}
+  {% endcapture %}
+
+  {% capture age_vintage %}
+    {{age}}yo {% if vintage %} ({{vintage}}) {% endif %}
   {% endcapture %}
 
   <h2>
-    {{producer_distillery}} {{age}}yo <em>{{bottler.name}}</em>
+    {{producer_distillery}} {{age_vintage}} {{abv}} <em>{{bottler.name}}</em>
   </h2>
+
+  <!-- Info part -->
+  {% assign cask = review.stats.cask %}
+  {% assign is_nc = review.stats.natural_color %}
+  {% assign is_ucf = review.stats.ucf %}
+  {% assign availability = review.meta.availability %}
+  {% assign sample = review.meta.availability %}  
+
+  <!--   
+  {% capture integrity %}
+    {{% if is_nc %}}
+  {% endcapture %} -->
+
+  <p style="color:LightGray;">
+    {{cask}} <br> {{availability}} <br> {{sample}} 
+  </p>
+
+  <!-- Review part -->
   {% if review.review.intro %} <p>{{review.review.intro}}</p> {% endif %} 
   {% if review.review.nosing %} <p><b>Nosing:</b> {{review.review.nosing}} </p> {% endif %} 
   {% if review.review.nosing %} <p><b>Sipping:</b> {{review.review.sipping}} </p> {% endif %} 
-  {% if review.review.comments %} <p>{{review.comments}}</p> {% endif %}
+  {% if review.review.comments %} <p>{{review.review.comments}}</p> {% endif %}
+
+  <hr>
 </div>
 {% else %}
 <p><em>Review not found: {{ include.id }}</em></p>
