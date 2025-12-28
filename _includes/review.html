@@ -14,10 +14,10 @@
   <h2>
     {{producer_distillery}} {{age}}yo <em>{{bottler.name}}</em>
   </h2>
-  {% if review.review.intro %} <p>review.review.intro</p> {% endif %} 
-  <p><b>Nosing:</b> {{review.review.nosing}} </p> 
-  <p><b>Sipping:</b> {{review.review.sipping}} </p>
-  {% if review.review.comments %} <p>review.comments</p> {% endif %}
+  {% if review.review.intro %} <p>{{review.review.intro}}</p> {% endif %} 
+  {% if review.review.nosing %} <p><b>Nosing:</b> {{review.review.nosing}} </p> {% endif %} 
+  {% if review.review.nosing %} <p><b>Sipping:</b> {{review.review.sipping}} </p> {% endif %} 
+  {% if review.review.comments %} <p>{{review.comments}}</p> {% endif %}
 </div>
 {% else %}
 <p><em>Review not found: {{ include.id }}</em></p>
