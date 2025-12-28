@@ -8,16 +8,29 @@ product-key:
     vintage: ###
     abv: ###
     cask: ###
+    batching: ### single_cask, small_batch
     natural_color: ### 
     unchillfiltered: ###
   meta:
-    date: 2026-###
     whiskybase_id: ###
-    availability: ###
-    price:
+    image:
+      url: ###
+      source: ###
+    release: # as string
+    rrp: # omit if unknown
       amount: ###
-      currency: "EUR"
-    sample: ###
+      currency: ###
+
+review-key:
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
     blind: no
   review:
     intro: null
@@ -28,8 +41,10 @@ product-key:
     comments: >
       ###
     grade:
-      system: "Legacy"
+      # system: "Legacy"
+      system: "three-tier-2026"
       score: ###
+
 # Some symbols
 #
 #

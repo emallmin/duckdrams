@@ -1,0 +1,36 @@
+inchmurrin-23-lt:
+  stats:
+    producer: inchmurrin
+    bottler: liquid-treasures
+    age: 23
+    vintage: 1997
+    abv: 48.5
+    cask: "Barrel"
+    batching: single_cask
+    natural_color: yes  #natural color
+    unchillfiltered: yes #unchillfiltered
+  meta:
+    whiskybase_id: 168406
+    image:
+      souce: whiskybase
+      url: https://static.whiskybase.com/storage/whiskies/1/6/8406/287331-big.jpg
+    release: "2020"
+
+inchmurrin-24-chwh:
+  stats:
+    producer: inchmurrin
+    bottler: chorlton
+    age: 24
+    vintage: 1997
+    abv: 47.7
+    cask: "Bourbon barrel"
+    batching: single_cask
+    natural_color: yes 
+    unchillfiltered: yes
+  meta:
+    whiskybase_id: 180878
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/8/0878/367946-big.jpg
+      source: whiskybase
+    release: "2021"
+    

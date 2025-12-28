@@ -1,21 +1,13 @@
-inchmurrin-23-lt:
-  stats:
-    producer: inchmurrin
-    bottler: liquid-treasures
-    age: 23
-    vintage: 1997
-    abv: 48.5
-    cask: "Barrel"
-    natural_color: yes  #natural color
-    unchillfiltered: yes #unchillfiltered
-  meta:
-    date: 2023-10-04
-    whiskybase_id: 168406  #whiskybase id
+inchmurrin-23-lt-2023:
+  bottle: inchmurrin-23-lt
+  date: 2023-10-04
+  market_context:
     availability: "Unavailable. Estimated retail price €160"
     price:
       amount: 160
       currency: "EUR"
-    sample: "Sample bought from bottler at Bad Homburg Whisky Fair 2023 (2cl, €7 I think)"
+  sample_context:
+    desc: "Sample bought from bottler at Bad Homburg Whisky Fair 2023 (2cl, €7 I think)"
     blind: no
   review:
     nosing: >
@@ -31,23 +23,14 @@ inchmurrin-23-lt:
       system: "Legacy"
       score: "Great Quality ⭐"
 
-inchmurrin-24-chwh:
-  stats:
-    producer: inchmurrin
-    bottler: chorlton
-    age: 24
-    vintage: 1997
-    abv: 47.7
-    cask: "Bourbon barrel"
-    natural_color: yes 
-    unchillfiltered: yes
-  meta:
-    date: 2023-10-04
-    whiskybase_id: 180878
+inchmurrin-24-chwh-2023:
+  bottle: inchmurrin-24-chwh
+  market_context:
     availability: "Original price £115 (UK, 2021). Currently available for €200 (via Italy, 2023)"
     price:
       amount: 115
       currency: "GBP"
+  sample_context:
     sample: "Review sample bought from Hop/Scotch (UK) (25ml, £11)"
     blind: no
   review:
@@ -65,60 +48,3 @@ inchmurrin-24-chwh:
       system: "Legacy"
       score: "Inconclusive (tainted sample)"
 
-
-    
-    
-
-
-#     image:
-#       provider: whiskybase
-#       url: "https://static.whiskybase.com/storage/whiskies/2/0/8876/368639-big.jpg"
-#       attribution: "Image © Whiskybase"
-
-
-# linkwood_24_glmo:
-#   bottle_info:
-#     wbid: 208876
-#     distillery: "Linkwood"
-#     bottler: "Gleann Mor" 
-#     series: "Rare Find"
-#     name : null
-#     age: 24
-#     vintage: 1997
-#     abv: 54.3
-#     cask: "Ex-bourbon"
-#     image:
-#       provider: "whiskybase"
-#       url: "https://static.whiskybase.com/storage/whiskies/2/0/8876/368639-big.jpg"
-#       attribution: "Image © Whiskybase"
-#   tasting_notes:
-#     nosing: "Golden sultanas, overripe pineapple, rum, liquorice, beeswax, jasmine tea, white pepper, cinnamon, leather, oak."
-#     sipping: "Full and mouth-coating, malty-sweet, with a distinct bitterness that’s typical of Linkwood. Orange marmalade, dried mulberries and gooseberries. Not overly complex, but delicious. Longish finish with gooseberry and tropical fruit"
-#     comment: null
-#   grade: 89
-
-
-# lagavulin-16:
-#   bottle_info:
-#     name: "Lagavulin 16"
-#     distillery: "Lagavulin"
-#     region: "Islay"
-#     age: 16
-#     vintage: null
-#     bottled: null
-#     abv: 43
-#     cask: "Ex-bourbon"
-#     color: "Natural"
-#   meta_data:
-#     review_date: 2025-01-10
-#     source: "Bottle"      # Bottle | Sample | Bar
-#     batch: null
-#     reviewer: "Emil"
-#   tasting_notes:
-#     nose: "Heavy peat smoke, iodine, seaweed"
-#     palate: "Oily, smoky, dried fruit"
-#     finish: "Long, warming, ashy"
-#   grade:
-#     score: 90
-#     scale: 100
-#     personal_rank: "Excellent"

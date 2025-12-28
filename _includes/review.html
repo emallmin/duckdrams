@@ -2,13 +2,14 @@
 
 {% if review %}
 <div class="review">
-  {% assign producer = site.data.producers[review.stats.producer] %}
-  {% assign bottler = site.data.bottlers[review.stats.bottler] %}
-  {% assign age = review.stats.age %}
-  {% assign vintage = review.stats.vintage %}
-  {% assign abv = review.stats.abv %}
-  {% assign cask = review.stats.cask %}
-  {% assign abv = review.stats.abv %}
+  {% assign bottle = site.data.bottles[review.bottle] %}
+  {% assign producer = site.data.producers[bottle.stats.producer] %}
+  {% assign bottler = site.data.bottlers[bottle.stats.bottler] %}
+  {% assign age = bottle.stats.age %}
+  {% assign vintage = bottle.stats.vintage %}
+  {% assign abv = bottle.stats.abv %}
+  {% assign cask = bottle.stats.cask %}
+  {% assign abv = bottle.stats.abv %}
   
   <!-- Header -->
   {% capture producer_distillery %}
@@ -25,8 +26,8 @@
   </h2>
 
   <!--Image -->
-  {% assign image = site.data.image_data[include.id] %}
-  {% assign wb_id = review.meta.whiskybase_id %}
+  {% assign image = bottle.meta.image %}
+  {% assign wb_id = bottle.meta.whiskybase_id %}
   {% if wb_id %}
     {% assign wb_url = "https://www.whiskybase.com/whiskies/whisky/" | append: wb_id %}
   {% endif %}
@@ -36,7 +37,7 @@
   <figure class="bottle-image">
     {% if wb_url %}
       <a href="{{ wb_url }}" target="_blank" rel="noopener">
-        <img src="{{ image.url }}" loading="lazy">
+        <img src="{{ image.url }}" alt="WB{{wb_id}}" loading="lazy">
       </a>
     {% else %}    
       <img src="{{ image.url }}" loading="lazy">
@@ -45,11 +46,11 @@
   {% endif %}
 
   <!-- Info part -->
-  {% assign cask = review.stats.cask %}
-  {% assign is_nc = review.stats.natural_color %}
-  {% assign is_ucf = review.stats.ucf %}
-  {% assign availability = review.meta.availability %}
-  {% assign sample = review.meta.sample %}  
+  {% assign cask = bottle.stats.cask %}
+  {% assign is_nc = bottle.stats.natural_color %}
+  {% assign is_ucf = bottle.stats.unchillfiltered %}
+  {% assign availability = review.market_context.availability %}
+  {% assign sample = review.sample_context.desc %}  
 
   <!--   
   {% capture integrity %}
