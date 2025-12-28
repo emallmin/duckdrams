@@ -1,8 +1,12 @@
-// Load Minimal Mistakes core styles
-@import "minimal-mistakes";
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
 
-// Load your custom overrides
-// @import "custom";
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
 /* Test if CSS is applied */
 body {
