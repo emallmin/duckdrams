@@ -55,3 +55,38 @@ inchmurrin-24-chwh:
       source: whiskybase
     release: "2021"
     
+convalmore-20-sv:
+  stats:
+    batching: single_cask
+    producer: Convalmore
+    bottler: signatory
+    vintage: 1981
+    age: 20
+    cask: "Oak Cask"
+    outturn: 462
+    abv: 43.0
+    natural_color: yes
+  meta:
+    whiskybase_id: 16958
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/6/958/66710-big.jpg
+      source: whiskybase
+    released: 2002
+
+ben-wyvis-31-sv:
+  stats:
+    batching: single_cask
+    producer: Ben Wyvis
+    bottler: Signatory Vintage
+    vintage: 1968
+    bottled: 2000
+    age: 31
+    outturn: 191
+    abv: 51.0
+    natural_color: true
+  meta:
+    whiskybase_id: 10428
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/0/428/63012-big.jpg
+      source: whiskybase
+    

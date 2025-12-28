@@ -42,6 +42,15 @@ croftengea:
   style: "Heavily peated"
   peated: yes
 
+ben-wyvis:
+  name: "Ben Wyvis"
+  kind: distillery
+  status: closed
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  peated: no
+
+
 ## Islay
 
 bruichladdich:
