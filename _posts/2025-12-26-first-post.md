@@ -9,4 +9,6 @@ This is my first blog post blah blah blah - just mock data for prototyping
 
 I plan to add more posts and reviews soon!
 
-{% include review.html id="lagavulin-16" %}
+{% include review.html id="inchmurrin-23-lt" %}
+
+{% include review.html id="inchmurrin-24-chwh" %}
