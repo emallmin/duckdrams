@@ -1,5 +1,17 @@
 
 # Scotch Single Malt
+
+## Speyside
+
+linkwood:
+  name: "Linkwood"
+  kind: distillery
+  stats: "Active"
+  region: "Speyside"
+  country: "Scotland"
+  category "Scotch Whisky"
+  owner: "Diageo"
+
 ## Highland
 
 loch-lomond:

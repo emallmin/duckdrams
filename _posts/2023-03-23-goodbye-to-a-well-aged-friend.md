@@ -1,0 +1,10 @@
+On our way back to Edinburgh from a rather improvised long-weekend getaway into the Highlands in summer 2021, Zoe and I spent the night in Inverness. Before departing the city we strolled into *The Whisky Shop* to have a browse – and there a 24 yo Linkwood caught my eye; a single cask bottling at 54.3% for *TWS*. No trace of this bottling was to be found online (I have since added a WhiskyBase entry), but the store clerk could, after calling someone within the company, confirm that the contents were from an ex-bourbon cask, as the colour would suggest. And the bottle in my hand was the very last one for sale! And so I departed from a dear £120…
+
+Linkwood has been my favourite distillery for some time, perhaps sharing that spot with Glen Elgin. Linkwood is Speysider with clean and fresh fruit and floral notes (bar any overriding cask influences) balanced by a slight dryness and bitterness. It wins me over nearly every time. And while you never know how a single cask might have turned out, I did not think there was much risk of disappointment with this bottle.
+
+I opened my bottle some months later, in the fall of 2021, while I was staying in a temporary accommodation organized by my research institute in the little town of Plön, to where I had just moved (and for the moment remain). I was initially a little disappointed, to be honest. The whisky was very ‘closed’ in my first encounter with it, and therefore came across as somewhat boozy at the respectable ABV. It also had to contend with a 1995 Glen Elgin that was the only other bottle I had open at the time, as my whisky collection awaited shipping from the UK to Germany, but that Glen Elgin to this date remains among the best bottles I’ve owned.
+
+Fortunately, with time in the bottle, the Linkwood opened up, and has grown substantially on me. I’d say it needed to sit half a year at around medium fill to do so. I’m now down to my very last dram of this bottle, that I will now enjoy. However, below are my tasting notes from July 2022, when the bottle was at its prime:
+
+{% include review.html id="linkwood-24-glmo-2023" %}
+

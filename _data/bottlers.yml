@@ -9,3 +9,9 @@ liquid-treasures:
   kind: bottler
   status: "active"
   country: "Netherlands"
+
+glean-mor:
+  name: "Gleann Mór"
+  kind: bottler
+  status: "Active"
+  country: "UK"

@@ -1,3 +1,25 @@
+linkwood-24-glmo:
+  stats:
+    batching: single_cask
+    producer: linkwood
+    bottler: gleann-mor
+    vintage: 1997
+    age: 24
+    cask: Bourbon
+    abv: 54.3
+    natural_color: true
+    unchillfiltered: true
+  meta:
+    whiskybase_id: 208876
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/0/8876/368639-big.jpg
+      source: whiskybase
+    released: "2021"
+    rrp:
+      amount: 120
+      currency: "GBP"
+
+
 inchmurrin-23-lt:
   stats:
     producer: inchmurrin
