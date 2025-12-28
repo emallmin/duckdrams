@@ -29,14 +29,14 @@
   {% assign is_nc = review.stats.natural_color %}
   {% assign is_ucf = review.stats.ucf %}
   {% assign availability = review.meta.availability %}
-  {% assign sample = review.meta.availability %}  
+  {% assign sample = review.meta.sample %}  
 
   <!--   
   {% capture integrity %}
     {{% if is_nc %}}
   {% endcapture %} -->
 
-  <p style="color:LightGray;">
+  <p style="color:Gray;">
     {{cask}} <br> {{availability}} <br> {{sample}} 
   </p>
 
