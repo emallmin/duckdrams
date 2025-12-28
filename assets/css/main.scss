@@ -3,3 +3,12 @@
 
 // Load your custom overrides
 @import "custom";
+
+/* Test if CSS is applied */
+body {
+  border: 10px solid red;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: hotpink !important;
+}
