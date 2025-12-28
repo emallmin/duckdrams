@@ -49,6 +49,7 @@
   {% assign cask = bottle.stats.cask %}
   {% assign is_nc = bottle.stats.natural_color %}
   {% assign is_ucf = bottle.stats.unchillfiltered %}
+  {% assign is_blind = review.sample_context.blind %}
   {% assign availability = review.market_context.availability %}
   {% assign sample = review.sample_context.desc %}  
 
@@ -58,13 +59,20 @@
   {% endcapture %} -->
 
   <p style="color:Gray;">
-    {{cask}} <br> {{availability}} <br> {{sample}} 
+    Maturation: {{cask}} <br>
+    {% if is_nc %} Natural color {% endif %} {% if is_uch %} & Unchill-filtered {% endif %} {% if is_nc or is_ucf %} <br> {% ucf %}
+    {{availability}} <br>
+    Review: {% if is_blind %} ◼️ Blind tasting; {% endif %} {{sample}}  
   </p>
 
   <!-- Review part -->
+  {% assign system = review.grade.system %}
+  
   {% if review.review.intro %} <p>{{review.review.intro}}</p> {% endif %} 
-  {% if review.review.nosing %} <p><b>Nosing:</b> {{review.review.nosing}} </p> {% endif %} 
-  {% if review.review.nosing %} <p><b>Sipping:</b> {{review.review.sipping}} </p> {% endif %} 
+  {% if review.review.nosing %} <p><b>Nosing:</b> {{review.review.nosing}} </p> {% endif %}
+  {% if system == "multidim-25"} Deliciousness: {{review.grade.nose_deliciousness}}  Fun factor: {{review.grade.nose_fun_factor}} {% endif %}
+  {% if review.review.sipping %} <p><b>Sipping:</b> {{review.review.sipping}} </p> {% endif %}
+  {% if system == "multidim-25"} Deliciousness: {{review.grade.sip_deliciousness}}  Fun factor: {{review.grade.sip_fun_factor}} {% endif %}
   {% if review.review.comments %} <p>{{review.review.comments}}</p> {% endif %}
 
   <hr>
