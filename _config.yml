@@ -8,3 +8,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+
+sass:
+  style: compressed
