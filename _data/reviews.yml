@@ -75,7 +75,29 @@ inchmurrin-24-chwh-2023:
 
 
 
-
+convalmore-20-sv-2025:
+  bottle: convalmore-20-sv
+  date: 2025-11-16
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      # system: "Legacy"
+      system: "three-tier-2026"
+      score: ###
 
 
 # review-key:
