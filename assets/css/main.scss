@@ -1,11 +1,5 @@
-.bottle-image {
-  float: left;
-  margin: 0 1.5em 1em 0;
-  width: clamp(300px, 30%, 100%);
-}
+// Load Minimal Mistakes core styles
+@import "minimal-mistakes";
 
-.bottle-image img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
+// Load your custom overrides
+@import "custom";
