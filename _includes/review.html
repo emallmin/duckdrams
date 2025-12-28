@@ -24,6 +24,16 @@
     {{producer_distillery}} {{age_vintage}} {{abv}}% <br> <em>{{bottler.name}}</em>
   </h2>
 
+  <!--Image -->
+  {% assign image = site.data.image_data[include.id] %}
+  {% if image %}
+  <figure class="bottle-image">
+    <img src="{{ image.url }}"
+        alt="A bottle image"
+        loading="lazy">
+  </figure>
+  {% endif %}
+
   <!-- Info part -->
   {% assign cask = review.stats.cask %}
   {% assign is_nc = review.stats.natural_color %}
