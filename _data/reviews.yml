@@ -79,25 +79,62 @@ convalmore-20-sv-2025:
   bottle: convalmore-20-sv
   date: 2025-11-16
   market_context:
-    availability: ###
+    availability: "Estimated €250 at auction"
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 250
+      currency: EUR
   sample_context:
-    desc: ###
+    desc: "2cl sample bottle"
     blind: no
   review:
     intro: null
     nosing: >
-      ###
+      Bright, floral, and fruity. Peach and papaya, melon, rose water, coriander seed, lots of wax. 
+      Nothing modern ever smells like this! Old bottle effect?
     sipping: >
-      ###
+      Mild on the palate, silky and rather sweet, hint of bitter citrus rind. Predominantly cereal grains, 
+      buttered toast, with some waxy and floral notes, camomile tea, fresh grass. A little old and stale, but not in a bad way.
     comments: >
-      ###
+      Interesting, because it’s very non-modern, by some combination of old bottle effect and a profile that’s out of fashion 
+      (from a closed distillery, after all). The light floral and waxy notes are intriguing. But in the end, not so complex, 
+      and not showing much age and action form the cask.
+    grade:
+      system: "multidim-2025"
+      nose_deliciousness: 3.5
+      nose_fun_factor: 4
+      sip_deliciousness: 3.5
+      sip_fun_factor: 3
+
+
+ben-wyvis-31-sv-2025:
+  bottle: ben-wyvis-31-sv
+  date: 2025-11-16
+  market_context:
+    availability: "Rare and variable at auction, €700-1400 (would expect €800 today)"
+    estimated_price:
+      amount: 800
+      currency: EUR
+  sample_context:
+    desc: "2cl sample bottle"
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Lucious, sweet tropical fruits. coconut, peach, fruit jelly, old cognac, and also perfumy flowers. 
+      Sweet and fatty brioche bun. Old leather.
+    sipping: >
+      Very flavour-intense and fatty, oily; like fresh wine gums. Lots of esters – candy and ripe fruits galore, 
+      floral honey. Besides, there’s lots of toffee and butterscotch. A subtle trace of smoke. Exceedingly long, oily finish.
+    comments: >
+      An experience indeed, a fruity intensity and oiliness one very rarely finds. It is a stellar whisky, but today it 
+      somehow didn’t manage to bring me all the way to a ❤️, but on a different day it might have.
     grade:
       # system: "Legacy"
-      system: "three-tier-2026"
-      score: ###
+      system: "multidim-2025"
+      nose_deliciousness: 4
+      nose_fun_factor: 3.5
+      sip_deliciousness: 4
+      sip_fun_factor: 4
 
 
 # review-key:
@@ -121,5 +158,11 @@ convalmore-20-sv-2025:
 #       ###
 #     grade:
 #       # system: "Legacy"
+#       # score: ###
+#       # system: "multidim-2025"
+#       # nose_deliciousness: 3.5
+#       # nose_fun_factor: 4
+#       # sip_deliciousness: 3.5
+#       # sip_fun_factor: 3
 #       system: "three-tier-2026"
 #       score: ###
