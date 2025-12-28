@@ -26,11 +26,21 @@
 
   <!--Image -->
   {% assign image = site.data.image_data[include.id] %}
+  {% assign wb_id = review.meta.whiskybase_id %}
+  {% if wb_id %}
+    {% assign wb_url = "https://www.whiskybase.com/whiskies/whisky/" | append: wb_id %}
+  {% endif %}
+
+
   {% if image %}
   <figure class="bottle-image">
-    <img src="{{ image.url }}"
-        alt="A bottle image"
-        loading="lazy">
+    {% if wb_url %}
+      <a href="{{ wb_url }}" target="_blank" rel="noopener">
+        <img src="{{ image.url }}" loading="lazy">
+      </a>
+    {% else %}    
+      <img src="{{ image.url }}" loading="lazy">
+    {% endif %}
   </figure>
   {% endif %}
 
