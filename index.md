@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "DuckDrams - a whisky blog. Under reconstuction!"
+title: "DuckDrams - a whisky blog under reconstuction!"
 author_profile: false
 ---
 
@@ -15,8 +15,9 @@ This revamped version of my [old whisky blog](https://duckdrams.com) is currentl
 
 ## Todo
 - Review index page
-- Other pages: contact, distillery notes
+- Other pages: categories pages, post archive, contact, distillery list
 - Set up the Cloudflare CDN
+- Enable some commenting feature (Commento?)
 - Figure out how to do image gallery/tiles
 - Some site styling
 - Semi-manually copy over ~150 posts from the old blog...
