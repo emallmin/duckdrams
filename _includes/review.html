@@ -3,11 +3,22 @@
 {% if review %}
 <div class="review">
   {% assign producer = site.data.producers[review.stats.producer] %}
-  {% assign bottler = site.data.producers[review.stats.producer] %}
+  {% assign bottler = site.data.bottlers[review.stats.bottler] %}
   {% assign age = review.stats.age %}
+
+  {% capture producer_distillery %}
+  {{producer.name}}
+  {% if producer.kind = "line"%} ({{site.data.producers[producer.distillery].name}}) {% endif %}
+  {% endcapture %}
+
+
   <h2>
-    {{producer.name}} {{age}}yo {{bottler.name}}
+    {{producer_distillery}} {{age}}yo <em>{{bottler.name}}</em>
   </h2>
+  {% if review.intro %} <p>review.intro</p> {% endif %} 
+  <p><b>Nosing:</b> {{review.nosing}} </p> 
+  <p><b>Sipping:</b> {{review.sipping}} </p>
+  {% if review.comments %} <p>review.comments</p> {% endif %}
 </div>
 {% else %}
 <p><em>Review not found: {{ include.id }}</em></p>
