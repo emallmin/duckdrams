@@ -18,10 +18,11 @@ Test 2
 {% assign categories = "" | split: "" %}
 
 {% for r in reviews %}
-    {{ r }}
+    {{ r.bottle }}
     {% assign bottle = bottles[r.bottle] %}
+    {{ bottle }}
     {% if bottle %}
-        {{ bottle }}
+        not null: {{ bottle }}
     {% else %} 
         missing bottle
     {% endif %}
