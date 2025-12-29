@@ -27,7 +27,7 @@ Test
 {% else %}
     {% assign cat = "UNKNOWN CATEGORY" %}
 {% endif %}
-{% assign categories = categories | concat: cat %}
+{% assign categories = categories | concat: cat | split: "" %}
 {% endfor %}
 
 {% assign categories = categories | uniq | sort %}
@@ -37,6 +37,8 @@ Test
 {% for category in categories %}
   <h2> {{category}} </h2>
   <!-- -->
+
+
 
 {% endfor %}
 
