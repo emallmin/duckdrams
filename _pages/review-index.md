@@ -20,14 +20,12 @@ Test 4
 {% for r in reviews %}
     {% assign bottle = bottles[r[1].bottle] %}
     {% assign producer = producers[bottle.producer] %}
-    {% if producer and producer.category %}
-        {% assign cat = producer.category %}
-    {% elif producer and producer.kind == "line" %}
-        {% assign distillery = producers[producer.distillery] %}
-        {% assign cat = distillery.category %}
-    {% else %}
-        {% assign cat = "UNKNOWN CATEGORY" %}
-    {% endif %}
-    {{ cat }}
+
+    r: {{ r | inspect }}<br>
+    bottle key: {{ r[1].bottle }}<br>
+    bottle: {{ bottle | inspect }}<br>
+    producer: {{ producer | inspect }}<br>
+    <hr>
+
     
 {% endfor %}
