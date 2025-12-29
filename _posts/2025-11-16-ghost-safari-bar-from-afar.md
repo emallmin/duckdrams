@@ -8,7 +8,10 @@ tags: [review, peated]
 
 Time to cross another pair of elusive beasts off the “ghost safari” sighting chart — Ben Wyvis and Convalmore, samples I bought online from the “Bar Fram Afar” by Thomson Bros. / Dornoch and shipped with a bunch of stored bottles and an upcoming 8-part Dornoch 25th Anniversary Tasting.
 
-TODO: INSERT IMAGE
+<img
+  src="https://files.emilmallmin.com/dornoch_25th_tasting.jpeg"
+  alt="Donorch delivery"
+/>
 
 Ben Wyvis is indeed one of the rarest of the rare (21 whiskybase entries). A malt distillery within the Invergordon complex, it only operated for 11 years become closing in 1977. For this 2cl sample I paid a whopping £50 ex-VAT and import costs! But even finding a sample at all felt like a small miracle, so I’m not complaining.
 
