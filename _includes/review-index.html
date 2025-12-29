@@ -37,7 +37,8 @@
                 {% assign cat = "MISSING_CATEGORY" %}
             {% endif %}
             {{cat}} <br>
-            
+            {% assign cat_array = cat | split: "||" %}
+            {% assign categories = categories | concat: cat_array %}
 
         {% else %}
             review {{r[0]}}: producer reference not found in producers.yml
