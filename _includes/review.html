@@ -56,8 +56,10 @@
 
   {% capture category_class %}
     {% if producer.category %} {{producer.category}} {% elsif producer.kind == "line"%} {{site.data.producers[producer.distillery].category}} {% endif %}
-    {% if producer.class %}● {{producer.class}} {% elsif producer.kind == "line"%}● {{site.data.producers[producer.distillery].class}}{% endif %}
-    {% if producer.region %}● {{producer.region}} region {% elsif producer.kind == "line"%}● {{site.data.producers[producer.distillery].region region}} {% endif %}  
+    {% if producer.class %}<em>● Class:</em> {{producer.class}}
+      {% elsif producer.kind == "line"%}<em>● Class:</em> {{site.data.producers[producer.distillery].class}}{% endif %}
+    {% if producer.region %}<em>● Region:</em>  {{producer.region}}
+      {% elsif producer.kind == "line"%}<em>● Region:</em>  {{site.data.producers[producer.distillery].region}} {% endif %}  
   {% endcapture %}
 
   {% capture style_or_peated %}
@@ -66,11 +68,11 @@
 
     <p style="color:Gray;">
     {{category_class}} 
-    <em>Maturation:</em>● {{cask}} 
-    <em>Style:</em>● {{style_or_peated}} 
-    <em>Integrity:</em>● {% if is_nc %} Natural color {% endif %} {% if is_ucf %} & Unchill-filtered {% endif %} {% if is_nc or is_ucf %}  {% endif %}
-    <em>Availability:</em>● {{availability}} 
-    <em>Review:</em> {% if is_blind %}● ◼️ Blind tasting; {% endif %} {{sample}}  
+    <em>● Maturation:</em> {{cask}} 
+    <em>● Style:</em> {{style_or_peated}} 
+    <em>● Integrity:</em> {% if is_nc %} Natural color {% endif %} {% if is_ucf %} & Unchill-filtered {% endif %} {% if is_nc or is_ucf %}  {% endif %}
+    <em>● Availability:</em> {{availability}} 
+    <em>● Review:</em> {% if is_blind %} ◼️ Blind tasting — {% endif %} {{sample}}  
   </p>
 
   <!-- <p style="color:Gray;">
