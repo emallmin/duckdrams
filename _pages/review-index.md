@@ -26,7 +26,7 @@ Test 4
   {% endif %}
 
   {% if bottle %}
-    {% assign producer = producers[bottle.producer] %}
+    {% assign producer = producers[bottle.stats.producer] %}
     producer: {{ producer}}
   {% endif %}
 
