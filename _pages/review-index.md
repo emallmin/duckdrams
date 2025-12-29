@@ -16,18 +16,3 @@ Test
 
 
 {% assign categories = "" | split: "" %}
-{% for r in reviews %}
-    {% assign bottle = bottles[r.bottle] %}
-    {% assign producer = producers[bottle.producer] %}
-    {% if producer and producer.category %}
-        {% assign cat = producer.category %}
-    {% elif producer and producer.kind == "line" %}
-        {% assign distillery = producers[producer.distillery] %}
-        {% assign cat = distillery.category %}
-    {% else %}
-        {% assign cat = "UNKNOWN CATEGORY" %}
-    {% endif %}
-    {{ cat }}
-    
-{% endfor %}
-
