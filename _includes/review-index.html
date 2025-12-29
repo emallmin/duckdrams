@@ -36,7 +36,7 @@
                 review {{r[0]}}: no category in producer or no distillery to default to
                 {% assign cat = "MISSING_CATEGORY" %}
             {% endif %}
-            {{cat}} <br>
+            <!-- {{cat}} <br> -->
             {% assign cat_array = cat | split: "||" %}
             {% assign categories = categories | concat: cat_array %}
 
@@ -48,5 +48,9 @@
     {% endif %}
  
 {% endfor %}
+
+{% assign categories = categories | uniq | sort %}
+
+ {{ categories }}
 
 </div>
