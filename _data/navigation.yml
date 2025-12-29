@@ -1,0 +1,5 @@
+main:
+  - title: All reviews
+    url: /review-index/
+  - title: Distilleries
+    url: /distillery-index/
