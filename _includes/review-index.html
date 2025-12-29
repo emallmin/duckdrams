@@ -1,3 +1,5 @@
+<div class="review-index">
+
 {% assign reviews = site.data.reviews %}
 {% assign bottles = site.data.bottles %}
 {% assign producers = site.data.producers %}
@@ -35,6 +37,8 @@
                 {% assign cat = "MISSING_CATEGORY" %}
             {% endif %}
             {{cat}} <br>
+            
+
         {% else %}
             review {{r[0]}}: producer reference not found in producers.yml
         {% endif %}       
@@ -43,3 +47,5 @@
     {% endif %}
  
 {% endfor %}
+
+</div>
