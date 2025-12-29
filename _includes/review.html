@@ -14,7 +14,8 @@
   <!-- Header -->
   {% capture producer_distillery %}
     {{producer.name}}
-    {% if producer.kind == "line"%} ({{site.data.producers[producer.distillery].name}}) {% endif %}
+    <!-- {% if producer.kind == "line"%} ({{site.data.producers[producer.distillery].name}}) {% endif %} -->
+    {% if producer.status == "Closed" or producer.status == "closed" %} <span title="Closed producer">💀</span> {% endif %}
   {% endcapture %}
 
   {% capture age_vintage %}
@@ -54,9 +55,10 @@
   {% assign sample = review.sample_context.desc %}  
 
   {% capture category_class %}
-    {% if producer.category %} {{producer.category}} {% elsif producer.kind == "line"%} site.data.producers[producer.distillery].category {% endif %},
-    {% if producer.category %} {{producer.class}} {% elsif producer.kind == "line"%} site.data.producers[producer.distillery].class {% endif %}
-  {% endcapture %}
+    {% if producer.category %} {{producer.category}} {% elsif producer.kind == "line"%} site.data.producers[producer.distillery].category {% endif %}
+    {% if producer.class %}, {{producer.class}} {% elsif producer.kind == "line"%} site.data.producers[producer.distillery].class {% endif %}
+    {% if producer.reagion %}, {{producer.region}} region {% elsif producer.kind == "line"%} site.data.producers[producer.distillery].region region {% endif %}  
+    {% endcapture %}
 
   {% capture style_or_peated %}
     {% if producer.style %} {{producer.style}} {% else %} {% if producer.peated %} Peated {% else %} Unpeated {% endif %} {% endif %}
