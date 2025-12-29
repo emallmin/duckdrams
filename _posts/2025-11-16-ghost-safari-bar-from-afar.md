@@ -7,7 +7,7 @@ tags: [review, peated]
 header:
   overlay_image: https://files.emilmallmin.com/bar_from_afar.jpeg
   overlay_filter: 0.5
-teaser: https://files.emilmallmin.com/bar_from_afar.jpeg
+  teaser: https://files.emilmallmin.com/bar_from_afar.jpeg
 ---
 
 Time to cross another pair of elusive beasts off the “ghost safari” sighting chart — Ben Wyvis and Convalmore, samples I bought online from the “Bar Fram Afar” by Thomson Bros. / Dornoch and shipped with a bunch of stored bottles and an upcoming 8-part Dornoch 25th Anniversary Tasting.
