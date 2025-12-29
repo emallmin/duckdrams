@@ -64,11 +64,11 @@
 
   <p style="color:Gray;">
     {{category_class}} <br>
-    *Maturation:* {{cask}} <br>
-    *Style:* {{style_or_peated}} <br>
-    *Integrity:* {% if is_nc %} Natural color {% endif %} {% if is_ucf %} & Unchill-filtered {% endif %} {% if is_nc or is_ucf %} <br> {% endif %}
-    *Availability:* {{availability}} <br>
-    *Review:* {% if is_blind %} ◼️ Blind tasting; {% endif %} {{sample}}  
+    <em>Maturation:</em> {{cask}} <br>
+    <em>Style:</em> {{style_or_peated}} <br>
+    <em>Integrity:</em> {% if is_nc %} Natural color {% endif %} {% if is_ucf %} & Unchill-filtered {% endif %} {% if is_nc or is_ucf %} <br> {% endif %}
+    <em>Availability:</em> {{availability}} <br>
+    <em>Review:</em> {% if is_blind %} ◼️ Blind tasting; {% endif %} {{sample}}  
   </p>
 
   <!-- Review part -->
