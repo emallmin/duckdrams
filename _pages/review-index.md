@@ -43,7 +43,7 @@ Test 4
                 review {{r[0]}}: no category in producer or no distillery to default to
                 {% assign cat = "MISSING_CATEGORY" %}
             {% endif %}
-            {% assign categories = categories | concat: (cat | split: "||") %}
+            {{cat}} <br>
         {% else %}
             review {{r[0]}}: producer reference not found in producers.yml
         {% endif %}       
