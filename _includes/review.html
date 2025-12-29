@@ -64,14 +64,23 @@
     {% if producer.style %} {{producer.style}} {% else %} {% if producer.peated %} Peated {% else %} Unpeated {% endif %} {% endif %}
   {% endcapture %}
 
-  <p style="color:Gray;">
+    <p style="color:Gray;">
+    {{category_class}} 
+    <em>Maturation:</em>● {{cask}} 
+    <em>Style:</em>● {{style_or_peated}} 
+    <em>Integrity:</em>● {% if is_nc %} Natural color {% endif %} {% if is_ucf %} & Unchill-filtered {% endif %} {% if is_nc or is_ucf %}  {% endif %}
+    <em>Availability:</em>● {{availability}} 
+    <em>Review:</em> {% if is_blind %}● ◼️ Blind tasting; {% endif %} {{sample}}  
+  </p>
+
+  <!-- <p style="color:Gray;">
     {{category_class}} <br>
     <em>Maturation:</em> {{cask}} <br>
     <em>Style:</em> {{style_or_peated}} <br>
     <em>Integrity:</em> {% if is_nc %} Natural color {% endif %} {% if is_ucf %} & Unchill-filtered {% endif %} {% if is_nc or is_ucf %} <br> {% endif %}
     <em>Availability:</em> {{availability}} <br>
     <em>Review:</em> {% if is_blind %} ◼️ Blind tasting; {% endif %} {{sample}}  
-  </p>
+  </p> -->
 
   <!-- Review part -->
   {% assign system = review.grade.system %}
