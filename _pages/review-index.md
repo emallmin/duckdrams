@@ -17,28 +17,17 @@ Test
 
 {% assign categories = "" | split: "" %}
 {% for r in reviews %}
-{% assign bottle = bottles[r.bottle] %}
-{% assign producer = producers[bottle.producer] %}
-{% if producer.category %}
-    {% assign cat = producer.category %}
-{% elif producer.kind == "line" %}
-    {% assign distillery = producers[producer.distillery] %}
-    {% assign cat = distillery.category %}
-{% else %}
-    {% assign cat = "UNKNOWN CATEGORY" %}
-{% endif %}
-{% assign categories = categories | concat: cat | split: "" %}
-{% endfor %}
-
-{% assign categories = categories | uniq | sort %}
-
-
-
-{% for category in categories %}
-  <h2> {{category}} </h2>
-  <!-- -->
-
-
-
+    {% assign bottle = bottles[r.bottle] %}
+    {% assign producer = producers[bottle.producer] %}
+    {% if producer and producer.category %}
+        {% assign cat = producer.category %}
+    {% elif producer and producer.kind == "line" %}
+        {% assign distillery = producers[producer.distillery] %}
+        {% assign cat = distillery.category %}
+    {% else %}
+        {% assign cat = "UNKNOWN CATEGORY" %}
+    {% endif %}
+    {{ cat }}
+    
 {% endfor %}
 
