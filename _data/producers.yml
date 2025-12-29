@@ -6,16 +6,18 @@
 linkwood:
   name: "Linkwood"
   kind: distillery
-  stats: "Active"
+  status: "Active"
   region: "Speyside"
   country: "Scotland"
   category: "Scotch Whisky"
+  class: "Single Malt"
   owner: "Diageo"
 
 convalmore:
   name: "Convalmore"
   kind: distillery
   status: closed
+  region: "Speyside"
   category: "Scotch Whisky"
   class: "Single Malt"
   peated: no
@@ -54,6 +56,7 @@ ben-wyvis:
   name: "Ben Wyvis"
   kind: distillery
   status: closed
+  region: "Highlands"
   category: "Scotch Whisky"
   class: "Single Malt"
   peated: no
