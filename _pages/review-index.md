@@ -19,5 +19,5 @@ Test 3
 
 {% for r in reviews %}
     {{r}} <br>
-    <b>{{ r.bottle }}</b>
+    <b>{{ r[1].bottle }}</b>
 {% endfor %}
