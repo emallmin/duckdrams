@@ -16,7 +16,7 @@ Test
   assign categories = "" | split: ""
   for r in reviews
     assign bottle = bottles[r.bottle]
-    producer = producers[bottle.producer]
+    assign producer = producers[bottle.producer]
     if producer.category
         assign cat = producer.category
     elif producer.kind == "line"
