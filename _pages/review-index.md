@@ -12,7 +12,7 @@ classes: wide
 
 {% assign categories = "" | split: "" %}
 {% for r in reviews %}
-    {% assign bottle = bottles.r.bottle %}
+    {% assign bottle = bottles[r.bottle] %}
     {% if bottle.category %}
         {% assign categories = categories | concat bottle.category | split: "" %}
     {% elsif bottle.kind == "line"%}
