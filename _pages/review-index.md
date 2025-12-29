@@ -18,6 +18,7 @@ Test 2
 {% assign categories = "" | split: "" %}
 
 {% for r in reviews %}
+    {{ r }}
     {% assign bottle = bottles[r.bottle] %}
     {% if bottle %}
         {{ bottle }}
