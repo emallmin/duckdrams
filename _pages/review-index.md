@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-Test
+Test 2
 
 {% assign reviews = site.data.reviews %}
 {% assign bottles = site.data.bottles %}
@@ -16,3 +16,12 @@ Test
 
 
 {% assign categories = "" | split: "" %}
+
+{% for r in reviews %}
+    {% assign bottle = bottles[r.bottle] %}
+    {% if bottle %}
+        {{ bottle }}
+    {% else %} 
+        missing bottle
+    {% endif %}
+{% endfor %}
