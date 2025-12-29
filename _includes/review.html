@@ -56,8 +56,8 @@
 
   {% capture category_class %}
     {% if producer.category %} {{producer.category}} {% elsif producer.kind == "line"%} {{site.data.producers[producer.distillery].category}} {% endif %}
-    {% if producer.class %}, {{producer.class}} {% elsif producer.kind == "line"%} {{site.data.producers[producer.distillery].class}}{% endif %}
-    {% if producer.reagion %}, {{producer.region}} region {% elsif producer.kind == "line"%} {{site.data.producers[producer.distillery].region region}} {% endif %}  
+    {% if producer.class %}● {{producer.class}} {% elsif producer.kind == "line"%} {{site.data.producers[producer.distillery].class}}{% endif %}
+    {% if producer.reagion %}● {{producer.region}} region {% elsif producer.kind == "line"%} {{site.data.producers[producer.distillery].region region}} {% endif %}  
   {% endcapture %}
 
   {% capture style_or_peated %}

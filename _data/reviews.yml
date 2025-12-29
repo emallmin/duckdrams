@@ -56,7 +56,7 @@ inchmurrin-24-chwh-2023:
       amount: 115
       currency: "GBP"
   sample_context:
-    sample: "Review sample bought from Hop/Scotch (UK) (25ml, £11)"
+    desc: "Review sample bought from Hop/Scotch (UK) (25ml, £11)"
     blind: no
   review:
     intro: >
