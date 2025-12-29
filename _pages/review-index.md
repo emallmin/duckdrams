@@ -18,14 +18,16 @@ Test 4
 {% assign categories = "" | split: "" %}
 
 {% for r in reviews %}
-    {% assign bottle = bottles[r[1].bottle] %}
+  {% assign review = r[1] %}
+
+  {% if review.bottle %}
+    {% assign bottle = bottles[review.bottle] %}
+    bottle: {{ bottle}}
+  {% endif %}
+
+  {% if bottle %}
     {% assign producer = producers[bottle.producer] %}
+    producer: {{ producer}}
+  {% endif %}
 
-    r: {{ r | inspect }}<br>
-    bottle key: {{ r[1].bottle }}<br>
-    bottle: {{ bottle | inspect }}<br>
-    producer: {{ producer | inspect }}<br>
-    <hr>
-
-    
 {% endfor %}
