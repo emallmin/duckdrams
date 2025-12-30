@@ -17,8 +17,10 @@ Irish Whiskey:
   - Single Grain
   - Blended Irish Whiskey
 
-World Whiskey
+World Whiskey:
   # country
+  - Sweden
+  - Taiwan
 
 Rum:
   - Pot Still Rum
