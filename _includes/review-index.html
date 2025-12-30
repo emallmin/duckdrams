@@ -19,6 +19,8 @@
       {% if category_name == cccr[0] and class == cccr[1]  %}
         {{ review_id }} : <br>
         Category: {{cccr[0]}}, Class: {{cccr[1]}}, Country: {{cccr[2]}}, Region:  {{cccr[3]}} <br>
+      {% else %}
+        {{category_name}} {{cccr[0]}} {{class}} {{cccr[1]}}
       {% endif %}
     {% endfor %}
 
