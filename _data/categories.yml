@@ -1,17 +1,24 @@
 # Entries are the valid categories; each define its valid classes
 
+# category
 Scotch Whisky:
+  # class
   - Single Malt
   - Single Grain
   - Blended Malt
   - Blended Grain
   - Blended Scotch Whisky
 
+# category
 Irish Whiskey:
+  # class
   - Single Malt
   - Single Pot Still
   - Single Grain
   - Blended Irish Whiskey
+
+World Whiskey
+  # country
 
 Rum:
   - Pot Still Rum
@@ -26,4 +33,12 @@ Cognac:
   - XO
   - Hors d’Age
   - Millésimé
-# Note terror put on the product level
+# Note terroir put on the product level
+
+Armagnac:
+  - VS
+  - VSOP
+  - XO
+  - Hors d’Age
+  - Millésimé
+
