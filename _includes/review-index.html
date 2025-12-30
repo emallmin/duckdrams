@@ -1,3 +1,5 @@
+<div class="review-index">
+
 {% assign categories = site.data.categories %}
 
 {% for category in categories %}
@@ -10,3 +12,13 @@
     <h3>{{ class }}</h3>
   {% endfor %}
 {% endfor %}
+
+{% assign reviews = site.data.reviews %}
+
+{% for r in reviews %}
+  {% assign review_id = r[0] %}
+  {% include category-class-country-region.html id=review_id return=return %}
+  {{ review_id }} : {{ return }}
+{% endfor %}
+
+</div>
