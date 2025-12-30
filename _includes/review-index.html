@@ -18,7 +18,7 @@
 {% for r in reviews %}
   {% assign review_id = r[0] %}
   {% include category-class-country-region.html id=review_id return=return %}
-  {{ review_id }} : {{ return }}
+  {{ review_id }} : {{ return | split: "^" }}
 {% endfor %}
 
 </div>
