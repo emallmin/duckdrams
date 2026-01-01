@@ -11,4 +11,4 @@
 {% assign _delim = "^" %}
 {% assign return = _producer | append: _delim | append: _expression | append: _delim | append: _age | append: _delim | append: _vintage | append: _delim | append: abv | append: _delim  | append: _bottler | split: _delim %}
 
-{{_producer_name}} {{_expression}} {{_age}} {% if _vintage %} ({{ _vintage}}) {% endif %} {{_abv}}% {% if _bottler %} <em> {{_bottler.name}}</em> {% endif%}
+{{_producer_name}} {{_expression}} {{_age}}yo {% if _vintage %} ({{ _vintage}}) {% endif %} {{_abv}}% {% if _bottler %} <em> {{_bottler.name}}</em> {% endif%}
