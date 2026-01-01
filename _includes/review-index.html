@@ -17,7 +17,7 @@
       {% include category-class-country-region.html id=review_id return=return %}
       {% assign cccr = return | split: "^" %}
       
-      {% if category == cccr[0] %}
+      {% if category_name == cccr[0] %}
         {{review_id}} <br>
         {{cccr}} <br>
       {% endif %}
