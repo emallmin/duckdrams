@@ -4,6 +4,7 @@ product-key:
   stats:
     producer: ###
     bottler: ###
+    expression: ###
     age: ###
     vintage: ###
     abv: ###
