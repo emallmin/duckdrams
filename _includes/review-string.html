@@ -1,7 +1,7 @@
 {% assign _review = site.data.reviews[include.id] %}
 {% assign _bottle = site.data.bottles[_review.bottle] %}
 
-{% assign _producer_name = site.data.producer[_bottle.stats.producer].name %}
+{% assign _producer_name = site.data.producers[_bottle.stats.producer].name %}
 {% assign _expression = _bottle.stats.expression %}
 {% assign _age = _bottle.stats.age %}
 {% assign _vintage = _bottle.stats.vintage %}
