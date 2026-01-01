@@ -18,7 +18,6 @@
       {% assign cccr = return | split: "^" %}
       
       {% if category_name == cccr[0] and class == cccr[1]%}
-        {{ review_id}} <br>
         {% include review-string.html id=review_id %} <br>
       {% endif %}
       

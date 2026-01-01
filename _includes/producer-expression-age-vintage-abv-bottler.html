@@ -1,7 +1,7 @@
 {% assign _review = site.data.reviews[include.id] %}
 {% assign _bottle = site.data.bottles[_review.bottle] %}
 
-{% assign _producer = site.data.producer[_bottle.stats.producer] %}
+{% assign _producer_name = site.data.producer[_bottle.stats.producer].name %}
 {% assign _expression = _bottle.expression %}
 {% assign _age = _bottle.age %}
 {% assign _vintage = _bottle.vintage %}
@@ -11,4 +11,4 @@
 {% assign _delim = "^" %}
 {% assign return = _producer | append: _delim | append: _expression | append: _delim | append: _age | append: _delim | append: _vintage | append: _delim | append: abv | append: _delim  | append: _bottler | split: _delim %}
 
-{{_producer}} {{_expression}} {{_age}} {% if _vintage %} ({{ _vintage}}) {% endif %} {{_abv}}% {% if _bottler %} <em> {{_bottler}}</em> {% endif%}
+{{_producer_name}} {{_expression}} {{_age}} {% if _vintage %} ({{ _vintage}}) {% endif %} {{_abv}}% {% if _bottler %} <em> {{_bottler.name}}</em> {% endif%}
