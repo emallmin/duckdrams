@@ -50,5 +50,5 @@
 
 
 {% assign _delim = "^" %}
-{% assign return = category | append: _delim | append: class | append: _delim | append: country | append: _delim | append: region %}
+{% assign return = _category | append: _delim | append: class | append: _delim | append: country | append: _delim | append: region %}
 
