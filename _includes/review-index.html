@@ -9,23 +9,34 @@
   {% assign category_name = category[0] %}
   {% assign classes = category[1] %}
 
-  <h2>{{ category_name }}</h2>
+  {% assign cat_id = category_name 
+  | downcase 
+  | replace: ' ', '-' 
+  | replace: "'", '' 
+  | replace: ',', '' 
+  | replace: '.', '' 
+  %}
+
+  <h2 id="{{cat_id}}">{{ category_name }}</h2>
 
   {% for class in classes %}
     <h3>{{ class }}</h3>
 
-    {% for r in reviews %}
-      {% assign review_id = r[0] %}
-      {% include category-class-country-region.html id=review_id return=return %}
-      {% assign cccr = return | split: "^" %}      
-      {% if category_name == cccr[0] and class == cccr[1]%}
+    {%- for r in reviews -%}
+      {%- assign review_id = r[0] -%}
+      {%- include category-class-country-region.html id=review_id return=return -%}
+      {%- assign cccr = return | split: "^" -%}      
+      {%- if category_name == cccr[0] and class == cccr[1] -%}
         {%- include review-string.html id=review_id -%} <br>
-      {% endif %}
-      
-    {% endfor %}
-
-  {% endfor %}
-{% endfor %}
+      {%- endif -%}      
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%}
 
 
 </div>
+
+
+
+
+<h2 id="{{ cat_id }}">{{ category_name }}</h2>
