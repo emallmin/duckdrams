@@ -1,10 +1,38 @@
 <div class="review-index">
 
-<a href="#scotch-whisky">Scotch Whisky</a>
-
-
 {% assign categories = site.data.categories %}
 {% assign reviews = site.data.reviews %}
+
+<!-- Make TOC -->
+
+<ul>
+{% for category in categories %}
+  {% assign category_name = category[0] %}
+  {% assign classes = category[1] %}
+  {% assign cat_id = category_name 
+  | downcase 
+  | replace: ' ', '-' 
+  | replace: "'", '' 
+  | replace: ',', '' 
+  | replace: '.', '' 
+  %}
+  <li><a href="#{{cat_id}}">{{category_name}}</a>
+    <ul>
+      {% for class in classes %}
+        {% assign class_id = class 
+        | downcase 
+        | replace: ' ', '-' 
+        | replace: "'", '' 
+        | replace: ',', '' 
+        | replace: '.', '' 
+        %}
+        <li><a href="#{{class_id}}">{{class}}</li>
+    </ul>  
+  </li>
+{% endfor %}
+</ul>
+
+<!-- Create and fill headings -->
 
 {% for category in categories %}
   {% assign category_name = category[0] %}
