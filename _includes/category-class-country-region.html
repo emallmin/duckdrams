@@ -62,4 +62,7 @@
 }
 {%- endcapture -%}
 
+{% assign arr = arr | push: obj %}
+{% assign return = arr[0] %}
+
 {% assign return = obj %}
