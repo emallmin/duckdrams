@@ -9,17 +9,11 @@
 {% for category in categories %}
   {% assign category_name = category[0] %}
   {% assign classes = category[1] %}
-  {% assign cat_id = category_name 
-  | downcase 
-  | replace: ' ', '-' 
-  | replace: "'", '' 
-  | replace: ',', '' 
-  | replace: '.', '' 
-  %}
+  {% assign cat_id = category_name | slugify %}
   <li><a href="#{{cat_id}}">{{category_name}}</a>
     <ul>
       {% for class in classes %}
-        {% assign class_id = class | downcase | replace: ' ', '-' | replace: "'", '' | replace: ',', '' | replace: '.', '' %}
+        {% assign class_id = class | slugify %}
         <li><a href="#{{class_id}}">{{class}}</a></li>
       {% endfor %}
     </ul>  
