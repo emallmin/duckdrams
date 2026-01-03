@@ -53,6 +53,8 @@
 {% assign return = _category | append: _delim | append: _class | append: _delim | append: _country | append: _delim | append: _region %}
 
 
+{% assign arr = "" | split: "" %}
+
 {%- capture obj -%}
 {
   "category": "{{_category}}",
