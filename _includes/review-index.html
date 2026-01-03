@@ -19,13 +19,7 @@
   <li><a href="#{{cat_id}}">{{category_name}}</a>
     <ul>
       {% for class in classes %}
-        {% assign class_id = class 
-        | downcase 
-        | replace: ' ', '-' 
-        | replace: "'", '' 
-        | replace: ',', '' 
-        | replace: '.', '' 
-        %}
+        {% assign class_id = class | downcase | replace: ' ', '-' | replace: "'", '' | replace: ',', '' | replace: '.', '' %}
         <li><a href="#{{class_id}}">{{class}}</a></li>
       {% endfor %}
     </ul>  
@@ -50,21 +44,23 @@
   <h2 id="{{cat_id}}">{{ category_name }}</h2>
 
   {% for class in classes %}
-    <h3>{{ class }}</h3>
+    {% assign class_id = class | downcase | replace: ' ', '-' | replace: "'", '' | replace: ',', '' | replace: '.', '' %}
+    <h3 id="{{class_id}}">{{ class }}</h3>
 
-    {%- for r in reviews -%}
-      {%- assign review_id = r[0] -%}
-      {%- include category-class-country-region.html id=review_id return=return -%}
-      {%- assign cccr = return | split: "^" -%}      
-      {%- if category_name == cccr[0] and class == cccr[1] -%}
-        {%- include review-string.html id=review_id -%}
-      {%- endif -%}      
-    {%- endfor -%}
+    {% if false %}
+      xxx
+    {% else %}
+      {%- for r in reviews -%}
+        {%- assign review_id = r[0] -%}
+        {%- include category-class-country-region.html id=review_id return=return -%}
+        {%- assign cccr = return | split: "^" -%}      
+        {%- if category_name == cccr[0] and class == cccr[1] -%}
+          {%- include review-string.html id=review_id -%}
+        {%- endif -%}      
+      {%- endfor -%}
+    {% endif %}
   {%- endfor -%}
 {%- endfor -%}
 </div>
 
 
-
-
-<h2 id="{{ cat_id }}">{{ category_name }}</h2>
