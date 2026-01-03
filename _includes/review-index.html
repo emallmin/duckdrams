@@ -9,7 +9,7 @@ Test2
 {%- for r in reviews -%}
   {%- assign review_id = r[0] -%}
   {%- include category-class-country-region.html id=review_id return=return -%}
-  {{return.category}} / {{return.class}}
+  {{return}}
 {%- endfor -%}
 
 
@@ -33,5 +33,4 @@ Test2
 {% endfor %}
 
 </div>
-
 
