@@ -52,3 +52,14 @@
 {% assign _delim = "^" %}
 {% assign return = _category | append: _delim | append: _class | append: _delim | append: _country | append: _delim | append: _region %}
 
+
+{%- capture obj -%}
+{
+  "category": "{{_category}}",
+  "class": "{{_class}}",
+  "country": "{{_country}}",
+  "region": "{{_region}}"
+}
+{%- endcapture -%}
+
+{% assign return = obj %}

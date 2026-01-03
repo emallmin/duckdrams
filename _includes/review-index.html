@@ -5,6 +5,15 @@ Test
 {% assign categories = site.data.categories %}
 {% assign reviews = site.data.reviews %}
 
+
+{%- for r in reviews -%}
+  {%- assign review_id = r[0] -%}
+  {%- include category-class-country-region.html id=review_id return=return -%}
+  {{return.category}} / {{return.class}}
+{%- endfor -%}
+
+
+
 {% for category in categories %}
   <h2 id="{{ category.name | slugify }}">{{ category.name }}</h2>
 
@@ -13,6 +22,9 @@ Test
     {% if item.items %}
       {% for subitem in item.items %}
         <h4 id="{{ sub.name | slugify }}">{{ subitem.name }}</h4>
+
+        
+
       {% endfor %}
     {% else%}
       XXXXXXXXXXXXXX
@@ -23,3 +35,10 @@ Test
 </div>
 
 
+{%- capture obj -%}
+{
+  "class": {{ some_class }},
+  "country": {{ some_country }}
+  "region": ""
+}
+{%- endcapture -%}
