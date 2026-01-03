@@ -1,60 +1,24 @@
+Test
+
 <div class="review-index">
 
 {% assign categories = site.data.categories %}
 {% assign reviews = site.data.reviews %}
 
-<!-- Make TOC -->
-
-<ul>
 {% for category in categories %}
-  {% assign category_name = category[0] %}
-  {% assign classes = category[1] %}
-  {% assign cat_id = category_name | slugify %}
-  <li><a href="#{{cat_id}}">{{category_name}}</a>
-    <ul>
-      {% for class in classes %}
-        {% assign class_id = class | slugify %}
-        <li><a href="#{{class_id}}">{{class}}</a></li>
+  <h2 id="{{ category.name | slugify }}">{{ category.name }}</h2>
+
+  {% for item in category.items %}
+    <h3 id="{{ item.name | slugify }}">{{ item.name }}</h3>
+    {% if item.items %}
+      {% for subitem in item.items %}
+        <h4 id="{{ sub.name | slugify }}">{{ subitem.name }}</h4>
       {% endfor %}
-    </ul>  
-  </li>
-{% endfor %}
-</ul>
-
-<!-- Create and fill headings -->
-
-{% for category in categories %}
-  {% assign category_name = category[0] %}
-  {% assign classes = category[1] %}
-
-  {% assign cat_id = category_name 
-  | downcase 
-  | replace: ' ', '-' 
-  | replace: "'", '' 
-  | replace: ',', '' 
-  | replace: '.', '' 
-  %}
-
-  <h2 id="{{cat_id}}">{{ category_name }}</h2>
-
-  {% for class in classes %}
-    {% assign class_id = class | downcase | replace: ' ', '-' | replace: "'", '' | replace: ',', '' | replace: '.', '' %}
-    <h3 id="{{class_id}}">{{ class }}</h3>
-
-    {% if false %}
-      xxx
-    {% else %}
-      {%- for r in reviews -%}
-        {%- assign review_id = r[0] -%}
-        {%- include category-class-country-region.html id=review_id return=return -%}
-        {%- assign cccr = return | split: "^" -%}      
-        {%- if category_name == cccr[0] and class == cccr[1] -%}
-          {%- include review-string.html id=review_id -%}
-        {%- endif -%}      
-      {%- endfor -%}
+    {% else%}
+      XXXXXXXXXXXXXX
     {% endif %}
-  {%- endfor -%}
-{%- endfor -%}
+{% endfor %}
+
 </div>
 
 
