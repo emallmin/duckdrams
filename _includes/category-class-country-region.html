@@ -52,19 +52,3 @@
 {% assign _delim = "^" %}
 {% assign return = _category | append: _delim | append: _class | append: _delim | append: _country | append: _delim | append: _region %}
 
-
-{% assign arr = "" | split: "" %}
-
-{%- capture obj -%}
-{
-  "category": "{{_category}}",
-  "class": "{{_class}}",
-  "country": "{{_country}}",
-  "region": "{{_region}}"
-}
-{%- endcapture -%}
-
-{% assign arr = arr | push: obj %}
-{% assign return = arr[0] %}
-
-{% assign return = obj %}
