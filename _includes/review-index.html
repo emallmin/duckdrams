@@ -24,11 +24,11 @@ Test2
         {%- for r in reviews -%}
           {%- assign review_id = r[0] -%}
           {%- include category-class-country-region.html id=review_id return=return -%}
-          {%- assign cccr = return | split: "^" -%}
-        {%- endfor -%}        
-        {% if item.type == "class" and subitem.type == "region" %}
-          {%- include review-string.html id=review_id -%}
-        {% endif %}
+          {%- assign cccr = return | split: "^" -%}               
+          {% if item.type == "class" and subitem.type == "region" and item.name == cccr[1] and subitem.name == cccr[3] %}
+            {%- include review-string.html id=review_id -%}
+          {% endif %}
+        {%- endfor -%} 
       {% endfor %}
     {% else%}
       XXXXXXXXXXXXXX
