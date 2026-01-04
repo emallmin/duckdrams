@@ -12,10 +12,20 @@
           name: Lowlands
         - type: region
           name: Islay
+        - type: region
+          name: Highlands
+        - type: region
+          name: Islands
+        - type: region
+          name: Campbeltown          
     - type: class
       name: Single Grain
     - type: class
       name: Blended Malt
+    - type: class
+      name: Blended Grain
+    - type: class
+      name: Blended Scotch Whisky
 
 - type: category
   name: World Whiskey
