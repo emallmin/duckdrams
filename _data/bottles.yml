@@ -90,7 +90,7 @@ ben-wyvis-31-sv:
       url: https://static.whiskybase.com/storage/whiskies/1/0/428/63012-big.jpg
       source: whiskybase
 
-old_school_malt_31_sv:
+old-school-malt-31-sv:
   stats:
     batching: small_batch
     producer: signatory-blended-malt
@@ -108,10 +108,10 @@ old_school_malt_31_sv:
       source: whiskybase
     released: 2024
 
-bunnahabhain_30:
+bunnahabhain-30:
   stats:
     batching: small_batch
-    producer: bunnahabhain
+    producer: bunnahabhain-unpeated
     bottler: 
     age: 30
     cask: ex-sherry
@@ -125,7 +125,7 @@ bunnahabhain_30:
       source: whiskybase
     released: 2024
 
-auchentoshan_22_sv:
+auchentoshan-22-sv:
   stats:
     batching: single_cask
     producer: auchentoshan
@@ -145,7 +145,7 @@ auchentoshan_22_sv:
       source: whiskybase
     released: 2022
 
-glen_keith_29_mmd:
+glen-keith-29-mmd:
   stats:
     batching: small_batch
     producer: glen-keith
@@ -165,7 +165,7 @@ glen_keith_29_mmd:
       source: whiskybase
     released: '2023 #check!'
 
-glenrothes_26_sv:
+glenrothes-26-sv:
   stats:
     batching: single_cask
     producer: glenrothes
@@ -184,7 +184,7 @@ glenrothes_26_sv:
       source: whiskybase
     released: 2024
 
-laphroaig_25:
+laphroaig-25:
   stats:
     batching: 
     producer: laphroaig

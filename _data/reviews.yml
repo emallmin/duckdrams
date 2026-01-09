@@ -137,8 +137,8 @@ ben-wyvis-31-sv-2025:
       sip_fun_factor: 4
 
 
-old_school_malt_31_sv_2025a:
-  bottle: old_school_malt_31_sv
+old-school-malt-31-sv-2025a:
+  bottle: old-school-malt-31-sv
   date: 2025-04-05
   market_context:
     availability: "In stock at €350"
@@ -165,6 +165,66 @@ old_school_malt_31_sv_2025a:
       fun_factor: "⚫⚫🟢"
       value: "⚫🟡⚫"
       punchline: Outrageously delicious
+      mark: ❤️
+
+bunnahabhain-30:
+  bottle: bunnahabhain-30
+  date: 2025-04-05
+  market_context:
+    availability: round €600 shop/auction
+    estimated_price:
+      amount: 600
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Very chocolaty — like a naturally fruity dark chocolate — and full of red fruits (ripe red delicious apple variety, cherries), figs, toasted and sugar-coated almonds, marshmallow, some cold cuts, a twig of rosemary, and an espresso to finish off. Dried fruits, pineapple in finish.
+    sipping: >
+      Savoury, meaty, sweet, big, nice engagement of tannins. The sweetness comes first, with soaked sponge cake, caramelized nuts, and then a puff of smoke blooms forward, subsiding to leave more biscuity and dried fruit notes behind.
+    comments:
+      before_reveal: >
+        Very nice and muscly sherry dram, where cask and spirit are in perfect sync. Could be Mortlach, or some other heavy Speysider. Feels like we’re above 50% here. It’s a great dram, but I’m a less excited than the first; unfair to be up against such competition, though. Still a ❤️!
+      after_reveal: >
+        A pleasure and an honor, sir. Great to add this review of the 30yo, to previous review of the 12, 18, 25yo. Already the splendid 25yo is exceeding budgetary limitations, and here we have almost doubled that, for an extra 5 years. Side by side, I’m not even sure the 30yo would win.
+    grade:
+      system: "stoplight-2024"
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫⚫🟢"
+      value: "🔴⚫⚫"
+      punchline: Moreish muscleman
+      mark: ❤️
+
+glen-keith-29-mmd:
+  bottle: glen-keith-29-mmd
+  date: 2025-05-04
+  market_context:
+    availability: Available for €320
+    estimated_price:
+      amount: 320
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Very fragrant, again also fruity (yellow apples, especially; calvados), but with some earthy, and minerally notes in there; somehow more brooding and melancholic. Some sourness, lemon, or even lactic acid. Dried fruits and nuts, and to add that mysterious element, lemongrass and curry. With time gets a bit farmy.
+    sipping: >
+      Medium-sweet, orange, pineapple, dried fruits and nuts, a very dry sherry note, a musty cheese, leather, some oak wood. Not the longest finish.
+    comments:
+      before_reveal: >
+        It’s another belter dram, with deliciousness and mystique. Could be a Springbank?❤️
+      after_reveal: >
+        Sure, I had some old and mellow Springbanks, but I’ve got to stop guessing for it all the time in blind tastings now!
+    grade:
+      system: "stoplight-2024"
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫⚫🟢"
+      value: "⚫🟡⚫"
+      punchline: Melancholic calvados and curry
       mark: ❤️
 
 
