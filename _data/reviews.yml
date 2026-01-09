@@ -278,7 +278,7 @@ glenrothes-26-sv:
       before_reveal: >
         I like this marginally more than the previous one, as it has little bit more going on with the charred and the tropical notes. Single malt Speyside/Highland to be sure.
       after_reveal: >
-        This looks *dark*. People go nuts over super-dark sherry releases.
+        This looks <em>dark</em>. People go nuts over super-dark sherry releases.
     grade:
       system: "stoplight-2024"
       deliciousness: "⚫⚫🟢"
