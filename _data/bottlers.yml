@@ -21,3 +21,9 @@ signatory:
   kind: bottler
   status: "Active"
   country: "UK"
+
+murray-mcdavid:
+  name: "Murray McDavid"
+  kind: bottler
+  status: "Active"
+  country: "UK"

@@ -101,7 +101,72 @@ bruichladdich-unpeated:
 
 johnnie-walker-blend:
   name: "Johnnie Walker"
-  kind: brand
+  kind: blender
   category: "Scotch Whisky"
   class: "Blend"
   owner: "Diageo"
+
+glen-keith:
+  name: "Glen Keith"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+  founded: 1957
+
+glenrothes:
+  name: "Glen Keith"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+
+laphroaig:
+  name: "Laphroaig"
+  kind: distillery
+  country: Scotland
+  region: Islay
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+
+bunnahabhain:
+  name: Bunnahabhain
+  kind: distillery
+  country: Scotland
+  region: Islay
+  category: Scotch Whisky
+  class: Single Malt
+
+bunnahabhain-unpeated:
+  name: Bunnahabhain
+  kind: line
+  distillery: bunnahabhain
+  peated: no
+
+staoisha:
+  name: Staoisha
+  kind: line
+  distillery: bunnahabhain
+  peated: yes
+
+auchentoshan:
+  name: Auchentoshan
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+
+signatory-blended-malt:
+  name: Signatory Vintage
+  kind: blender
+  country: Scotland
+  category: Scotch Whisky
+  class: Blended Malt
+   

@@ -89,4 +89,113 @@ ben-wyvis-31-sv:
     image:
       url: https://static.whiskybase.com/storage/whiskies/1/0/428/63012-big.jpg
       source: whiskybase
-    
+
+old_school_malt_31_sv:
+  stats:
+    batching: small_batch
+    producer: signatory-blended-malt
+    series: "Old School Malt"
+    age: 31
+    cask: Sherry
+    outturn: 1148
+    abv: 43.5
+    natural_color: true
+    unchillfiltered: true
+  meta:
+    whiskybase_id: 249066
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/9066/450262-big.jpg
+      source: whiskybase
+    released: 2024
+
+bunnahabhain_30:
+  stats:
+    batching: small_batch
+    producer: bunnahabhain
+    bottler: 
+    age: 30
+    cask: ex-sherry
+    abv: 46.3
+    natural_color: true
+    unchillfiltered: true
+  meta:
+    whiskybase_id: 259619
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/9619/465756-big.jpg
+      source: whiskybase
+    released: 2024
+
+auchentoshan_22_sv:
+  stats:
+    batching: single_cask
+    producer: auchentoshan
+    bottler: signatory
+    series: Cask Strength Collection
+    vintage: 1999
+    age: 22
+    cask: Refill Bourbon Barrel & Sherry Butt Finish
+    outturn: 696
+    abv: 55.6
+    natural_color: true
+    unchillfiltered: true
+  meta:
+    whiskybase_id: 210185
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/0185/387036-big.jpg
+      source: whiskybase
+    released: 2022
+
+glen_keith_29_mmd:
+  stats:
+    batching: small_batch
+    producer: glen-keith
+    bottler: murray-mcdavid
+    series: Mission Gold
+    vintage: 1993
+    age: 29
+    cask: PX Sherry Finish
+    outturn: 400
+    abv: 46.5
+    natural_color: true
+    unchillfiltered: true
+  meta:
+    whiskybase_id: 236212
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/6212/456411-big.jpg
+      source: whiskybase
+    released: '2023 #check!'
+
+glenrothes_26_sv:
+  stats:
+    batching: single_cask
+    producer: glenrothes
+    bottler: signatory
+    vintage: 1997
+    age: 26
+    cask: 1st Fill Oloroso Sherry Butt
+    outturn: 612
+    abv: 52.4
+    natural_color: true
+    unchillfiltered: true
+  meta:
+    whiskybase_id: 255660
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/5660/461842-big.jpg
+      source: whiskybase
+    released: 2024
+
+laphroaig_25:
+  stats:
+    batching: 
+    producer: laphroaig
+    bottler:
+    age: 25
+    cask: Ex-Bourbon
+    abv: 47.3
+    unchillfiltered: true
+  meta:
+    whiskybase_id: 237210
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/7210/478829-big.jpg
+      source: whiskybase
+    released: 2023
