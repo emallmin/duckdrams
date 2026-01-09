@@ -170,6 +170,7 @@ glenrothes-26-sv:
     batching: single_cask
     producer: glenrothes
     bottler: signatory
+    series: "Symington's Choice"
     vintage: 1997
     age: 26
     cask: 1st Fill Oloroso Sherry Butt

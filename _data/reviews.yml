@@ -165,7 +165,7 @@ old-school-malt-31-sv-2025a:
       fun_factor: "⚫⚫🟢"
       value: "⚫🟡⚫"
       punchline: Outrageously delicious
-      mark: ❤️
+      mark: "❤️"
 
 bunnahabhain-30:
   bottle: bunnahabhain-30
@@ -195,7 +195,7 @@ bunnahabhain-30:
       fun_factor: "⚫⚫🟢"
       value: "🔴⚫⚫"
       punchline: Moreish muscleman
-      mark: ❤️
+      mark: "❤️"
 
 glen-keith-29-mmd:
   bottle: glen-keith-29-mmd
@@ -225,7 +225,97 @@ glen-keith-29-mmd:
       fun_factor: "⚫⚫🟢"
       value: "⚫🟡⚫"
       punchline: Melancholic calvados and curry
-      mark: ❤️
+      mark: "❤️"
+
+auchentoshan-22-sv:
+  bottle: auchentoshan-22-sv
+  date: 2025-04-05
+  market_context:
+    availability: Available for €330
+    estimated_price:
+      amount: 330
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      At first a very strong note of tasted hazelnut, bit of cognac, ancient rug. Water is needed to tame the intensity of the nose. Buttery sherry notes predominate, but we also het fragrant herbs, a squeeze of lemon, and some cigarette.
+    sipping: >
+      Sweet, oily, active taninns, feinty beneath the layers of sherry and fruit cake, some coffee. Some kinds of seeds?
+    comments:
+      before_reveal: >
+        It’s bold, things are happening, everything is tasty, it has more complexity than the typical sherry bomb in its teens. But it’s maybe even a bit too much, or lacking in a really interesting contrast to be honest.
+      after_reveal: >
+        Yeah, something like that was to be expected.
+    grade:
+      system: "stoplight-2024"
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫🟡⚫"
+      value: "🔴🟡⚫"
+      punchline: Gone hazelnuts
+      mark:
+
+glenrothes-26-sv:
+  bottle: glenrothes-26-sv
+  date: 2025-04-05
+  market_context:
+    availability: Available for €310
+    estimated_price:
+      amount: 310
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Once more, we have a oozing sherry and hazelnut profile on the nose immediately. There’s some charred wood, and vanilla. Needs water, which brings out some fresh grapefruit, tart lingonberry jam, papaya.
+    sipping: >
+      Sweet, and oily, chewy. Lots of muscovado sugar, rum-raisins, and a quite feisty spirit underneath.
+    comments:
+      before_reveal: >
+        I like this marginally more than the previous one, as it has little bit more going on with the charred and the tropical notes. Single malt Speyside/Highland to be sure.
+      after_reveal: >
+        This looks *dark*. People go nuts over super-dark sherry releases.
+    grade:
+      system: "stoplight-2024"
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫🟡🟢"
+      value: "🔴🟡⚫"
+      punchline: Oozing sherry
+      mark:
+
+laphroaig-25:
+  bottle: laphroaig-25
+  date: 2025-04-05
+  market_context:
+    availability: Available at €480
+    estimated_price:
+      amount: 480
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      A stream of consciousness: smoked butter, rosé pepper, white pepper, noori, flower petals (violets), salty beach pebbles, charred lemon, pears, peach, fermented ginger, golden syrup, beeswax.
+    sipping: >
+      Fresh, coastal, invigorating; yellow fruits, but not very sweet.
+    comments:
+      before_reveal: >
+        A beautiful old Islay. Caol Ila, is my best bet. It has many of the qualities I adore with my favourite, Bruichladdich (although I don’t think there’s much stock of this high age floating about). What the heck, this is favourite material.
+      after_reveal: >
+        Hmm, its not so in-your-face as one has come to expect from Laphroaig. I guess the age rounds off the peat.
+    grade:
+      system: "stoplight-2024"
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫🟡🟢"
+      value: "🔴⚫⚫"
+      punchline: Summer winds of Islay
+      mark: "❤️"
 
 
 # review-key:
