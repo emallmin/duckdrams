@@ -1,9 +1,28 @@
-Test2
+Test3
+
 
 <div class="review-index">
 
 {% assign categories = site.data.categories %}
 {% assign reviews = site.data.reviews %}
+
+<!-- 
+<ul>
+{% for category in categories %}
+  {% assign category_name = category[0] %}
+  {% assign classes = category[1] %}
+  {% assign cat_id = category_name | slugify %}
+  <li><a href="#{{cat_id}}">{{category_name}}</a>
+    <ul>
+      {% for class in classes %}
+        {% assign class_id = class | slugify %}
+        <li><a href="#{{class_id}}">{{class}}</a></li>
+      {% endfor %}
+    </ul>  
+  </li>
+{% endfor %}
+</ul>
+TOC -->
 
 
 {% for category in categories %}
@@ -24,7 +43,14 @@ Test2
         {%- endfor -%} 
       {% endfor %}
     {% else%}
-      XXXXXXXXXXXXXX
+      {%- for r in reviews -%}
+        {%- assign review_id = r[0] -%}
+        {%- include category-class-country-region.html id=review_id return=return -%}
+        {%- assign cccr = return | split: "^" -%}          
+        {% if item.type == "class" and item.name == cccr[1] %}
+          {%- include review-string.html id=review_id -%}
+        {% endif %}
+      {%- endfor -%}
     {% endif %}
   {% endfor %}
 {% endfor %}
