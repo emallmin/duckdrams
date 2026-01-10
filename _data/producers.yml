@@ -169,4 +169,12 @@ signatory-blended-malt:
   country: Scotland
   category: Scotch Whisky
   class: Blended Malt
-   
+
+jura:
+  name: jura
+  kind: distillery
+  country: Scotland
+  region: Islands
+  category: Scotch Whisky
+  class : Single Malt
+  peated: yes

@@ -1,12 +1,11 @@
 {% assign _review = site.data.reviews[include.id] %}
 {% assign _bottle = site.data.bottles[_review.bottle] %}
 
-{% assign _producer_name = site.data.producers[_bottle.stats.producer].name %}
-{% assign _expression = _bottle.stats.expression %}
-{% assign _age = _bottle.stats.age %}
-{% assign _vintage = _bottle.stats.vintage %}
-{% assign _abv = _bottle.stats.abv %}
-{% assign _bottler = site.data.bottlers[_bottle.stats.bottler] %}
+{% assign _producer_name = site.data.producers[_bottle.production.producer].name %}
+{% assign _age = _bottle.maturation.age %}
+{% assign _vintage = _bottle.production.vintage %}
+{% assign _abv = _bottle.bottling.abv %}
+{% assign _bottler = site.data.bottlers[_bottle.bottling.bottler] %}
 {% assign system =  review.review.grade.system %}
 
 {% assign _delim = "^" %}

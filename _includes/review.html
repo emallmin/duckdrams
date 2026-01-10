@@ -3,12 +3,12 @@
 {% if review %}
 <div class="review">
   {% assign bottle = site.data.bottles[review.bottle] %}
-  {% assign producer = site.data.producers[bottle.stats.producer] %}
-  {% assign bottler = site.data.bottlers[bottle.stats.bottler] %}
-  {% assign age = bottle.stats.age %}
-  {% assign vintage = bottle.stats.vintage %}
-  {% assign abv = bottle.stats.abv %}
-  {% assign cask = bottle.stats.cask %}
+  {% assign producer = site.data.producers[bottle.production.producer] %}
+  {% assign bottler = site.data.bottlers[bottle.bottling.bottler] %}
+  {% assign age = bottle.maturation.age %}
+  {% assign vintage = bottle.production.vintage %}
+  {% assign abv = bottle.bottling.abv %}
+  {% assign cask = bottle.maturation.cask %}
   
 
 
@@ -49,9 +49,8 @@
   {% endif %}
 
   <!-- Info part -->
-  {% assign cask = bottle.stats.cask %}
-  {% assign is_nc = bottle.stats.natural_color %}
-  {% assign is_ucf = bottle.stats.unchillfiltered %}
+  {% assign is_nc = bottle.bottling.natural_color %}
+  {% assign is_ucf = bottle.bottling.unchillfiltered %}
   {% assign is_blind = review.sample_context.blind %}
   {% assign availability = review.market_context.availability %}
   {% assign sample = review.sample_context.desc %}  

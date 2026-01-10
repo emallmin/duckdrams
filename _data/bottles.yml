@@ -1,202 +1,354 @@
 linkwood-24-glmo:
-  stats:
-    batching: single_cask
-    producer: linkwood
-    bottler: gleann-mor
+  production:
     vintage: 1997
+    producer: linkwood
+  maturation:
     age: 24
     cask: Bourbon
+  bottling:
+    bottler: gleann-mor
+    batching: single_cask
     abv: 54.3
-    natural_color: true
-    unchillfiltered: true
+    outturn: #
+    natural_color: yes
+    unchillfiltered: yes
+    bottling_date:
+    size: 700
+  marketing:
+    series: A Rare Find
+    name: #
+    released: 2021
+    rrp:
+      amount: 120
+      currency: GBP  
   meta:
     whiskybase_id: 208876
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/0/8876/368639-big.jpg
       source: whiskybase
-    released: "2021"
-    rrp:
-      amount: 120
-      currency: "GBP"
 
 inchmurrin-23-lt:
-  stats:
-    producer: inchmurrin
-    bottler: liquid-treasures
-    age: 23
+  production:
     vintage: 1997
-    abv: 48.5
-    cask: "Barrel"
+    producer: inchmurrin
+  maturation:
+    age: 23
+    cask: Barrel
+  bottling:
+    bottler: liquid-treasures
     batching: single_cask
-    natural_color: yes  #natural color
-    unchillfiltered: yes #unchillfiltered
+    abv: 48.5
+    outturn:
+    natural_color: yes
+    unchillfiltered: yes
+    bottling_date: #
+    size: 700
+  marketing:
+    series: Living World
+    name: #
+    released: 2020
+    rrp:
+      amount: #
+      currency: EUR   
   meta:
     whiskybase_id: 168406
     image:
       souce: whiskybase
       url: https://static.whiskybase.com/storage/whiskies/1/6/8406/287331-big.jpg
-    release: "2020"
+
 
 inchmurrin-24-chwh:
-  stats:
-    producer: inchmurrin
-    bottler: chorlton
-    age: 24
+  production:
     vintage: 1997
-    abv: 47.7
-    cask: "Bourbon barrel"
+    producer: inchmurrin
+  maturation:
+    age: 24
+    cask: Bourbon barrel
+  bottling:
+    bottler: chorlton
     batching: single_cask
-    natural_color: yes 
+    abv: 47.7
+    outturn: 
+    natural_color: yes
     unchillfiltered: yes
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: #
+    name: #
+    released: 2021
+    rrp:
+      amount: #
+      currency: EUR   
   meta:
     whiskybase_id: 180878
     image:
       url: https://static.whiskybase.com/storage/whiskies/1/8/0878/367946-big.jpg
       source: whiskybase
-    release: "2021"
-    
+
 convalmore-20-sv:
-  stats:
-    batching: single_cask
-    producer: convalmore
-    bottler: signatory
+  production:
     vintage: 1981
+    producer: convalmore
+  maturation:
     age: 20
     cask: "Oak Cask"
-    outturn: 462
+  bottling:
+    bottler: #
+    batching: single_cask
     abv: 43.0
+    outturn: 462
     natural_color: yes
+    unchillfiltered: #
+    bottling_date: #
+    size: 700
+  marketing:
+    series: Vintage Collection
+    name: #
+    released: 2002
+    rrp:
+      amount: #
+      currency: EUR   
   meta:
     whiskybase_id: 16958
     image:
       url: https://static.whiskybase.com/storage/whiskies/1/6/958/66710-big.jpg
       source: whiskybase
-    released: 2002
 
 ben-wyvis-31-sv:
-  stats:
-    batching: single_cask
-    producer: ben-wyvis
-    bottler: signatory
+  production:
     vintage: 1968
-    bottled: 2000
+    producer: ben-wyvis
+  maturation:
     age: 31
-    outturn: 191
+    cask: #
+  bottling:
+    bottler: signatory
+    batching: single_cask
     abv: 51.0
-    natural_color: true
+    outturn: 191
+    natural_color: yes
+    unchillfiltered: #
+    bottling_date: 2000
+    size: 700
+  marketing:
+    series: Vintage Collection - Decanter
+    name: #
+    released: 2000
+    rrp:
+      amount: #
+      currency: EUR   
   meta:
     whiskybase_id: 10428
     image:
       url: https://static.whiskybase.com/storage/whiskies/1/0/428/63012-big.jpg
       source: whiskybase
 
+
 old-school-malt-31-sv:
-  stats:
-    batching: small_batch
+  production:
+    vintage: #
     producer: signatory-blended-malt
-    series: "Old School Malt"
+  maturation:
     age: 31
     cask: Sherry
-    outturn: 1148
+  bottling:
+    bottler: #
+    batching: small_batch
     abv: 43.5
-    natural_color: true
-    unchillfiltered: true
+    outturn: 1148
+    natural_color: yes
+    unchillfiltered: yes
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: Old School Malt
+    name: #
+    released: #
+    rrp:
+      amount: 370
+      currency: EUR   
   meta:
     whiskybase_id: 249066
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/4/9066/450262-big.jpg
       source: whiskybase
-    released: 2024
+
 
 bunnahabhain-30:
-  stats:
-    batching: small_batch
+  production:
+    vintage: #
     producer: bunnahabhain-unpeated
-    bottler: 
+  maturation:
     age: 30
     cask: ex-sherry
+  bottling:
+    bottler: #
+    batching: small_batch
     abv: 46.3
-    natural_color: true
-    unchillfiltered: true
+    outturn: #
+    natural_color: #
+    unchillfiltered: #
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Small Batch Distilled
+    name: #
+    released: 2024
+    rrp:
+      amount: #
+      currency: EUR   
   meta:
     whiskybase_id: 259619
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/5/9619/465756-big.jpg
       source: whiskybase
-    released: 2024
 
 auchentoshan-22-sv:
-  stats:
-    batching: single_cask
-    producer: auchentoshan
-    bottler: signatory
-    series: Cask Strength Collection
+  production:
     vintage: 1999
+    producer: auchentoshan
+  maturation:
     age: 22
     cask: Refill Bourbon Barrel & Sherry Butt Finish
-    outturn: 696
+  bottling:
+    bottler: signatory
+    batching: single_cask
     abv: 55.6
+    outturn: 696
     natural_color: true
     unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Cask Strength Collection
+    name: #
+    released: 2022
+    rrp:
+      amount: #
+      currency: EUR
   meta:
     whiskybase_id: 210185
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/1/0185/387036-big.jpg
       source: whiskybase
-    released: 2022
+
 
 glen-keith-29-mmd:
-  stats:
-    batching: small_batch
-    producer: glen-keith
-    bottler: murray-mcdavid
-    series: Mission Gold
+  production:
     vintage: 1993
+    producer: glen-keith
+  maturation:
     age: 29
     cask: PX Sherry Finish
-    outturn: 400
+  bottling:
+    bottler: murray-mcdavid
+    batching: small_batch
     abv: 46.5
-    natural_color: true
-    unchillfiltered: true
+    outturn: 400
+    natural_color: yes
+    unchillfiltered: yes
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Mission Gold
+    name: #
+    released: 2023
+    rrp:
+      amount: #
+      currency: EUR   
   meta:
     whiskybase_id: 236212
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/3/6212/456411-big.jpg
       source: whiskybase
-    released: '2023 #check!'
+
 
 glenrothes-26-sv:
-  stats:
-    batching: single_cask
-    producer: glenrothes
-    bottler: signatory
-    series: "Symington's Choice"
+  production:
     vintage: 1997
+    producer: glenrothes
+  maturation:
     age: 26
     cask: 1st Fill Oloroso Sherry Butt
-    outturn: 612
+  bottling:
+    bottler: signatory
+    batching: single_cask
     abv: 52.4
-    natural_color: true
-    unchillfiltered: true
+    outturn: 612
+    natural_color: yes
+    unchillfiltered: yes
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: "Cask Strength Collection - Symington’s Choice"
+    name: #
+    released: 2024
+    rrp:
+      amount: #
+      currency: EUR   
   meta:
     whiskybase_id: 255660
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/5/5660/461842-big.jpg
       source: whiskybase
-    released: 2024
 
 laphroaig-25:
-  stats:
-    batching: 
+  production:
+    vintage: #
     producer: laphroaig
-    bottler:
+  maturation:
     age: 25
     cask: Ex-Bourbon
+  bottling:
+    bottler: #
+    batching: # single_cask, small_batch
     abv: 47.3
-    unchillfiltered: true
+    outturn: #
+    natural_color: #
+    unchillfiltered: yes
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Cask Strength Edition 2023
+    name: #
+    released: 2023
+    rrp:
+      amount: #
+      currency: EUR   
   meta:
     whiskybase_id: 237201
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/3/7201/478829-big.jpg
       source: whiskybase
-    released: 2023
+
+
+
+# bottle-key:
+#   production:
+#     vintage: #
+#     producer: #
+#   maturation:
+#     age: #
+#     cask: #
+#   bottling:
+#     bottler: #
+#     batching: # single_cask, small_batch
+#     abv: #
+#     outturn: #
+#     natural_color: #
+#     unchillfiltered: #
+#     bottling_date: #
+#     size: 700
+#   marketing:
+#     series: #
+#     name: #
+#     released: #
+#     rrp:
+#       amount: #
+#       currency: EUR   
+#   meta:
+#     whiskybase_id: #
+#     image:
+#       url: #
+#       source: whiskybase
