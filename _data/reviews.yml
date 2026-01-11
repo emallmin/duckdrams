@@ -387,6 +387,75 @@ jura-22-dl:
       system: "categorical-2023"
       score: "Great Quality ⭐"
 
+bushmills-9:
+  bottle: bushmills-9
+  date: 2024-06-16
+  market_context:
+    availability: "Available for €90"
+    estimated_price:
+      amount: 90
+      currency: EUR
+  sample_context:
+    desc: 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Strong alcohol presence on the nose at first; through it I get wafts of wafers with vanilla wanilla, yellow fruits (candylike peach and apricot), and cereals notes (rye bread). Opens up nicely with some water. Knowing beforehand it’s a dessert wine finish, I can indeed smell it. A hint of damp oak wood is there too, and a faint herbal or hempy note, and some star anise. 
+    sipping: >
+      On the palate, it is thick and creamy, with sugary and spicy qualities and a robust maltiness. Canned fruits, cinnamon. Tastes quite young and lively, but with a lot of successful cask influence. Residual sweetness and ripe mangoes in the finish.
+    comments: >
+      I quite enjoy this one. Thick and oozy with cask influence and clearly a robust spirit underneath. Perhaps too sweet for me general preference, but today it works well for me.
+    grade:
+      system: "categorical-2023-10"
+      score: "Rewarding ✔️"
+
+lady-of-arms-5:
+  bottle: lady-of-arms-5
+  date: 2024-06-16
+  market_context:
+    availability: Available €75
+    estimated_price:
+      amount: 75
+      currency: EUR
+  sample_context:
+    desc: 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      First and foremost, lots of vanilla and toffee, then slightly unripe/green fruits and berries, green grass, and cedar wood. Somewhere between a dry white wine and a herbal liqueur, if that makes sense.
+    sipping: >
+      Palate is exceptionally dry (perhaps the contrast is amplified by the previous dram), quite strong on the alcohol, and a little bitter. Add to that quite a hot and spicy tendency that persists in the finish. Melon stands out as a flavour.
+    comments: >
+      On the whole I’m not too keen. The nose is fine, but the spicy and a bit harsh aspect is not what I’m after. It’s still quite characterful and interesting, so I’ll put “Rewarding”, but not too far from an “Unfilfilling” in my book.
+    grade:
+      system: "categorical-2023-10"
+      score: "Rewarding ✔️"
+
+irish-diamonds-22:
+  bottle: irish-diamonds-22
+  date: 2024-06-16
+  market_context:
+    availability: Available €160
+    estimated_price:
+      amount: 160
+      currency: EUR
+  sample_context:
+    desc: 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Waxy citrus peel on the nose, a bouquet of flowers, trocadero (a Swedish orange soda), canned tropical fruits, vanilla, and Portuguese nata with a cinnamon dusting. 
+    sipping: >
+      Palate is sweetish, with custard, lots of ripe fruits, just a little bit of spice.
+    comments: >
+      This is really good stuff. I’d believe this was a venerable old Speysider any day of the week.
+    grade:
+      system: "categorical-2023-10"
+      score: "Rewarding ✔️"
+
 
 # review-key:
 #   bottle: ###

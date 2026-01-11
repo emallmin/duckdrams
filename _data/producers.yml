@@ -178,3 +178,34 @@ jura:
   category: Scotch Whisky
   class : Single Malt
   peated: yes
+
+great-northern:
+  name: "The Great Northern Distillery"
+  kind: distillery
+  country: Ireland
+  category: Irish Whiskey
+  
+great-northern-single-malt:
+  name: "The Great Northern Distillery"
+  distillery: great-northern
+  kind: line
+  class: Single Malt
+
+bushmills:
+  name: bushmills
+  kind: distillery
+  country: Ireland
+  category: Irish Whiskey
+
+bushmills-single-malt:
+  name: Bushmills
+  kind: line
+  distillery: bushmills
+  class: Single Malt
+
+secret-irish-single-malt:
+  name:
+  kind: distillery
+  country: Ireland
+  category: Irish Whiskey
+  class: Single Malt

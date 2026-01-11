@@ -28,6 +28,18 @@
       name: Blended Scotch Whisky
 
 - type: category
+  name: Irish Whiskey
+  items:
+    - type: class
+      name: Single Malt
+    - type: class
+      name: Single Pot Still
+    - type: class
+      name: Single Grain
+    - type: class
+      name: Blended Irish Whiskey
+
+- type: category
   name: World Whiskey
   items:
     - type: country

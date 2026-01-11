@@ -96,7 +96,7 @@ convalmore-20-sv:
   bottling:
     bottler: #
     batching: single_cask
-    abv: 43.0
+    abv: 43
     outturn: 462
     natural_color: yes
     unchillfiltered: #
@@ -409,6 +409,92 @@ jura-superstition:
       url: https://static.whiskybase.com/storage/whiskies/1/0/3147/165622-big.jpg
       source: whiskybase
 
+lady-of-arms-5:
+  production:
+    vintage: 2017
+    producer: great-northern
+  maturation:
+    age: 5
+    cask: Ex-Bourbon
+  bottling:
+    bottler: irish-whiskies
+    batching: single_cask
+    abv: 56.7
+    outturn: 235
+    natural_color: true
+    unchillfiltered: no
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: "Sword Edition No.1"
+    name: Lady of Arms
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 243241
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/3241/440657-big.jpg
+      source: whiskybase
+
+bushmills-9:
+  production:
+    vintage: 2011
+    producer: bushmills-single-malt
+  maturation:
+    age: 0
+    cask: Oloroso Sherry + Bourbon + Sauternes Finish
+  bottling:
+    bottler:
+    batching: null
+    abv: 56.3
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: The Causeway Collection
+    name:
+    released: 2021
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 195567
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/9/5567/367907-big.jpg
+      source: whiskybase
+
+irish-diamonds-22:
+  production:
+    vintage: 2002
+    producer: secret-irish-single-malt
+  maturation:
+    age: 21
+    cask: Ex-Sherry
+  bottling:
+    bottler: Alambic Classique
+    batching: single_cask
+    abv: 56.4
+    outturn: 252
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: "Small Batch No. 12"
+    name: Irish Diamonds
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 238468
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/8468/430133-big.jpg
+      source: whiskybase
 
 
 # bottle-key:

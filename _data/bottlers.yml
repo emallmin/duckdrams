@@ -33,3 +33,8 @@ douglas-laing:
   kind: bottler
   status: Active
   country: UK
+
+irish-whiskeys:
+  name: "Irish Whiskeys"
+  kind: bottler
+  country: Germany
