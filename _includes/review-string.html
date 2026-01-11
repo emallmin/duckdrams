@@ -12,10 +12,17 @@
 {% assign return = _producer | append: _delim | append: _expression | append: _delim | append: _age | append: _delim | append: _vintage | append: _delim | append: abv | append: _delim  | append: _bottler | split: _delim %}
 
 
+{% capture _age_snippet -%}
+  {% if _age %}
+    {{ _age }}yo
+  {% else %}
+    NAS
+  {% endif %}
+{%- endcapture %}
+
 <div>
 {% if _producer_name -%}{{ _producer_name }} {% endif -%}
-{% if _expression -%}{{ _expression }} {% endif -%}
-{% if _age -%} {{ _age }}yo {% endif -%}
+{{_age_snippet}}
 {% if _vintage -%} ({{ _vintage }}) {% endif -%}
 {% if _abv -%} {{ _abv }}% {% endif -%}
 {% if _bottler -%} <em>{{ _bottler.name }}</em> {% endif -%}

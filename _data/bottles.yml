@@ -380,12 +380,12 @@ jura-22-dl:
       url: https://static.whiskybase.com/storage/whiskies/5/8/987/221281-big.jpg
       source: whiskybase
 
-jura-supersition:
+jura-superstition:
   production:
     vintage: 
     producer: jura
   maturation:
-    age: NAS
+    age:
     cask: 
   bottling:
     bottler: 
