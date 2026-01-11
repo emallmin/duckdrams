@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "DuckDrams - a whisky blog under reconstuction!"
-author_profile: false
+author_profile: true
 ---
 
 This revamped version of my [old whisky blog](https://duckdrams.com) is currently under construction.

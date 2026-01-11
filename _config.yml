@@ -13,3 +13,14 @@ include: ["_pages"]
 
 sass:
   style: compressed
+
+author:
+  name: "Emil"
+  avatar: "/assets/images/avatar.jpg"
+  bio: >
+    "Hej, hiya, moin! I'm a Swedish ex-resident of Scotland now living in northern Germany. This blog is my virtual memory for all things related to whisky (and other fine spirits) in my life: I write reviews, report on trips and events, contemplate the results of my own experimentations, and scribble down un-/semi-/quasi-qualified opinions and perspectives. Welcome to a taste of my whisky world!"
+  location: "Germany"
+  links:
+    - label: "email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:malmajn@hotmail.com"
