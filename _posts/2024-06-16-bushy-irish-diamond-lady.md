@@ -4,6 +4,10 @@ title: "Bushy Irish diamond lady"
 date: 2024-06-16
 categories: Review
 tags: [legacy, tag2]
+header:
+  overlay_image: https://files.emilmallmin.com/ireland_with_glass.jpg
+  overlay_filter: 0.5
+  teaser: https://files.emilmallmin.com/ireland_with_glass.jpg
 ---
 
 Irish whiskey has thus far been nearly absent from this blog. Time to give a chance to the green island in the west.
@@ -14,7 +18,7 @@ Irish whiskey is similar to Scotch in production, but with some key differences.
 
 I have some Irish whiskey samples in my cupboard ready to be imbibed. Ar aghaidh linn!
 
-{% include review.html id="bishmills-9" %}
+{% include review.html id="bushmills-9" %}
 
 {% include review.html id="lady-of-arms-5" %}
 
