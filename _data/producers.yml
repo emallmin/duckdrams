@@ -171,7 +171,7 @@ signatory-blended-malt:
   class: Blended Malt
 
 jura:
-  name: jura
+  name: "Isle of Jura"
   kind: distillery
   country: Scotland
   region: Islands

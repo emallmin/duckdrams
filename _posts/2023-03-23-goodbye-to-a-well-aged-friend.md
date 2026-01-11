@@ -5,6 +5,7 @@ date: 2023-03-23
 categories: Review
 tags: [legacy, tag2]
 ---
+{% include legacy.html}
 
 On our way back to Edinburgh from a rather improvised long-weekend getaway into the Highlands in summer 2021, Zoe and I spent the night in Inverness. Before departing the city we strolled into *The Whisky Shop* to have a browse – and there a 24 yo Linkwood caught my eye; a single cask bottling at 54.3% for *TWS*. No trace of this bottling was to be found online (I have since added a WhiskyBase entry), but the store clerk could, after calling someone within the company, confirm that the contents were from an ex-bourbon cask, as the colour would suggest. And the bottle in my hand was the very last one for sale! And so I departed from a dear £120…
 
@@ -19,3 +20,4 @@ Fortunately, with time in the bottle, the Linkwood opened up, and has grown subs
 Tasting the very final dram of the bottle now (and before looking again at my July notes), I again emphasized the fruity aspects, but more in the direction of ripe apple and apricot than pineapple. If that’s a change in the dram, or an inconsistency in my palate, I will leave untold. After adding a splash of water, the dram seemed to close and become more bitter – I just remembered this one was not a water-down-er. Ooops! One needs to be a bit careful with older drams sometimes, although the default expectation is for a bit of water to help open up higher-ABV drams.
 
 Anyhow, in the end I must say I really enjoyed the flavours in this bottle, but it’s been a bit reluctant to show its best side. There are some astonishing younger Linkwoods for around €60 (so half the price) and I would not say doubling the price and age here leads to anywhere near double the pleasure. A review of some younger Linkies is coming!
+
