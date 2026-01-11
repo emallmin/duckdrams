@@ -5,7 +5,7 @@ date: 2023-03-23
 categories: Review
 tags: [legacy, tag2]
 ---
-{% include legacy.html}
+{% include legacy.html %}
 
 On our way back to Edinburgh from a rather improvised long-weekend getaway into the Highlands in summer 2021, Zoe and I spent the night in Inverness. Before departing the city we strolled into *The Whisky Shop* to have a browse – and there a 24 yo Linkwood caught my eye; a single cask bottling at 54.3% for *TWS*. No trace of this bottling was to be found online (I have since added a WhiskyBase entry), but the store clerk could, after calling someone within the company, confirm that the contents were from an ex-bourbon cask, as the colour would suggest. And the bottle in my hand was the very last one for sale! And so I departed from a dear £120…
 
