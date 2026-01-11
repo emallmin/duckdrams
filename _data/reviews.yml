@@ -317,6 +317,76 @@ laphroaig-25:
       punchline: Summer winds of Islay
       mark: "❤️"
 
+jura-12:
+  bottle: jura-12
+  date: 2023-07-02
+  market_context:
+    availability: "€38 (Germany, July 2023)"
+    estimated_price:
+      amount: 38
+      currency: EUR
+  sample_context:
+    desc: 4cl bought from HomeOfMalts
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      The nose has pine resin and dark rye bread at the fore, with some herbs (rosemary, thyme) and walnuts, in addition more generic impressions of sherry and light peat. 
+    sipping: >
+      The palate lands rather flat with the low ABV, but in style is true to the nose, playing on herbaceous, piney, and lightly smoky themes. While the taste is not overly sweet, the sweetness that’s there is too sugary. The sherry notes get more play in the medium finish.
+    comments: >
+      The “green” nose is characterful and cohesive. This could be a great whisky, but the palate falls short, which may be more due to the presentation (low ABV, caramel colouring) than the inherent qualities of the whisky.
+    grade:
+      system: categorical-2023
+      score: "Decent ✔️"
+
+
+jura-superstition:
+  bottle: jura-superstition
+  date: 2023-07-02
+  market_context:
+    availability: "Discontinued, €40"
+    estimated_price:
+      amount: 40
+      currency: EUR
+  sample_context:
+    desc: 4cl sample bought from HomeOfMalts
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Smells like pine wood and forest floor; green apples and unripe mango, cut green grass — overall quite green and sour notes. I smell walnuts and cooked vegetables that sit a bit uneasily with a prominent vanilla.
+    sipping: >
+      As compared to the 12yo, there is more vibrancy in the palate, but it is relying mostly on piney and tart flavours, with some sweetness that is not well integrated. A light peat is there and grows over time together with a bitter taste.
+    comments: >
+      With the wide selection of whisky out there, I can’t see why we should ever choose this one. The rough, woody, green, sour notes are not unpleasant, and at first even fun to engage with, but they quickly become tedious and the dram does not sustain my interest or enjoyment.
+    grade:
+      system: categorical-2023
+      score: "Uninteresting 💤"
+
+jura-22-dl:
+  bottle: jura-22-dl
+  date: 2023-07-02
+  market_context:
+    availability: "€160 (Germany, July 2023)"
+    estimated_price:
+      amount: 160
+      currency: EUR
+  sample_context:
+    desc: 2cl sample bought from MaltHarry
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      First impression on the nose is herbaceous and perfumed/musky; then juicy steak with café de Paris butter, and pickle brine. There is an initially grassy note that turns into meadow, as water reveals floral notes not initially present.
+    sipping: >
+      In the palate that the peat becomes prominent and combines with the herbal accent into a tobacco and cigar flavour, along with some tomato vine and a chlorine note. The finish is quite drying, but with a satisfying herbal flavour.
+    comments: >
+      This whisky made me <em> feel </em> something: like I was standing alone in a Swedish summer meadow late at night. I wasn’t too far from shedding a tear out of some diffuse nostalgia. The whisky is earthy and a bit raw — not what I usually go for — but if I had a bottle to enjoy over time, it could become a personal favourite.
+    grade:
+      system: "categorical-2023"
+      score: "Great Quality ⭐"
+
 
 # review-key:
 #   bottle: ###

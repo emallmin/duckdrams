@@ -27,3 +27,9 @@ murray-mcdavid:
   kind: bottler
   status: "Active"
   country: "UK"
+
+douglas-laing:
+  name: "Douglas Laing"
+  kind: bottler
+  status: Active
+  country: UK

@@ -322,6 +322,93 @@ laphroaig-25:
       url: https://static.whiskybase.com/storage/whiskies/2/3/7201/478829-big.jpg
       source: whiskybase
 
+jura-12-2022:
+  production:
+    vintage: 
+    producer: jura
+  maturation:
+    age: 12
+    cask:
+  bottling:
+    bottler:
+    batching: 
+    abv: 40
+    outturn: 
+    natural_color: no
+    unchillfiltered: no
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: 
+    name: 
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 213980
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/3980/375679-big.jpg
+      source: whiskybase
+
+jura-22-dl:
+  production:
+    vintage: 1992
+    producer: jura
+  maturation:
+    age: 22
+    cask: Hogshead
+  bottling:
+    bottler: douglas-laing
+    batching: single_cask
+    abv: 47.9
+    outturn: 282
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2014
+    size: 700
+  marketing:
+    series: Old Particular
+    name: null
+    released: 2014
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 58987
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/5/8/987/221281-big.jpg
+      source: whiskybase
+
+jura-supersition:
+  production:
+    vintage: 
+    producer: jura
+  maturation:
+    age: NAS
+    cask: 
+  bottling:
+    bottler: 
+    batching: Core Range
+    abv: 43
+    outturn: 
+    natural_color: no
+    unchillfiltered: no
+    bottling_date: 2017
+    size: 700
+  marketing:
+    series: Supersition
+    name: 
+    released: 2017
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 103147
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/0/3147/165622-big.jpg
+      source: whiskybase
+
 
 
 # bottle-key:

@@ -4,16 +4,79 @@ import re
 import yaml
 from bs4 import BeautifulSoup
 
+# bottle-key:
+#   production:
+#     vintage: #
+#     producer: #
+#   maturation:
+#     age: #
+#     cask: #
+#   bottling:
+#     bottler: #
+#     batching: # single_cask, small_batch
+#     abv: #
+#     outturn: #
+#     natural_color: #
+#     unchillfiltered: #
+#     bottling_date: #
+#     size: 700
+#   marketing:
+#     series: #
+#     name: #
+#     released: #
+#     rrp:
+#       amount: #
+#       currency: EUR   
+#   meta:
+#     whiskybase_id: #
+#     image:
+#       url: #
+#       source: whiskybase
+
+
+
+
+
 def parse_whiskybase_html(filename, wb_id):
+
     data = {
         wb_id: {
-            "stats": {"batching" : " # check manually"},
+            "production" : {
+                "vintage" : None,
+                "producer" : None 
+            },
+            "maturation" : {
+                "age" : None,
+                "cask" : None
+            },
+            "bottling" : {
+                "bottler": None,
+                "batching": None,
+                "abv" : None,
+                "outturn": None,
+                "natural_color": None,
+                "unchillfiltered": None,
+                "bottling_date": None,
+                "size": 700
+            },
+            "marketing" : {
+                "series" : None,
+                "name" : None,
+                "released" : None,
+                "rrp": {
+                    "amount" : None,
+                    "currency" : "EUR"
+                }       
+            },
             "meta": {
                 "whiskybase_id": int(wb_id),
-                "image": {"url": None}
+                "image": {
+                    "url": None,
+                    "source": "whiskybase" }
             }
-        }
+        }        
     }
+
 
     with open(filename, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
@@ -39,24 +102,30 @@ def parse_whiskybase_html(filename, wb_id):
 
         # Map labels to your YAML schema
         if label == "Distillery":
-            data[wb_id]["stats"]["producer"] = value
+            data[wb_id]["production"]["producer"] = value
         elif label == "Bottler":
-            data[wb_id]["stats"]["bottler"] = value.split("(")[0].strip()
+            data[wb_id]["bottling"]["bottler"] = value.split("(")[0].strip()
         elif label == "Stated Age":
             m = re.search(r"(\d+)", value)
             if m:
-                data[wb_id]["stats"]["age"] = int(m.group(1))
+                data[wb_id]["maturation"]["age"] = int(m.group(1))
         elif label == "Vintage":
-            data[wb_id]["stats"]["vintage"] = int(value) if value.isdigit() else (value + " # check!")
+            data[wb_id]["production"]["vintage"] = int(value) if value.isdigit() else (value + " # check!")
         elif label == "Strength":
-            data[wb_id]["stats"]["abv"] = float(value.replace("%", "").strip())
+            data[wb_id]["bottling"]["abv"] = float(value.replace("%", "").strip())
         elif label == "Cask Type":
-            data[wb_id]["stats"]["cask"] = value
+            data[wb_id]["maturation"]["cask"] = value
         elif label == "Number of bottles":
             if value.isdigit():
-                data[wb_id]["stats"]["outturn"] = int(value)
+                data[wb_id]["bottling"]["outturn"] = int(value)
         elif label == "Bottled":
-            data[wb_id]["meta"]["released"] = value + " #check!"
+            data[wb_id]["bottling"]["bottling_date"] = value
+        elif label == "Size":
+            data[wb_id]["bottling"]["size"] = value
+        elif label == "Added on":
+            data[wb_id]["marketing"]["released"] = value + " # check!"
+        elif label == "Bottling series":
+            data[wb_id]["marketing"]["series"] = value
 
     # Find NC / UCF / Single Cask info
     # These images are usually in a <dd> inside whisky-description
@@ -65,11 +134,11 @@ def parse_whiskybase_html(filename, wb_id):
         for img in icon_dd.find_all("img"):
             title = img.get("title", "").lower()
             if "uncolored" in title:
-                data[wb_id]["stats"]["natural_color"] = True
+                data[wb_id]["bottling"]["natural_color"] = True
             if "non-chill" in title or "non chill" in title:
-                data[wb_id]["stats"]["unchillfiltered"] = True
+                data[wb_id]["bottling"]["unchillfiltered"] = True
             if "single cask" in title:
-                data[wb_id]["stats"]["batching"] = "single_cask"
+                data[wb_id]["bottling"]["batching"] = "single_cask"
       
 
     # Find image_id
@@ -92,10 +161,6 @@ def parse_whiskybase_html(filename, wb_id):
             rest = ''.join(wb_parts[2:])
             url = f"https://static.whiskybase.com/storage/whiskies/{first}/{second}/{rest}/{image_id}-big.jpg"
             data[wb_id]["meta"]["image"]["url"] = url
-
-    # Add some default fields
-    data[wb_id]["meta"]["image"]["source"] = "whiskybase"
-
 
     return data
 
