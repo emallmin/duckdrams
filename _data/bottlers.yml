@@ -38,3 +38,8 @@ irish-whiskeys:
   name: "Irish Whiskeys"
   kind: bottler
   country: Germany
+
+alambic-classique:
+  name: "Alambic Classique"
+  kind: bottler
+  country: Germany

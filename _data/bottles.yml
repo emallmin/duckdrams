@@ -475,7 +475,7 @@ irish-diamonds-22:
     age: 21
     cask: Ex-Sherry
   bottling:
-    bottler: Alambic Classique
+    bottler: alambic-classique
     batching: single_cask
     abv: 56.4
     outturn: 252
