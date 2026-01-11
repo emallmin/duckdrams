@@ -390,7 +390,7 @@ jura-superstition:
   bottling:
     bottler: 
     batching: Core Range
-    abv: 43.0
+    abv: 43
     outturn: 
     natural_color: no
     unchillfiltered: no

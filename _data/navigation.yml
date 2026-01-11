@@ -3,3 +3,5 @@ main:
     url: /review-index/
   - title: Distilleries
     url: /distillery-index/
+  - title: Post archive
+  url: /posts/
