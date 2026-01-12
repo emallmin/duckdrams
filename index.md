@@ -1,7 +1,8 @@
 ---
 title: "Splash Page"
-layout: splash
-date: 2026-01-12
+layout: home
+title: "DuckDrams - a whisky blog under reconstuction!"
+author_profile: true
 header:
   overlay_filter: "0.5"
   overlay_image: https://files.emilmallmin.com/bar_from_afar.jpeg
@@ -11,12 +12,6 @@ intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 ---
 
-
-<!-- ---
-layout: home
-title: "DuckDrams - a whisky blog under reconstuction!"
-author_profile: true
---- -->
 
 This revamped version of my [old whisky blog](https://duckdrams.com) is currently under construction.
 
