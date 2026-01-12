@@ -5,7 +5,7 @@ title: "DuckDrams - a whisky blog under reconstuction!"
 author_profile: true
 header:
   overlay_filter: "0.5"
-  overlay_image: https://files.emilmallmin.com/duckdrams.jpeg
+  overlay_image: https://files.emilmallmin.com/duckdrams.png
   caption: "Photo text"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
