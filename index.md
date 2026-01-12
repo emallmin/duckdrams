@@ -1,7 +1,6 @@
 ---
 title: "Splash Page"
 layout: splash
-permalink: /splash-page/
 date: 2026-01-12
 header:
   overlay_filter: "0.5"
