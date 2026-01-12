@@ -1,8 +1,23 @@
 ---
+title: "Splash Page"
+layout: splash
+permalink: /splash-page/
+date: 2026-01-12
+header:
+  overlay_filter: "0.5"
+  overlay_image: https://files.emilmallmin.com/bar_from_afar.jpeg
+  caption: "Photo text"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+---
+
+
+<!-- ---
 layout: home
 title: "DuckDrams - a whisky blog under reconstuction!"
 author_profile: true
----
+--- -->
 
 This revamped version of my [old whisky blog](https://duckdrams.com) is currently under construction.
 
@@ -14,9 +29,9 @@ This revamped version of my [old whisky blog](https://duckdrams.com) is currentl
     - allows automatic review index, statistics; bottle info easily scraped from whiskybase
 
 ## Todo
-- Review index page
-- Other pages: categories pages, post archive, contact, distillery list
-- Set up the Cloudflare CDN
+- ~~Review index page~~
+- Other pages: categories pages, ~~post archive~~, contact, distillery list
+- ~~Set up the Cloudflare CDN~~
 - Enable some commenting feature (Commento?)
 - Figure out how to do image gallery/tiles
 - Some site styling
