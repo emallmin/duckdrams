@@ -231,6 +231,7 @@ glenallachie:
 glenallachie-peated:
   name: "GlenAllachie"
   kind: line
+  distillery: glenallachie
   peated: yes
 
 meikle-toir:
