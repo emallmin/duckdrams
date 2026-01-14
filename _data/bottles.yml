@@ -543,7 +543,7 @@ cambus-24-tbwc:
     size: 500
   marketing:
     series: null
-    name: null
+    name: Batch 2
     released: 2016
     rrp:
       amount: null
@@ -583,6 +583,63 @@ cambus-30-mom:
       url: https://static.whiskybase.com/storage/whiskies/2/1/5318/381768-big.jpg
       source: whiskybase
 
+glenallachie-4:
+  production:
+    vintage: null
+    producer: glenallchie-peated
+  maturation:
+    age: 4
+    cask: Bourbon cask, rye cask, new oak
+  bottling:
+    bottler:
+    batching: null
+    abv: 60.2
+    outturn: 10000
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Future Edition 
+    name:
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 217345
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/7345/386116-big.jpg
+      source: whiskybase
+
+meikle-toir-original:
+  production:
+    vintage: null
+    producer: Glenallachie
+  maturation:
+    age: 5
+    cask: First Fill Bourbon, Rye & American Virgin Oak
+  bottling:
+    bottler:
+    batching: null
+    abv: 50.0
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: The Original
+    name: null
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 239124
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/9124/429745-big.jpg
+      source: whiskybase
 
 
 # bottle-key:

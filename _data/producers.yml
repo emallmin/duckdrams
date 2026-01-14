@@ -216,3 +216,26 @@ cambus:
   category: Scotch Whisky
   class: Single Grain
   country: Scotland
+  region: Lowlands
+  status: closed
+
+glenallachie:
+  name: "GlenAllachie"
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Malt
+  country: Scotland
+  region: Speyside
+  peated: no
+
+glenallachie-peated:
+  name: "GlenAllachie"
+  kind: line
+  peated: yes
+
+meikle-toir:
+  name: "Maikle Tòir"
+  kind: line
+  distillery: glenallachie
+  peated: yes
+  

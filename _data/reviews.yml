@@ -526,6 +526,60 @@ cambus-30-mom:
       system: categorical-2023
       score: "⭐ Enthusiast’s Choice"
 
+
+meikle-toir-original:
+  bottle: meikle-toir-original
+  date: 2025-10-24
+  market_context:
+    availability: "€50"
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc:  a 3cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Smoked cold cuts, burning wood, barn and hay, grapefruit, orange juice, peaches.
+    sipping: >
+      Very dry, but not in a bad way. Woody and smoky (fresh cut wood, hickory smoke, acorns), hints of iodine and seaweed, slightly burned knäckebröd (Swedish hard bread). Fruitier notes too, with palate cleansing sherbet, some underripe nectarines that linger in a long smoky aftertaste.
+    comments: >
+      Not at all bad, but I don’t think its quite up to par with, say, Ardnahoe 5yo which has a deeper taste at the same age.
+    grade:
+      system: "multidim-2025"
+      nose_deliciousness: 3.5
+      nose_fun_factor: 3
+      sip_deliciousness: 3.5
+      sip_fun_factor: 3
+      
+glenallachie-4:
+  bottle: glenallachie-4
+  date: 2025-10-24
+  market_context:
+    availability: €115
+    estimated_price:
+      amount: 115
+      currency: EUR
+  sample_context:
+    desc: a 3cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Not as powerful as MK5 despite (or because of?) much higher ABV. Smoky – like a smoked cheese. Sandy beach by the sea – salty, iodine. More grapefruit, and vanilla than the MK5. Dried Provençale herbs, and a fresh touch of spearmint.
+    sipping: >
+      Again, very dry, but there is a robust malty, and fruity base. Just a bit of vomit hick-up… aka peat phenols.
+    comments: >
+      A showcase of things to come… In my opinion the MK5 is way better, so the price on this one could only be justified by the hype to try peated GlenAllachie for the first time back in 2022. And it ain’t 2022 anymore.
+    grade:
+      system: "multidim-2025"
+      nose_deliciousness: 3.5
+      nose_fun_factor: 3
+      sip_deliciousness: 3
+      sip_fun_factor: 3
+
+
 # review-key:
 #   bottle: ###
 #   date: ###
