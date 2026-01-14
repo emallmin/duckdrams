@@ -5,9 +5,9 @@ date: 2023-09-16
 categories: Review
 tags: [legacy, tag2]
 header:
-  overlay_image: https://files.emilmallmin.com/cambus-advert-what-is-whisky.jpg
+  overlay_image: https://files.emilmallmin.com/cambus_impression.png
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/cambus-advert-what-is-whisky.jpg
+  teaser: https://files.emilmallmin.com/cambus_impression.png
 ---
 Cambus is one of those 19th century scotch distilleries with a long an history of being opened and closed, bought and sold. Then in 1993 the stills went still, forever. But the spirit lives on… and today shall be drunk!
 
@@ -17,5 +17,11 @@ Personally, I associate Cambus with a few whisky friends from my WOLS days, who 
 
 I must have tried a couple of Cambi (Cambuses doesn’t sound right to me!) from my friends in the legendary days before The ’19 Plague, but my taste memory is dim. Even so, I was sufficiently converted to the Cult of Cambus, that I “invested” in a couple of bottles, fearing or hoping (I haven’t decided which yet) that the stock of this closed distillery will run out, and prices one day soar. So far, that’s not happened, but time might bear me out. In any case, I should stop speculating and actually drink the damn stuff.
 
-<img src="https://files.emilmallmin.com/cambus_impression.png" alt="Waxy clementines" loading="lazy">
+{% include review.html id="cambus-24-tbwc" %}
+
+{% include review.html id="cambus-26-je" %}
+
+{% include review.html id="cambus-30-mom" %}
+
+<img src="https://files.emilmallmin.com/cambus-advert-what-is-whisky.jpg" alt="Waxy clementines" loading="lazy">
 
