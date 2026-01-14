@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A comparison of Cambi"
+title: "Big pursuit"
 date: 2023-09-16
 categories: Review
 tags: [legacy, tag2]
