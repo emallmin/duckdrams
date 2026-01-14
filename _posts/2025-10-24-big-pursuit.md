@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Big pursuit"
-date: 2023-09-16
+date: 2025-10-24
 categories: Review
 tags: [legacy, tag2]
 header:

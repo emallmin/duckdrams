@@ -586,7 +586,7 @@ cambus-30-mom:
 glenallachie-4:
   production:
     vintage: null
-    producer: glenallchie-peated
+    producer: glenallachie-peated
   maturation:
     age: 4
     cask: Bourbon cask, rye cask, new oak
@@ -615,7 +615,7 @@ glenallachie-4:
 meikle-toir-original:
   production:
     vintage: null
-    producer: Glenallachie
+    producer: glenallachie
   maturation:
     age: 5
     cask: First Fill Bourbon, Rye & American Virgin Oak
