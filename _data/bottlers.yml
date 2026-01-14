@@ -43,3 +43,18 @@ alambic-classique:
   name: "Alambic Classique"
   kind: bottler
   country: Germany
+
+james-eadie:
+  name: "James Eadie"
+  kind: bottler
+  country: UK
+
+tbwc:
+  name: That Boutique-y Whisky Company
+  kind: bottler
+  country: UK
+
+master-of-malt:
+  name: Master of Malt
+  kind: bottler
+  country: UK

@@ -496,6 +496,94 @@ irish-diamonds-22:
       url: https://static.whiskybase.com/storage/whiskies/2/3/8468/430133-big.jpg
       source: whiskybase
 
+cambus-26-je:
+  production:
+    vintage: 1993
+    producer: cambus
+  maturation:
+    age: 26
+    cask: Sherry Butt
+  bottling:
+    bottler: james-eadie
+    batching: single_cask
+    abv: 55.4
+    outturn: 617
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2019
+    size: 700
+  marketing:
+    series: Single Cask
+    name: null
+    released: 2019
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 139995
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/3/9995/258297-big.jpg
+      source: whiskybase
+
+cambus-24-tbwc:
+  production:
+    vintage: null
+    producer: Cambus
+  maturation:
+    age: 24
+    cask: null
+  bottling:
+    bottler: tbwc
+    batching: single_cask
+    abv: 49.7
+    outturn: 319
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2016
+    size: 500
+  marketing:
+    series: null
+    name: null
+    released: 2016
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 84061
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/8/4/061/145401-big.jpg
+      source: whiskybase
+
+cambus-30-mom:
+  production:
+    vintage: 1991
+    producer: Cambus
+  maturation:
+    age: 30
+    cask: refill hogshead
+  bottling:
+    bottler: master-of-malt
+    batching: single_cask
+    abv: 50.8
+    outturn: 100
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: Single Cask Series
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 215318
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/5318/381768-big.jpg
+      source: whiskybase
+
+
 
 # bottle-key:
 #   production:

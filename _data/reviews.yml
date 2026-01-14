@@ -456,6 +456,75 @@ irish-diamonds-22:
       system: "categorical-2023-10"
       score: "Rewarding ✔️"
 
+cambus-24-tbwc:
+  bottle: cambus-24-tbwc
+  date: 2020-09-16
+  market_context:
+    availability: €75 (50cl)
+    estimated_price:
+      amount: 75
+      currency: EUR
+  sample_context:
+    desc: "25ml for £7 bought at MoM"
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Truffle! (The mushroom, not chocolate.) A distinct lemon fragrance, but more like from a cleaning agent than the actual fruit. I’m lead via some spice notes (white pepper, coriander seeds) into dusty-woody-mouldy territory (hemp, oak, dunnage warehouse, dry walnuts). The alcohol pokes my nostrils a bit. With time in the glass, overripe fruits/vegetables come to the fore (foremost pineapple, also avocado and sweaty onion). The fragrance notes may sound queer, but it’s an queerness that works. In a word, this is funky. 
+    sipping: >
+      Now for the taste. Wow, such silky texture; a little alcohol nip and spiciness arrives in the development, though. The flavour is unmistakably of clementine, wax and vanilla. These flavours linger in the finish, along with a fresh, mentholic bitterness, like the white of citrus peel, but not too much. The funk is more on the nose than the palate, which I’d say works for the best.
+    comments: >
+      Such an interesting whisky, with a nose one can easily dig around in for half an hour before even taking a sip. And then one is greeted with such a waxy, and delicate experience on the palate. This is one of the most worthwhile whiskies I’ve tried this year! And certainly the best grain whisky I can recall trying (but it’s not more than a dozen or two).
+    grade:
+      system: categorical-2023
+      score: "⭐ Enthusiast’s Choice ❤️ Personal Favourite"
+      heart: yes
+
+cambus-26-je:
+  bottle: cambus-26-je
+  date: 2020-09-16
+  market_context:
+    availability: £95 (in 2019)
+    estimated_price:
+      amount: 95
+      currency: GBP
+  sample_context:
+    desc: "25ml bought for £8.66 from MoM"
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Orange liqueur, overripe fruits (apple), sour cherries, chocolate ganache, leather and musk. The nose could just as well have described an old Armagnac. 
+    sipping: >
+      On the palate, the arrival is intense; vinous, unctuous, then with menthol and some tannins in the development. It draws more towards dry than sweet, but there is a feigned sweetness from the sherry flavours present (caramel, chocolate, dried red fruits, leather). There is also a hint of rubber.
+    comments: >
+      This I could easily have mistaken for Armagnac. The funkiness that Cambus seems to possess, in concert with the flavours from a long sherry maturation, is like rancio.
+    grade:
+      system: categorical-2023
+      score: "⭐ Enthusiast’s Choice"
+
+cambus-30-mom:
+  bottle: cambus-30-mom
+  date: 2020-09-16
+  market_context:
+    availability: £90
+    estimated_price:
+      amount: 90
+      currency: GBP
+  sample_context:
+    desc: "25ml sample bought for £6.84 from MoM"
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      A somewhat artificial lemon note, glue (sniff, sniff), and wax. Waxy apples. Waxy clementines. And apricot marmalade, hickory, and vanilla.
+    sipping: >
+      Somewhat sweet on the palate. Again, a pleasant clementine flavour, along with buttered popcorns riding on the wax wave.
+    comments: >
+      It’s a great whisky, not dissimilar to the 24yo, but the latter had more funk and diversity of flavours, while also feeling a bit less like sniffing some luxury glue. Perhaps my senses are fatiguing, and my judgment is compromised? But returning to a last sip of the 24yo, I still find that one significantly more enjoyable. I just now realized that this is coming from a (refill) sherry hogshead. I didn’t notice any sherry influence, actually.
+    grade:
+      system: categorical-2023
+      score: "⭐ Enthusiast’s Choice"
 
 # review-key:
 #   bottle: ###

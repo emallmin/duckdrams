@@ -209,3 +209,10 @@ secret-irish-single-malt:
   country: Ireland
   category: Irish Whiskey
   class: Single Malt
+
+cambus:
+  name: Cambus
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Grain
+  country: Scotland
