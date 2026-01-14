@@ -5,9 +5,9 @@ date: 2023-09-16
 categories: Review
 tags: [legacy, tag2]
 header:
-  overlay_image: https://files.emilmallmin.com/cambus_impression.png
+  overlay_image: https://files.emilmallmin.com/meikle_toir_logo.png
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/cambus_impression.png
+  teaser: https://files.emilmallmin.com/meikle_toir_logo.png
 ---
 <em>“Guided by revered Master Distiller, Billy Walker, our team is on a ‘Meikle Tòir’ (meaning ‘big pursuit’). The goal: To carefully craft and cask-perfect a peerless peated single malt at our Speyside home, The GlenAllachie Distillery.”</em>
 
