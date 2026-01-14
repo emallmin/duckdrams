@@ -528,7 +528,7 @@ cambus-26-je:
 cambus-24-tbwc:
   production:
     vintage: null
-    producer: Cambus
+    producer: cambus
   maturation:
     age: 24
     cask: null
@@ -557,7 +557,7 @@ cambus-24-tbwc:
 cambus-30-mom:
   production:
     vintage: 1991
-    producer: Cambus
+    producer: cambus
   maturation:
     age: 30
     cask: refill hogshead
