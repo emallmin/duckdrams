@@ -6,7 +6,8 @@
 
 <div>
 {% for r in _reviews %}
-    {% assign _bottle_id = r[1].bottle %}
+    {% assign _review = r[1] %}
+    {% assign _bottle_id = _review.bottle %}
     {% assign _bottle = _bottles[_bottle_id] %}
     {% assign _producer_id = _bottle.production.producer %}
     
@@ -19,7 +20,7 @@
     {% endif %}
 
     {% if _display_review %}
-        {% assign p = site.posts | where: "id", review.post | first %}
+        {% assign p = site.posts | where: "id", _review.post | first %}
         <p>
             <a href="{{ p.url | relative_url }}">
             post link
