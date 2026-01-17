@@ -17,6 +17,7 @@ sass:
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
+excerpt_separator: "<!--start-->"
 
 author:
   name: "Emil"
@@ -28,3 +29,5 @@ author:
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:malmajn@hotmail.com"
+
+    
