@@ -11,11 +11,11 @@
     {% assign _producer_id = _bottle.production.producer %}
     
     {% if _producer_id == _distillery_key %}
-        {% assign _display_review true %}
+        {% assign _display_review = true %}
     {% elsif _producer.kind == "line" and _producer.distillery == _distillery_key %}
-        {% assign _display_review true %}
+        {% assign _display_review = true %}
     {% else %}
-        {% assign _display_review false %}    
+        {% assign _display_review = false %}    
     {% endif %}
 
     {% if _display_review %}
