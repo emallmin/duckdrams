@@ -320,7 +320,7 @@ laphroaig-25:
 jura-12:
   bottle: jura-12-2022
   date: 2023-07-02
-  post: 2023-07-02-the-rehabilitation-of-jura
+  post: the-rehabilitation-of-jura
   market_context:
     availability: "€38 (Germany, July 2023)"
     estimated_price:
@@ -345,7 +345,7 @@ jura-12:
 jura-superstition:
   bottle: jura-superstition
   date: 2023-07-02
-  post: 2023-07-02-the-rehabilitation-of-jura
+  post: the-rehabilitation-of-jura
   market_context:
     availability: "Discontinued, €40"
     estimated_price:
@@ -369,7 +369,7 @@ jura-superstition:
 jura-22-dl:
   bottle: jura-22-dl
   date: 2023-07-02
-  post: 2023-07-02-the-rehabilitation-of-jura
+  post: the-rehabilitation-of-jura
   market_context:
     availability: "€160 (Germany, July 2023)"
     estimated_price:
