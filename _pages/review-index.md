@@ -7,6 +7,5 @@ toc: true
 # toc_label
 ---
 
-[All Jura reviews](/distilleries/jura/)
-
+[All Jura reviews]({{ "/distilleries/jura/" | relative_url }})
 {% include review-index.html %}
