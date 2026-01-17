@@ -20,7 +20,8 @@
 
     {% if _display_review %}
         Reviewed on {{r[1].date}} in post XXX <br>
-        {% include review.html id=r[0] %}
+        {% assign _review_id = r[0] %}
+        {% include review.html id=_review_id %}
     {%  %}
     <br>
 {% endfor %}
