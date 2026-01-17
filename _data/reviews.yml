@@ -1,6 +1,7 @@
 linkwood-24-glmo-2023:
   bottle: linkwood-24-glmo
   date: 2023-03-23
+  post: goodbye-to-a-well-aged-friend
   market_context:
     availability: "I presumably bought the last bottle (£120)."
     estimated_price:
@@ -26,6 +27,7 @@ linkwood-24-glmo-2023:
 inchmurrin-23-lt-2023:
   bottle: inchmurrin-23-lt
   date: 2023-10-04
+  post: inchmurrin-1997
   market_context:
     availability: "Unavailable. Estimated retail price €160"
     price:
@@ -50,6 +52,8 @@ inchmurrin-23-lt-2023:
 
 inchmurrin-24-chwh-2023:
   bottle: inchmurrin-24-chwh
+  date: 2023-10-04
+  post: inchmurrin-1997
   market_context:
     availability: "Original price £115 (UK, 2021). Currently available for €200 (via Italy, 2023)"
     price:
@@ -78,6 +82,7 @@ inchmurrin-24-chwh-2023:
 convalmore-20-sv-2025:
   bottle: convalmore-20-sv
   date: 2025-11-16
+  post: ghost-safari-bar-from-afar
   market_context:
     availability: "Estimated €250 at auction"
     estimated_price:
@@ -109,6 +114,7 @@ convalmore-20-sv-2025:
 ben-wyvis-31-sv-2025:
   bottle: ben-wyvis-31-sv
   date: 2025-11-16
+  post: ghost-safari-bar-from-afar
   market_context:
     availability: "Rare and variable at auction, €700-1400 (would expect €800 today)"
     estimated_price:
@@ -140,6 +146,7 @@ ben-wyvis-31-sv-2025:
 old-school-malt-31-sv-2025a:
   bottle: old-school-malt-31-sv
   date: 2025-04-05
+  post: ghost-safari-bar-from-afar
   market_context:
     availability: "In stock at €350"
     estimated_price:
@@ -170,6 +177,7 @@ old-school-malt-31-sv-2025a:
 bunnahabhain-30:
   bottle: bunnahabhain-30
   date: 2025-04-05
+  post: 31-30-29-22-26-25
   market_context:
     availability: round €600 shop/auction
     estimated_price:
@@ -200,6 +208,7 @@ bunnahabhain-30:
 glen-keith-29-mmd:
   bottle: glen-keith-29-mmd
   date: 2025-05-04
+  post: 31-30-29-22-26-25
   market_context:
     availability: Available for €320
     estimated_price:
@@ -230,6 +239,7 @@ glen-keith-29-mmd:
 auchentoshan-22-sv:
   bottle: auchentoshan-22-sv
   date: 2025-04-05
+  post: 31-30-29-22-26-25
   market_context:
     availability: Available for €330
     estimated_price:
@@ -260,6 +270,7 @@ auchentoshan-22-sv:
 glenrothes-26-sv:
   bottle: glenrothes-26-sv
   date: 2025-04-05
+  post: 31-30-29-22-26-25
   market_context:
     availability: Available for €310
     estimated_price:
@@ -290,6 +301,7 @@ glenrothes-26-sv:
 laphroaig-25:
   bottle: laphroaig-25
   date: 2025-04-05
+  post: 31-30-29-22-26-25
   market_context:
     availability: Available at €480
     estimated_price:
@@ -393,6 +405,7 @@ jura-22-dl:
 bushmills-9:
   bottle: bushmills-9
   date: 2024-06-16
+  post: bushy-irish-diamond-lady
   market_context:
     availability: "Available for €90"
     estimated_price:
@@ -416,6 +429,7 @@ bushmills-9:
 lady-of-arms-5:
   bottle: lady-of-arms-5
   date: 2024-06-16
+  post: bushy-irish-diamond-lady
   market_context:
     availability: Available €75
     estimated_price:
@@ -439,6 +453,7 @@ lady-of-arms-5:
 irish-diamonds-22:
   bottle: irish-diamonds-22
   date: 2024-06-16
+  post: bushy-irish-diamond-lady
   market_context:
     availability: Available €160
     estimated_price:
@@ -462,6 +477,7 @@ irish-diamonds-22:
 cambus-24-tbwc:
   bottle: cambus-24-tbwc
   date: 2020-09-16
+  post: a-comparison-of-cambi
   market_context:
     availability: €75 (50cl)
     estimated_price:
@@ -486,6 +502,7 @@ cambus-24-tbwc:
 cambus-26-je:
   bottle: cambus-26-je
   date: 2020-09-16
+  post: a-comparison-of-cambi
   market_context:
     availability: £95 (in 2019)
     estimated_price:
@@ -509,6 +526,7 @@ cambus-26-je:
 cambus-30-mom:
   bottle: cambus-30-mom
   date: 2020-09-16
+  post: a-comparison-of-cambi
   market_context:
     availability: £90
     estimated_price:
@@ -533,6 +551,7 @@ cambus-30-mom:
 meikle-toir-original:
   bottle: meikle-toir-original
   date: 2025-10-24
+  post: big-pursuit
   market_context:
     availability: "€50"
     estimated_price:
@@ -559,6 +578,7 @@ meikle-toir-original:
 glenallachie-4:
   bottle: glenallachie-4
   date: 2025-10-24
+  post: big-pursuit
   market_context:
     availability: €115
     estimated_price:
