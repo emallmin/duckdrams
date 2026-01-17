@@ -1,18 +1,19 @@
 {% assign _distillery_key = include.id %}
 
 {% assign _reviews = site.data.reviews %}
+{% assign _bottles = site.data.bottles %}
+{% assign _producers = site.data.producers %}
 
 <div>
 {% for r in _reviews %}
     {% assign _bottle_id = r[1].bottle %}
-    {% assign _bottle = site.data.bottles[_bottle_id] %}
-    {% assign _producer = _bottle.production.producer %}
-    {{r[1].bottle}} - {{_bottle_id}} - {{_bottle}}    
-    {% if _distillery_key == _producer %}
-        "ja!"
+    {% assign _bottle = _bottles[_bottle_id] %}
+    {% assign _producer_id = _bottle.production.producer %}
+    
+    {% if _producer_id == _distillery_key %}
         {% include review.html id=_review %}
-    {% else %}
-        "nej!"
+    {% elsif _producer.kind == "line" and _producer.distillery == _distillery_key %}
+        {% include review.html id=_review %}
     {% endif %}
     <br>
 {% endfor %}
