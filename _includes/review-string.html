@@ -1,4 +1,6 @@
-{% assign _review = site.data.reviews[include.id] %}
+{% assign _review_id = include.id %}
+{% assign _review = site.data.reviews[_review_id] %}
+
 {% assign _bottle = site.data.bottles[_review.bottle] %}
 
 {% assign _producer_name = site.data.producers[_bottle.production.producer].name %}
@@ -21,7 +23,7 @@
 {%- endcapture %}
 
 <div>
-<a href="{%- include review-href.html id=include.id -%}">
+<a href="{%- include review-href.html id=_review_id -%}">
 {% if _producer_name -%}{{ _producer_name }} {% endif -%}
 {{_age_snippet}}
 {% if _vintage -%} ({{ _vintage }}) {% endif -%}
