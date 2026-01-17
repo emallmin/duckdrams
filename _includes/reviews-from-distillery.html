@@ -4,6 +4,8 @@
 
 <div>
 {% for _review in _reviews %}
+    {% assign bottle = site.data.bottles[_review.bottle] %}
+    {{ bottle}} <br>
     {%  assign _producer = site.data.bottles[_review.bottle].production.producer %}
     {{_producer}} - {{_distillery_key}}    
     {% if _distillery_key == _producer %}
@@ -12,5 +14,6 @@
     {% else %}
         "nej!"
     {% endif %}
+    <br>
 {% endfor %}
 </div>
