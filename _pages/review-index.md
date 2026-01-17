@@ -7,5 +7,6 @@ toc: true
 # toc_label
 ---
 
+[All Jura reviews](/distilleries/jura/)
 
 {% include review-index.html %}

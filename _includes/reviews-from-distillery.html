@@ -1,0 +1,11 @@
+{% assign _distillery_key = include.id %}
+
+{% assign _reviews = site.data.reviews %}
+
+{% for _review in _reviews %}
+    {%  assign _producer = site.data.bottles[_review.bottle].production.producer %}
+    {% if _distillery_key == _producer %}
+        {% include review.html id=_review %}
+    {% else %}
+    {% endif %}
+{% endfor %}
