@@ -11,10 +11,17 @@
     {% assign _producer_id = _bottle.production.producer %}
     
     {% if _producer_id == _distillery_key %}
-        {% include review.html id=_review %}
+        {% assign _display_review true %}
     {% elsif _producer.kind == "line" and _producer.distillery == _distillery_key %}
-        {% include review.html id=_review %}
+        {% assign _display_review true %}
+    {% else %}
+        {% assign _display_review false %}    
     {% endif %}
+
+    {% if _display_review %}
+        Reviewed on {{r[1].date}} in post XXX <br>
+        {% include review.html id=r[0] %}
+    {%  %}
     <br>
 {% endfor %}
 </div>
