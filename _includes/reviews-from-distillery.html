@@ -26,14 +26,15 @@
     {% endif %}
 
     {% if _display_review %}
+        {% assign _review_id = r[0] %}
         {% assign p = site.posts | where: "slug", _review.post | first %}
         <p>
-            <a href="{{ p.url | relative_url }}">
-            post link {{ p.url | relative_url }}
+            <a href="{{ p.url | relative_url }}#{{_review_id}}">
+            post link with heading
             </a>
         </p>
         <em><span style="color:LightGray;">Reviewed on {{r[1].date}} in post XXX</span></em>
-        {% assign _review_id = r[0] %}
+        
         {% include review.html id=_review_id %}
     {% endif %}
 {% endfor %}
