@@ -6,7 +6,7 @@
 {% for r in _reviews %}
     {% assign _bottle_id = r[1].bottle %}
     {% assign _bottle = site.data.bottles[_bottle_id] %}
-    {% assign _producer = site.data.bottles[_bottle].production.producer %}
+    {% assign _producer = _bottle.production.producer %}
     {{r[1].bottle}} - {{_bottle_id}} - {{_bottle}}    
     {% if _distillery_key == _producer %}
         "ja!"
