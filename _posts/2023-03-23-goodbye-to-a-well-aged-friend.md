@@ -8,6 +8,7 @@ header:
   overlay_image: https://files.emilmallmin.com/linkwood-24-well-aged-friend.jpg
   overlay_filter: 0.5
   teaser: https://files.emilmallmin.com/linkwood-24-well-aged-friend.jpg
+excerpt_separator: <!--start-->
 ---
 {% include legacy.html %}
 <!--start-->
