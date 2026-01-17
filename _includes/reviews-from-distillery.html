@@ -6,7 +6,7 @@
 {% for r in _reviews %}
     {% assign _bottle = site.data.bottles[r[1].bottle] %}
     {%  assign _producer = site.data.bottles[_bottle].production.producer %}
-    {{_bottle}} - {{_producer}} - {{_distillery_key}}    
+    {{r[0]}} - {{r[1]}} - {{_distillery_key}}    
     {% if _distillery_key == _producer %}
         "ja!"
         {% include review.html id=_review %}
