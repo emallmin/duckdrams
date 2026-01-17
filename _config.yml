@@ -17,7 +17,7 @@ sass:
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
-excerpt_separator: "<!--start-->"
+# excerpt_separator: "<!--more-->"
 
 author:
   name: "Emil"

@@ -8,13 +8,12 @@ header:
   overlay_image: https://files.emilmallmin.com/linkwood-24-well-aged-friend.jpg
   overlay_filter: 0.5
   teaser: https://files.emilmallmin.com/linkwood-24-well-aged-friend.jpg
-excerpt_separator: <!--start-->
 ---
-{% include legacy.html %}
+{% capture ignore %} 
+    {% include legacy.html %}
+{% endcapture %}
 
 On our way back to Edinburgh from a rather improvised long-weekend getaway into the Highlands in summer 2021, Zoe and I spent the night in Inverness. Before departing the city we strolled into *The Whisky Shop* to have a browse – and there a 24 yo Linkwood caught my eye; a single cask bottling at 54.3% for *TWS*. No trace of this bottling was to be found online (I have since added a WhiskyBase entry), but the store clerk could, after calling someone within the company, confirm that the contents were from an ex-bourbon cask, as the colour would suggest. And the bottle in my hand was the very last one for sale! And so I departed from a dear £120…
-
-<!--start-->
 
 
 Linkwood has been my favourite distillery for some time, perhaps sharing that spot with Glen Elgin. Linkwood is Speysider with clean and fresh fruit and floral notes (bar any overriding cask influences) balanced by a slight dryness and bitterness. It wins me over nearly every time. And while you never know how a single cask might have turned out, I did not think there was much risk of disappointment with this bottle.
