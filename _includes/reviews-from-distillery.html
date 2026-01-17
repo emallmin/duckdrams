@@ -4,6 +4,12 @@
 {% assign _bottles = site.data.bottles %}
 {% assign _producers = site.data.producers %}
 
+
+{% for p in site.posts %}
+    {{p}}
+{% endfor %}
+
+
 <div>
 {% for r in _reviews %}
     {% assign _review = r[1] %}
