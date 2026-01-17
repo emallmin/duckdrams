@@ -19,10 +19,9 @@
     {% endif %}
 
     {% if _display_review %}
-        Reviewed on {{r[1].date}} in post XXX <br>
+        <em><span style="color:LightGray;">Reviewed on {{r[1].date}} in post XXX</span></em>
         {% assign _review_id = r[0] %}
         {% include review.html id=_review_id %}
     {% endif %}
-    <br>
 {% endfor %}
 </div>
