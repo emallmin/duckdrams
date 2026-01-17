@@ -23,7 +23,7 @@
         {% assign p = site.posts | where: "id", _review.post | first %}
         <p>
             <a href="{{ p.url | relative_url }}">
-            post link
+            post link {{ p.url | relative_url }}
             </a>
         </p>
         <em><span style="color:LightGray;">Reviewed on {{r[1].date}} in post XXX</span></em>
