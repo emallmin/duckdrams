@@ -1,0 +1,6 @@
+{% assign _review = site.data.reviews[include.id] %}
+{% assign _p = site.posts | where: "slug", _review.post | first %}
+{%- capture _out -%}
+{{ p.url | relative_url }}#{{_review_id}}
+{%- endcapture -%}
+{{_out}}
