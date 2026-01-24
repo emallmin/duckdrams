@@ -1,5 +1,5 @@
 ---
-title: "Jura"
+title: "Isle of Jura"
 permalink: /distilleries/jura/
 layout: single
 ---

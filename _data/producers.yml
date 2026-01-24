@@ -192,7 +192,7 @@ great-northern-single-malt:
   class: Single Malt
 
 bushmills:
-  name: bushmills
+  name: Bushmills
   kind: distillery
   country: Ireland
   category: Irish Whiskey
@@ -235,7 +235,7 @@ glenallachie-peated:
   peated: yes
 
 meikle-toir:
-  name: "Maikle Tòir"
+  name: "Meikle Tòir"
   kind: line
   distillery: glenallachie
   peated: yes
