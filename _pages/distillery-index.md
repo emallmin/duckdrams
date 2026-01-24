@@ -13,11 +13,12 @@ classes: wide
   {% assign id = "" %}
 
   {% for pair in site.data.producers %}
-    {% if pair[1].name == producer.name %}
+    {{pair}}
+    <!-- {% if pair[1].name == producer.name %}
       {% assign id = pair[0] %}
-    {% endif %}
+    {% endif %} -->
   {% endfor %}
 
-- [{{ producer.name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }})
+<!-- - [{{ producer.name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) -->
 
 {% endfor %}
