@@ -20,11 +20,11 @@ classes: wide
 {%- for name in names -%}
   {% if name != "" %}
     {% assign id = "" %}
-    {% for pair in site.data.producers %}
+    {%- for pair in site.data.producers -%}
       {% if pair[1].name == name %}
         {% assign id = pair[0] %}
       {% endif %}
-    {% endfor %}
+    {%- endfor -%}
  [{{ name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) ●
   {% endif %}
 {%- endfor -%}
