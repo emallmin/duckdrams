@@ -7,10 +7,16 @@ classes: wide
 
 <!-- [Jura]({{ "/distilleries/jura/" | relative_url }}) -->
 
-{% assign producers = site.data.producers | sort: "name" %}
+{% assign sorted = site.data.producers | sort: "name" %}
 
-{% for p in producers %}
-  {% assign id = p[0] %}
-  {% assign producer = p[1] %}
-  - [{{ producer.name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }})
+{% for producer in sorted %}
+  {% assign id = "" %}
+  {% for pair in site.data.producers %}
+    {% if pair[1].name == producer.name %}
+      {% assign id = pair[0] %}
+    {% endif %}
+  {% endfor %}
+
+- [{{ producer.name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }})
+
 {% endfor %}
