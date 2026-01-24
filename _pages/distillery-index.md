@@ -29,7 +29,7 @@ classes: wide
  <!-- [{{ name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) ● -->
  <a href="{{ "/distilleries/" | append: id | append: "/" | relative_url }}">
   {{ name }}
-</a>
+</a> ●
   {% endif %}
 {%- endfor -%}
 </div>
