@@ -10,14 +10,8 @@ classes: wide
 {% assign sorted = site.data.producers | sort: "name" %}
 
 {% for producer in sorted %}
-  {% assign id = "" %}
 
-  {% for pair in site.data.producers %}
-    {{pair}}
-    <!-- {% if pair[1].name == producer.name %}
-      {% assign id = pair[0] %}
-    {% endif %} -->
-  {% endfor %}
+    {{producer}}
 
 <!-- - [{{ producer.name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) -->
 
