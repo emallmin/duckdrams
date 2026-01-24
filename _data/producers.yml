@@ -3,15 +3,6 @@
 
 ## Speyside
 
-linkwood:
-  name: "Linkwood"
-  kind: distillery
-  status: "Active"
-  region: "Speyside"
-  country: "Scotland"
-  category: "Scotch Whisky"
-  class: "Single Malt"
-  owner: "Diageo"
 
 convalmore:
   name: "Convalmore"
@@ -21,6 +12,16 @@ convalmore:
   category: "Scotch Whisky"
   class: "Single Malt"
   peated: no
+
+linkwood:
+  name: "Linkwood"
+  kind: distillery
+  status: "Active"
+  region: "Speyside"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  owner: "Diageo"
 
 ## Highland
 
