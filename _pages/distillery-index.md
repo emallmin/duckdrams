@@ -26,7 +26,7 @@ classes: wide
       {% endif %}
     {% endfor %}
 
-- [{{ name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }})
+ [{{ name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) ●
 
   {% endif %}
 {% endfor %}
