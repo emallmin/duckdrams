@@ -11,6 +11,7 @@ classes: wide
 
 {% for producer in sorted %}
   {% assign id = "" %}
+
   {% for pair in site.data.producers %}
     {% if pair[1].name == producer.name %}
       {% assign id = pair[0] %}
