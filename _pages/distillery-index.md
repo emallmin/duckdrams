@@ -9,10 +9,7 @@ classes: wide
 
 {% assign sorted = site.data.producers | sort: "name" %}
 
-{% for producer in sorted %}
+{{sorted}}
 
-    {{producer}}
 
 <!-- - [{{ producer.name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) -->
-
-{% endfor %}
