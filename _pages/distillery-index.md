@@ -17,7 +17,7 @@ classes: wide
 
 {% assign names = names | split: "||" | sort %}
 
-{% for name in names %}
+{%- for name in names -%}
   {% if name != "" %}
     {% assign id = "" %}
     {% for pair in site.data.producers %}
@@ -27,4 +27,4 @@ classes: wide
     {% endfor %}
  [{{ name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) ●
   {% endif %}
-{% endfor %}
+{%- endfor -%}
