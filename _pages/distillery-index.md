@@ -17,6 +17,7 @@ classes: wide
 
 {% assign names = names | split: "||" | sort %}
 
+<div>
 {%- for name in names -%}
   {% if name != "" %}
     {% assign id = "" %}
@@ -28,3 +29,4 @@ classes: wide
  [{{ name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) ●
   {% endif %}
 {%- endfor -%}
+</div>
