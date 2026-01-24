@@ -25,8 +25,6 @@ classes: wide
         {% assign id = pair[0] %}
       {% endif %}
     {% endfor %}
-
  [{{ name }}]({{ "/distilleries/" | append: id | append: "/" | relative_url }}) ●
-
   {% endif %}
 {% endfor %}
