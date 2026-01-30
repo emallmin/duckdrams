@@ -251,7 +251,7 @@ auchentoshan-22-sv:
   review:
     intro: null
     nosing: >
-      At first a very strong note of toasted hazelnut, bit of cognac, ancient rug. Water is needed to tame the intensity of the nose. Buttery sherry notes predominate, but we also het fragrant herbs, a squeeze of lemon, and some cigarette.
+      At first a very strong note of toasted hazelnut, bit of cognac, ancient rug. Water is needed to tame the intensity of the nose. Buttery sherry notes predominate, but we also get fragrant herbs, a squeeze of lemon, and some cigarette.
     sipping: >
       Sweet, oily, active taninns, feinty beneath the layers of sherry and fruit cake, some coffee. Some kinds of seeds?
     comments:
@@ -489,7 +489,7 @@ cambus-24-tbwc:
   review:
     intro: null
     nosing: >
-      Truffle! (The mushroom, not chocolate.) A distinct lemon fragrance, but more like from a cleaning agent than the actual fruit. I’m lead via some spice notes (white pepper, coriander seeds) into dusty-woody-mouldy territory (hemp, oak, dunnage warehouse, dry walnuts). The alcohol pokes my nostrils a bit. With time in the glass, overripe fruits/vegetables come to the fore (foremost pineapple, also avocado and sweaty onion). The fragrance notes may sound queer, but it’s an queerness that works. In a word, this is funky. 
+      Truffle! (The mushroom, not chocolate.) A distinct lemon fragrance, but more like from a cleaning agent than the actual fruit. I’m lead via some spice notes (white pepper, coriander seeds) into dusty-woody-mouldy territory (hemp, oak, dunnage warehouse, dry walnuts). The alcohol pokes my nostrils a bit. With time in the glass, overripe fruits/vegetables come to the fore (foremost pineapple, also avocado and sweaty onion). The fragrance notes may sound queer, but it’s a queerness that works. In a word, this is <em>funky</em>. 
     sipping: >
       Now for the taste. Wow, such silky texture; a little alcohol nip and spiciness arrives in the development, though. The flavour is unmistakably of clementine, wax and vanilla. These flavours linger in the finish, along with a fresh, mentholic bitterness, like the white of citrus peel, but not too much. The funk is more on the nose than the palate, which I’d say works for the best.
     comments: >
@@ -602,6 +602,367 @@ glenallachie-4:
       sip_deliciousness: 3
       sip_fun_factor: 3
 
+glenrothes-15-nss:
+  bottle: glenrothes-15-nss
+  date: 2024-12-15
+  market_context:
+    availability: "€140"
+    estimated_price:
+      amount: 140
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Ripe and bright fruits (passion fruit, pear, citrus) and dessert wine, some minerality with petrichor and a dash of white pepper and vanilla.
+    sipping: >
+      Very juicy, with loads of yellow fruits; sweet, but not in a sugary or confectionary way. Fairly prominent alcohol neat, but still drinkable. Responds well to water; simple but long finish, with golden sultanas.
+    comments:
+      before_reveal: >
+        A solid “juicy oak” profile whisky, without bells and whistles. I’m very partial to this kind of stuff. Time for the first guess of the season. Single malt, for sure. Bourbon casks with a white dessert wine finish. Age 13yo, abv north of 55%, and distillery I have no clue, but Speyside would be a safe bet . Or could it actually be Irish? Maybe, but I think no.
+      after_reveal: >
+        Not too shabby guesswork. I would say it’s a little boozy for 52%. Refill sherry makes sense. It’s mostly juicy oak, and a slight wine influence that I interpreted as dessert wine. Pricewise, I’d say the current retail price (was it lower at launch?) is way too high.
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫🟡⚫"
+      value: "🔴🟡⚫"
+      mark:
+      punchline: Solid juicy oak
+
+glasgow-1770-2018:
+  bottle: glasgow-1770-2018
+  date: 2024-12-15
+  market_context:
+    availability: sold out
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+review-key:
+  bottle: ###
+  date: 2024-12-15
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments:
+      before_reveal: >
+        ###
+      after_reveal: >
+        ###
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫⚫" 🟢🟡🔴
+      fun_factor: "⚫⚫⚫"
+      value: "⚫⚫⚫"
+      mark:
+      punchline:
+
+
 
 # review-key:
 #   bottle: ###
@@ -632,3 +993,34 @@ glenallachie-4:
 #       # sip_fun_factor: 3
 #       system: "three-tier-2026"
 #       score: ###
+
+# # Blind stoplight
+# review-key:
+#   bottle: ###
+#   date: ###
+#   market_context:
+#     availability: ###
+#     estimated_price:
+#       amount: ###
+#       currency: ###
+#   sample_context:
+#     desc: from a 2cl sample bottle
+#     blind: yes
+#   review:
+#     intro: null
+#     nosing: >
+#       ###
+#     sipping: >
+#       ###
+#     comments:
+#       before_reveal: >
+#         ###
+#       after_reveal: >
+#         ###
+#     grade:
+#       system: stoplight-2024
+#       deliciousness: "⚫⚫⚫"
+#       fun_factor: "⚫⚫⚫"
+#       value: "⚫⚫⚫"
+#       mark:
+#       punchline:

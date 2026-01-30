@@ -163,7 +163,7 @@ old-school-malt-31-sv:
     size: 700
   marketing:
     series: Old School Malt
-    name: #
+    name: Old School Malt
     released: #
     rrp:
       amount: 370
@@ -639,6 +639,354 @@ meikle-toir-original:
     whiskybase_id: 239124
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/3/9124/429745-big.jpg
+      source: whiskybase
+
+teeling-21:
+  production:
+    vintage:
+    producer: teeling
+  maturation:
+    age: 21
+    cask: Ex-Bourbon, Marsala
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: 6000
+    natural_color:
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: "Rising Reserve No. 2"
+    name: "Rising Reserve No. 2"
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 238817
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/8817/428999-big.jpg
+      source: whiskybase
+
+glen-grant-23-sv:
+  production:
+    vintage: 2000
+    producer: glen-grant
+  maturation:
+    age: 23
+    cask: First fill sherry butt Finish
+  bottling:
+    bottler: signatory
+    batching: single_cask
+    abv: 57.3
+    outturn: 693
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Cask Strength Collection
+    name:
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 244173
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/4173/438245-big.jpg
+      source: whiskybase
+
+bruichladdich-14-private:
+  production:
+    vintage: 2006
+    producer: bruichladdich-unpeated
+  maturation:
+    age: 14
+    cask: Sherry
+  bottling:
+    bottler: private
+    batching: single_cask
+    abv: 61.4
+    outturn: 266
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: Private Cask Bottling
+    name: null
+    released: 2022
+    rrp:
+      amount:
+      currency: EUR
+  meta:
+    whiskybase_id: 218194
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/8194/386380-big.jpg
+      source: whiskybase
+
+classic-of-islay-2024:
+  production:
+    vintage:
+    producer: wiebers
+  maturation:
+    age:
+    cask: Tempranillo Red Wine
+  bottling:
+    bottler: wiebers
+    batching: single_cask
+    abv: 56.5
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: null
+    name: Classic of Islay
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 263641
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/3641/473684-big.jpg
+      source: whiskybase
+
+glenrothes-15-nss:
+  production:
+    vintage: 2006
+    producer: glenrothes
+  maturation:
+    age: 15
+    cask: Sherry (Refill Hogshead)
+  bottling:
+    bottler: north-star-spirits
+    batching: single_cask
+    abv: 52.1
+    outturn: 251
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Cask Series 020
+    name:
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 223587
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/2/3587/397530-big.jpg
+      source: whiskybase
+
+blair-athol-7-mm:
+  production:
+    vintage: 2016
+    producer: blair-athol
+  maturation:
+    age: 7
+    cask: Ximénez-Spínola PX Sherry Finish
+  bottling:
+    bottler: murray-mcdavid
+    batching: single_cask
+    abv: 57.8
+    outturn: 314
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: Benchmark
+    name: null
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 259953
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/9953/476465-big.jpg
+      source: whiskybase
+
+maltman-50:
+  production:
+    vintage:
+    producer: meadowside-blend
+  maturation:
+    age: 50
+    cask: Ex-Bourbon Barrels, finished in Sherry Butt
+  bottling:
+    bottler: meadowside
+    batching: null
+    abv: 44.9
+    outturn: 540
+    natural_color: true
+    unchillfiltered: true
+    bottling_date:
+    size: 700
+  marketing:
+    series: The Maltman
+    name: The Maltman Blended Scotch Whisky
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 229494
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/2/9494/411280-big.jpg
+      source: whiskybase
+
+'256538':
+  production:
+    vintage: 2019
+    producer: Zuidam Distillery
+  maturation:
+    age: 5
+    cask: Palo Cortado Butt
+  bottling:
+    bottler:
+    batching: single_cask
+    abv: 54.6
+    outturn: 647
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: Millstone Heavily Peated
+    name: Millstone Heavily Peated
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 256538
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/6538/460800-big.jpg
+      source: whiskybase
+
+kavalan-solist-vinho-71C:
+  production:
+    vintage: 2016
+    producer: Kavalan
+  maturation:
+    age:
+    cask: Vinho Barrique
+  bottling:
+    bottler:
+    batching: single_cask
+    abv: 58.6
+    outturn: 168
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Solist
+    name:
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 240049
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/0049/448710-big.jpg
+      source: whiskybase
+
+glasgow-1770-2018:
+  production:
+    vintage: 2018
+    producer: glasgow-1770
+  maturation:
+    age: 5
+    cask: Manzanilla Sherry
+  bottling:
+    bottler: Distillery Bottling
+    batching: small-batch
+    abv: 59.0
+    outturn: 813
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Small batch series
+    name: null
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 249177
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/9177/449241-big.jpg
+      source: whiskybase
+
+springbank-10-cs-2023:
+  production:
+    vintage: 2013
+    producer: springbank
+  maturation:
+    age: 10
+    cask: 6 year refill Bourbon barrel, 4 year fresh Palo Cortado hogshead
+  bottling:
+    bottler:
+    batching:
+    abv: 55
+    outturn: 10200
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Sherry Wood Palo Cortado
+    name:
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 244838
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/4838/440353-big.jpg
+      source: whiskybase
+
+blended-grain-30-tbwc:
+  production:
+    vintage:
+    producer: tbwc-blended-grain
+  maturation:
+    age: 30
+    cask: Refill Bourbon Hogshead & Sherry Octave
+  bottling:
+    bottler: tbwc
+    batching: null
+    abv: 45.8
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Core Range
+    name: Blended Grain Scotch Whisky
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 241635
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/1635/451775-big.jpg
       source: whiskybase
 
 

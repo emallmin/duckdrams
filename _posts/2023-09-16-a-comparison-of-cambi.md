@@ -9,9 +9,9 @@ header:
   overlay_filter: 0.5
   teaser: https://files.emilmallmin.com/cambus_impression.png
 ---
-Cambus is one of those 19th century scotch distilleries with a long an history of being opened and closed, bought and sold. Then in 1993 the stills went still, forever. But the spirit lives on… and today shall be drunk!
+Cambus is one of those 19th century Scotch distilleries with a long history of being opened and closed, bought and sold. Then in 1993 the stills went still, forever. But the spirit lives on… and today shall be drunk!
 
-Cambus made grain whisky, what some consider the ugly stepsister of malt whisky. In the early 20th century some (the competing malt producers) did not want it be allowed to bear the name whisky at all, leading to the "What is Whisky?" trials. Cambus 7yo was then heavily promoted under the slogan "Not a headache in a gallon" to gather support for the worthiness of grain spirit.  Read more about it <a href="https://scotchwhisky.com/magazine/features/16639/what-is-whisky-the-legal-fight/">here</a>
+Cambus made grain whisky, what some consider the ugly stepsister of malt whisky. In the early 20th century some (the competing malt producers) did not want it be allowed to bear the name whisky at all, leading to the "What is Whisky?" trials. Cambus 7yo was then heavily promoted under the slogan "Not a headache in a gallon" to gather support for the worthiness of grain spirit.  Read more about it <a href="https://scotchwhisky.com/magazine/features/16639/what-is-whisky-the-legal-fight/">here</a>.
 
 Personally, I associate Cambus with a few whisky friends from my WOLS days, who love it for its apparently “cheesy” qualities. Some want their whisky to smell like fruits or delicate flowers, others prefer cheese and smelly feet. Actually, I know a person who insists her sweaty feet smell like lavender…
 

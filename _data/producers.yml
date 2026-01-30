@@ -187,7 +187,7 @@ great-northern:
   category: Irish Whiskey
   
 great-northern-single-malt:
-  name: "The Great Northern Distillery"
+  name: "The Great Northern Distillery (Single Malt)"
   distillery: great-northern
   kind: line
   class: Single Malt
@@ -199,7 +199,7 @@ bushmills:
   category: Irish Whiskey
 
 bushmills-single-malt:
-  name: Bushmills
+  name: Bushmills Single Malt
   kind: line
   distillery: bushmills
   class: Single Malt
@@ -241,3 +241,79 @@ meikle-toir:
   distillery: glenallachie
   peated: yes
   
+
+teeling:
+  name: Teeling Whiskey Company
+  kind: distillery
+  country: Ireland
+  category: Irish Whiskey
+  class: Single Malt
+
+glen-grant:
+  name: "Glen Grant"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+  peated: no
+
+blair-athol:
+  name: Blair Athol
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: Single Malt
+
+
+meadowside-blend:
+  name: Meadowside Blending
+  kind: blender
+  country: Scotland
+  category: Scotch Whisky
+  class: Blended Scotch Whisky
+
+zuidam:
+  name: Zuidam Distillery
+  country: The Netherlands
+  category: World Whisky
+  class: Single Malt
+  peated: yes
+  style: Heavily peated
+
+kavalan:
+  name: Kavalan
+  category: World Whisky
+  class: Single Malt
+  country: Taiwan
+
+glasgow:
+  name: The Glasgow Distillery Co.
+  kind: distillery
+  category: Scotch Whisky
+  country: Scotland
+  region: Lowlands
+
+glasgow-1770:
+  name: Glasgow 1770
+  kind: line
+  class: Single Malt
+  region: Lowlands
+
+tbwc-blended-grain:
+  name: That Boutique-y Whisky Company (Blended Grain Scotch Whisky)
+  kind: blender
+  category: Scotch Whisky
+  class: Blended Grain
+  country: Scotland
+  peated: no
+
+springbank:
+  name: Springbank
+  kind: distillery
+  country: Scotland
+  region: Campbeltown
+  category: Scotch Whisky
+  class: Single Malt

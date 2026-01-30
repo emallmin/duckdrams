@@ -58,3 +58,23 @@ master-of-malt:
   name: Master of Malt
   kind: bottler
   country: UK
+
+private:
+  name: Private cask bottling
+  kind: bottler
+
+wiebers:
+  name: Jack Wiebers Whisky World
+  kind: bottler
+  country: Germany
+
+north-star-spirits:
+  name: North Star Spirits
+  kind: bottler
+  country: UK
+
+meadowside:
+  name: Meadowside Blending
+  kind: bottler
+  country: UK
+
