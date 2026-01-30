@@ -846,7 +846,7 @@ kavalan-solist-vinho-71C:
   bottle: kavalan-solist-vinho-71C
   date: 2024-12-15
   market_context:
-    availability: available at €169
+    availability: "available at €169"
     estimated_price:
       amount: 169
       currency: EUR
@@ -863,10 +863,10 @@ kavalan-solist-vinho-71C:
       before_reveal: >
         The cask influence is strong here, but has done an amazing job. On the nose I get a sense it might be a grain whisky, from that vegetal and perhaps even a slightly gluey note. On the palate, however, I taste malt. So I suppose I should conclude that this is a really old blend, 30yo at least, maybe even closer to 40. Highland or Speyside style, but with a blend the origin is often mixed. The alcohol for me feels like above 50% at least.
       after_reveal: >
-        What?! This might be the most wrong I’ve ever been… OK, so I did have in mind a wine cask (from taste, and looking at the reddish colour), but then didn’t dare to commit to it because it seemed unlikely that such an old whisky (ahem) would be finished in a red wine barrel. But the clearly very strong alcohol also spoke against a really old whisky… as did perhaps the relatively quick finish. Trying to rescue my reputation here, Kavalan is in Taipei and maturation should happen a lot faster in such climates, and wine casks can impart lots of musty flavours that makes age-classing a whisky quite hard. Still, I can only explain away so much of my ignorance. <br>Value for money here become interesting. On paper, it would seem preposterous to pay €169 for a 7 year old whisky, but it is darn good, and I mistook it for whisky of an age that would have cost €300 and more. So in the end I have to say the price is fair, and I’m quite tempted to buy a bottle.
+        What?! This might be the most wrong I've ever been… OK, so I did have in mind a wine cask (from taste, and looking at the reddish colour), but then didn't dare to commit to it because it seemed unlikely that such an old whisky (ahem) would be finished in a red wine barrel. But the clearly very strong alcohol also spoke against a really old whisky… as did perhaps the relatively quick finish. Trying to rescue my reputation here, Kavalan is in Taipei and maturation should happen a lot faster in such climates, and wine casks can impart lots of musty flavours that makes age-classing a whisky quite hard. Still, I can only explain away so much of my ignorance. <br>Value for money here become interesting. On paper, it would seem preposterous to pay €169 for a 7 year old whisky, but it is darn good, and I mistook it for whisky of an age that would have cost €300 and more. So in the end I have to say the price is fair, and I’m quite tempted to buy a bottle.
     grade:
       system: stoplight-2024
-      deliciousness: "⚫⚫🟢" 🟢🟡🔴
+      deliciousness: "⚫⚫🟢"
       fun_factor: "⚫⚫🟢"
       value: "⚫🟡🟢"
       mark: "❤️"
