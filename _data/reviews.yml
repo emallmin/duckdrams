@@ -783,7 +783,7 @@ glen-grant-23-sv:
       punchline: "Better than Glühwein"
 
 bruichladdich-14-private:
-  bottle: ###
+  bottle: bruichladdich-14-private
   date: 2024-12-15
   market_context:
     availability: Last sold for €175 on auction
