@@ -847,7 +847,7 @@ maltman-50:
 zuidam-5:
   production:
     vintage: 2019
-    producer: Zuidam Distillery
+    producer: zuidam
   maturation:
     age: 5
     cask: Palo Cortado Butt
@@ -949,7 +949,7 @@ springbank-10-cs-2023:
     size: 700
   marketing:
     series: Sherry Wood Palo Cortado
-    name:
+    name: "Palo Cortado Matured"
     released: 2023
     rrp:
       amount: null

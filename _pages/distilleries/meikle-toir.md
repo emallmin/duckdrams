@@ -1,5 +1,5 @@
 ---
-title: "Maikle Tòir"
+title: "Meikle Tòir"
 permalink: /distilleries/meikle-toir/
 layout: single
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bushmills"
+title: "Bushmills Single Malt"
 permalink: /distilleries/bushmills-single-malt/
 layout: single
 ---

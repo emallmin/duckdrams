@@ -1,5 +1,5 @@
 ---
-title: "bushmills"
+title: "Bushmills"
 permalink: /distilleries/bushmills/
 layout: single
 ---

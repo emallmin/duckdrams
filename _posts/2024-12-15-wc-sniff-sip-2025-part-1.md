@@ -31,3 +31,6 @@ No, no, I’m not taking a samples out of my toilet, but from my Whisky (advent)
 {% include review.html id="maltman-50" %}
 
 {% include review.html id="springbank-10-cs-2023" %}
+
+And we’re off to an amazing start! Interestingly, it seems to be the non-Scotch making the biggest impression so far, earning a ❤️ for Ireland and Taiwan. As for my guesses… room for improvement. I seem to often wrongly guess PX or dessert wine cask… But sooner or later it will be correct 😉
+

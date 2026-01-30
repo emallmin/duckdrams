@@ -612,7 +612,7 @@ glenrothes-15-nss:
       currency: EUR
   sample_context:
     desc: from a 2cl sample bottle
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
