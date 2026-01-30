@@ -1,0 +1,56 @@
+'272521':
+  production:
+    vintage: '09.2008 # check!'
+    producer: Glengoyne
+  maturation:
+    age: 14
+    cask: Sherry Hogshead
+  bottling:
+    bottler: Hunter Laing
+    batching: single_cask
+    abv: 50.0
+    outturn: 231
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: '08.2023'
+    size: 700 ml
+  marketing:
+    series: The Old Malt Cask
+    name: null
+    released: '18 mar 2025 7:49 am by blacknapkins # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 272521
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/2521/505970-big.jpg
+      source: whiskybase
+'274046':
+  production:
+    vintage: null
+    producer: null
+  maturation:
+    age: 21
+    cask: Rum brls, refill bourbon, PX & Oloroso butt
+  bottling:
+    bottler: That Boutique-y Whisky Company
+    batching: null
+    abv: 45.8
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: '2025'
+    size: 700 ml
+  marketing:
+    series: null
+    name: null
+    released: '13 apr 2025 4:41 pm by Coldorak # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 274046
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/4046/503077-big.jpg
+      source: whiskybase
