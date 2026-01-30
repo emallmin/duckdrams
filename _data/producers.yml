@@ -310,6 +310,14 @@ tbwc-blended-grain:
   country: Scotland
   peated: no
 
+tbwc-irish-whiskey:
+  name: That Boutique-y Whisky Company (Irish Whiskey)
+  kind: blender
+  category: Irish Whiskey
+  class: Blended Irish Whiskey
+  country: Ireland
+  peated: no
+
 springbank:
   name: Springbank
   kind: distillery
@@ -317,3 +325,13 @@ springbank:
   region: Campbeltown
   category: Scotch Whisky
   class: Single Malt
+
+glengoyne:
+  name: "Glengoyne"
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+

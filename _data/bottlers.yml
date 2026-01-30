@@ -34,6 +34,12 @@ douglas-laing:
   status: Active
   country: UK
 
+hunter-laing:
+  name: Hunter Laing
+  kind: bottler
+  status: Active
+  country: UK
+
 irish-whiskeys:
   name: "Irish Whiskeys"
   kind: bottler
