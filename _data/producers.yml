@@ -63,6 +63,15 @@ ben-wyvis:
   peated: no
 
 
+ben-nevis:
+  name: "Ben Nevis"
+  kind: distillery
+  status: active
+  region: "Highlands"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  peated: no
+
 ## Islay
 
 bruichladdich:
@@ -343,3 +352,4 @@ kilchoman:
   category: Scotch Whisky
   class: Single Malt
   peated: yes
+

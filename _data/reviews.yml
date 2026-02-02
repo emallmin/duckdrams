@@ -19,10 +19,81 @@ linkwood-24-glmo-2023:
       Not overly complex, but delicious. Longish finish with gooseberry and tropical fruit.
     comments:
     grade:
-      system: "Legacy"
-      score: "⭐Notable Quality"
+      system: "original-2023"
+      score: "⭐ Notable Quality"
       wb_score: 89
+      heart: yes
 
+ben-nevis-8-sv:
+  bottle: ben-nevis-8-sv
+  date: 2023-03-04
+  market_context:
+    availability: "€40"
+    estimated_price:
+      amount: 40
+      currency: EUR
+  sample_context:
+    desc: Bottle kill.
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      It first hits me with fresh fruit: mostly melon (honeydew), then also citrus (lemon curd, grapefruit). There is a minerality, that together with a slightly savoury note makes me think of shellfish and sea spray.     
+    sipping: >
+      The palate is quite consistent with the nose. There is a slight bitterness and ashiness that gives some structure to the taste experience. The finish is short to medium.    comments: >
+    comments: >
+      Overall it's a "bright" whisky, that's quite accessible but also interesting enough.
+    grade:
+      system: "original-2023"
+      score: "⭐ Notable Quality"
+      punchline: Melon-prawn cocktail
+
+ben-nevis-5-ad:
+  bottle: ben-nevis-5-ad
+  date: 2023-03-04
+  market_context:
+    availability: Sold out. I bought a bottle for £90 at auction in 2021.
+    estimated_price:
+      amount: 90
+      currency: GBP
+  sample_context:
+    desc: Bottle kill
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      On first whiff a little boozy with the high ABV, but then the sherry bomb explodes! Toffee, coffee beans, and sherry-steeped strawberry laces. Quite creamy, even buttery. 
+    sipping: >
+      Intense, with a rather chewy and oily texture. There’s salted caramel, fruit leather, and candied oranges. In the development and finish, I get more of the “funky” notes, and a lingering tobacco (cigar) taste. With a bit of water, some mineral and citrusy notes whisper. 
+    comments: >
+       Overall, a sherry-bomb with a funky side that really makes all the difference here.
+    grade:
+      system: "original-2023"
+      score: "❤️ Personal Favourite"
+      punchline: Sherry-steeped strawberry laces
+
+ben-nevis-9-eld-xmas:
+  bottle: ben-nevis-9-eld-xmas
+  date: 2023-03-08
+  market_context:
+    availability: Part of 2022 SMoS whisky calendar
+    estimated_price:
+      amount:
+      currency:
+  sample_context:
+    desc: 3cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      First impression is buttery on the nose. Shortbread biscuits, milk chocolate, but also fruity (red apple?). There's a briney character too. Charred grapefruits and seashells. Not peaty, but slightly smoky and industrial. The latter impressions grow with time and water. 
+    sipping: >
+      Flavourful, until the alcohol singes the palate. Dirty, and a bit ashy and sulfury, but not too much. Reminds me a lot of Croftengea. Quite decent finish, with rubber giving way to dried mulberries. I want to say butter-fried sage too, but I might be overdoing it.
+    comments: >
+      Overall, an assertive dram, playing more toward the phenolic than fruity side of BN.
+    grade:
+      system: "original-2023"
+      score: "⭐ Notable Quality"
 
 inchmurrin-23-lt-2023:
   bottle: inchmurrin-23-lt
@@ -44,8 +115,7 @@ inchmurrin-23-lt-2023:
       The palate is somewhat dry, the taste contains stone fruits and a hint of ash,
        and is slightly pungent (like overripe fruit, or fruit punch). The finish is long and satisfying with stone fruits and gooseberry.
     comments: >
-      Surprisingly, I’m most excited about the finish here. Usually, I’m more captivated by the nose, or the palate. 
-      It’s a great bourbon-casky dram, not so complex, but definitely tasty. I personally wouldn’t go out of my way to obtain a bottle, though.
+      Surprisingly, I'm most excited about the finish here. Usually, I'm more captivated by the nose, or the palate. It's a great bourbon-casky dram, not so complex, but definitely tasty. I personally wouldn't go out of my way to obtain a bottle, though.
     grade:
       system: "Legacy"
       score: "Great Quality ⭐"

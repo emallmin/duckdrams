@@ -84,3 +84,11 @@ meadowside:
   kind: bottler
   country: UK
 
+adelphi:
+  name: Adelphi
+  kind: bottler
+  country: UK
+
+elixir:
+  name: Elixir Distillers
+  kind: bottler

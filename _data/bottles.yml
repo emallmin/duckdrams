@@ -1077,6 +1077,92 @@ kilchoman-8:
       url: https://static.whiskybase.com/storage/whiskies/2/8/5452/512994-big.jpg
       source: whiskybase
 
+ben-nevis-5-ad:
+  production:
+    vintage: 2015
+    producer: ben-nevis
+  maturation:
+    age: 5
+    cask: 1st Fill Sherry
+  bottling:
+    bottler: adelphi
+    batching: single_cask
+    abv: 61.3
+    outturn: 622
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2020
+    size: 700
+  marketing:
+    series: Selection
+    name: null
+    released: 2020
+    rrp:
+      amount: 
+      currency:
+  meta:
+    whiskybase_id: 169800
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/6/9800/293551-big.jpg
+      source: whiskybase
+
+ben-nevis-8-sv:
+  production:
+    vintage: 2013
+    producer: ben-nevis
+  maturation:
+    age: 8
+    cask: Hogsheads
+  bottling:
+    bottler: signatory
+    batching: null
+    abv: 46
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: The Un-Chillfiltered Collection
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 201677
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/0/1677/353105-big.jpg
+      source: whiskybase
+
+ben-nevis-8-eld-xmas:
+  production:
+    vintage: 2012
+    producer: ben-nevis
+  maturation:
+    age: 9
+    cask:
+  bottling:
+    bottler: elixir
+    batching: single_cask
+    abv: 57.8
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 30
+  marketing:
+    series: Single Malt of Scotland
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: null
+    image:
+      url: https://files.emilmallmin.com/ben-nevis-9-eld-xmas.JPG
+      source: self
 
 # bottle-key:
 #   production:
