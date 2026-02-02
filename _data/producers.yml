@@ -335,3 +335,11 @@ glengoyne:
   category: "Scotch Whisky"
   class: "Single Malt"
 
+kilchoman:
+  name: Kilchoman
+  kind: distillery
+  country: Scotland
+  region: Islay
+  category: Scotch Whisky
+  class: Single Malt
+  peated: yes

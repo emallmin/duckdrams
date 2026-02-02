@@ -1015,6 +1015,31 @@ irish-whiskey-21-tbwc:
       system: "three-tier-2026"
       score: #none
 
+kilchoman-8: #bruhler 3
+  bottle: kilchoman-8
+  date: 2026-01-31
+  market_context:
+    availability: "Widely available in Germany online, €95-120"
+    estimated_price:
+      amount: 105
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Earthy, peaty, coastal, vibrant. Fresh wood, sap, orange chocolate, some vanilla. Overall it is very pleasant and balanced.   
+    sipping: >
+      Saline, with plenty of toasted malt notes (like a chocolate malt), dry, burning wood, minerality. Takes plenty of water. Leaves a warming, bonfire finish.  
+    comments:
+      before_reveal: >
+        By all means a simple but effective dram. Certainly single malt. If Scottish, which nothing in the experience contradicts, I'd say peated highland or lowland. It is possible it's not Scottish, like Swedish or Netherlands, but definitely using Scottish peat. Maximum 7 years, not a strong signal of sherry or similar.
+      after_reveal: >
+        That's funny. So much of the flavour is pointing to Islay, yet somehow I was determined not to make that my guess.      
+    grade:
+      system: "three-tier-2026"
+      score: null
 
 # review-key:
 #   bottle: ###

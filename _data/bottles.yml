@@ -1048,6 +1048,36 @@ irish-whiskey-21-tbwc:
       source: whiskybase
 
 
+kilchoman-8:
+  production:
+    vintage: 2017
+    producer: kilchoman
+  maturation:
+    age: 8
+    cask: Oloroso Sherry Cask
+  bottling:
+    bottler:
+    batching: single_cask
+    abv: 57.6
+    outturn: 316
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: The Awakening Series
+    name: null
+    released: 2025
+    rrp:
+      amount: 110
+      currency: EUR
+  meta:
+    whiskybase_id: 285452
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/5452/512994-big.jpg
+      source: whiskybase
+
+
 # bottle-key:
 #   production:
 #     vintage: #

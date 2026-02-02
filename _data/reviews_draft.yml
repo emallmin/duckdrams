@@ -1,0 +1,46 @@
+# N
+nectarosity:
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Bright, lots of pear and some citrus. Peppery: white pepper, oak spice. Lemony cake icing, fudge. Mild booziness from the grain component. Likable, but not particularly memorable.
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+# review-key:
+#   bottle: ###
+#   date: ###
+#   market_context:
+#     availability: ###
+#     estimated_price:
+#       amount: ###
+#       currency: ###
+#   sample_context:
+#     desc: ###
+#     blind: no
+#   review:
+#     intro: null
+#     nosing: >
+#       ###
+#     sipping: >
+#       ###
+#     comments: >
+#       ###
+#     grade:
+#       system: "three-tier-2026"
+#       score: ###
