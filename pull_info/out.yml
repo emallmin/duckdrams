@@ -1,56 +1,28 @@
-'272521':
+'285452':
   production:
-    vintage: '09.2008 # check!'
-    producer: Glengoyne
+    vintage: '20.06.2017 # check!'
+    producer: Kilchoman
   maturation:
-    age: 14
-    cask: Sherry Hogshead
+    age: null
+    cask: Oloroso Sherry Cask
   bottling:
-    bottler: Hunter Laing
+    bottler: Distillery Bottling
     batching: single_cask
-    abv: 50.0
-    outturn: 231
+    abv: 57.6
+    outturn: 316
     natural_color: true
     unchillfiltered: true
-    bottling_date: '08.2023'
+    bottling_date: 11.08.2025
     size: 700 ml
   marketing:
-    series: The Old Malt Cask
+    series: The Awakening Series
     name: null
-    released: '18 mar 2025 7:49 am by blacknapkins # check!'
+    released: '16 oct 2025 1:06 pm by Poppi # check!'
     rrp:
       amount: null
       currency: EUR
   meta:
-    whiskybase_id: 272521
+    whiskybase_id: 285452
     image:
-      url: https://static.whiskybase.com/storage/whiskies/2/7/2521/505970-big.jpg
-      source: whiskybase
-'274046':
-  production:
-    vintage: null
-    producer: null
-  maturation:
-    age: 21
-    cask: Rum brls, refill bourbon, PX & Oloroso butt
-  bottling:
-    bottler: That Boutique-y Whisky Company
-    batching: null
-    abv: 45.8
-    outturn: null
-    natural_color: true
-    unchillfiltered: true
-    bottling_date: '2025'
-    size: 700 ml
-  marketing:
-    series: null
-    name: null
-    released: '13 apr 2025 4:41 pm by Coldorak # check!'
-    rrp:
-      amount: null
-      currency: EUR
-  meta:
-    whiskybase_id: 274046
-    image:
-      url: https://static.whiskybase.com/storage/whiskies/2/7/4046/503077-big.jpg
+      url: https://static.whiskybase.com/storage/whiskies/2/8/5452/512994-big.jpg
       source: whiskybase
