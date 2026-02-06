@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Ben NEvis bottle kills"
+title: "Ben Nevis bottle kills"
 date: 2023-03-23
 categories: Review
 tags: [legacy, tag2]
 header:
-  overlay_image: https://files.emilmallmin.com/melonprawn.png
+  overlay_image: https://files.emilmallmin.com/melonprawn.jpg
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/melonprawn.png
+  teaser: https://files.emilmallmin.com/melonprawn.jpg
 ---
 
 Tonight (March 4th) I’m finishing off two Ben Nevises.
