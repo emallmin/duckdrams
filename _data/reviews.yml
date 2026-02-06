@@ -675,6 +675,7 @@ glenallachie-4:
 glenrothes-15-nss:
   bottle: glenrothes-15-nss
   date: 2024-12-15
+  post:
   market_context:
     availability: "€140"
     estimated_price:
@@ -705,6 +706,7 @@ glenrothes-15-nss:
 glasgow-1770-2018:
   bottle: glasgow-1770-2018
   date: 2024-12-15
+  post:
   market_context:
     availability: sold out
     estimated_price:
@@ -735,6 +737,7 @@ glasgow-1770-2018:
 classic-of-islay-2024:
   bottle: classic-of-islay-2024
   date: 2024-12-15
+  post:
   market_context:
     availability: unavailable
     estimated_price:
@@ -765,6 +768,7 @@ classic-of-islay-2024:
 blended-grain-30-tbwc:
   bottle: blended-grain-30-tbwc
   date: 2024-12-15
+  post:
   market_context:
     availability: "€78 (50cl)"
     estimated_price:
@@ -795,6 +799,7 @@ blended-grain-30-tbwc:
 blair-athol-7-mm:
   bottle: blair-athol-7-mm
   date: 2024-12-15
+  post:
   market_context:
     availability: "€70"
     estimated_price:
@@ -825,6 +830,7 @@ blair-athol-7-mm:
 glen-grant-23-sv:
   bottle: glen-grant-23-sv
   date: 2024-12-15
+  post:
   market_context:
     availability: "€275"
     estimated_price:
@@ -855,6 +861,7 @@ glen-grant-23-sv:
 bruichladdich-14-private:
   bottle: bruichladdich-14-private
   date: 2024-12-15
+  post:
   market_context:
     availability: Last sold for €175 on auction
     estimated_price:
@@ -885,6 +892,7 @@ bruichladdich-14-private:
 teeling-21:
   bottle: teeling-21
   date: 2024-12-15
+  post:
   market_context:
     availability: "€200"
     estimated_price:
@@ -915,6 +923,7 @@ teeling-21:
 kavalan-solist-vinho-71C:
   bottle: kavalan-solist-vinho-71C
   date: 2024-12-15
+  post:
   market_context:
     availability: "available at €169"
     estimated_price:
@@ -945,6 +954,7 @@ kavalan-solist-vinho-71C:
 zuidam-5:
   bottle: zuidam-5
   date: 2024-12-15
+  post:
   market_context:
     availability: "€50"
     estimated_price:
@@ -1110,6 +1120,65 @@ kilchoman-8: #bruhler 3
     grade:
       system: "three-tier-2026"
       score: null
+
+# review-key: #bruhler-4
+#   bottle: ###
+#   date: ###
+#   market_context:
+#     availability: ###
+#     estimated_price:
+#       amount: ###
+#       currency: ###
+#   sample_context:
+#     desc: ###
+#     blind: yes
+#   review:
+#     intro: null
+#     nosing: >
+#       Rich and confectionary: gingerbread cookies baking in the oven, vanilla fudge, a bit candy-like, with strawberries, dates, port wine. Wood and cinnamon stick. Very harmonious and coherent in style, neither simplistic nor very complex.  
+#     sipping: >
+#       Rather sweet, but a little drying in the finish. Gentle and well-integrated sherry impression, with malty and biscuity flavours, dried apricots and figs, soft baking spices. A little mentholic.
+#     comments:
+#       before_reveal: >
+#         An very enjoyable sherried dram. Could it be a secret (M) from the Signatoryy 100 proof line? I've heard they a bit hot, though, and this one is not. Maybe a Glenfarclas or Tamdhu, or really any quality Highland/Speyside with a good sherry cask for a decade and more. 
+#       after_reveal: >
+#         Unexpected! I didn't even think it could be a single grain. I guess the octave ruby port has done a lot of work. Lucky dip! Could easily be recommended at the retail price of €60.
+#     grade:
+#       system: "three-tier-2026"
+#       score: ###
+
+# review-key: #bru-5
+#   bottle: ###
+#   date: ###
+#   market_context:
+#     availability: ###
+#     estimated_price:
+#       amount: ###
+#       currency: ###
+#   sample_context:
+#     desc: ###
+#     blind: no
+#   review:
+#     intro: null
+#     nosing: >
+#       Very unusual: soapy, flowery, and vinegary (though not sharp). More readily enjoyable secondary notes of melon, cookie dough, vanilla and oak.  
+#     sipping: >
+#       Immediate sensation is light, soapy and floral, but after a second it becomes weighty, malty, melon-y, and with lots of tobacco blooming forth. 
+#     comments:
+#       before_reveal: >
+#         If this is Scotch I could only ever guess it's some 80s (but not very mature) bottle of Rosebank or Tullibardine or the like. Otherwise it's something completely foreign. Do I like it? It's actually intriguing, I wouldn't mind having another few drams in the future to analyze more. I think it's one of those drams that would see WB scores ranging from 78 to 89.
+#       after_reveal: >
+#         Huh! I guess it's this Koval bourbon finish that gives these strange flowery notes?  Other review mention lot's of tropical fruits, not flowers. I could agree with grapefruit and other citrussy notes, maybe also diluted pinapple juice, but overall I have a rather different experience than others it seems.     
+#     grade:
+#       # system: "Legacy"
+#       # score: ###
+#       # system: "multidim-2025"
+#       # nose_deliciousness: 3.5
+#       # nose_fun_factor: 4
+#       # sip_deliciousness: 3.5
+#       # sip_fun_factor: 3
+#       system: "three-tier-2026"
+#       score: ###
 
 # review-key:
 #   bottle: ###
