@@ -1052,7 +1052,7 @@ glengoyne-14-hl:
       amount: 95
       currency: EUR
   sample_context:
-    desc: from a 2cl sample bottle
+    desc: 2cl sample from whisky calendar
     blind: yes
   review:
     intro: null
@@ -1070,7 +1070,7 @@ glengoyne-14-hl:
       score: #none
 
 irish-whiskey-21-tbwc:
-  bottle: tbwc
+  bottle: irish-whiskey-21-tbwc
   date: 2026-01-30
   market_context:
     availability: "Available for €103"
@@ -1078,7 +1078,7 @@ irish-whiskey-21-tbwc:
       amount: 103
       currency: EUR
   sample_context:
-    desc: from a 2cl sample bottle
+    desc: 2cl sample from whisky calendar
     blind: yes
   review:
     intro: null
@@ -1104,7 +1104,7 @@ kilchoman-8: #bruhler 3
       amount: 105
       currency: EUR
   sample_context:
-    desc: from a 2cl sample bottle
+    desc: 2cl sample from whisky calendar
     blind: yes
   review:
     intro: null
@@ -1121,64 +1121,136 @@ kilchoman-8: #bruhler 3
       system: "three-tier-2026"
       score: null
 
-# review-key: #bruhler-4
-#   bottle: ###
-#   date: ###
-#   market_context:
-#     availability: ###
-#     estimated_price:
-#       amount: ###
-#       currency: ###
-#   sample_context:
-#     desc: ###
-#     blind: yes
-#   review:
-#     intro: null
-#     nosing: >
-#       Rich and confectionary: gingerbread cookies baking in the oven, vanilla fudge, a bit candy-like, with strawberries, dates, port wine. Wood and cinnamon stick. Very harmonious and coherent in style, neither simplistic nor very complex.  
-#     sipping: >
-#       Rather sweet, but a little drying in the finish. Gentle and well-integrated sherry impression, with malty and biscuity flavours, dried apricots and figs, soft baking spices. A little mentholic.
-#     comments:
-#       before_reveal: >
-#         An very enjoyable sherried dram. Could it be a secret (M) from the Signatoryy 100 proof line? I've heard they a bit hot, though, and this one is not. Maybe a Glenfarclas or Tamdhu, or really any quality Highland/Speyside with a good sherry cask for a decade and more. 
-#       after_reveal: >
-#         Unexpected! I didn't even think it could be a single grain. I guess the octave ruby port has done a lot of work. Lucky dip! Could easily be recommended at the retail price of €60.
-#     grade:
-#       system: "three-tier-2026"
-#       score: ###
+north-british-16-dt: #bruhler-4
+  bottle: north-british-16-dt
+  date: 2026-01-31
+  market_context:
+    availability: Unavailable.
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Rich and confectionary: gingerbread cookies baking in the oven, vanilla fudge, a bit candy-like, with strawberries, dates, port wine. Wood and cinnamon stick. Very harmonious and coherent in style, neither simplistic nor very complex.  
+    sipping: >
+      Rather sweet, but a little drying in the finish. Gentle and well-integrated sherry impression, with malty and biscuity flavours, dried apricots and figs, soft baking spices. A little mentholic.
+    comments:
+      before_reveal: >
+        An very enjoyable sherried dram. Could it be a secret (M) from the Signatoryy 100 proof line? I've heard they a bit hot, though, and this one is not. Maybe a Glenfarclas or Tamdhu, or really any quality Highland/Speyside with a good sherry cask for a decade and more. 
+      after_reveal: >
+        Unexpected! I didn't even think it could be a single grain. I guess the octave ruby port has done a lot of work. Lucky dip! Could easily be recommended at the retail price of €60.
+    grade:
+      system: "three-tier-2026"
+      score: ###
 
-# review-key: #bru-5
-#   bottle: ###
-#   date: ###
-#   market_context:
-#     availability: ###
-#     estimated_price:
-#       amount: ###
-#       currency: ###
-#   sample_context:
-#     desc: ###
-#     blind: no
-#   review:
-#     intro: null
-#     nosing: >
-#       Very unusual: soapy, flowery, and vinegary (though not sharp). More readily enjoyable secondary notes of melon, cookie dough, vanilla and oak.  
-#     sipping: >
-#       Immediate sensation is light, soapy and floral, but after a second it becomes weighty, malty, melon-y, and with lots of tobacco blooming forth. 
-#     comments:
-#       before_reveal: >
-#         If this is Scotch I could only ever guess it's some 80s (but not very mature) bottle of Rosebank or Tullibardine or the like. Otherwise it's something completely foreign. Do I like it? It's actually intriguing, I wouldn't mind having another few drams in the future to analyze more. I think it's one of those drams that would see WB scores ranging from 78 to 89.
-#       after_reveal: >
-#         Huh! I guess it's this Koval bourbon finish that gives these strange flowery notes?  Other review mention lot's of tropical fruits, not flowers. I could agree with grapefruit and other citrussy notes, maybe also diluted pinapple juice, but overall I have a rather different experience than others it seems.     
-#     grade:
-#       # system: "Legacy"
-#       # score: ###
-#       # system: "multidim-2025"
-#       # nose_deliciousness: 3.5
-#       # nose_fun_factor: 4
-#       # sip_deliciousness: 3.5
-#       # sip_fun_factor: 3
-#       system: "three-tier-2026"
-#       score: ###
+tormore-29-mmd: #bru-5
+  bottle: tormore-29-mmd
+  date: 2025-02
+  market_context:
+    availability: "Available at RRP of €190"
+    estimated_price:
+      amount: 190
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Very unusual: soapy, flowery, and vinegary (though not sharp). More readily enjoyable secondary notes of melon, cookie dough, vanilla and oak.  
+    sipping: >
+      Immediate sensation is light, soapy and floral, but after a second it becomes weighty, malty, melon-y, and with lots of tobacco blooming forth. 
+    comments:
+      before_reveal: >
+        If this is Scotch I could only ever guess it's some 80s (but not very mature) bottle of Rosebank or Tullibardine or the like. Otherwise it's something completely foreign. Do I like it? It's actually intriguing, I wouldn't mind having another few drams in the future to analyze more. I think it's one of those drams that would see WB scores ranging from 78 to 89.
+      after_reveal: >
+        Huh! I guess it's this Koval bourbon finish that gives these strange flowery notes?  Other review mention lot's of tropical fruits, not flowers. I could agree with grapefruit and other citrussy notes, maybe also diluted pinapple juice, but overall I have a rather different experience than others it seems.     
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+glenfarclas-32-bwh: #bru 6
+  bottle: glenfarclas-32-bwh
+  date: 2026-02
+  market_context:
+    availability: Sold out.
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: 2cl sample from whisky calendar 
+    blind: yes
+  review:
+    intro: >
+      This sample had something extra: a well-preserved fruit fly. Apparently, wine experts can smell the presence of a single fly in a glass of wine - if the fly is female. But I will assume this  
+    nosing: >
+      Sweet and buttery, very much like bioche. Also a winey, port-like nose, and citrus zest.  
+    sipping: >
+      Sweet, rather fatty and cask-driven in the flavours with more brioche, nougat, shortbread, a deep-red apple or two, and hints of leather, though there is a clear weight to the spirit behind it all.  
+    comments:
+      before_reveal: >
+        Not bad, but in the grand scheme of things, totally unmemorable. Must be a malt, but I'd be just as ready to belive it's an Irish whiskey in a marsala cask or the like, as a Scotch Speyside/Highland. Alcohol is strong but not compromising; around 55 perhaps. In the 10 +- age range.
+      after_reveal: >
+        I was right on the money with the port cask. It must be a finish, and that's why I don't perceive much of the age of the spirit. Not as strong as I would've thought. People are really liking this one on whisky base, close to 89 point average with 80+ reviews. I don't see the greatness, though. It's supposedly a 32yo Glenfarclas 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+cameronbridge-40-jw: # bru 7
+  bottle: cameronbridge-40-jw
+  date: 2026-02-21
+  market_context:
+    availability: Not available.
+    estimated_price:
+      amount: 275
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      First sniff lots of citrus and clementine, but that quickly faded, and I'm left with sugary cereal, icing sugar, vanilla, lots of dry-kilned wood (oak and cedar), and subtle dry herbs and flowers.   
+    sipping: >
+      Dense texture, mouth coating. Not particularly sweet, even a bit bitter (though I seem to be a little senstive today). Still, quite candy-like in flavours, some rhubarb, and a good helping of cedar wood. Sponge cake and vanilla in the fisnih.  
+    comments:
+      before_reveal: >
+        First I thought this has overlap with the cereal-herbal quality of bourbon. Then it hit me. It's a relatively old grain whisky. Not so complex, but rather a lot of wood. 50+%. 
+      after_reveal: >
+        Except for the ABV I was spot on!    
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+macallan-classic-cut: #8
+  bottle: macallan-classic-cut
+  date: 2026-02-21
+  market_context:
+    availability: Available at around €120
+    estimated_price:
+      amount: 120
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Rather sweet and sticky, pudding, also a bit sour. Dried fruits and walnut, grape must, cinnamon and clove, and something like sweaty shoes (but not overpowering). 
+    sipping: >
+      Quite a tasty balance of malty, spirit-driven character, with zingy orange, fruity, nutty, and chocolatey sherry notes, with Leather and a hint of smoke in the finish too. A bit old-school profile.
+    comments:
+      before_reveal: >
+        A Highlander or Speysider in the 15-year range, in sherry cask. Tamdhu, Glen-X, etc. With a decent price, could even be recommendable.
+      after_reveal: >
+        Aha, makes sense!
+    grade:
+      system: "three-tier-2026"
+      score: ###
 
 # review-key:
 #   bottle: ###

@@ -3,7 +3,7 @@ layout: single
 title: "Goodbye to a well-aged friend: Linkwood 24yo"
 date: 2023-03-23
 categories: Review
-tags: [legacy, tag2]
+tags: [legacy]
 header:
   overlay_image: https://files.emilmallmin.com/linkwood-24-well-aged-friend.jpg
   overlay_filter: 0.5

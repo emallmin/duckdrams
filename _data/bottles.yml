@@ -1077,6 +1077,152 @@ kilchoman-8:
       url: https://static.whiskybase.com/storage/whiskies/2/8/5452/512994-big.jpg
       source: whiskybase
 
+macallan-classic-cut:
+  production:
+    vintage: null
+    producer: macallan
+  maturation:
+    age: null
+    cask: Ex-Bourbon & Sherry seasoned
+  bottling:
+    bottler:
+    batching: null
+    abv: 50.3
+    outturn: null
+    natural_color: true
+    unchillfiltered: null
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Classic Cut
+    name: Classic Cut 2023
+    released: 2023
+    rrp:
+      amount: 120
+      currency: EUR
+  meta:
+    whiskybase_id: 236265
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/6265/424931-big.jpg
+      source: whiskybase
+
+cameronbridge-40-jw:
+  production:
+    vintage: 1984
+    producer: cameronbridge
+  maturation:
+    age: 40
+    cask: Bourbon
+  bottling:
+    bottler: wiebers
+    batching: single_cask
+    abv: 44.5
+    outturn: 40
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2024
+    rrp:
+      amount: 275
+      currency: EUR
+  meta:
+    whiskybase_id: 264826
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/4826/476372-big.jpg
+      source: whiskybase
+
+glenfarclas-32-bwh:
+  production:
+    vintage: null
+    producer: null
+  maturation:
+    age: 32
+    cask: Refill Port Barrique
+  bottling:
+    bottler: bruhler
+    batching: single_cask
+    abv: 47.6
+    outturn: 236
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700 ml
+  marketing:
+    series: The Fine Art of Whisky
+    name: null
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 267236
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/7236/484263-big.jpg
+      source: whiskybase
+
+tormore-29-mmd:
+  production:
+    vintage: 1995
+    producer: tormore
+  maturation:
+    age: 29
+    cask: Koval Bourbon Finish
+  bottling:
+    bottler: murray-mcdavid
+    batching: single_cask
+    abv: 42.8
+    outturn: 139
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Mission Gold
+    name: null
+    released: 2025
+    rrp:
+      amount: 190
+      currency: EUR
+  meta:
+    whiskybase_id: 273977
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/3977/493927-big.jpg
+      source: whiskybase
+
+north-british-16-dt:
+  production:
+    vintage: 2009
+    producer: north-british
+  maturation:
+    age: 16
+    cask: Ruby Port Finish
+  bottling:
+    bottler: duncan-taylor
+    batching: single_cask
+    abv: 54.5
+    outturn: 93
+    natural_color: true
+    unchillfiltered: null
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: The Octave
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 286262
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/6262/513780-big.jpg
+      source: whiskybase
+
+
 ben-nevis-5-ad:
   production:
     vintage: 2015

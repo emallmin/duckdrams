@@ -92,3 +92,13 @@ adelphi:
 elixir:
   name: Elixir Distillers
   kind: bottler
+
+bruhler:
+  name: Brühler Whiskyhaus
+  kind: bottler
+  country: Germany
+
+duncan-taylor:
+  name: Duncan Taylor
+  kind: bottler
+  country: UK

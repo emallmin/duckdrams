@@ -3,7 +3,7 @@ layout: single
 title: "Ben Nevis bottle kills"
 date: 2023-03-23
 categories: Review
-tags: [legacy, tag2]
+tags: [legacy]
 header:
   overlay_image: https://files.emilmallmin.com/melonprawn.jpg
   overlay_filter: 0.5
