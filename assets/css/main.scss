@@ -17,22 +17,45 @@ search: false
 //   color: rgb(29, 196, 218) !important;
 // }
 
+// .bottle-image {
+//   float: left;
+//   margin: 0 1.5em 1em 0;
+//   width: clamp(100px, 30%, 100%);
+// }
+
+// .bottle-image img {
+//   width: 100%;
+//   height: auto;
+//   display: block;
+// }
+
+// @media (max-width: 600px) {
+//   .bottle-image {
+//     float: none;
+//     width: 100%;
+//     margin: 0 auto 1.5em;
+//   }
+// }
+
 .bottle-image {
   float: left;
   margin: 0 1.5em 1em 0;
-  width: clamp(100px, 30%, 100%);
+  max-height: 200px; /* adjust as needed */
+  width: auto;
 }
 
 .bottle-image img {
-  width: 100%;
-  height: auto;
+  height: 100%;
+  width: auto;
   display: block;
+  object-fit: contain; /* ensures no cropping */
 }
 
 @media (max-width: 600px) {
   .bottle-image {
     float: none;
-    width: 100%;
+    max-height: 200px; /* still applies */
     margin: 0 auto 1.5em;
   }
 }
+
