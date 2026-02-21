@@ -8,7 +8,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 include: ["_pages"]
 
@@ -18,12 +18,8 @@ show_tags: true
 sass:
   style: compressed
 
-pagination:
-  enabled: true
-  per_page: 5
-  title: ":title - page :num"
-  sort_field: "date"
-  sort_reverse: true
+paginate: 5
+paginate_path: "/page:num/"
 
 
 # excerpt_separator: "<!--more-->"
