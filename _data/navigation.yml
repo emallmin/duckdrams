@@ -5,3 +5,7 @@ main:
     url: /distillery-index/
   - title: Post archive
     url: /posts/
+  - title: Categories
+    url: /categories/
+  - title: Tags
+    url: /tags/
