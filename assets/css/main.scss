@@ -40,7 +40,7 @@ search: false
 .bottle-image {
   float: left;
   margin: 0 1.5em 1em 0;
-  max-height: 200px; /* adjust as needed */
+  max-height: 60px; /* adjust as needed */
   width: auto;
 }
 
@@ -54,7 +54,7 @@ search: false
 @media (max-width: 600px) {
   .bottle-image {
     float: none;
-    max-height: 200px; /* still applies */
+    max-height: 60px; /* still applies */
     margin: 0 auto 1.5em;
   }
 }
