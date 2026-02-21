@@ -40,30 +40,32 @@ search: false
 .bottle-image {
   float: left;
   margin: 0 1.5em 1em 0;
-  width: clamp(100px, 30%, 100%);
-  max-height: 250px; /* limit tall images */
-  overflow: hidden;  /* prevents tall images from spilling out */
+  max-height: 250px;     /* limit tall images */
+  max-width: 200px;      /* NEW: keeps the container narrow */
+  overflow: hidden;      /* prevents tall images from spilling out */
 }
 
 .bottle-image img {
-  width: 100%;
-  height: auto;
-  max-height: 250px; /* ensures the image itself never exceeds this */
-  object-fit: contain; /* keeps proportions, no cropping */
+  height: 100%;
+  width: auto;
+  max-height: 250px;
+  object-fit: contain;
   display: block;
 }
 
 @media (max-width: 600px) {
   .bottle-image {
     float: none;
-    width: 100%;
     margin: 0 auto 1.5em;
+    max-width: 100%;     /* full width on mobile */
     max-height: 250px;
   }
 
   .bottle-image img {
+    height: auto;
     max-height: 250px;
     width: auto;
     margin: 0 auto;
   }
 }
+
