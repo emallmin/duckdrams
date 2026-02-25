@@ -6,4 +6,5 @@ author_profile: false
 entries_layout: grid
 ---
 
-Text
+- (By category)[/categories/]
+- (By tags)[/tags/]
