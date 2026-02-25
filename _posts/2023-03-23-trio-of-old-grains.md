@@ -5,9 +5,9 @@ date: 2023-03-23
 categories: Review
 tags: [legacy]
 header:
-  overlay_image: https://files.emilmallmin.com/trio_grains.JPG.jpg
+  overlay_image: https://files.emilmallmin.com/trio_grains.JPG
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/trio_grains.JPG.jpg
+  teaser: https://files.emilmallmin.com/trio_grains.JPG
 ---
 
 Aah, grain whisky. Grain as in not malted barley. Not something I often try. What I somehow know, not so much by experience but through… reading? folklore?… is that grain whisky produced by continuous distillation in column still tends to lack the complexity of malt whisky distilled in copper stills. The presence of grain spirit is what demotes a “blended malt whisky” to a mere “blended whisky”- tsk tsk tsk! But if a grain whisky is left in solitary confinement in an oak cask for about a life-time sentence it might just come out soft, mellow, and mature… or a hardened criminal ready to re-offend innocent taste buds?
@@ -19,9 +19,9 @@ I’m coming into this tasting quite open minded really, hoping to discover some
 
 ## Comparative Review
 **Trio of old grain whiskies**
-- {{% review-string id="cameronbridge-39-mom" %}}
-- {{% review-string id="cameronbridge-39-mom" %}}
-- {{% review-string id="tbwc-blended-grain-3" %}}
+- {% include review-string id="north-of-scotland-46-mom" %}
+- {% include review-string id="cameronbridge-39-mom" %}
+- {% include review-string id="tbwc-blended-grain-3" %}
 Let’s try them one by one, neat, and with but a few minutes rest.
 
 ### First impressions
