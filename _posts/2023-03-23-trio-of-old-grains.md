@@ -18,10 +18,10 @@ I’m coming into this tasting quite open minded really, hoping to discover some
 
 
 ## Comparative Review
-**Trio of old grain whiskies**
-- {% include review-string id="north-of-scotland-46-mom" %}
-- {% include review-string id="cameronbridge-39-mom" %}
-- {% include review-string id="tbwc-blended-grain-3" %}
+Trio of old grain whiskies:
+- {% include review-string.html id="north-of-scotland-46-mom" %}
+- {% include review-string.html id="cameronbridge-39-mom" %}
+- {% include review-string.html id="tbwc-blended-grain-3" %}
 Let’s try them one by one, neat, and with but a few minutes rest.
 
 ### First impressions
