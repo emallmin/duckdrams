@@ -229,6 +229,16 @@ cambus:
   region: Lowlands
   status: closed
 
+cameronbridge:
+  name: Cameronbridge
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Grain
+  country: Scotland
+  region: Lowlands
+  status: active
+
+
 glenallachie:
   name: "GlenAllachie"
   kind: distillery
@@ -353,3 +363,37 @@ kilchoman:
   class: Single Malt
   peated: yes
 
+tormore:
+  name: Tormore
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+  owner: independent
+
+north-british:
+  name: North british
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  category: Scotch Whisky
+  class: Single Grain
+
+macallan:
+  name: "Macallan"
+  kind: distillery
+  status: "Active"
+  region: "Speyside"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+
+north-of-scotland:
+  name: North of Scotland
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  category: Scotch Whisky
+  class: Single Grain

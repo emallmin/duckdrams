@@ -51,6 +51,7 @@ ben-nevis-8-sv:
 ben-nevis-5-ad:
   bottle: ben-nevis-5-ad
   date: 2023-03-04
+  post: ben-nevis-bottle-kills
   market_context:
     availability: Sold out. I bought a bottle for £90 at auction in 2021.
     estimated_price:
@@ -75,6 +76,7 @@ ben-nevis-5-ad:
 ben-nevis-9-eld-xmas:
   bottle: ben-nevis-9-eld-xmas
   date: 2023-03-08
+  post: ben-nevis-bottle-kills
   market_context:
     availability: Part of 2022 SMoS whisky calendar
     estimated_price:
@@ -675,7 +677,7 @@ glenallachie-4:
 glenrothes-15-nss:
   bottle: glenrothes-15-nss
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "€140"
     estimated_price:
@@ -706,7 +708,7 @@ glenrothes-15-nss:
 glasgow-1770-2018:
   bottle: glasgow-1770-2018
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: sold out
     estimated_price:
@@ -737,7 +739,7 @@ glasgow-1770-2018:
 classic-of-islay-2024:
   bottle: classic-of-islay-2024
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: unavailable
     estimated_price:
@@ -768,7 +770,7 @@ classic-of-islay-2024:
 blended-grain-30-tbwc:
   bottle: blended-grain-30-tbwc
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "€78 (50cl)"
     estimated_price:
@@ -799,7 +801,7 @@ blended-grain-30-tbwc:
 blair-athol-7-mm:
   bottle: blair-athol-7-mm
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "€70"
     estimated_price:
@@ -830,7 +832,7 @@ blair-athol-7-mm:
 glen-grant-23-sv:
   bottle: glen-grant-23-sv
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "€275"
     estimated_price:
@@ -861,7 +863,7 @@ glen-grant-23-sv:
 bruichladdich-14-private:
   bottle: bruichladdich-14-private
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: Last sold for €175 on auction
     estimated_price:
@@ -892,7 +894,7 @@ bruichladdich-14-private:
 teeling-21:
   bottle: teeling-21
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "€200"
     estimated_price:
@@ -923,7 +925,7 @@ teeling-21:
 kavalan-solist-vinho-71C:
   bottle: kavalan-solist-vinho-71C
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "available at €169"
     estimated_price:
@@ -954,7 +956,7 @@ kavalan-solist-vinho-71C:
 zuidam-5:
   bottle: zuidam-5
   date: 2024-12-15
-  post:
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "€50"
     estimated_price:
@@ -985,6 +987,7 @@ zuidam-5:
 maltman-50:
   bottle: maltman-50
   date: 2024-12-15
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "€500"
     estimated_price:
@@ -1015,6 +1018,7 @@ maltman-50:
 springbank-10-cs-2023:
   bottle: springbank-10-cs-2023
   date: 2024-12-15
+  post: wc-sniff-sip-2025-part-1
   market_context:
     availability: "RRP ~€100; secondary market €250+"
     estimated_price:
@@ -1046,6 +1050,7 @@ springbank-10-cs-2023:
 glengoyne-14-hl:
   bottle: glengoyne-14-hl
   date: 2026-01-30
+  post: cathcing-up-with-the-calendar-2026-1
   market_context:
     availability: "available for €95"
     estimated_price:
@@ -1072,6 +1077,7 @@ glengoyne-14-hl:
 irish-whiskey-21-tbwc:
   bottle: irish-whiskey-21-tbwc
   date: 2026-01-30
+  post: cathcing-up-with-the-calendar-2026-1
   market_context:
     availability: "Available for €103"
     estimated_price:
@@ -1098,6 +1104,7 @@ irish-whiskey-21-tbwc:
 kilchoman-8: #bruhler 3
   bottle: kilchoman-8
   date: 2026-01-31
+  post: cathcing-up-with-the-calendar-2026-1
   market_context:
     availability: "Widely available in Germany online, €95-120"
     estimated_price:
@@ -1124,6 +1131,7 @@ kilchoman-8: #bruhler 3
 north-british-16-dt: #bruhler-4
   bottle: north-british-16-dt
   date: 2026-01-31
+  post: cathcing-up-with-the-calendar-2026-1
   market_context:
     availability: Unavailable.
     estimated_price:
@@ -1150,6 +1158,7 @@ north-british-16-dt: #bruhler-4
 tormore-29-mmd: #bru-5
   bottle: tormore-29-mmd
   date: 2025-02
+  post: cathcing-up-with-the-calendar-2026-1
   market_context:
     availability: "Available at RRP of €190"
     estimated_price:
@@ -1176,6 +1185,7 @@ tormore-29-mmd: #bru-5
 glenfarclas-32-bwh: #bru 6
   bottle: glenfarclas-32-bwh
   date: 2026-02
+  post: cathcing-up-with-the-calendar-2026-1
   market_context:
     availability: Sold out.
     estimated_price:
@@ -1203,6 +1213,7 @@ glenfarclas-32-bwh: #bru 6
 cameronbridge-40-jw: # bru 7
   bottle: cameronbridge-40-jw
   date: 2026-02-21
+  post: cathcing-up-with-the-calendar-2026-1
   market_context:
     availability: Not available.
     estimated_price:
@@ -1229,6 +1240,7 @@ cameronbridge-40-jw: # bru 7
 macallan-classic-cut: #8
   bottle: macallan-classic-cut
   date: 2026-02-21
+  post: cathcing-up-with-the-calendar-2026-1
   market_context:
     availability: Available at around €120
     estimated_price:
@@ -1252,9 +1264,95 @@ macallan-classic-cut: #8
       system: "three-tier-2026"
       score: ###
 
+north-of-scotland-46-mom:
+  bottle: north-of-scotland-46-mom
+  date: 2023-03-23
+  post: trio-of-old-grains
+  market_context:
+    availability: "£150-200 in the UK"
+    estimated_price:
+      amount: 175
+      currency: GBP
+  sample_context:
+    desc: from a 3cl sample bottle
+    blind: no
+  review:
+    intro: From a comparative review of three grain whiskies.
+    nosing: >
+      First impression: Pancakes with plenty of syrup; oak wood, cinnamon, and vanilla, a bit perfumed. A generous and enticing nose. Some sour and vegetal notes hiding in the background though.
+      
+      Second impression: Still close to the initial experience. Maybe a bit more polished wood, and a little less pancakes. Finish is perhaps a bit weak. Next!
+    sipping: >
+      Flavourful and creamy in taste, but light in texture. Sweet, vanilla finish. Well integrated.
+    comments: >
+      In total I find the NS 46yo to be good but not fantastic.
+    grade:
+      system: "original-2023"
+      score: "⭐ Notable Quality"
+
+cameronbridge-39-mom:
+  bottle: cameronbridge-39-mom
+  date: 2023-03-23
+  post: trio-of-old-grains
+  market_context:
+    availability: "£150-200 in the UK"
+    estimated_price:
+      amount: 175
+      currency: GBP
+  sample_context:
+    desc: from a 3cl sample bottle
+    blind: no
+  review:
+    intro: From a comparative review of three grain whiskies.
+    nosing: >
+      First impression: At first very closed, making it seem mostly chalky and dunnage-y. A bit buttery, some confectionary notes developing, but the woody and vegetal notes are more pronounced here than in the NoS. Wood spice, polished wood, almost sour wood too.
+
+      Second impression: Ooh, here’s more sweet pastry than I remember from earlier. Not as closed as at first, and less vegetal. Some milk chocolate. A faint trace of a leathery note (more please!). But the main experience is still wood. The sourness is less vinegary and more citric now. Now the nose is sort of nice, actually, if a bit too woodsy.       
+    sipping: >
+      First impression: Palate has some zing! compared to NoS, and more texture. Drying and a bit sour. Orange marmalade, maybe some stewed apples – but not very sweet. Finish is quite oaky, with tannins.
+
+      Second impression: still tannic… very tannic – there’s an astringent coating on the teeth. Not great.
+    comments: >
+      The CB 39yo and the blended grain 45yo are too unbalanced by the wood to be more than decent, but they are certainly not dull. 
+    grade:
+      system: "original-2023"
+      score: "✔️ Decent"
+
+tbwc-blended-grain-3:
+  bottle: tbwc-blended-grain-3
+  date: 2023-03-23
+  post: trio-of-old-grains  
+  market_context:
+    availability: "£150-200 in the UK"
+    estimated_price:
+      amount: 175
+      currency: GBP
+  sample_context:
+    desc: from a 3cl sample bottle
+    blind: no
+  review:
+    intro: From a comparative review of three grain whiskies.
+    nosing: >
+      First impression: quite closed, whiff of citrus and peach, but then onto sour oaky, vegetal territory. Maybe some sourdough. There is some pastry goodness there too, but not a whole lot. Again, cinnamon is present. Much closer to the CB than to the NoS.
+
+      Second impression: a bit of floral honey competing with the sour wood. 
+    sipping: >
+      First impression: Tannins and sourness, some "zing". Wood polish. Finish: quite drying, some vanilla.
+
+      Second impression: on the good side, some vanilla, and tannic but not nearly as much as the CB. But honestly, not that appealing. Finish is now sour, <em>ugh</em>.
+    comments: >
+      The CB 39yo and the blended grain 45yo are too unbalanced by the wood to be more than decent, but they are certainly not dull.
+    grade:
+      system: "original-2023"
+      score: "✔️ Decent"
+
+
+#-----------------------------
+
 # review-key:
 #   bottle: ###
 #   date: ###
+#   post: ###
 #   market_context:
 #     availability: ###
 #     estimated_price:
@@ -1286,6 +1384,7 @@ macallan-classic-cut: #8
 # review-key:
 #   bottle: ###
 #   date: ###
+#   post: ###
 #   market_context:
 #     availability: ###
 #     estimated_price:
