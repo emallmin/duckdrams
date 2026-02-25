@@ -22,6 +22,7 @@ Trio of old grain whiskies:
 - North of Scotland 46yo (1971) 41.0% *Master of Malt*
 - Cameronbridge 39yo (1979) 44.6% *Master of Malt*
 - "Blended Grain #1 Batch 3" 45yo (1976) 44.2% *That Boutique-y Whisky Company*
+
 Let’s try them one by one, neat, and with but a few minutes rest.
 
 ### First impressions
