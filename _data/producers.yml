@@ -397,3 +397,47 @@ north-of-scotland:
   region: Lowlands
   category: Scotch Whisky
   class: Single Grain
+
+tobermory:
+  name: "Tobermory"
+  kind: distillery
+  status: "Active"
+  region: "Islands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: Single Malt
+
+ledaig: 
+  name: "Ledaig"
+  kind: line
+  distillery: tobermory
+  style: "Pated"
+  peated: yes
+
+clynelish:
+  name: Clynelish
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+
+ardbeg:
+  name: Ardbeg
+  kind: distillery
+  country: Scotland
+  region: Islay
+  category: Scotch Whisky
+  class: Single Malt
+  peated: yes
+
+# --- pseudo-producers 
+
+undisclosed-islay:
+  name: Undisclosed Islay
+  kind: undisclosed
+  country: Scotland
+  region: Islay
+  category: Scotch Whisky
+  class: Single Malt
+

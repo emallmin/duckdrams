@@ -22,6 +22,309 @@ nectarosity:
       system: "three-tier-2026"
       score: ###
 
+
+mystery-malt-3-yellow: #yellow dot
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      <em>Neck pour.</em> Luciously fruity: pear drops, grapefruit, pomelo, and overripe, estery tropical fruit, even a hint of Hampden. Thick and fatty, buttery, vanilla-laced. Rather sooty and dunnage-y, perhaps even flinty, to boot.
+
+      <em>A few days later.</em> Still fruits galore (green apples!) but I am noticing the minerality more than before. First try I wavered between waxy and buttery, and chose the latter; today it's the former. Smelling the empty glass is enchanting: cereals, litchi, elderflower, pebbles.   
+    sipping: >
+      Very chewy, oily, BIG. Tutti-frutti candy transitioing to tobacco leaf and herbal, heathery notes, but leaving these rich cask-y notes in the aftertaste.
+    comments:
+      before_reveal: >
+        This is liquid gold. Totally the profile I'm most into these days, and both the nose and the taste is absolutely gorgeous. Had I paid €200 for the bottle (a bit more than the €70, give or take, I did pay) I'd still be happy. 
+        
+        Wihtout looking at the list of possibilities for Series 3 - what is is? Ben Nevis? Craigellachie? Clynelish? Teaninich? Dornoch? Or some Speysider? Maybe a really good Highland Park? It's bound to be one of my favs. I'll place my guess according to the above order. I would say 16 years and up. Certainly ex-bourbon, and a very active cask to boot. 
+
+        Most likely the Craigellachie 15, or else one of the older Clynelishes. Teaninich or "Highland" is not inconceivable.
+    grade:
+      system: "three-tier-2026"
+      score: "⁎⁎"
+
+
+mystery-malt-3-green: #green marker
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      A little timid at first, but also rather interesting. Earhty, buttery, and a litte stale, or just very few bright notes cutting through. Light soy and mushroom, prunes, macadamica nuts, brioche, sage.
+
+      Second time around it is a bit less stuffy, with some orange coming through, banana bread, and a bit of alcohol zing. 
+    sipping: >
+      That is incredibly dense and silky in texture. Orange marmalade and chocolate in the arrival, then blooms out into tobacco and god-honest proper rancio, finishing lastly on the smooth chocolatey / cocao-butter side.
+
+      Second time I'm feeling "incredibly dense and silky" is a bit of an overstatement, but certianly a creamy mouthfeel. Flavour notes remain on point basically, would add caramel.       
+    comments: >
+      Definitely a sherry cask, and the stuffy and tobacco-y notes do suggest some age to boot. But it also reminds me a lots of an Octave Dalmunach I had, which punched way above its age. So I'm ready to believe almost anything., but would guess it's nearer to 20 than 10. Highland, most likely. Let's have a look at the list.
+
+      Hard to say. Maybe the Glen Moray 16, or the Tobermory 24. 
+
+
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+park-life-20:
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      cold butter, mineral, coast, green apples, melon, trace of vegetal peat, hay, farm 
+    sipping: >
+      Yum! Briney, salty seafood, yellow fruits, and complex herbal mix, ending with quinine  
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
+park-life-23
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Similar to the 20yo, fresh and coastal - a bit more, even - but also a little timid.
+    sipping: >
+      ###
+    comments: >
+      Adds a little sweetness and creaminess to the 20, which is easy to appreciate. Yet it's less pronounced in the herbal notes, which still leaves the 20 as the more interesting option.
+    grade:
+      # system: "Legacy"
+      # score: ###
+      # system: "multidim-2025"
+      # nose_deliciousness: 3.5
+      # nose_fun_factor: 4
+      # sip_deliciousness: 3.5
+      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ###
+
+
+
+imperial-27-ls:
+  bottle: imperial-27-ls
+  date: 2026-02-27
+  post: ###
+  market_context:
+    availability: Available from around €320
+    estimated_price:
+      amount: 320
+      currency: EUR
+  sample_context:
+    desc: from a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing:
+      Summer in a glass. Honey, wax, orchard fruits, notably pear, but also bergamot; elderflower cordial, grassy meadow, gorse, olive oil, nectar, and petrichor. Ice cream melt, vanilla. Complex and delicate
+    sipping: >
+      Oily, with a robust spirit character, yet fresh and lively. Total fruit bomb, with ripe melons and peach, mangoes, and juicy oak; very slight tannins. 
+    comments: >
+      Flawless! It's not the Imperial to trump all others, but it is as good as you can really hope for. 
+    grade:
+      # system: "Legacy"
+      # score: ###
+      # system: "multidim-2025"
+      # nose_deliciousness: 3.5
+      # nose_fun_factor: 4
+      # sip_deliciousness: 3.5
+      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ⁎⁎
+
+mystery-highland-21:
+  bottle: mystery-highland-21
+  date: 2026-02-27
+  post: ###
+  market_context:
+    availability: Available €100
+    estimated_price:
+      amount: 100
+      currency: EUR
+  sample_context:
+    desc: From a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Quite noticable alcohol. Salty sea breeze (with some rotting kelp)... but equally earthy and foest-y, with mushrooms and pine wood... Sherry aromas of dried fruits and orange peel, and certaintly funky/cheesy/sulphury notes, including burnt rubber, leather, grease.
+    sipping: >
+      Savoury and salty, properly meaty. Really cheesy, like blue cheese with ginger bread, fig marmalade, but also earthy, vegetal/peaty, heathery... oysters
+    comments: >
+      ###
+    grade:
+      # system: "Legacy"
+      # score: ###
+      # system: "multidim-2025"
+      # nose_deliciousness: 3.5
+      # nose_fun_factor: 4
+      # sip_deliciousness: 3.5
+      # sip_fun_factor: 3
+      system: "three-tier-2026"
+#       score: ###
+
+
+review-key:
+  bottle: roseisle-14
+  date: ###
+  post: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      nutty, very robust
+    comments: >
+      ###
+    grade:
+      # system: "Legacy"
+      # score: ###
+      # system: "multidim-2025"
+      # nose_deliciousness: 3.5
+      # nose_fun_factor: 4
+      # sip_deliciousness: 3.5
+      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ###
+
+
+review-key: #bruhler 10
+  bottle: ###
+  date: ###
+  post: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Sherried, but not so sweet; rather earthy, intead. Oxidized sherry, kiwi, touch of leather and dirt road, heather, and herbs.
+    sipping: >
+      Sweet and salty, with a robust spirit; salted caramel, honeycomb, nuts, sultanas, and more herbal and a touch smoky in the finish.   
+    comments:
+      before_reveal: >
+        Not very confident in my tasting notes; it was chaning a lot with water, and I would need a bigger sample to converge in my description. Nonetheless, nothing contradicts a Scotch single malt, and I might even venture to guess it could be a Highland Park at the low end of peating. Or else a Highlander, like Glendronach.
+      after_reveal: >
+        adf
+    grade:
+      # system: "Legacy"
+      # score: ###
+      # system: "multidim-2025"
+      # nose_deliciousness: 3.5
+      # nose_fun_factor: 4
+      # sip_deliciousness: 3.5
+      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ⁎
+
+review-key: # bru 11
+  bottle: ###
+  date: ###
+  post: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Very clearly a red wine cask. Lots of vanilla, red berries, Schweppes Russchian, but also some sooty notes, even a little sulphur.
+    sipping: >
+      Strong alcohol! Drying and tannic, yet also dense and fatty, with a very powerful and heavy spirit.  
+    comments: >
+      Reminds me rather a lot of a red-wine cask Linkwood from Cadenhead's I got many years ago. Something heavy, like a Benrinnes or Roseisle (though this it couldn't be). Young, probably 8-ish. The dominating cask makes it rather one-dimensional.
+    grade:
+      # system: "Legacy"
+      # score: ###
+      # system: "multidim-2025"
+      # nose_deliciousness: 3.5
+      # nose_fun_factor: 4
+      # sip_deliciousness: 3.5
+      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ###
+
+# review-key:
+#   bottle: ###
+#   date: ###
+#   market_context:
+#     availability: ###
+#     estimated_price:
+#       amount: ###
+#       currency: ###
+#   sample_context:
+#     desc: ###
+#     blind: no
+#   review:
+#     intro: null
+#     nosing: >
+#       ###
+#     sipping: >
+#       ###
+#     comments: >
+#       ###
+#     grade:
+#       system: "three-tier-2026"
+#       score: ###
+
+
 # review-key:
 #   bottle: ###
 #   date: ###

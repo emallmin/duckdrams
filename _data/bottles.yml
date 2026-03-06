@@ -1397,6 +1397,242 @@ north-of-scotland-46-mom:
       url: https://static.whiskybase.com/storage/whiskies/2/2/1621/393338-big.jpg
       source: whiskybase
 
+# ---- 25th anniversary tasting
+
+
+islay-33-pst:
+  production:
+    vintage: 1991
+    producer: undisclosed-islay
+  maturation:
+    age: 33
+    cask: Refill Barrel
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 49.1
+    outturn: 244
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Dornoch Castle 25th Anniversary
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 278091
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/8091/501233-big.jpg
+      source: whiskybase
+
+bruichladdich-21-pst:
+  production:
+    vintage: 2004
+    producer: bruichladdich
+  maturation:
+    age: 21
+    cask: 1st Fill Barrel
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 54.9
+    outturn: 182
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Dornoch Castle 25th Anniversary
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 279165
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/9165/503431-big.jpg
+      source: whiskybase
+
+ardbeg-16-pst:
+  production:
+    vintage: 2008
+    producer: ardbeg
+  maturation:
+    age: 16
+    cask: Refill Butt
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 57.1
+    outturn: 200
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Dornoch Castle 25th Anniversary
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 280669
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/0669/506053-big.jpg
+      source: whiskybase
+
+clynelish-24-pst:
+  production:
+    vintage: 2004
+    producer: clynelish
+  maturation:
+    age: 21
+    cask: Refill Barrel
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 51.3
+    outturn: 247
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Dornoch Castle 25th Anniversary
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 282724
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/2724/511820-big.jpg
+      source: whiskybase
+
+clynelish-21-pst:
+  production:
+    vintage: 2001
+    producer: clynelish
+  maturation:
+    age: 24
+    cask: Refill Barrel
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 48.7
+    outturn: 176
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Dornoch Castle 25th Anniversary
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 282725
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/2725/509639-big.jpg
+      source: whiskybase
+
+glenrothes-29-pst:
+  production:
+    vintage: 1996
+    producer: glenrothes
+  maturation:
+    age: 29
+    cask: refill hogshead
+  bottling:
+    bottler: thompson-bros
+    batching: null
+    abv: 45.1
+    outturn: 184
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Dornoch Castle 25th Anniversary
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 284736
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/4736/511821-big.jpg
+      source: whiskybase
+
+sideburn-35-pst:
+  production:
+    vintage: 1989
+    producer: balvenie
+  maturation:
+    age: 35
+    cask: Refill Cask
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 51.1
+    outturn: 333
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Dornoch Castle 25th Anniversary
+    name: Sideburn
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 285532
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/5532/513189-big.jpg
+      source: whiskybase
+
+ledaig-30-pst:
+  production:
+    vintage: 1995
+    producer: ledaig
+  maturation:
+    age: 30
+    cask: Refill Hogshead
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 46.9
+    outturn: 140
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Dornoch Castle 25th Anniversary
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 286218
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/6218/517695-big.jpg
+      source: whiskybase
+
+
 
 # bottle-key:
 #   production:

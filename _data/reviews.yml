@@ -1047,6 +1047,8 @@ springbank-10-cs-2023:
       punchline: A PC Springbank
 
 
+# ----- Bruher Calendar 2025
+
 glengoyne-14-hl:
   bottle: glengoyne-14-hl
   date: 2026-01-30
@@ -1264,6 +1266,10 @@ macallan-classic-cut: #8
       system: "three-tier-2026"
       score: ###
 
+
+
+#------- Trio of grains
+
 north-of-scotland-46-mom:
   bottle: north-of-scotland-46-mom
   date: 2023-03-23
@@ -1347,6 +1353,202 @@ tbwc-blended-grain-3:
       score: "✔️ Decent"
 
 
+#---- Dornoch 25th anniversary -------
+
+glenrothes-29-pst:
+  bottle: glenrothes-29-pst
+  date: 2025-12-10
+  post: dornoch-25th-anniversary
+  market_context:
+    availability: Sold out at £165
+    estimated_price:
+      amount: 165
+      currency: GBP
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Concentrated fruity nose: syrupy, tropical... multivitamin juice, and winegums. Orange stands out, studded with cloved. Touch of eucalyptus. The age is hinted by some old paper, a little earthy mustiness.
+    sipping: >
+      Clean and fruity, juicy, with a fair bit of action of oak tannins. From the official tasting notes, have to say star fruit is a good descriptor. Good old oak juice. More vanilla and creaminess in the finish.
+    comments: >
+      Really good, could probably work its way up to a ❤️ with time.
+    grade:
+      system: onlyheart-2025
+      heart: no
+
+clynelish-24-pst:
+  bottle: clynelish-24-pst
+  date: 2025-12-10
+  post: dornoch-25th-anniversary
+  market_context:
+    availability: Sold out at £250
+    estimated_price:
+      amount: 250
+      currency: GBP
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Absolutely gorgeous nose! Minerality and chalk, bright fruits, lemon, ginger ale, even some really dry cider.
+    sipping: >
+      Very concentrated and active palate. Loads of pomelo, waxy citrus peel with some of the bitter rind; not so much the candle wax, but surely some honey. Fresh, floral, uplifting. Belgian waffle with sugar crystals in the finish. A hint of smoke.
+    comments: >
+      Not very complex or flexing its age, just utterly delicious.
+    grade:
+      system: onlyheart-2025
+      heart: yes
+
+clynelish-21-pst:
+  bottle: clynelish-21-pst
+  date: 2025-12-10
+  post: dornoch-25th-anniversary
+  market_context:
+    availability: Sold out at £210
+    estimated_price:
+      amount: 210
+      currency: GBP
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Quite different to the 24yo — fattier, waxier, more muffled on the nose. If the former is a lush day in spring, here is more a misty day along the coast. Closer to the secret "Stocking Filler" Teaninich I misjudged for a Clynelish. Lots of minerality, somewhat unripe fruits or even grassy notes, with floral and herbaceous connotations.
+    sipping: >
+      Also not shy on the palate, with indeed intense fruitiness of lichi and other canned fruits in syrup. Citrus peel and lots of waxy goodness, the finish turns more dirty, smoky, old grease, but also gooseberry marmalade.
+    comments: >
+      My goodness, a no holds barred Clynie.
+    grade:
+      system: onlyheart-2025
+      heart: yes
+
+sideburn-35-pst:
+  bottle: sideburn-35-pst
+  date: 2025-12-10
+  post: dornoch-25th-anniversary
+  market_context:
+    availability: Still available at £225
+    estimated_price:
+      amount: 225
+      currency: GBP
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Staying with the associations of time and place: wet summer night, here. Floral, grassy, perfumed, earthy, even a bit of rubber, and quite a bit of wax.
+    sipping: >
+      That's an interesting palate, right there. Rather sweet, but full of bitter herbals (anise, black pepper), earthiness, savoury biscuits, some melon and lemon drops. Oily, waxy finish.
+    comments: >
+      A grown-up's whisky (well, is there any other sort?), complex and interesting. 
+    grade:
+      system: onlyheart-2025
+      heart: yes
+
+ledaig-30-pst:
+  bottle: ledaig-30-pst
+  date: 2025-12-17
+  post: dornoch-25th-anniversary
+  market_context:
+    availability: Sold out at £235
+    estimated_price:
+      amount: 235
+      currency: GBP
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: >
+      This here is an unpeated Ledaig. Why then not just a Tobermory? Thompson Bros. can only speculate: it was made with the cut points of Ledaig spirit but with unpeated malt, or the cask was mislabelled when laid down. In any case, no harm done I would say.
+    nosing: >
+      Oh, my, Ledaig-olph, what a brilliant nose you have! Full of fruity and floral notes. Intense, elegant, ethereal. Some very ripe lemons and melons, elderflower drink, a dash of lavender, a sprinkle of freshly cracked coriander seed and white pepper corns. Complex in the sense of well-integrated, coherent, deep and subtle, not in the sense of many contrasts.
+    sipping: >
+      ery drinkable at a naturally "low" ABV. Moderately sweet, and definitely full-flavoured. The initial mouthfeel is rather light, but leaves a waxier trace in the finish. The flavours are concordant with the nose: lemons and melons, in the form of sorbets, and sweet dessert wine, Sauternes.
+    comments: >
+      I was expecting something a bit dirty from Tobermory, but blindly I would have guessed an old Lowlander, perhaps even an Imperial or Littlemill. Needless to say, that's enormous praise. I'm quite excited now that my stash already contains a 25yo, 1995 vintage unpeated Ledaig for which I paid a net price of €180 at auction in 2024.
+    grade:
+      system: onlyheart-2025
+      heart: yes
+
+bruichladdich-21-pst:
+  bottle: bruichladdich-21-pst
+  date: 2025-12-17
+  post: dornoch-25th-anniversary
+  market_context:
+    availability: Sold out at £175
+    estimated_price:
+      amount: 175
+      currency: GBP
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      There's immediately a very clear grapefruit note on the nose, and a maritime (yet non-smoky) character. We're of on a real adventure of discovery: grapefruit, minerality, iodine, nuts, ginger ale, yeasty apple cider, pine wood (sap), lavender, vanilla... Overall dry and fragrant, one could say.
+    sipping: >
+      Salty, sweet*, savoury. Arrives pungent, fusile, ashy, before I'm drawn into stone fruits and bitter lemon. I put an asterisk on sweet; it's somehow an illusion that evaporates into a rather dry finish. Drinks well neat, but water rounds it out well, bring back some residual malty sweetness in the finish.
+    comments: >
+      It's fascinating experience, as a "naked" Islay whisky that has that phenolic and maritime tang, without the peat smoke, and very good indeed in its own right. It is reviving memories of the 21yo Bruichladdich I bought and largely consumed on a Paris business trip four years ago, though this one is more intense and complex as a single cask experience.
+    grade:
+      system: onlyheart-2025
+      heart: yes
+
+islay-33-pst:
+  bottle: islay-33-pst
+  date: 2025-12-17
+  post: dornoch-25th-anniversary
+  market_context:
+    availability: Sold out at £345
+    estimated_price:
+      amount: 345
+      currency: GBP
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fascinating old Islay here. I'm getting, in some sort of unlikely balance, oak aged mezcal, smoked sausage, Savon de Marseille, yeasty Belgian blonde, lots of bright lemon, fish curry with kefir lime. Smoked, sour, herbal, pungent, to summarize.
+    sipping: >
+      The palate is not as wacky as the nose would seem. There's plenty of fruit-syrup sweetness running through (I'm getting passion fruit, mango and the likes), toffee and vanilla and a little sesame seed oil, a well-integrated and not very invasive peat streak, along with saline and phenolic notes. 
+    comments: >
+      Juicy well-matured bourbon cask Islay.
+    grade:
+      system: onlyheart-2025
+      score: no
+
+ardbeg-16-pst:
+  bottle: ardbeg-16-pst
+  date: 2025-12-17
+  post: dornoch-25th-anniversary
+  market_context:
+    availability: Sold out at £150
+    estimated_price:
+      amount: 150
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Very minerally, coastal nose; sea shells. Star anise, somewhat unripe tropical fruit, green mango, green papaya. Fresh, invigorating, and very appealing. Neither a very young or old feel.
+    sipping: >
+      It is particularly salty, this one, and sweet-ish. Exotic cocktails: pineapple / pina colada, lime / capirinha. Yes, a little white rum there, and sugar-salted dipped glass. And grilled seafood; smoky and savoury, with a generous squeeze of lemon. Does not give away the fact that it's from a sherry butt in any way.
+    comments: >
+      Very drinkable, delicious and moorish, I can see why people are drawn to Ardbeg and this profile. In a way, it's a rather uncomplicated dram, so even though it's good, the price does seem very inflated to me.
+    grade:
+      system: onlyheart-2025
+      heart: no
+
+
 #-----------------------------
 
 # review-key:
@@ -1411,3 +1613,12 @@ tbwc-blended-grain-3:
 #       value: "⚫⚫⚫"
 #       mark:
 #       punchline:
+
+
+# -----------
+# Systems
+
+# stoplight-2024
+# multidim-2025
+# onlyheart-2025
+# three-tier-2026

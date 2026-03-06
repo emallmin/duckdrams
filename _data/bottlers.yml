@@ -102,3 +102,8 @@ duncan-taylor:
   name: Duncan Taylor
   kind: bottler
   country: UK
+
+thompson-bros:
+  name: Thompson Bros.
+  kind: bottler
+  country: UK
