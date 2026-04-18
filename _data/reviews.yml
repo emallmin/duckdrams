@@ -1832,13 +1832,6 @@ springbank-14-dutypaid-fshhd:
     comments: >
       Blindly I would have rather guessed for a Highland Park. Enjoyable, not unbalanced, but maybe not so memorable.
     grade:
-      # system: "Legacy"
-      # score: ###
-      # system: "multidim-2025"
-      # nose_deliciousness: 3.5
-      # nose_fun_factor: 4
-      # sip_deliciousness: 3.5
-      # sip_fun_factor: 3
       system: "three-tier-2026"
       score: ###
 
@@ -1863,13 +1856,107 @@ springbank-15-dutypaid-bbn:
     comments: >
       ###
     grade:
-      # system: "Legacy"
-      # score: ###
-      # system: "multidim-2025"
-      # nose_deliciousness: 3.5
-      # nose_fun_factor: 4
-      # sip_deliciousness: 3.5
-      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ###
+
+
+# Park Life ----------------------------
+
+
+park-life-20:
+  bottle: park-life-20
+  date: 2026-04-04
+  post: park-life
+  market_context:
+    availability: Available at €109
+    estimated_price:
+      amount: 109
+      currency: EUR
+  sample_context:
+    desc: froma a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      cold butter, mineral, coast, lemon, green apples, melon, trace of vegetal peat, hay, farm. 
+    sipping: >
+      Yum! Briney, salty seafood, yellow fruits, and complex herbal mix with tobacco and hint of leather, ending with quinine.  
+    comments: >
+      Simply delightful, possible the best Highland Park I've yet to try.
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
+park-life-23:
+  bottle: park-life-23
+  date: 2026-04-04
+  post: park-life
+  market_context:
+    availability: available at €117
+    estimated_price:
+      amount: 117
+      currency: EUR
+  sample_context:
+    desc: froma a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Similar to the 20yo, fresh and coastal - a bit more, even - but also a little timid.
+    sipping: >
+      Adds a little sweetness and creaminess to the 20, which is easy to appreciate. Yet it's less pronounced in the herbal notes, which still leaves the 20 as the more interesting option.
+    comments: >
+      It's still good, but I would swap the bottle I have for the 20yo, which just has more to say with its brighter and livelier profile.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+unnamed-orkney-13-sv:
+  bottle: unnamed-orkney-13-sv
+  date: 2026-03-11
+  post: park-life
+  market_context:
+    availability: Avialble at €44
+    estimated_price:
+      amount: 45
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Bright, grassy, citrussy, chalky, spicy
+    sipping: >
+      Not very sweet, rather dry, with predominantly grassy, and peppery notes, with a trailing light herbal smoke. A little residual malty sweetness in the finish, though. 
+    comments: >
+      My initial assesment was: "Not bad, but not particularly successful either. Too peppery and dry to feel totally balanced for me, though the grassy and herbal notes have some character to them." Returning to the second half of the sample, some weeks later, I'm feeling slightly more geneours. Peppery, but more rounded-off than I thought before. 
+    grade:
+      system: "three-tier-2026"
+      score:
+
+coasts-and-shores-15-bbr:
+  bottle: coasts-and-shores-15-bbr
+  date: 2026-04-03
+  post: park-life
+  market_context:
+    availability: Available from €120
+    estimated_price:
+      amount: 120
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh coasta air, toasted oak, and also some exotic wood and spices. The alcohol tickles the nose. With water it becomes crispier, with green apples and citrus.
+    sipping: >
+      Briney, sweet, and warming:  grassy, herbal. Chocolatey finish. With water, some tropical fruits come out.
+    comments: >
+      Tastewise well-balanced, and with water the nose becomes really lovely. Not an unforgettable dram, but a real solid one.
+    grade:
       system: "three-tier-2026"
       score: ###
 

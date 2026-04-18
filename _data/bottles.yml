@@ -2096,6 +2096,65 @@ meikle-toir-7:
       url: https://static.whiskybase.com/storage/whiskies/2/8/5154/511750-big.jpg
       source: whiskybase
 
+park-life-22:
+  production:
+    vintage: 2003
+    producer: highland-park
+  maturation:
+    age: 22
+    cask: Refill Sherry
+  bottling:
+    bottler: uncharted
+    batching: single_cask
+    abv: 55.0
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series:
+    name: Park Life
+    released: 2025
+    rrp:
+      amount: highland-park
+      currency: EUR
+  meta:
+    whiskybase_id: 280370
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/0370/513286-big.jpg
+      source: whiskybase
+
+park-life-20:
+  production:
+    vintage: 2004
+    producer: null
+  maturation:
+    age: 20
+    cask: Ex-Bourbon
+  bottling:
+    bottler: uncharted
+    batching: single_cask
+    abv: 55.0
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: 
+    name: Park Life
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 280371
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/0371/513288-big.jpg
+      source: whiskybase
+
+
 # bottle-key:
 #   production:
 #     vintage: #

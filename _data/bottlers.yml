@@ -22,6 +22,12 @@ signatory:
   status: "Active"
   country: "UK"
 
+uncharted:
+  name: "Uncharted Whisky Co."
+  kind: bottler
+  status: Active
+  country: UK
+
 murray-mcdavid:
   name: "Murray McDavid"
   kind: bottler
