@@ -1812,7 +1812,7 @@ dornoch-5-px:
 #-------Two Springbanks----------
 
 springbank-14-dutypaid-fshhd:
-  bottle: springbank-14-dutypaid
+  bottle: springbank-14-dutypaid-fshhd
   date: 2026-03-07
   post: banking-on-spring
   market_context:
@@ -1887,8 +1887,8 @@ park-life-20:
       system: "three-tier-2026"
       score: ⁎
 
-park-life-23:
-  bottle: park-life-23
+park-life-22:
+  bottle: park-life-22
   date: 2026-04-04
   post: park-life
   market_context:

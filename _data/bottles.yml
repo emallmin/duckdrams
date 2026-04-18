@@ -1765,7 +1765,7 @@ springbank-14-dutypaid-fshhd:
     bottling_date: 2017
     size: 700
   marketing:
-    series: Duty Paid Sample - For Trade Purposes Only
+    series: "Duty Paid Sample - For Trade Purposes Only"
     name: Duty Paid Sample
     released:
     rrp:
