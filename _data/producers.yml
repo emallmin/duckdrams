@@ -126,6 +126,25 @@ glen-keith:
   peated: no
   founded: 1957
 
+imperial:
+  name: "Imperial"
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+  status: closed
+
+glenfiddich:
+  name: "Glenfiddich"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+
 glenrothes:
   name: Glenrothes
   kind: distillery
@@ -277,6 +296,15 @@ glen-grant:
   class : Single Malt
   peated: no
 
+roseisle:
+  name: "Roseisle"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+  peated: no
+
 blair-athol:
   name: Blair Athol
   kind: distillery
@@ -363,6 +391,15 @@ kilchoman:
   class: Single Malt
   peated: yes
 
+bowmore:
+  name: Bowmore
+  kind: distillery
+  country: Scotland
+  region: Islay
+  category: Scotch Whisky
+  class: Single Malt
+  peated: yes
+
 tormore:
   name: Tormore
   kind: distillery
@@ -427,6 +464,15 @@ ardbeg:
   kind: distillery
   country: Scotland
   region: Islay
+  category: Scotch Whisky
+  class: Single Malt
+  peated: yes
+
+highland-park:
+  name: Highland Park
+  kind: distillery
+  country: Scotland
+  region: Islands
   category: Scotch Whisky
   class: Single Malt
   peated: yes

@@ -107,3 +107,8 @@ thompson-bros:
   name: Thompson Bros.
   kind: bottler
   country: UK
+
+berry-bros-rudd:
+  name: "Berry Bros. & Rudd"
+  kind: bottler
+  country: UK

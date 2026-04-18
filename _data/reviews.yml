@@ -1052,7 +1052,7 @@ springbank-10-cs-2023:
 glengoyne-14-hl:
   bottle: glengoyne-14-hl
   date: 2026-01-30
-  post: cathcing-up-with-the-calendar-2026-1
+  post: cathcing-up-with-the-calendar-2026
   market_context:
     availability: "available for €95"
     estimated_price:
@@ -1079,7 +1079,7 @@ glengoyne-14-hl:
 irish-whiskey-21-tbwc:
   bottle: irish-whiskey-21-tbwc
   date: 2026-01-30
-  post: cathcing-up-with-the-calendar-2026-1
+  post: cathcing-up-with-the-calendar-2026
   market_context:
     availability: "Available for €103"
     estimated_price:
@@ -1106,7 +1106,7 @@ irish-whiskey-21-tbwc:
 kilchoman-8: #bruhler 3
   bottle: kilchoman-8
   date: 2026-01-31
-  post: cathcing-up-with-the-calendar-2026-1
+  post: cathcing-up-with-the-calendar-2026
   market_context:
     availability: "Widely available in Germany online, €95-120"
     estimated_price:
@@ -1133,7 +1133,7 @@ kilchoman-8: #bruhler 3
 north-british-16-dt: #bruhler-4
   bottle: north-british-16-dt
   date: 2026-01-31
-  post: cathcing-up-with-the-calendar-2026-1
+  post: cathcing-up-with-the-calendar-2026
   market_context:
     availability: Unavailable.
     estimated_price:
@@ -1160,7 +1160,7 @@ north-british-16-dt: #bruhler-4
 tormore-29-mmd: #bru-5
   bottle: tormore-29-mmd
   date: 2025-02
-  post: cathcing-up-with-the-calendar-2026-1
+  post: cathcing-up-with-the-calendar-2026
   market_context:
     availability: "Available at RRP of €190"
     estimated_price:
@@ -1187,7 +1187,7 @@ tormore-29-mmd: #bru-5
 glenfarclas-32-bwh: #bru 6
   bottle: glenfarclas-32-bwh
   date: 2026-02
-  post: cathcing-up-with-the-calendar-2026-1
+  post: cathcing-up-with-the-calendar-2026
   market_context:
     availability: Sold out.
     estimated_price:
@@ -1215,7 +1215,7 @@ glenfarclas-32-bwh: #bru 6
 cameronbridge-40-jw: # bru 7
   bottle: cameronbridge-40-jw
   date: 2026-02-21
-  post: cathcing-up-with-the-calendar-2026-1
+  post: cathcing-up-with-the-calendar-2026
   market_context:
     availability: Not available.
     estimated_price:
@@ -1242,7 +1242,7 @@ cameronbridge-40-jw: # bru 7
 macallan-classic-cut: #8
   bottle: macallan-classic-cut
   date: 2026-02-21
-  post: cathcing-up-with-the-calendar-2026-1
+  post: cathcing-up-with-the-calendar-2026
   market_context:
     availability: Available at around €120
     estimated_price:
@@ -1266,7 +1266,194 @@ macallan-classic-cut: #8
       system: "three-tier-2026"
       score: ###
 
+bowmore-22-mmd: #bru 9
+  bottle: bowmore-22-mmd
+  date: 2026-03 
+  post: cathcing-up-with-the-calendar-2026
+  market_context:
+    availability: Standard price around €400 but ongoing sales "as low" as €330
+    estimated_price:
+      amount: 370
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Sweet smoke, vanilla, a little lemon, and a dose of farminess (hay and muck)
+    sipping: >
+      Salty and dry on the tongue, some umami. Strong peat, of the warm and earthy kind, hint of iodine. Some notes of roasted coffee beans and toasted oak. 
+    comments:
+      before_reveal: >
+        The spirit needn't be Scottish but the peat sure is. At the end of the day, it's easy to guess it's an Islay, perhaps Lagavulin.
+      after_reveal: >
+        Forgot to guess age, but I was definitely thinking below 10. I would expect Bowmore with that age to be fruitier and milder than this one is. Knowing the red wine cask, I can find more berry flavours, but honestly blindly I was thinking mainly about the peat. I actually tried this one at the Murray McDavid booth at Whisky Live Hamburg 2025, and it kinds of just went down without much of an impression. To conclude, a tasty Islay, but not 
+    grade:
+      system: "three-tier-2026"
+      score: ###
 
+bushmills-11: #bruhler 10
+  bottle: bushmills-11
+  date: 2026-03
+  post: cathcing-up-with-the-calendar-2026
+  market_context:
+    availability: Avialble in range €85-120
+    estimated_price:
+      amount: 100
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Sherried, but not so sweet; rather earthy, intead. Oxidized sherry, kiwi, touch of leather and dirt road, heather, and herbs.
+    sipping: >
+      Sweet and salty, with a robust spirit; salted caramel, honeycomb, nuts, sultanas, and more herbal and a touch smoky in the finish.   
+    comments:
+      before_reveal: >
+        Not very confident in my tasting notes; it was chaning a lot with water, and I would need a bigger sample to converge in my description. Nonetheless, nothing contradicts a Scotch single malt, and I might even venture to guess it could be a Highland Park at the low end of peating. Or else a Highlander, like Glendronach.
+      after_reveal: >
+        This makes no sense to me at all! Except perhaps the casks involved. But a young Irish, seriously?
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
+tobermory-14-redwine: # bru 11
+  bottle: tobermory-14-redwine
+  date: 2026-03
+  post: cathcing-up-with-the-calendar-2026
+  market_context:
+    availability: Available at €160
+    estimated_price:
+      amount: 160
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Very clearly a red wine cask. Lots of vanilla, red berries, Schweppes Russchian, but also some sooty notes, even a little sulphur.
+    sipping: >
+      Strong alcohol! Drying and tannic, yet also dense and fatty, with a very powerful and heavy spirit.  
+    comments:
+      before_reveal: >
+        Reminds me rather a lot of a red-wine cask Linkwood from Cadenhead's I got many years ago. Something heavy, like a Benrinnes or Roseisle (though this it couldn't be). Young, probably 8-ish. The dominating cask makes it rather one-dimensional.
+      after_reveal: >
+        Red wine cask and strong abv, indeed. A little older than I'd've thought, but not that surprising. 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+fiddichside-35-mmd: # bru 12
+  bottle: fiddichside-35-mmd
+  date: 2026-03
+  post: cathcing-up-with-the-calendar-2026
+  market_context:
+    availability: Hard to find now, ca. €220
+    estimated_price:
+      amount: 220
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Overtly sherried: lots of cola and caramel, dried fruits, oxidized apple, leather, and some earthy and dunnage-y notes in the background.
+    sipping: >
+      Sweet and salty; salted caramel, cola sauce, pear compotte, orange peel (with a little of the bitterness).   
+    comments:
+      before_reveal: >
+        Needs some water to tame, but then it's a delicious dram. Totally sherry-oriented, but rather elegant and well balanced. I'm guessing a 16yo+ Speyside malt. Single cask over 55%.
+      after_reveal: >
+        Very old, but I'm not too surprised. The 16+ really was thought of a lower bound. This 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+bruichladdich-11-private: #bru 13
+  bottle: bruichladdich-11-private
+  date: 2026-03-20
+  post: cathcing-up-with-the-calendar-2026
+  market_context:
+    availability: Unavailable
+    estimated_price:
+      amount: 125
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      A rather seemless intertwining of sparkling freshness (spring air, petrichor, underripe bananas) and richer sherry notes (dates, ginger ale, creme brulee, couch leather).
+    sipping: >
+      Rather drying, and ethereal as in almost vaporizing off the tongue, leaving salty, musty residues... Oak, lots of leather, coffee and toasted flavours, salted nuts, dried fruits without much sweetness. 
+    comments:
+      before_reveal: >
+        Very good, and rather old shool. I would guess Speyside/Highland single malt, full sherry maturation, age 16yo+, ABV around 55%. 
+      after_reveal: >
+        Fascinating, I was off about sherry, and its another fortified wine, Rivesaltes, which according to wikipedia "often has aromas and flavors of raisins and other dried fruit, nuts, smoke, resin, chocolate, and caramel, browned sugar or molasses." Wrong about distillery and age too! The Bruichladdich sure would bring those salty notes.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+imperial-27-bwh: #bru 14
+  bottle: imperial-27-bwh
+  date: 2026-04-06 # maybe?
+  market_context:
+    availability: Sold out at €298
+    estimated_price:
+      amount: 300
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Succulent yellow fruits (nectarines, orange), sweet-smelling flowers, lemon candies, ginger, bit of vanilla, hint of basil. One can smell the age through the soft integration of the aromas and the hint of dunnage. 
+    sipping: >
+      Sweet and juicy, with cereals, fruit salad, especially ripe mango. Not a very long finish, but totally morish. 
+    comments: 
+      before_reveal: >
+        Excellent! More than one could hope for on average from a 20+ bourbon or refill cask. I'll wager this is actually an Irish whisky, what with that fruitiness. But something like a Glenrothes would not surprise. Vicinty of 50% ABV.
+      after_reveal: >
+        Damn! I was thinking when I nosed it, this is really like the Imperial 27 I tested recently, and other Imperials. But I dismissed the idea because I didn't think the calendar would include a closed distillery, though now I remeber there was actually an Imperial last year! 
+    grade:
+      system: "three-tier-2026"
+      score: ⁕⁕
+
+meikle-toir-7: #15
+  bottle: meikle-toir-7
+  date: 2026-04-06
+  post: cathcing-up-with-the-calendar-2026
+  market_context:
+    availability: Available at €120
+    estimated_price:
+      amount: 120
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Earthy bonfire smoke, oak wood, rustic bread, or even Brownie, sour cherry.
+    sipping: >
+      Big and peaty, savoury-sweet. Big toasty aromas; nuts, coffee, hard-baked biscuits. There is something grassy and green keeping it rather vibrant; a herbaceous note that reminds me of Mezcal, and a clear iodine note that lingers with the peat into the finish.
+    comments:
+      before_reveal: >
+        I'll go out on a limb and say this is a ex-mezcal or tequila cask finish, on top of sherry maturation, with an Islay distillate. Didn't feel too extremely strong, but above 50% for sure. No reason for the age to be even double digit.
+      after_reveal: >
+        Interesting, a heavily-peated Speyside. It's much better than I remember any of the Meikle Tors I tried previously being.  
+    grade:
+      system: "three-tier-2026"
+      score: ###
 
 #------- Trio of grains
 
@@ -1548,6 +1735,143 @@ ardbeg-16-pst:
       system: onlyheart-2025
       heart: no
 
+# ------ NcNoch whos there
+
+ncnoch:
+  bottle: ncnoch
+  date: 2025-12-12
+  post: ncnoch-whos-there
+  market_context:
+    availability: Available around €70
+    estimated_price:
+      amount: 70
+      currency: EUR
+  sample_context:
+    desc: From 1/3 full bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      A fresh and grassy nose, also with some fatty, creamy elements. Pine needles, underripe nectarines, banana peel, a little lavender, but also chalk, beeswax, clotted cream, shortbread. There is an anticipation of (pleasant) bitterness; I find the nose very appealing.
+    sipping: >
+      Powerful arrival on the palate, with a moderately sweet, very malty, chewy, and somewhat salty-savoury foundation, with fruity and grassy top notes, in agreement with the nose. I find the citrus-rind bitterness well balanced.
+    comments: >
+      A great example of young whisky with character and depth, entirely spirit-driven, and actually offering a positive experience different from a more well-aged whisky. It's not as good as the Sutherland 5yo, or (as I'll reveal next) the Dornoch 5yo cask 140, but all of these are proof that young whisky can be exquisite.
+    grade:
+      system: onlyheart-2025
+      heart: no
+
+ncnoch-px:
+  bottle: ncnoch
+  date: 2025-12-12
+  post: ncnoch-whos-there
+  market_context:
+    availability: DIY!
+    estimated_price:
+      amount: 70
+      currency: EUR
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: Now let's try the PX-laced version. I have added a few drops of a 1965 vintage PX to the whisky in a 10cl bottle that's been resting for several months now.
+    nosing: >
+      The nose is hard to tell apart from the reference. Perhaps it is a little rounder, less sharp alcohol on the nose. 
+    sipping: >
+      On the palate, the sweetness is definitely lifted; I've really put in the perfect amount that it does not become sweet in an unnatural way. The muscularity of the spirit also seems lifted, and there's a subtle presence of musty, leathery, and raisiny notes from the PX.
+    comments: >
+      Overall, I think a small improvement on the reference!
+    grade:
+      system: onlyheart-2025
+      heart: no
+
+dornoch-5-px:
+  bottle: dornoch-5-px
+  date: 2025-12-12
+  post: ncnoch-whos-there
+  market_context:
+    availability: Sold via ballot for £100
+    estimated_price:
+      amount: 100
+      currency: GBP
+  sample_context:
+    desc: Bottle kill
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Concentrated nose, with juicy blood orange, tangerines, golden sultanas, goat cheese with honey, some heather and earth. Something unique here that's hard to describe!
+    sipping: >
+      Mouth-filling, sweet, oily, and with a depth of flavour that just envelopes the palate. Orange chocolate, baked kumquats with foie gras, the syrupy juice in the bottom of the bowl of fruit salad, praline.
+    comments: >
+      This is my Whisky of the Year 2025. Very delicious, and not quite like any other whisky I've had. There's a characterful spirit and a very active cask shooting off tangerine-coloured fireworks together.
+    grade:
+      system: "onlyheart-2025"
+      heart: yes
+
+#-------Two Springbanks----------
+
+springbank-14-dutypaid-fshhd:
+  bottle: springbank-14-dutypaid
+  date: 2026-03-07
+  post: banking-on-spring
+  market_context:
+    availability: Not available
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Just what you would expect; dense and jammy, sherried, leathery, with some dirtiness, farminess.
+    sipping: >
+      Salty and sweet. Chocolote and dried fruits, nuts... the usual sherry suspects, then also earthy and farmy notes, hay, bonfire, peat.
+    comments: >
+      Blindly I would have rather guessed for a Highland Park. Enjoyable, not unbalanced, but maybe not so memorable.
+    grade:
+      # system: "Legacy"
+      # score: ###
+      # system: "multidim-2025"
+      # nose_deliciousness: 3.5
+      # nose_fun_factor: 4
+      # sip_deliciousness: 3.5
+      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ###
+
+springbank-15-dutypaid-bbn:
+  bottle: springbank-15-dutypaid-bbn
+  date: 2026-03-07
+  post: banking-on-spring
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Here's something rather interesting. Lychee, cheddar cheese, soda. Decent amount of vanilla.
+    sipping: >
+      Salty, very farmy; goat's cheese with honey, sweet peaches, salmiak, and medium peat. 
+    comments: >
+      ###
+    grade:
+      # system: "Legacy"
+      # score: ###
+      # system: "multidim-2025"
+      # nose_deliciousness: 3.5
+      # nose_fun_factor: 4
+      # sip_deliciousness: 3.5
+      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ###
 
 #-----------------------------
 
