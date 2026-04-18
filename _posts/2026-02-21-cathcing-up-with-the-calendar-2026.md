@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Catching up with the calendar, 2026 ed.
-date: 2025-12-26
+date: 2025-02-21
 categories: whisky
 tags: [review, peated]
 ---
