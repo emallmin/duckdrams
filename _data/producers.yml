@@ -257,7 +257,6 @@ cameronbridge:
   region: Lowlands
   status: active
 
-
 glenallachie:
   name: "GlenAllachie"
   kind: distillery
@@ -266,6 +265,17 @@ glenallachie:
   country: Scotland
   region: Speyside
   peated: no
+
+glenesk:
+  name: Glenesk
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Malt
+  country: Scotland
+  region: Highland
+  peated: no
+  status: closed
+
 
 glenallachie-peated:
   name: "GlenAllachie"
@@ -342,6 +352,15 @@ glasgow:
   category: Scotch Whisky
   country: Scotland
   region: Lowlands
+
+st-magdalene:
+  name: St. Magdalene
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Malt
+  country: Scotland
+  region: Lowlands
+  status: closed
 
 glasgow-1770:
   name: Glasgow 1770

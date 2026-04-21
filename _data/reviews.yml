@@ -2069,6 +2069,62 @@ smogen-2012-bbr:
       extra: "⛔Overpriced"
 
 
+# ---- ghost safari #1
+
+glenesk-12-wm:
+  bottle: glenesk-12-wm
+  date: 2024-08-08
+  post: ghost-safari-1
+  market_context:
+    availability: Auction market
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh, fruity, sweet nose. Red apples, prunes, digestive biscuit, vanilla. On closer inspection, more acidity and yeast, like a craft cider. Subtler notes of candlewax and ginger.
+    sipping: >
+      A little thin in mouthfeel, medium sweet, and mild but flavourful: apple juice, shortbread, chocolate, very malty, with spices (clove, coriander seed). Gets a bit drying, with some oak tannins. Mild smoke note and herbal touch appears in the finish.
+    comments: >
+      This is actually quite good. Despite the 40% abv there is some complexity here. The sherry influence is very tempered, which I appreciate compared to modern bottlings which tend to be all or nothing on the sherry notes. For a beginning drinker it may be a little too odd, but for me it works.
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫🟡⚫"
+      fun_factor: "⚫🟡🟢"
+      value: "🔴⚫⚫"
+      mark: "Worth trying ✔️"
+
+st-magdalene-15-gm:
+  bottle: st-magdalene-15-gm
+  date: 2024-08-08
+  post: ghost-safari-1
+  market_context:
+    availability: "~€600 at auction"
+    estimated_price:
+      amount: 600
+      currency: EUR
+  sample_context:
+    desc: froma a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Winey and nutty nose, a little stale. Orange, cinnamon, sour cherries, toasted hazelnut, ginger beer, hint of brie and broiled meat.
+    sipping: >
+      Sweetish, quite thin. Mild sherry notes, some spices and lychee.
+    comments: >
+      Not bad, nothing very special or exciting. I feel one could go on looking for subtle "old school" aromas here, but it's a bit thinned out.
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫🟡⚫"
+      fun_factor: "⚫🟡⚫"
+      value: "🔴⚫⚫"
+      mark: "Worth trying ✔️"
+
 #-----------------------------
 
 # review-key:

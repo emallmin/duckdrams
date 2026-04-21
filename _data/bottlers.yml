@@ -28,6 +28,12 @@ uncharted:
   status: Active
   country: UK
 
+gordon-macphail:
+  name: "Gordon & MacPhail"
+  kind: bottler
+  status: Active
+  country: UK
+
 murray-mcdavid:
   name: "Murray McDavid"
   kind: bottler
