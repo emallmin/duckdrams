@@ -2299,6 +2299,65 @@ nectarosity:
       url: https://static.whiskybase.com/storage/whiskies/2/6/8025/473429-big.jpg
       source: whiskybase
 
+glenesk-12-wm:
+  production:
+    vintage: null
+    producer: glenesk
+  maturation:
+    age: 12
+    cask: null
+  bottling:
+    bottler:
+    batching: null
+    abv: 40.0
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 1980s
+    size: 750
+  marketing:
+    series: Wm. Sanderson & Son Ltd.
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 187581
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/8/7581/64592-big.jpg
+      source: whiskybase
+
+st-magdalene-15-gm:
+  production:
+    vintage: 1980
+    producer: st-magdalene
+  maturation:
+    age: null
+    cask: null
+  bottling:
+    bottler: gordon-macphail
+    batching: null
+    abv: 40.0
+    outturn: null
+    natural_color: true
+    unchillfiltered: null
+    bottling_date: 1995 - 1996
+    size: 700
+  marketing:
+    series: Centenary Reserve
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 4905
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/4/9/05/59190-big.jpg
+      source: whiskybase
+
+
 
 # bottle-key:
 #   production:
