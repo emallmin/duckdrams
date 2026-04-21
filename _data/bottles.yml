@@ -2154,6 +2154,151 @@ park-life-20:
       url: https://static.whiskybase.com/storage/whiskies/2/8/0371/513288-big.jpg
       source: whiskybase
 
+smogen-2012-bbr:
+  production:
+    vintage: 2012
+    producer: smogen
+  maturation:
+    age: null
+    cask: Oloroso Hogshead
+  bottling:
+    bottler: berry-bros-rudd
+    batching: single_cask
+    abv: 59.6
+    outturn: 284
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: "The Nordic Casks #2"
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 216990
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/6990/409161-big.jpg
+      source: whiskybase
+
+teerenpeli-2013-bbr:
+  production:
+    vintage: 2013
+    producer: teerenpeli
+  maturation:
+    age: null
+    cask: Oloroso Hogshead
+  bottling:
+    bottler: berry-bros-rudd
+    batching: single_cask
+    abv: 59.9
+    outturn: 217
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: 'The Nordic Casks #2'
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 216991
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/6991/409167-big.jpg
+      source: whiskybase
+
+stauning-4-bbr:
+  production:
+    vintage: 2017
+    producer: stauning
+  maturation:
+    age: null
+    cask: Barrel / Moscatel Finish
+  bottling:
+    bottler: berry-bros-rudd
+    batching: single_cask
+    abv: 58.9
+    outturn: 254
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: 'The Nordic Casks #2'
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 216995
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/6995/409164-big.jpg
+      source: whiskybase
+
+thy-2019-bbr:
+  production:
+    vintage: 2019
+    producer: thy
+  maturation:
+    age: null
+    cask: Quarter Cask
+  bottling:
+    bottler: berry-bros-rudd
+    batching: null
+    abv: 57.6
+    outturn: 235
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: 'The Nordic Casks #2'
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 216996
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/6996/409170-big.jpg
+      source: whiskybase
+
+nectarosity:
+  production:
+    vintage: null
+    producer: null
+  maturation:
+    age: null
+    cask: American Oak Barrel
+  bottling:
+    bottler: compass-box
+    batching: null
+    abv: 46
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: Core Collection
+    name: null
+    released: 2024
+    rrp:
+      amount: 50
+      currency: EUR
+  meta:
+    whiskybase_id: 268025
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/8025/473429-big.jpg
+      source: whiskybase
+
 
 # bottle-key:
 #   production:
