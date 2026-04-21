@@ -477,6 +477,32 @@ highland-park:
   class: Single Malt
   peated: yes
 
+teerenpeli:
+  name: Teerenpeli
+  kind: distillery
+  country: Finland
+  category: World Whiskey
+
+smogen:
+  name: Smögen
+  kind: distillery
+  country: Sweden
+  category: World Whiskey
+
+thy:
+  name: Thy Whisky Distillery
+  kind: distillery
+  country: Denmark
+  category: World Whiskey
+
+stauning:
+  name: Stauning
+  kind: distillery
+  country: Denmark
+  category: World Whiskey
+
+
+
 # --- pseudo-producers 
 
 undisclosed-islay:

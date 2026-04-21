@@ -45,6 +45,12 @@
     - type: country
       name: Sweden
     - type: country
+      name: Denmark
+    - type: country
+      name: Finland
+    - type: country
+      name: Germany
+    - type: country
       name: Taiwan
     - type: country
       name: The Netherlands
