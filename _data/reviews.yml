@@ -2125,6 +2125,80 @@ st-magdalene-15-gm:
       value: "🔴⚫⚫"
       mark: "Worth trying ✔️"
 
+#-------- 90s islay
+
+bowmore-1995-bwh:
+  bottle: bowmore-1995-bwh
+  date: 2026-04-25
+  post: 90s-islay
+  market_context:
+    availability: Unavailable
+    estimated_price:
+      amount: 100
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Very chalky, minerally, coastal, seashells. Then a mixture of ripe fruits (apples, oranges, some tropical) and peat with a slight farmy kind of funk. 
+    sipping: >
+      Very pronounced and delicious melon flavour, with some dry, ashy peat. Relatively light texture, medium sweetness, but saltiness, umami and punch in the flavour. Some mini-bottle defect, though quite masked by the peat.
+    comments: >
+      Very enjoyable Islay dram.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+laphroaig-1998:
+  bottle: laphroaig-1998
+  date: 2026-04-25
+  post: 90s-islay
+  market_context:
+    availability: Unavailable.
+    estimated_price:
+      amount: 
+      currency: 
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      It's a dense and rich nose; dates, citrus peel, smoke, light farm-funk 
+    sipping: >
+      Very coastal and briney, juicy stone fruits and sweet dates, creamy texture, with a warm and powerful peat. 
+    comments: >
+      The great strength of this whisky is how well integrated it is; the coastal, sweet, citrussy, and peaty are all melding into one balanced profile. Excellent! (Just a hint of mini-bottle defect in the finish)
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
+ardbeg-9-gm:
+  bottle: ardbeg-9-gm
+  date: 2026-04-25
+  post: 90s-islay
+  market_context:
+    availability: Unavailable
+    estimated_price:
+      amount:
+      currency:
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Ashy peat smoke, malt grist, limoncello, grapefruit, ginger, brandy, melon, grapes. Also a peculiar floaral top note.
+    sipping: >
+      Drying peat, with a farmy touch, medium sweet, with lots of fruity aromas, especially melon, orange, peach... short bread and ice cream melt. (Very small mini-bottle defect) Quite a long finish.
+    comments: >
+      I was expecting this to be my least favourite, but to the contrary it is possibly even better than the Laphroaig.
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
 #-----------------------------
 
 # review-key:

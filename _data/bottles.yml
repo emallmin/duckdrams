@@ -2305,22 +2305,22 @@ glenesk-12-wm:
     producer: glenesk
   maturation:
     age: 12
-    cask: null
+    cask:
   bottling:
     bottler:
-    batching: null
+    batching:
     abv: 40.0
-    outturn: null
-    natural_color: null
-    unchillfiltered: null
+    outturn:
+    natural_color:
+    unchillfiltered:
     bottling_date: 1980s
     size: 750
   marketing:
     series: Wm. Sanderson & Son Ltd.
-    name: null
+    name:
     released:
     rrp:
-      amount: null
+      amount:
       currency: EUR
   meta:
     whiskybase_id: 187581
@@ -2333,23 +2333,23 @@ st-magdalene-15-gm:
     vintage: 1980
     producer: st-magdalene
   maturation:
-    age: null
-    cask: null
+    age:
+    cask:
   bottling:
     bottler: gordon-macphail
-    batching: null
+    batching:
     abv: 40.0
-    outturn: null
+    outturn:
     natural_color: true
-    unchillfiltered: null
+    unchillfiltered:
     bottling_date: 1995 - 1996
     size: 700
   marketing:
     series: Centenary Reserve
-    name: null
+    name:
     released:
     rrp:
-      amount: null
+      amount:
       currency: EUR
   meta:
     whiskybase_id: 4905
@@ -2357,6 +2357,92 @@ st-magdalene-15-gm:
       url: https://static.whiskybase.com/storage/whiskies/4/9/05/59190-big.jpg
       source: whiskybase
 
+bowmore-1995-bwh:
+  production:
+    vintage: 1995
+    producer: bowmore
+  maturation:
+    age: 15
+    cask: Bourbon Hogshead
+  bottling:
+    bottler: bruhler
+    batching: single_cask
+    abv: 54.9
+    outturn: 100
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2010
+    size: 700 
+  marketing:
+    series:
+    name:
+  released: 
+    rrp:
+      amount:
+      currency: EUR
+  meta:
+    whiskybase_id: 21004
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/004/69081-big.jpg
+      source: whiskybase
+
+ardbeg-9-gm:
+  production:
+    vintage: 1996
+    producer: ardbeg
+  maturation:
+    age: 9
+    cask: null
+  bottling:
+    bottler: gordon-macphail
+    batching: single_cask
+    abv: 52.9
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2005
+    size: 700
+  marketing:
+    series: Spirit of Scotland
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 5816
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/5/8/16/59881-big.jpg
+      source: whiskybase
+
+laphroaig-1998:
+  production:
+    vintage: 1998
+    producer: laphroaig
+  maturation:
+    age: null
+    cask: Bourbon Cask
+  bottling:
+    bottler: Distillery Bottling
+    batching: single_cask
+    abv: 54.9
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2015
+    size: 250
+  marketing:
+    series: Handfilled - Distillery only
+    name: Handfilled - Distillery only
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 69379
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/6/9/379/110825-big.jpg
+      source: whiskybase
 
 
 # bottle-key:
