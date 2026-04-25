@@ -2420,7 +2420,7 @@ laphroaig-1998:
     vintage: 1998
     producer: laphroaig
   maturation:
-    age: null
+    age: 
     cask: Bourbon Cask
   bottling:
     bottler: Distillery Bottling
