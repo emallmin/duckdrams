@@ -2199,6 +2199,121 @@ ardbeg-9-gm:
       system: "three-tier-2026"
       score: ⁎
 
+#---- Whisky jury
+
+
+glenrothes-36-twj:
+  bottle: glenrothes-36-twj
+  date: 2025-05-31
+  post: judging-the-jury
+  market_context:
+    availability: €500 at auction in 2023; currently €1000 online
+    estimated_price:
+      amount: 500
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Fruity and floral: ripe tropical fruits (passion fruit, pineapple), sweet mandarin, floral honey, elder flower, vanilla and a touch of cardamom. With time a beeswax note.
+    sipping: >
+      Absolute fruit bomb — tutti frutti of orchard and tropical fruits —, waxy and oily, with a mineral note, and hint of tobacco, geranium, white pepper. The fruits linger in the finish.
+    comments: >
+      Gorgeous stuff! Very drinkable, but oh so expensive.
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫🟡🟢"
+      value: ""
+      mark: ❤️
+      punchline: Absolute fruit bomb
+
+ben-nevis-27-twj:
+  bottle: ben-nevis-27-twj
+  date: 2025-05-31
+  post: judging-the-jury
+  market_context:
+    availability: ~€350 at auction
+    estimated_price:
+      amount: 350
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro:
+    nosing: >
+      Intensely fruity, dirty, waxy. Really enchanting. Barely ripe mango and banana, grapefruit, maple syrup, vanilla, petrichor and minerality.
+    sipping: >
+      Very oily and waxy, with sweet and succulent tropical fruits (mango, kiwi, pineapple, …), salty-sweet pickles, and some smoke. The salty-sweet-umami taste left in the finish makes my mouth water and pulls me in for another sip.
+    comments: >
+      This is a spot-on Ben Nevis for me. Fruit-forward, with the right amount of umami, funk, and minerality to really make things spark. For €200 I’d buy in an instant. But above €300 I find it hard to cash out for any whisky whatsoever.    
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫⚫🟢"
+      value: ""
+      mark: ❤️
+      punchline: Spot-on BN
+
+ben-nevis-23-twj:
+  bottle: ben-nevis-23-twj
+  date: 2025-05-31
+  post: judging-the-jury
+  market_context:
+    availability: ~€400 at auction
+    estimated_price:
+      amount: 400
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Quite similar nose to the ’95 at first, but then the differences reveal themselves: it is brighter, less fruity, and more minerally, and candy-like. There’s a toasted almond / marzipan note as well.
+    sipping: >
+      Salted fruits and pickles, quite oily, funky, smoked meats. Some bitterness comes forth after a while. Very long finish, with waxy citrus peels.
+    comments: >
+      Here we go off in a somewhat more austere direction compared to the ’95, yet it remains a fantastic dram. Though I prefer the ’95 for its fruitiness, the ’96 is not worse, per se. With the smoke and wax it’s quite Clynelish- or Brora-like, in fact.    
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫⚫🟢"
+      value: ""
+      mark: ❤️
+      punchline: Brora impostor
+  
+laphroaig-32-twj:
+  bottle: laphroaig-32-twj
+  date: 2025-05-31
+  post: judging-the-jury
+  market_context:
+    availability: ~€550 at auction
+    estimated_price:
+      amount: 550
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Smoked ham, honey-draped toasted oats, a chardonnay, lemons, and sea spray.
+    sipping: >
+      An explosion of tastes and flavours. Umami, saltiness, sweetness, with an oily and creamy texture. Ripe pears, mangoes, deep-fried pastry (I’m reminded of my favourite treat in Singapore, the “butterfly fritter”), puffed rice, and, of course, peat, iodine and some (well-balanced) sulphur.
+    comments: >
+      The nose was good, but not spectacular. The palate — spectacular. 
+    grade:
+      system: stoplight-2024
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫🟢"
+      value: ""
+      mark: ❤️
+      punchline: King Frog
+
 #-----------------------------
 
 # review-key:

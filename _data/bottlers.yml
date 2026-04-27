@@ -62,6 +62,11 @@ alambic-classique:
   kind: bottler
   country: Germany
 
+whisky-jury:
+  name: "The Whisky Jury"
+  kind: bottler
+  country: Belgium
+
 james-eadie:
   name: "James Eadie"
   kind: bottler

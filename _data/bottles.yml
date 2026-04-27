@@ -2444,6 +2444,122 @@ laphroaig-1998:
       url: https://static.whiskybase.com/storage/whiskies/6/9/379/110825-big.jpg
       source: whiskybase
 
+ben-nevis-23-twj:
+  production:
+    vintage: 1996
+    producer: ben-nevis
+  maturation:
+    age: null
+    cask: Refill Hogshead
+  bottling:
+    bottler: whisky-jury
+    batching: single_cask
+    abv: 50.4
+    outturn: 242
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2020
+    size: 700 
+  marketing:
+    series:
+    name:
+    released: 2020
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 161881
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/6/1881/515135-big.jpg
+      source: whiskybase
+
+laphroaig-32-twj:
+  production:
+    vintage: 1989
+    producer: laphroaig
+  maturation:
+    age: 32
+    cask: Refill Barrel
+  bottling:
+    bottler: whisky-jury
+    batching: single_cask
+    abv: 52.1
+    outturn: 269
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Peated
+    name: Islay Single Malt
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 214953
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/4953/380230-big.jpg
+      source: whiskybase
+
+glenrothes-36-twj:
+  production:
+    vintage: 1986
+    producer: glenrothes
+  maturation:
+    age: 36
+    cask: Refill Hogshead
+  bottling:
+    bottler: whisky-jury
+    batching: single_cask
+    abv: 41.4
+    outturn: 203
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series:
+    name:
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 219217
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/9217/388967-big.jpg
+      source: whiskybase
+
+ben-nevis-27-twj:
+  production:
+    vintage: 1995
+    producer: ben-nevis
+  maturation:
+    age: 27
+    cask: Refill Hogshead
+  bottling:
+    bottler: whisky-jury
+    batching: single_cask
+    abv: 49.5
+    outturn: 251
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series:
+    name:
+    released: 2023
+    rrp:
+      amount:
+      currency: EUR
+  meta:
+    whiskybase_id: 226580
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/2/6580/412100-big.jpg
+      source: whiskybase
+
 
 # bottle-key:
 #   production:
