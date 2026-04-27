@@ -2213,7 +2213,7 @@ glenrothes-36-twj:
       currency: EUR
   sample_context:
     desc: from a 2cl sample bottle
-    blind: yes
+    blind: no
   review:
     intro: null
     nosing: >
@@ -2241,7 +2241,7 @@ ben-nevis-27-twj:
       currency: EUR
   sample_context:
     desc: from a 2cl sample bottle
-    blind: yes
+    blind: no
   review:
     intro:
     nosing: >
@@ -2269,7 +2269,7 @@ ben-nevis-23-twj:
       currency: EUR
   sample_context:
     desc: from a 2cl sample bottle
-    blind: yes
+    blind: no
   review:
     intro: null
     nosing: >
@@ -2297,7 +2297,7 @@ laphroaig-32-twj:
       currency: EUR
   sample_context:
     desc: from a 2cl sample bottle
-    blind: yes
+    blind: no
   review:
     intro: null
     nosing: >
