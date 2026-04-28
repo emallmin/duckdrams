@@ -2314,8 +2314,84 @@ laphroaig-32-twj:
       mark: ❤️
       punchline: King Frog
 
-#-----------------------------
+#--unleash Clynelish ---------------------------
 
+cataibh-10-ch:
+  bottle: cataibh-10-ch
+  date: 2023-08-30
+  post: unleash-the-clynelish
+  market_context:
+    availability: No longer available. Retail price £65 (UK, 2021)
+    estimated_price:
+      amount: 65
+      currency: GBP
+  sample_context:
+    desc: Review of purchased bottle drunk over the course of a year or two.
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh citrus (grapefruit, pomelo), maritime minerality, undergirded by warm butter.
+    sipping: >
+      Bitter-sweet on the palate, quite strong on the alcohol but takes water well. Flavours of smoked meats, charred lemon, bitter herbs (sage, perhaps). There is a sulphury note, but its been tempered by time in the open bottle.
+    comments: >
+      In a blind tasting, I would have put a sizable bet on this being Croftengea — and I’d be wrong! The classical waxy Clynelish note can maybe be glimpsed if one looks for it, but it is not a selling point with this bottling. This is clearly peated, in my opinion. Whether the standard 14yo is peated or not has not been officially answered, but it is too, I reckon! Not my favourite expression of Clynelish, but it passes as a quality malt. Not sure how I feel about the fact that I have another two unopened bottles of this, though…
+    grade:
+      system: "original-2023"
+      score: "⭐ Great Quality"
+      heart: no
+
+clynelish-10-eld:
+  bottle: clynelish-10-eld
+  date: 2023-08-30
+  post: unleash-the-clynelish
+  market_context:
+    availability: Never sold by the bottle. Comparable bottle estimated at RRP €90 (2023) (but would be sold out fast)
+    estimated_price:
+      amount: 90
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      More luscious and better integrated nose than Cataibh. Fresh fruit (peaches, green apples), some dusty oak, and — again — a beach-pebble like minerality. Bees wax? Why, yes, there is!
+    sipping: >
+      Feisty alcohol, sweet-ish, and with some fun flavours: lemon cough drops, green peppercorn, and a smoked ham appearing in the finish. Good mouthfeel, too.
+    comments: >
+      This is a nice young-ish Clynelish with a sumptuous bourbon cask influence.
+    grade:
+      system: "original-2023"
+      score: "⭐ Great Quality"
+      heart: no
+
+highland-19-wf:
+  bottle: highland-19-wf
+  date: 2023-08-30
+  post: unleash-the-clynelish
+  market_context:
+    availability: Unavailable. Estimated RRP €120 (2020)
+    estimated_price:
+      amount: 120
+      currency: EUR
+  sample_context:
+    desc: Review sample bought from bottler at Limburg Whisky Fair 2023 (2cl, €5)
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Snuffed candle, tropical fruit (coconut, maracuja), also citrus, and sea spray minerality.
+    sipping: >
+      Rather light mouthfeel, with some oak tannin and residual sweetness in the palate. Quite smoky, not so much fruit flavour. Possible a hint of mini-bottle defect, but I’m not sure.
+    comments: >
+      Yes, this is Clynelish, but not at its best. Over on WhiskyBase, veteran hs305 recommends pimping this one with a fine Palo Cortado sherry wine (ratio 1:12). Will keep this trick in mind for the future.
+    grade:
+      system: "original-2023"
+      score: "⭐ Great Quality"
+      heart: no
+
+#-----------------------------
 # review-key:
 #   bottle: ###
 #   date: ###

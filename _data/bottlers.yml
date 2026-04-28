@@ -16,6 +16,12 @@ gleann-mor:
   status: "Active"
   country: "UK"
 
+whisky-fair:
+  name: "The Whisky Fair"
+  kind: bottler
+  status: "Active"
+  country: "Germany"
+
 signatory:
   name: "Signatory Vintage"
   kind: bottler

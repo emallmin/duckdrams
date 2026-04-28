@@ -2560,6 +2560,93 @@ ben-nevis-27-twj:
       url: https://static.whiskybase.com/storage/whiskies/2/2/6580/412100-big.jpg
       source: whiskybase
 
+highland-19-wf:
+  production: 
+    vintage: 2000
+    producer: clynelish
+  maturation:
+    age: 19
+    cask: Ex-Bourbon Hogshead
+  bottling:
+    bottler: whisky-fair
+    batching: single_cask
+    abv: 55.6
+    outturn: 325
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2020
+    size: 700
+  marketing:
+    series: A joint bottling with Liquid Treasures
+    name: Highland Distillery
+    released: 2020
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 156853
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/5/6853/294056-big.jpg
+      source: whiskybase
+
+cataibh-10-ch:
+  production:
+    vintage: 2010
+    producer: clynelish
+  maturation:
+    age: 10
+    cask: Bourbon Barrel
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 58.6
+    outturn: 272
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series:
+    name: Cataibh
+    released: 2021
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 180793
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/8/0793/367950-big.jpg
+      source: whiskybase
+
+clynelish-10-eld:
+  production:
+    vintage: 2011
+    producer: clynelish
+  maturation:
+    age: 10
+    cask: Cask 800289
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 58.3
+    outturn: 
+    natural_color: true
+    unchillfiltered: true
+    bottling_date:
+    size: 3
+  marketing:
+    series:
+    name:
+    released: 2021
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id:
+    image:
+      url:
+      source:
+
 
 # bottle-key:
 #   production:
