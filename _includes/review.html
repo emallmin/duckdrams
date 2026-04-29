@@ -96,14 +96,15 @@
   {% if review.review.sipping %} <p><b>Sipping:</b> {{review.review.sipping}} </p> {% endif %}
   {% if system == "multidim-2025" %} Deliciousness: {{review.grade.sip_deliciousness}}  Fun factor: {{review.grade.sip_fun_factor}} {% endif %}
   {% if review.review.comments %}
+    <p><b>Comments:</b>
     {% if is_blind %}
-    <p> <b>Nosing:</b>
     <p> <em> Before reveal: </em> {{ review.review.comments.before_reveal }} <br/> 
     <em> After reveal: </em> {{ review.review.comments.after_reveal }} </p>
     {% else %}
       <p>{{review.review.comments}}</p> {% endif %}
     {% endif %}
     </p>
+    
   <hr>
 </div>
 {% else %}

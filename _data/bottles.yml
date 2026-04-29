@@ -2626,7 +2626,7 @@ clynelish-10-eld:
     age: 10
     cask: Cask 800289
   bottling:
-    bottler: chorlton
+    bottler: elixir
     batching: single_cask
     abv: 58.3
     outturn: 
@@ -2639,7 +2639,7 @@ clynelish-10-eld:
     name:
     released: 2021
     rrp:
-      amount: null
+      amount:
       currency: EUR
   meta:
     whiskybase_id:
