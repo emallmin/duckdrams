@@ -1,4 +1,6 @@
 {% assign review = site.data.reviews[include.id] %}
+{% assign is_blind = review.sample_context.blind %}
+
 
 {% if review %}
 <div class="review">
@@ -53,7 +55,6 @@
   <!-- Info part -->
   {% assign is_nc = bottle.bottling.natural_color %}
   {% assign is_ucf = bottle.bottling.unchillfiltered %}
-  {% assign is_blind = review.sample_context.blind %}
   {% assign availability = review.market_context.availability %}
   {% assign sample = review.sample_context.desc %}  
 
@@ -75,7 +76,7 @@
     <em>● Style:</em> {{style_or_peated}} 
     <em>● Integrity:</em> {% if is_nc %} Natural color {% endif %} {% if is_ucf %} & Unchill-filtered {% endif %} {% if is_nc or is_ucf %}  {% endif %}
     <em>● Availability:</em> {{availability}} 
-    <em>● Review:</em> {% if is_blind %} ◼️ Blind tasting — {% endif %} {{sample}}  
+    <em>● Review:</em> <!--{% if is_blind %} ◼️ Blind tasting — {% endif %}--> {{sample}}  
   </p>
 
   <!-- <p style="color:Gray;">
