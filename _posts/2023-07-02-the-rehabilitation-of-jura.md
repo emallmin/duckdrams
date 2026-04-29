@@ -4,6 +4,10 @@ title: "The rehabilitation of Jura"
 date: 2023-03-23
 categories: Review
 tags: [legacy, tag2]
+header:
+  overlay_image: https://files.emilmallmin.com/jura_rehab.jpeg
+  overlay_filter: 0.5
+  teaser: https://files.emilmallmin.com/jura_rehab.jpeg
 ---
 I haven’t been to the isle of Jura, but I have laid eyes on it on my way to Islay. As my eyes traced its shorelines, traumatic memories of abused taste buds resurfaced. Nearly a decade ago, before my serious interest in whisky took off, I shared a Jura tasting set with a friend. I can’t remember which Juras it included apart from Superstition, which in my memory has remained the most unpalatable whisky I’ve ever tasted (excluding one which had had a teabag steeped in it…).
 
