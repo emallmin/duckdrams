@@ -11,7 +11,7 @@ linkwood-24-glmo-2023:
     desc: "Bottle kill."
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Golden sultanas, overripe pineapple, rum, liquorice, beeswax, jasmine tea, white pepper, cinnamon, leather, oak.
     sipping: >
@@ -36,7 +36,7 @@ ben-nevis-8-sv:
     desc: Bottle kill.
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       It first hits me with fresh fruit: mostly melon (honeydew), then also citrus (lemon curd, grapefruit). There is a minerality, that together with a slightly savoury note makes me think of shellfish and sea spray.     
     sipping: >
@@ -61,7 +61,7 @@ ben-nevis-5-ad:
     desc: Bottle kill
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       On first whiff a little boozy with the high ABV, but then the sherry bomb explodes! Toffee, coffee beans, and sherry-steeped strawberry laces. Quite creamy, even buttery. 
     sipping: >
@@ -86,7 +86,7 @@ ben-nevis-9-eld-xmas:
     desc: 3cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       First impression is buttery on the nose. Shortbread biscuits, milk chocolate, but also fruity (red apple?). There's a briney character too. Charred grapefruits and seashells. Not peaty, but slightly smoky and industrial. The latter impressions grow with time and water. 
     sipping: >
@@ -164,7 +164,7 @@ convalmore-20-sv-2025:
     desc: "2cl sample bottle"
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Bright, floral, and fruity. Peach and papaya, melon, rose water, coriander seed, lots of wax. 
       Nothing modern ever smells like this! Old bottle effect?
@@ -196,7 +196,7 @@ ben-wyvis-31-sv-2025:
     desc: "2cl sample bottle"
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Lucious, sweet tropical fruits. coconut, peach, fruit jelly, old cognac, and also perfumy flowers. 
       Sweet and fatty brioche bun. Old leather.
@@ -228,7 +228,7 @@ old-school-malt-31-sv-2025a:
     desc: "From a 2cl sample bottle."
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Outrageously fruity, like hot strawberry cordial (“jordgubbssaft”), and with the classic fresh-baked cinnamon bun right there. Beyond this first impression, the nose turns more exotic: banana, pear, and passion fruit, coconut and a streak of asian mint, hardwoods, a little tiger balm.
     sipping: >
@@ -259,7 +259,7 @@ bunnahabhain-30:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Very chocolaty — like a naturally fruity dark chocolate — and full of red fruits (ripe red delicious apple variety, cherries), figs, toasted and sugar-coated almonds, marshmallow, some cold cuts, a twig of rosemary, and an espresso to finish off. Dried fruits, pineapple in finish.
     sipping: >
@@ -290,7 +290,7 @@ glen-keith-29-mmd:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Very fragrant, again also fruity (yellow apples, especially; calvados), but with some earthy, and minerally notes in there; somehow more brooding and melancholic. Some sourness, lemon, or even lactic acid. Dried fruits and nuts, and to add that mysterious element, lemongrass and curry. With time gets a bit farmy.
     sipping: >
@@ -321,7 +321,7 @@ auchentoshan-22-sv:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       At first a very strong note of toasted hazelnut, bit of cognac, ancient rug. Water is needed to tame the intensity of the nose. Buttery sherry notes predominate, but we also get fragrant herbs, a squeeze of lemon, and some cigarette.
     sipping: >
@@ -352,7 +352,7 @@ glenrothes-26-sv:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Once more, we have a oozing sherry and hazelnut profile on the nose immediately. There's some charred wood, and vanilla. Needs water, which brings out some fresh grapefruit, tart lingonberry jam, papaya.
     sipping: >
@@ -383,7 +383,7 @@ laphroaig-25:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       A stream of consciousness: smoked butter, rosé pepper, white pepper, noori, flower petals (violets), salty beach pebbles, charred lemon, pears, peach, fermented ginger, golden syrup, beeswax.
     sipping: >
@@ -414,7 +414,7 @@ jura-12:
     desc: 4cl bought from HomeOfMalts
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       The nose has pine resin and dark rye bread at the fore, with some herbs (rosemary, thyme) and walnuts, in addition more generic impressions of sherry and light peat. 
     sipping: >
@@ -439,7 +439,7 @@ jura-superstition:
     desc: 4cl sample bought from HomeOfMalts
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Smells like pine wood and forest floor; green apples and unripe mango, cut green grass — overall quite green and sour notes. I smell walnuts and cooked vegetables that sit a bit uneasily with a prominent vanilla.
     sipping: >
@@ -463,7 +463,7 @@ jura-22-dl:
     desc: 2cl sample bought from MaltHarry
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       First impression on the nose is herbaceous and perfumed/musky; then juicy steak with café de Paris butter, and pickle brine. There is an initially grassy note that turns into meadow, as water reveals floral notes not initially present.
     sipping: >
@@ -487,7 +487,7 @@ bushmills-9:
     desc: 5cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Strong alcohol presence on the nose at first; through it I get wafts of wafers with vanilla wanilla, yellow fruits (candylike peach and apricot), and cereals notes (rye bread). Opens up nicely with some water. Knowing beforehand it's a dessert wine finish, I can indeed smell it. A hint of damp oak wood is there too, and a faint herbal or hempy note, and some star anise. 
     sipping: >
@@ -511,7 +511,7 @@ lady-of-arms-5:
     desc: 5cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       First and foremost, lots of vanilla and toffee, then slightly unripe/green fruits and berries, green grass, and cedar wood. Somewhere between a dry white wine and a herbal liqueur, if that makes sense.
     sipping: >
@@ -535,7 +535,7 @@ irish-diamonds-22:
     desc: 5cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Waxy citrus peel on the nose, a bouquet of flowers, trocadero (a Swedish orange soda), canned tropical fruits, vanilla, and Portuguese nata with a cinnamon dusting. 
     sipping: >
@@ -559,7 +559,7 @@ cambus-24-tbwc:
     desc: "25ml for £7 bought at MoM"
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Truffle! (The mushroom, not chocolate.) A distinct lemon fragrance, but more like from a cleaning agent than the actual fruit. I'm lead via some spice notes (white pepper, coriander seeds) into dusty-woody-mouldy territory (hemp, oak, dunnage warehouse, dry walnuts). The alcohol pokes my nostrils a bit. With time in the glass, overripe fruits/vegetables come to the fore (foremost pineapple, also avocado and sweaty onion). The fragrance notes may sound queer, but it's a queerness that works. In a word, this is <em>funky</em>. 
     sipping: >
@@ -584,7 +584,7 @@ cambus-26-je:
     desc: "25ml bought for £8.66 from MoM"
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Orange liqueur, overripe fruits (apple), sour cherries, chocolate ganache, leather and musk. The nose could just as well have described an old Armagnac. 
     sipping: >
@@ -608,7 +608,7 @@ cambus-30-mom:
     desc: "25ml sample bought for £6.84 from MoM"
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       A somewhat artificial lemon note, glue (sniff, sniff), and wax. Waxy apples. Waxy clementines. And apricot marmalade, hickory, and vanilla.
     sipping: >
@@ -633,7 +633,7 @@ meikle-toir-original:
     desc:  a 3cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Smoked cold cuts, burning wood, barn and hay, grapefruit, orange juice, peaches.
     sipping: >
@@ -660,7 +660,7 @@ glenallachie-4:
     desc: a 3cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Not as powerful as MK5 despite (or because of?) much higher ABV. Smoky – like a smoked cheese. Sandy beach by the sea – salty, iodine. More grapefruit, and vanilla than the MK5. Dried Provençale herbs, and a fresh touch of spearmint.
     sipping: >
@@ -687,7 +687,7 @@ glenrothes-15-nss:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Ripe and bright fruits (passion fruit, pear, citrus) and dessert wine, some minerality with petrichor and a dash of white pepper and vanilla.
     sipping: >
@@ -718,7 +718,7 @@ glasgow-1770-2018:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       In a word the nose is <em>compact</em>: thick winy and leathery notes, with savoury smoke-dried meats, and polished wood. I find myself going back and forth between vegetal, farmy peat and decadently sweet but burnt chocolate-walnut cake.
     sipping: >
@@ -749,7 +749,7 @@ classic-of-islay-2024:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Sweet peat and fruits (stone fruits, strawberries, ripe orange), some coastal freshness and a hint of iodine.
     sipping: >
@@ -780,7 +780,7 @@ blended-grain-30-tbwc:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Sweetness and wood are my main thoughts (wood shavings, resin, herbes de Provence, toasted hazelnut, caramel, vanilla). With time I get lots of plum too.
     sipping: >
@@ -811,7 +811,7 @@ blair-athol-7-mm:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Refreshing, with fruity and floral impressions (nectar, apple, stone fruits, fresh laundry, Swedish soft drink Champis), and some baking spices (foremost vanilla, cinnamon and with water also clove).
     sipping: >
@@ -842,7 +842,7 @@ glen-grant-23-sv:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Cask dominant, somewhat sour red berries and fruits, glühwein spices ('tis the season). Quite a bit of minerality shines through, though.
     sipping: >
@@ -873,7 +873,7 @@ bruichladdich-14-private:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Brown sugar, molasses, treacle — that's the chorus. Some overtones of heather, some backing of earthy and vinous aromas. Whisper of rubber.
     sipping: >
@@ -904,7 +904,7 @@ teeling-21:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Very generous and round nose, with mild yet ripe fruits (red apples, apricots, grapes, orange), flowers and a hint of grass, all underlaid by condensed milk and cola.
     sipping: >
@@ -935,7 +935,7 @@ kavalan-solist-vinho-71C:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       An enchanting nose, warm, sweet, rich, and very complex; one thinks of venerable, old ex-wine casks, perhaps PX. Dried fruits, strawberry and mango, nuttiness and marzipan, undergirded by musty and earthy aromas of old wood, leather, moss, and assorted herbs and spices (clove, saffron). Touch of menthol.
     sipping: >
@@ -966,7 +966,7 @@ zuidam-5:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       A strong candy-like sweetness and esteriness (foam bananas etc), salted caramel, hint of iodine and smoke.
     sipping: >
@@ -997,7 +997,7 @@ maltman-50:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Fresh, lots of juicy oak, really floral, and with some honied tea, herbs (perhaps oregano), and vanilla.
     sipping: >
@@ -1028,7 +1028,7 @@ springbank-10-cs-2023:
     desc: from a 2cl sample bottle
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Main themes here are zesty and confectionary, with some earthy notes as well: orange, pecan pie, caramel, sherry, and the associated spices (like cinnamon); also a slight vegetal peat, without much smokiness, really.
     sipping: >
@@ -1062,7 +1062,7 @@ glengoyne-14-hl:
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       At first very fresh, and a bit boozy; almost a hint of detergent. Looking past that, at first I was thinking yellow fruits and buttery pastries, but after some minutes it has definitely settled more into grassy, piny notes and fatty, slightly stale, though vanilla-laden character, lifted by wafts of citrus.   
     sipping: >
@@ -1089,7 +1089,7 @@ irish-whiskey-21-tbwc:
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Round and luxorious. White chocolate, poached pears, vanilla, and a somewhat musky. Herbs de provence, and old oak.
     sipping: >
@@ -1116,7 +1116,7 @@ kilchoman-8: #bruhler 3
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Earthy, peaty, coastal, vibrant. Fresh wood, sap, orange chocolate, some vanilla. Overall it is very pleasant and balanced.   
     sipping: >
@@ -1128,7 +1128,7 @@ kilchoman-8: #bruhler 3
         That's funny. So much of the flavour is pointing to Islay, yet somehow I was determined not to make that my guess.      
     grade:
       system: "three-tier-2026"
-      score: null
+      score: 
 
 north-british-16-dt: #bruhler-4
   bottle: north-british-16-dt
@@ -1143,7 +1143,7 @@ north-british-16-dt: #bruhler-4
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Rich and confectionary: gingerbread cookies baking in the oven, vanilla fudge, a bit candy-like, with strawberries, dates, port wine. Wood and cinnamon stick. Very harmonious and coherent in style, neither simplistic nor very complex.  
     sipping: >
@@ -1170,7 +1170,7 @@ tormore-29-mmd: #bru-5
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Very unusual: soapy, flowery, and vinegary (though not sharp). More readily enjoyable secondary notes of melon, cookie dough, vanilla and oak.  
     sipping: >
@@ -1225,7 +1225,7 @@ cameronbridge-40-jw: # bru 7
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       First sniff lots of citrus and clementine, but that quickly faded, and I'm left with sugary cereal, icing sugar, vanilla, lots of dry-kilned wood (oak and cedar), and subtle dry herbs and flowers.   
     sipping: >
@@ -1252,7 +1252,7 @@ macallan-classic-cut: #8
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Rather sweet and sticky, pudding, also a bit sour. Dried fruits and walnut, grape must, cinnamon and clove, and something like sweaty shoes (but not overpowering). 
     sipping: >
@@ -1279,7 +1279,7 @@ bowmore-22-mmd: #bru 9
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Sweet smoke, vanilla, a little lemon, and a dose of farminess (hay and muck)
     sipping: >
@@ -1306,7 +1306,7 @@ bushmills-11: #bruhler 10
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Sherried, but not so sweet; rather earthy, intead. Oxidized sherry, kiwi, touch of leather and dirt road, heather, and herbs.
     sipping: >
@@ -1333,7 +1333,7 @@ tobermory-14-redwine: # bru 11
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Very clearly a red wine cask. Lots of vanilla, red berries, Schweppes Russchian, but also some sooty notes, even a little sulphur.
     sipping: >
@@ -1360,7 +1360,7 @@ fiddichside-35-mmd: # bru 12
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Overtly sherried: lots of cola and caramel, dried fruits, oxidized apple, leather, and some earthy and dunnage-y notes in the background.
     sipping: >
@@ -1388,7 +1388,7 @@ bruichladdich-11-private: #bru 13
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       A rather seemless intertwining of sparkling freshness (spring air, petrichor, underripe bananas) and richer sherry notes (dates, ginger ale, creme brulee, couch leather).
     sipping: >
@@ -1414,7 +1414,7 @@ imperial-27-bwh: #bru 14
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Succulent yellow fruits (nectarines, orange), sweet-smelling flowers, lemon candies, ginger, bit of vanilla, hint of basil. One can smell the age through the soft integration of the aromas and the hint of dunnage. 
     sipping: >
@@ -1441,7 +1441,7 @@ meikle-toir-7: #15
     desc: 2cl sample from whisky calendar
     blind: yes
   review:
-    intro: null
+    intro: 
     nosing: >
       Earthy bonfire smoke, oak wood, rustic bread, or even Brownie, sour cherry.
     sipping: >
@@ -1555,7 +1555,7 @@ glenrothes-29-pst:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Concentrated fruity nose: syrupy, tropical... multivitamin juice, and winegums. Orange stands out, studded with cloved. Touch of eucalyptus. The age is hinted by some old paper, a little earthy mustiness.
     sipping: >
@@ -1579,7 +1579,7 @@ clynelish-24-pst:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Absolutely gorgeous nose! Minerality and chalk, bright fruits, lemon, ginger ale, even some really dry cider.
     sipping: >
@@ -1603,7 +1603,7 @@ clynelish-21-pst:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Quite different to the 24yo — fattier, waxier, more muffled on the nose. If the former is a lush day in spring, here is more a misty day along the coast. Closer to the secret "Stocking Filler" Teaninich I misjudged for a Clynelish. Lots of minerality, somewhat unripe fruits or even grassy notes, with floral and herbaceous connotations.
     sipping: >
@@ -1627,7 +1627,7 @@ sideburn-35-pst:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Staying with the associations of time and place: wet summer night, here. Floral, grassy, perfumed, earthy, even a bit of rubber, and quite a bit of wax.
     sipping: >
@@ -1676,7 +1676,7 @@ bruichladdich-21-pst:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       There's immediately a very clear grapefruit note on the nose, and a maritime (yet non-smoky) character. We're of on a real adventure of discovery: grapefruit, minerality, iodine, nuts, ginger ale, yeasty apple cider, pine wood (sap), lavender, vanilla... Overall dry and fragrant, one could say.
     sipping: >
@@ -1700,7 +1700,7 @@ islay-33-pst:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Fascinating old Islay here. I'm getting, in some sort of unlikely balance, oak aged mezcal, smoked sausage, Savon de Marseille, yeasty Belgian blonde, lots of bright lemon, fish curry with kefir lime. Smoked, sour, herbal, pungent, to summarize.
     sipping: >
@@ -1724,7 +1724,7 @@ ardbeg-16-pst:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Very minerally, coastal nose; sea shells. Star anise, somewhat unripe tropical fruit, green mango, green papaya. Fresh, invigorating, and very appealing. Neither a very young or old feel.
     sipping: >
@@ -1750,7 +1750,7 @@ ncnoch:
     desc: From 1/3 full bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       A fresh and grassy nose, also with some fatty, creamy elements. Pine needles, underripe nectarines, banana peel, a little lavender, but also chalk, beeswax, clotted cream, shortbread. There is an anticipation of (pleasant) bitterness; I find the nose very appealing.
     sipping: >
@@ -1798,7 +1798,7 @@ dornoch-5-px:
     desc: Bottle kill
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Concentrated nose, with juicy blood orange, tangerines, golden sultanas, goat cheese with honey, some heather and earth. Something unique here that's hard to describe!
     sipping: >
@@ -1824,7 +1824,7 @@ springbank-14-dutypaid-fshhd:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Just what you would expect; dense and jammy, sherried, leathery, with some dirtiness, farminess.
     sipping: >
@@ -1848,7 +1848,7 @@ springbank-15-dutypaid-bbn:
     desc: ###
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Here's something rather interesting. Lychee, cheddar cheese, soda. Decent amount of vanilla.
     sipping: >
@@ -1876,7 +1876,7 @@ park-life-20:
     desc: froma a 6cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       cold butter, mineral, coast, lemon, green apples, melon, trace of vegetal peat, hay, farm. 
     sipping: >
@@ -1900,7 +1900,7 @@ park-life-22:
     desc: froma a 6cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Similar to the 20yo, fresh and coastal - a bit more, even - but also a little timid.
     sipping: >
@@ -1925,7 +1925,7 @@ unnamed-orkney-13-sv:
     desc: from a 5cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Bright, grassy, citrussy, chalky, spicy
     sipping: >
@@ -1949,7 +1949,7 @@ coasts-and-shores-15-bbr:
     desc: from a 5cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Fresh coasta air, toasted oak, and also some exotic wood and spices. The alcohol tickles the nose. With water it becomes crispier, with green apples and citrus.
     sipping: >
@@ -1975,7 +1975,7 @@ stauning-4-bbr:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Rich and warming nose. Cherries and strawberries, marzipan, roasted coffee and Belgian ale, maple syrup. There are prominent wood notes (saw-dust) and an abashed rye-grain character. 
     sipping: >
@@ -2001,7 +2001,7 @@ teerenpeli-2013-bbr:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Intense butterscotch on the nose. And ginger ale, ginger bread, ginger (you get the point). There is mix of herbal notes coming though too, along with dirt track road, and a hint of burnt rubber. 
     sipping: >
@@ -2029,7 +2029,7 @@ thy-2019-bbr:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Is this even whisky? It's smells like gin. Herbal, floral and medicinal, with juniper berries, aniseed, violet. Add to that a pronounced smokiness and brine. Concentrating, I find also a vanilla note and light lemon meringue.
     sipping: >
@@ -2054,7 +2054,7 @@ smogen-2012-bbr:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Lively nose, with citrus, coastal spray, a hint of pineapple and coconut.
     sipping: >
@@ -2084,7 +2084,7 @@ glenesk-12-wm:
     desc: from a 5cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Fresh, fruity, sweet nose. Red apples, prunes, digestive biscuit, vanilla. On closer inspection, more acidity and yeast, like a craft cider. Subtler notes of candlewax and ginger.
     sipping: >
@@ -2111,7 +2111,7 @@ st-magdalene-15-gm:
     desc: froma a 5cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Winey and nutty nose, a little stale. Orange, cinnamon, sour cherries, toasted hazelnut, ginger beer, hint of brie and broiled meat.
     sipping: >
@@ -2140,7 +2140,7 @@ bowmore-1995-bwh:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Very chalky, minerally, coastal, seashells. Then a mixture of ripe fruits (apples, oranges, some tropical) and peat with a slight farmy kind of funk. 
     sipping: >
@@ -2164,7 +2164,7 @@ laphroaig-1998:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       It's a dense and rich nose; dates, citrus peel, smoke, light farm-funk 
     sipping: >
@@ -2188,7 +2188,7 @@ ardbeg-9-gm:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Ashy peat smoke, malt grist, limoncello, grapefruit, ginger, brandy, melon, grapes. Also a peculiar floaral top note.
     sipping: >
@@ -2215,7 +2215,7 @@ glenrothes-36-twj:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Fruity and floral: ripe tropical fruits (passion fruit, pineapple), sweet mandarin, floral honey, elder flower, vanilla and a touch of cardamom. With time a beeswax note.
     sipping: >
@@ -2271,7 +2271,7 @@ ben-nevis-23-twj:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Quite similar nose to the ’95 at first, but then the differences reveal themselves: it is brighter, less fruity, and more minerally, and candy-like. There’s a toasted almond / marzipan note as well.
     sipping: >
@@ -2299,7 +2299,7 @@ laphroaig-32-twj:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Smoked ham, honey-draped toasted oats, a chardonnay, lemons, and sea spray.
     sipping: >
@@ -2329,7 +2329,7 @@ cataibh-10-ch:
     desc: Review of purchased bottle drunk over the course of a year or two.
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Fresh citrus (grapefruit, pomelo), maritime minerality, undergirded by warm butter.
     sipping: >
@@ -2354,7 +2354,7 @@ clynelish-10-eld:
     desc: from a 2cl sample bottle
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       More luscious and better integrated nose than Cataibh. Fresh fruit (peaches, green apples), some dusty oak, and — again — a beach-pebble like minerality. Bees wax? Why, yes, there is!
     sipping: >
@@ -2379,7 +2379,7 @@ highland-19-wf:
     desc: Review sample bought from bottler at Limburg Whisky Fair 2023 (2cl, €5)
     blind: no
   review:
-    intro: null
+    intro: 
     nosing: >
       Snuffed candle, tropical fruit (coconut, maracuja), also citrus, and sea spray minerality.
     sipping: >
@@ -2405,7 +2405,7 @@ highland-19-wf:
 #     desc: ###
 #     blind: no
 #   review:
-#     intro: null
+#     intro: 
 #     nosing: >
 #       ###
 #     sipping: >
@@ -2437,7 +2437,7 @@ highland-19-wf:
 #     desc: from a 2cl sample bottle
 #     blind: yes
 #   review:
-#     intro: null
+#     intro: 
 #     nosing: >
 #       ###
 #     sipping: >

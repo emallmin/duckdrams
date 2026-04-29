@@ -343,7 +343,7 @@ jura-12-2022:
     name: 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 213980
@@ -369,10 +369,10 @@ jura-22-dl:
     size: 700
   marketing:
     series: Old Particular
-    name: null
+    name: 
     released: 2014
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 58987
@@ -401,7 +401,7 @@ jura-superstition:
     name: 
     released: 2017
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 103147
@@ -430,7 +430,7 @@ lady-of-arms-5:
     name: Lady of Arms
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 243241
@@ -447,9 +447,9 @@ bushmills-9:
     cask: Oloroso Sherry + Bourbon + Sauternes Finish
   bottling:
     bottler:
-    batching: null
+    batching: 
     abv: 56.3
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2021
@@ -459,7 +459,7 @@ bushmills-9:
     name:
     released: 2021
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 195567
@@ -488,7 +488,7 @@ irish-diamonds-22:
     name: Irish Diamonds
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 238468
@@ -514,10 +514,10 @@ cambus-26-je:
     size: 700
   marketing:
     series: Single Cask
-    name: null
+    name: 
     released: 2019
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 139995
@@ -527,11 +527,11 @@ cambus-26-je:
 
 cambus-24-tbwc:
   production:
-    vintage: null
+    vintage: 
     producer: cambus
   maturation:
     age: 24
-    cask: null
+    cask: 
   bottling:
     bottler: tbwc
     batching: single_cask
@@ -542,11 +542,11 @@ cambus-24-tbwc:
     bottling_date: 2016
     size: 500
   marketing:
-    series: null
+    series: 
     name: Batch 2
     released: 2016
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 84061
@@ -572,10 +572,10 @@ cambus-30-mom:
     size: 700
   marketing:
     series: Single Cask Series
-    name: null
+    name: 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 215318
@@ -585,14 +585,14 @@ cambus-30-mom:
 
 glenallachie-4:
   production:
-    vintage: null
+    vintage: 
     producer: glenallachie-peated
   maturation:
     age: 4
     cask: Bourbon cask, rye cask, new oak
   bottling:
     bottler:
-    batching: null
+    batching: 
     abv: 60.2
     outturn: 10000
     natural_color: true
@@ -604,7 +604,7 @@ glenallachie-4:
     name:
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 217345
@@ -614,26 +614,26 @@ glenallachie-4:
 
 meikle-toir-original:
   production:
-    vintage: null
+    vintage: 
     producer: meikle-toir
   maturation:
     age: 5
     cask: First Fill Bourbon, Rye & American Virgin Oak
   bottling:
     bottler:
-    batching: null
+    batching: 
     abv: 50.0
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2023
     size: 700
   marketing:
     series: The Original
-    name: null
+    name: 
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 239124
@@ -650,7 +650,7 @@ teeling-21:
     cask: Ex-Bourbon, Marsala
   bottling:
     bottler:
-    batching: null
+    batching: 
     abv: 46
     outturn: 6000
     natural_color:
@@ -662,7 +662,7 @@ teeling-21:
     name: "Rising Reserve No. 2"
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 238817
@@ -691,7 +691,7 @@ glen-grant-23-sv:
     name:
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 244173
@@ -717,7 +717,7 @@ bruichladdich-14-private:
     size: 700
   marketing:
     series: Private Cask Bottling
-    name: null
+    name: 
     released: 2022
     rrp:
       amount:
@@ -739,17 +739,17 @@ classic-of-islay-2024:
     bottler: wiebers
     batching: single_cask
     abv: 56.5
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2024
     size: 700
   marketing:
-    series: null
+    series: 
     name: Classic of Islay
     released: 2024
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 263641
@@ -778,7 +778,7 @@ glenrothes-15-nss:
     name:
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 223587
@@ -804,10 +804,10 @@ blair-athol-7-mm:
     size: 700
   marketing:
     series: Benchmark
-    name: null
+    name: 
     released: 2024
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 259953
@@ -824,7 +824,7 @@ maltman-50:
     cask: Ex-Bourbon Barrels, finished in Sherry Butt
   bottling:
     bottler: meadowside
-    batching: null
+    batching: 
     abv: 44.9
     outturn: 540
     natural_color: true
@@ -836,7 +836,7 @@ maltman-50:
     name: The Maltman Blended Scotch Whisky
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 229494
@@ -865,7 +865,7 @@ zuidam-5:
     name: Millstone Heavily Peated
     released: 2024
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 256538
@@ -894,7 +894,7 @@ kavalan-solist-vinho-71C:
     name:
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 240049
@@ -920,10 +920,10 @@ glasgow-1770-2018:
     size: 700
   marketing:
     series: Small batch series
-    name: null
+    name: 
     released: 2024
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 249177
@@ -952,7 +952,7 @@ springbank-10-cs-2023:
     name: "Palo Cortado Matured"
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 244838
@@ -969,9 +969,9 @@ blended-grain-30-tbwc:
     cask: Refill Bourbon Hogshead & Sherry Octave
   bottling:
     bottler: tbwc
-    batching: null
+    batching: 
     abv: 45.8
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2023
@@ -981,7 +981,7 @@ blended-grain-30-tbwc:
     name: Blended Grain Scotch Whisky
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 241635
@@ -1007,10 +1007,10 @@ glengoyne-14-hl:
     size: 700
   marketing:
     series: The Old Malt Cask
-    name: null
+    name: 
     released: 2024
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 272521
@@ -1020,22 +1020,22 @@ glengoyne-14-hl:
 
 irish-whiskey-21-tbwc:
   production:
-    vintage: null
+    vintage: 
     producer: tbwc-irish-whiskey
   maturation:
     age: 21
     cask: Rum brls, refill bourbon, PX & Oloroso butt
   bottling:
     bottler: That Boutique-y Whisky Company
-    batching: null
+    batching: 
     abv: 45.8
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2025
     size: 700
   marketing:
-    series: null
+    series: 
     name: Irish Whiskey
     released: 2025
     rrp:
@@ -1066,7 +1066,7 @@ kilchoman-8:
     size: 700
   marketing:
     series: The Awakening Series
-    name: null
+    name: 
     released: 2025
     rrp:
       amount: 110
@@ -1079,18 +1079,18 @@ kilchoman-8:
 
 macallan-classic-cut:
   production:
-    vintage: null
+    vintage: 
     producer: macallan
   maturation:
-    age: null
+    age: 
     cask: Ex-Bourbon & Sherry seasoned
   bottling:
     bottler:
-    batching: null
+    batching: 
     abv: 50.3
-    outturn: null
+    outturn: 
     natural_color: true
-    unchillfiltered: null
+    unchillfiltered: 
     bottling_date: 2023
     size: 700
   marketing:
@@ -1118,13 +1118,13 @@ cameronbridge-40-jw:
     batching: single_cask
     abv: 44.5
     outturn: 40
-    natural_color: null
-    unchillfiltered: null
+    natural_color: 
+    unchillfiltered: 
     bottling_date: 2024
     size: 700
   marketing:
-    series: null
-    name: null
+    series: 
+    name: 
     released: 2024
     rrp:
       amount: 275
@@ -1137,7 +1137,7 @@ cameronbridge-40-jw:
 
 glenfarclas-32-bwh:
   production:
-    vintage: null
+    vintage: 
     producer: glenfarclas
   maturation:
     age: 32
@@ -1153,10 +1153,10 @@ glenfarclas-32-bwh:
     size: 700 ml
   marketing:
     series: The Fine Art of Whisky
-    name: null
+    name: 
     released: 2024
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 267236
@@ -1182,7 +1182,7 @@ tormore-29-mmd:
     size: 700
   marketing:
     series: Mission Gold
-    name: null
+    name: 
     released: 2025
     rrp:
       amount: 190
@@ -1206,15 +1206,15 @@ north-british-16-dt:
     abv: 54.5
     outturn: 93
     natural_color: true
-    unchillfiltered: null
+    unchillfiltered: 
     bottling_date: 2025
     size: 700
   marketing:
     series: The Octave
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 286262
@@ -1241,7 +1241,7 @@ ben-nevis-5-ad:
     size: 700
   marketing:
     series: Selection
-    name: null
+    name: 
     released: 2020
     rrp:
       amount: 
@@ -1261,19 +1261,19 @@ ben-nevis-8-sv:
     cask: Hogsheads
   bottling:
     bottler: signatory
-    batching: null
+    batching: 
     abv: 46
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2021
     size: 700
   marketing:
     series: The Un-Chillfiltered Collection
-    name: null
+    name: 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 201677
@@ -1292,20 +1292,20 @@ ben-nevis-9-eld-xmas:
     bottler: elixir
     batching: single_cask
     abv: 57.8
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2021
     size: 30
   marketing:
     series: Single Malt of Scotland
-    name: null
+    name: 
     released:
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
-    whiskybase_id: null
+    whiskybase_id: 
     image:
       url: https://files.emilmallmin.com/ben-nevis-9-eld-xmas.JPG
       source: self
@@ -1328,10 +1328,10 @@ cameronbridge-39-mom:
     size: 700 
   marketing:
     series: Single Cask Series
-    name: null
+    name: 
     released:
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 215321
@@ -1345,10 +1345,10 @@ tbwc-blended-grain-3:
     producer: tbwc-blended-grain # carsebirdge, north of Scotland
   maturation:
     age: 45
-    cask: null
+    cask: 
   bottling:
     bottler: tbwc
-    batching: null
+    batching: 
     abv: 44.2
     outturn: 406
     natural_color: true
@@ -1360,7 +1360,7 @@ tbwc-blended-grain-3:
     name: Blended Grain \#1 Batch 3 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 218246
@@ -1380,16 +1380,16 @@ north-of-scotland-46-mom:
     batching: single_cask
     abv: 41.0
     outturn: 154
-    natural_color: null
+    natural_color: 
     unchillfiltered: true
     bottling_date: 2018
     size: 700
   marketing:
-    series: null
-    name: null
+    series: 
+    name: 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 221621
@@ -1418,10 +1418,10 @@ islay-33-pst:
     size: 700
   marketing:
     series: Dornoch Castle 25th Anniversary
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 278091
@@ -1447,10 +1447,10 @@ bruichladdich-21-pst:
     size: 700
   marketing:
     series: Dornoch Castle 25th Anniversary
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 279165
@@ -1476,10 +1476,10 @@ ardbeg-16-pst:
     size: 700
   marketing:
     series: Dornoch Castle 25th Anniversary
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 280669
@@ -1505,10 +1505,10 @@ clynelish-24-pst:
     size: 700
   marketing:
     series: Dornoch Castle 25th Anniversary
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 282724
@@ -1534,10 +1534,10 @@ clynelish-21-pst:
     size: 700
   marketing:
     series: Dornoch Castle 25th Anniversary
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 282725
@@ -1554,19 +1554,19 @@ glenrothes-29-pst:
     cask: refill hogshead
   bottling:
     bottler: thompson-bros
-    batching: null
+    batching: 
     abv: 45.1
     outturn: 184
-    natural_color: null
-    unchillfiltered: null
+    natural_color: 
+    unchillfiltered: 
     bottling_date: 2025
     size: 700
   marketing:
     series: Dornoch Castle 25th Anniversary
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 284736
@@ -1595,7 +1595,7 @@ sideburn-35-pst:
     name: Sideburn
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 285532
@@ -1621,10 +1621,10 @@ ledaig-30-pst:
     size: 700
   marketing:
     series: Dornoch Castle 25th Anniversary
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 286218
@@ -1634,11 +1634,11 @@ ledaig-30-pst:
 
 ncnoch:
   production:
-    vintage: null
-    producer: null
+    vintage: 
+    producer: 
   maturation:
     age: 5
-    cask: null
+    cask: 
   bottling:
     bottler: thompson-bros
     batching: small batch
@@ -1649,11 +1649,11 @@ ncnoch:
     bottling_date: 2023
     size: 700 
   marketing:
-    series: null
+    series: 
     name: NcNoch
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 244780
@@ -1663,11 +1663,11 @@ ncnoch:
 
 ncnoch-px:
   production:
-    vintage: null
-    producer: null
+    vintage: 
+    producer: 
   maturation:
     age: 5
-    cask: null
+    cask: 
   bottling:
     bottler: thompson-bros
     batching: small batch
@@ -1678,11 +1678,11 @@ ncnoch-px:
     bottling_date: 2023
     size: 700 
   marketing:
-    series: null
+    series: 
     name: NcNoch (spiked with PX)
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 244780
@@ -1707,8 +1707,8 @@ dornoch-5-px:
     bottling_date: 2024
     size: 500
   marketing:
-    series: null
-    name: null
+    series: 
+    name: 
     released: 2024
     rrp:
       amount: 100
@@ -1730,17 +1730,17 @@ springbank-15-dutypaid-bbn:
     bottler:
     batching: single_cask
     abv: 56.5
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
-    bottling_date: null
+    bottling_date: 
     size: 700
   marketing:
     series: Duty Paid Sample - For Trade Purposes Only
     name: Duty Paid Sample
     released:
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 232665
@@ -1759,7 +1759,7 @@ springbank-14-dutypaid-fshhd:
     bottler:
     batching: single_cask
     abv: 50.9
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2017
@@ -1769,7 +1769,7 @@ springbank-14-dutypaid-fshhd:
     name: Duty Paid Sample
     released:
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 252470
@@ -1795,7 +1795,7 @@ linkwood-15-eld:
     size: 700
   marketing:
     series: The Single Malts of Scotland
-    name: null
+    name: 
     released:
     rrp:
       amount: 80
@@ -1827,7 +1827,7 @@ bushmills-11:
     name:
     released:
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 195567
@@ -1852,11 +1852,11 @@ tobermory-14-redwine:
     bottling_date:
     size: 700
   marketing:
-    series: null
-    name: null
+    series: 
+    name: 
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 236677
@@ -1866,7 +1866,7 @@ tobermory-14-redwine:
 
 bruichladdich-11-private:
   production:
-    vintage: null
+    vintage: 
     producer: bruichladdich
   maturation:
     age: 11
@@ -1875,17 +1875,17 @@ bruichladdich-11-private:
     bottler:
     batching: single_cask
     abv: 57.3
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2023
     size: 700
   marketing:
     series: Private Cask Bottling
-    name: null
+    name: 
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 243304
@@ -1902,7 +1902,7 @@ fiddichside-35-mmd:
     cask: Oloroso, PX and Pauillac Red Wine Finish
   bottling:
     bottler: murray-mcdavid
-    batching: null
+    batching: 
     abv: 46.7
     outturn: 732
     natural_color: true
@@ -1914,7 +1914,7 @@ fiddichside-35-mmd:
     name: Fiddichside
     released: 2024
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 264227
@@ -1931,7 +1931,7 @@ bowmore-22-mmd:
     cask: Callejo Wine
   bottling:
     bottler: murray-mcdavid
-    batching: null
+    batching: 
     abv: 54.9
     outturn: 302
     natural_color: true
@@ -1943,7 +1943,7 @@ bowmore-22-mmd:
     name:
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 285459
@@ -1962,17 +1962,17 @@ unnamed-orkney-13-sv:
     bottler: signatory
     batching: small batch
     abv: 46.0
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2022
     size: 700
   marketing:
     series: The Un-Chillfiltered Collection
-    name: null
+    name: 
     released: 2023
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 225462
@@ -2001,7 +2001,7 @@ coasts-and-shores-15-bbr:
     name: Coasts & Shores
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 291883
@@ -2011,7 +2011,7 @@ coasts-and-shores-15-bbr:
 
 roseisle-14:
   production:
-    vintage: null
+    vintage: 
     producer: roseisle
   maturation:
     age: 14
@@ -2030,7 +2030,7 @@ roseisle-14:
     name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 283866
@@ -2047,7 +2047,7 @@ imperial-27-bwh:
     cask: Two Bourbon Barrels Married
   bottling:
     bottler: bruhler
-    batching: null
+    batching: 
     abv: 50.2
     outturn: 342
     natural_color: true
@@ -2056,10 +2056,10 @@ imperial-27-bwh:
     size: 200
   marketing:
     series: A Dream of Scotland
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 274788
@@ -2085,10 +2085,10 @@ meikle-toir-7:
     size: 700
   marketing:
     series: The Awakening Series
-    name: null
+    name: 
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 285154
@@ -2107,7 +2107,7 @@ park-life-22:
     bottler: uncharted
     batching: single_cask
     abv: 55.0
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2025
@@ -2128,7 +2128,7 @@ park-life-22:
 park-life-20:
   production:
     vintage: 2004
-    producer: null
+    producer: 
   maturation:
     age: 20
     cask: Ex-Bourbon
@@ -2136,7 +2136,7 @@ park-life-20:
     bottler: uncharted
     batching: single_cask
     abv: 55.0
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2025
@@ -2146,7 +2146,7 @@ park-life-20:
     name: Park Life
     released: 2025
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 280371
@@ -2159,7 +2159,7 @@ smogen-2012-bbr:
     vintage: 2012
     producer: smogen
   maturation:
-    age: null
+    age: 
     cask: Oloroso Hogshead
   bottling:
     bottler: berry-bros-rudd
@@ -2172,10 +2172,10 @@ smogen-2012-bbr:
     size: 700
   marketing:
     series: "The Nordic Casks #2"
-    name: null
+    name: 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 216990
@@ -2188,7 +2188,7 @@ teerenpeli-2013-bbr:
     vintage: 2013
     producer: teerenpeli
   maturation:
-    age: null
+    age: 
     cask: Oloroso Hogshead
   bottling:
     bottler: berry-bros-rudd
@@ -2201,10 +2201,10 @@ teerenpeli-2013-bbr:
     size: 700
   marketing:
     series: 'The Nordic Casks #2'
-    name: null
+    name: 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 216991
@@ -2217,7 +2217,7 @@ stauning-4-bbr:
     vintage: 2017
     producer: stauning
   maturation:
-    age: null
+    age: 
     cask: Barrel / Moscatel Finish
   bottling:
     bottler: berry-bros-rudd
@@ -2230,10 +2230,10 @@ stauning-4-bbr:
     size: 700
   marketing:
     series: 'The Nordic Casks #2'
-    name: null
+    name: 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 216995
@@ -2246,11 +2246,11 @@ thy-2019-bbr:
     vintage: 2019
     producer: thy
   maturation:
-    age: null
+    age: 
     cask: Quarter Cask
   bottling:
     bottler: berry-bros-rudd
-    batching: null
+    batching: 
     abv: 57.6
     outturn: 235
     natural_color: true
@@ -2259,10 +2259,10 @@ thy-2019-bbr:
     size: 700
   marketing:
     series: 'The Nordic Casks #2'
-    name: null
+    name: 
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 216996
@@ -2272,23 +2272,23 @@ thy-2019-bbr:
 
 nectarosity:
   production:
-    vintage: null
-    producer: null
+    vintage: 
+    producer: 
   maturation:
-    age: null
+    age: 
     cask: American Oak Barrel
   bottling:
     bottler: compass-box
-    batching: null
+    batching: 
     abv: 46
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2024
     size: 700
   marketing:
     series: Core Collection
-    name: null
+    name: 
     released: 2024
     rrp:
       amount: 50
@@ -2301,7 +2301,7 @@ nectarosity:
 
 glenesk-12-wm:
   production:
-    vintage: null
+    vintage: 
     producer: glenesk
   maturation:
     age: 12
@@ -2392,22 +2392,22 @@ ardbeg-9-gm:
     producer: ardbeg
   maturation:
     age: 9
-    cask: null
+    cask: 
   bottling:
     bottler: gordon-macphail
     batching: single_cask
     abv: 52.9
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2005
     size: 700
   marketing:
     series: Spirit of Scotland
-    name: null
+    name: 
     released:
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 5816
@@ -2426,7 +2426,7 @@ laphroaig-1998:
     bottler: Distillery Bottling
     batching: single_cask
     abv: 54.9
-    outturn: null
+    outturn: 
     natural_color: true
     unchillfiltered: true
     bottling_date: 2015
@@ -2436,7 +2436,7 @@ laphroaig-1998:
     name: Handfilled - Distillery only
     released:
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 69379
@@ -2449,7 +2449,7 @@ ben-nevis-23-twj:
     vintage: 1996
     producer: ben-nevis
   maturation:
-    age: null
+    age: 
     cask: Refill Hogshead
   bottling:
     bottler: whisky-jury
@@ -2465,7 +2465,7 @@ ben-nevis-23-twj:
     name:
     released: 2020
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 161881
@@ -2494,7 +2494,7 @@ laphroaig-32-twj:
     name: Islay Single Malt
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 214953
@@ -2523,7 +2523,7 @@ glenrothes-36-twj:
     name:
     released: 2022
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 219217
@@ -2581,7 +2581,7 @@ highland-19-wf:
     name: Highland Distillery
     released: 2020
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 156853
@@ -2610,7 +2610,7 @@ cataibh-10-ch:
     name: Cataibh
     released: 2021
     rrp:
-      amount: null
+      amount: 
       currency: EUR
   meta:
     whiskybase_id: 180793
