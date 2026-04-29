@@ -478,6 +478,14 @@ clynelish:
   country: "Scotland"
   category: "Scotch Whisky"
 
+glenfarclas:
+  name: Glenfarclas
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+
 ardbeg:
   name: Ardbeg
   kind: distillery

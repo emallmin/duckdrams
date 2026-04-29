@@ -1138,7 +1138,7 @@ cameronbridge-40-jw:
 glenfarclas-32-bwh:
   production:
     vintage: null
-    producer: null
+    producer: glenfarclas
   maturation:
     age: 32
     cask: Refill Port Barrique
