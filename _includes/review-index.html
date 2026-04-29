@@ -49,6 +49,8 @@ TOC -->
         {%- assign cccr = return | split: "^" -%}          
         {% if category.name == cccr[0] and item.type == "class" and item.name == cccr[1] %}
           {%- include review-string.html id=review_id -%}
+        {% elsif category.name = "World Whiskey" and item.name == cccr[2] %}
+          {%- include review-string.html id=review_id -%}
         {% endif %}
       {%- endfor -%}
     {% endif %}
