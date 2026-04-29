@@ -24,7 +24,7 @@
   {% endcapture %}
 
   {% capture age_vintage %}
-    {{age}}yo {% if vintage %} ({{vintage}}) {% endif %}
+    {% if age %} {{age}}yo {% else %} NAS {% endif %} {% if vintage %} ({{vintage}}) {% endif %}
   {% endcapture %}
 
   
