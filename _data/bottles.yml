@@ -2647,6 +2647,93 @@ clynelish-10-eld:
       url:
       source:
 
+croftengea-13-nss:
+  production:
+    vintage: 2007
+    producer: croftengea
+  maturation:
+    age: 13
+    cask: Refill Hogshead
+  bottling:
+    bottler: north-star-spirits
+    batching: single_cask
+    abv: 49.5
+    outturn: 255
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: Cask Series 014
+    name: 
+    released: 2021
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 181722
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/8/1722/319475-big.jpg
+      source: whiskybase
+
+kilkerran-batch6:
+  production:
+    vintage: 
+    producer: kilkerran
+  maturation:
+    age: 
+    cask: 75% Bourbon, 25% Sherry
+  bottling:
+    bottler:
+    batching: 
+    abv: 57.4
+    outturn: 
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Peat in Progress
+    name: Heavily Peated Batch 6
+    released: 2022
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 212085
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/2085/384984-big.jpg
+      source: whiskybase
+
+edradour-8-cuvee:
+  production:
+    vintage: 2013
+    producer: edradour
+  maturation:
+    age: 8
+    cask: Sherry + Bourbon Casks
+  bottling:
+    bottler: Distillery Bottling
+    batching: 
+    abv: 46.0
+    outturn: 
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: '2022'
+    size: 700 ml
+  marketing:
+    series: Double Malt - Double Cask
+    name: Double Malt - Double Cask
+    released: 2022
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 215011
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/5011/386113-big.jpg
+      source: whiskybase
+
 
 # bottle-key:
 #   production:

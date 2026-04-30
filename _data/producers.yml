@@ -72,6 +72,23 @@ ben-nevis:
   class: "Single Malt"
   peated: no
 
+  
+edradour:
+  name: "Edradour"
+  kind: distillery
+  status: active
+  region: "Highlands"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  peated: no
+
+ballechin:
+  name: "Ballechin"
+  kind: line
+  distillery: edradour
+  peated: yes
+
+
 ## Islay
 
 bruichladdich:
@@ -392,6 +409,21 @@ springbank:
   category: Scotch Whisky
   class: Single Malt
 
+kilkerran:
+  name: Kilkerran
+  kind: line
+  distillery: glengyle
+  peated: yes
+
+glengyle:
+  name: Glengyle
+  kind: distillery
+  country: Scotland
+  region: Campbeltown
+  category: Scotch Whisky
+  class: Single Malt
+
+
 glengoyne:
   name: "Glengoyne"
   kind: distillery
@@ -467,7 +499,7 @@ ledaig:
   name: "Ledaig"
   kind: line
   distillery: tobermory
-  style: "Pated"
+  style: "Peated"
   peated: yes
 
 clynelish:

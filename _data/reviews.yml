@@ -2391,6 +2391,83 @@ highland-19-wf:
       score: "⭐ Great Quality"
       heart: no
 
+#--- non-islay peat 
+
+review-key:
+  bottle: croftengea-13-nss
+  date: 2023-04-09
+  post: non-islay-peat-1
+  market_context:
+    availability: Bought for €68.50
+    estimated_price:
+      amount: 69
+      currency: EUR
+  sample_context:
+    desc: pour from bottle
+    blind: no
+  review:
+    intro: 
+    nosing: >
+      My first thought is buttered popcorn, then some black pepper, granite powder, heather, and a trace of sulphur. Not overwhelming, but there are fruits in there: certainly citrus (grapefruit and lime); perhaps also pear. 
+    sipping: >
+      Salty, a little bitter, a little sweet; the peat and sulphur are prominent, but I also find canary melon and some other hard-to-pinpoint tropical fruits. The experience becomes a bit more forgiving with a teaspoon of water. The finish is surprisingly more fruit than peat oriented.
+    comments: >
+      Not at all bad, but for my taste it's a bit more sulphuric than it needed to be.
+    grade:
+      system: "original-2023"
+      score: "⭐Notable Quality"
+      wb_score: 83
+
+edradour-8-cuvee:
+  bottle: edradour-8-cuvee
+  date: 2023-04-09
+  post: non-islay-peat-1
+  market_context:
+    availability: Bought for €49.90
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc: pour from bottle
+    blind: no
+  review:
+    intro: 
+    nosing: >
+      A modern-style sherry nose; then toasted nuts, dried fish flakes, and peat.
+    sipping: >
+      Generous palate with salted caramel and ample but not overpowering peat; there’s burnt rubber and something “fishy” too, adding interest without becoming too odd (for me at least). The finish holds sherry, peat, and sesame seed oil, but is a bit metallic.
+    comments: >
+      A somewhat strange beast, but it keeps its elements together reasonably well.
+    grade:
+      system: "original-2023"
+      score: "⭐Notable Quality"
+      wb_score: 84
+
+kilkerran-batch6:
+  bottle: kilkerran-batch6
+  date: 2023-04-09
+  post: non-islay-peat-1
+  market_context:
+    availability: RRP around £45
+    estimated_price:
+      amount: 45
+      currency: GBP
+  sample_context:
+    desc: pour from bottle
+    blind: no
+  review:
+    intro: 
+    nosing: >
+      My nose hairs are on fire – there is alcohol! Definitely yellow apples; also lemon grass and a smell of grilled seafood somewhere nearby; a generally minerally profile. A sulphur note is there but is relatively well masked. A lively and not very complex nose, betraying young spirit; but surprisingly little peat. 
+    sipping: >
+      Taste, however, offers sweet, warming peat, to which I might add stone fruits and ginger. I added a dollop of water to temper the high ABV, but this brought out more sulphur and bitterness, and was not an improvement to my taste. Long salty-sweet-smoky finish and a hint of cigar. As I smell the empty glass I get a whiff of that hay / farmyard character typical of Campbeltown malts.
+    comments: >
+      A lively and enjoyable dram, but not something I get too excited about.
+    grade:
+      system: "original-2023"
+      score: "⭐Notable Quality"
+      wb_score: 84
+
 #-----------------------------
 # review-key:
 #   bottle: ###
