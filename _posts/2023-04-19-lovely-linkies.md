@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Lovely Linkies
-date: 2024-04-19
+date: 2023-04-19
 categories: Review
 tags: [tag1, tag2]
 header:
@@ -24,7 +24,7 @@ Among the offerings was a Linkwood that was only being sold as 20cl for £22.50.
 
 {% include review.html id="linkwood-15-ca" %}
 
-<img src="https://example.com/summer promise.png" alt="The scent of summer" />
+<img src="https://files.emilmallmin.com/summer promise.png" alt="The scent of summer" />
 
 Amazing the amount of flavour at this low ABV! A cask this age ought to be at least 50%. But if the low alcohol has been reached by a greedy angels or devils (angel’s share and devil’s share are the common colourful terms for natural evaporation and leakage, respectively) rather than the addition of water, I imagine this could well result in a concentration of flavour.
 
