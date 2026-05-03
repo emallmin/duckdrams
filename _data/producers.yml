@@ -274,6 +274,23 @@ cameronbridge:
   region: Lowlands
   status: active
 
+girvan:
+  name: Girvan
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Grain
+  country: Scotland
+  region: Lowlands
+  status: active
+
+cragganmore:
+  name: "Cragganmore"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+
 glenallachie:
   name: "GlenAllachie"
   kind: distillery

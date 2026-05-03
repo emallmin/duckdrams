@@ -107,10 +107,19 @@ meadowside:
   kind: bottler
   country: UK
 
+cadenheads:
+  name: "Cadenhead's"
+  kind: bottler
+  country: UK
+
 adelphi:
   name: Adelphi
   kind: bottler
   country: UK
+
+wilson-morgan:
+  name: "Wilson & Morgan"
+  kind: bottler
 
 elixir:
   name: Elixir Distillers

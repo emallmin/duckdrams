@@ -2734,6 +2734,154 @@ edradour-8-cuvee:
       url: https://static.whiskybase.com/storage/whiskies/2/1/5011/386113-big.jpg
       source: whiskybase
 
+bunnahabhain-17-feis-ile:
+  production:
+    vintage: null
+    producer: bunnahabhain
+  maturation:
+    age: 17
+    cask: American Oak & First-Fill Oloroso & Rum
+  bottling:
+    bottler:
+    batching: null
+    abv: 52.6
+    outturn: 1740
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700l
+  marketing:
+    series: Feis Ile 2023
+    name: Feis Ile 2023
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 230946
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/0946/412346-big.jpg
+      source: whiskybase
+
+glen-grant-25-wm:
+  production:
+    vintage: 1998
+    producer: glen-grant
+  maturation:
+    age: 25
+    cask: Refill Oloroso Sherry Butt
+  bottling:
+    bottler: wilson-morgan
+    batching: single_cask
+    abv: 56.7
+    outturn: 532
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Barrel Selection - Special Release
+    name: null
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 234069
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/4069/428091-big.jpg
+      source: whiskybase
+
+cragganmore-1984:
+  production:
+    vintage: 1984
+    producer: cragganmore
+  maturation:
+    age: null
+    cask: Double Matured in Ruby Port Wood
+  bottling:
+    bottler:
+    batching: null
+    abv: 40
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: null
+    size: 700
+  marketing:
+    series: The Distillers Edition
+    name: The Distillers Edition
+    released: 2011
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 27818
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/818/244817-big.jpg
+      source: whiskybase
+
+#----- lovely linkies
+
+linkwood-10-pst:
+  production:
+    vintage: 2011
+    producer: linkwood
+  maturation:
+    age: 10
+    cask: Dechar/Rechar American Oak Hogshead
+  bottling:
+    bottler: thompson-bros
+    batching: 
+    abv: 52.1
+    outturn: 262
+    natural_color: 
+    unchillfiltered: 
+    bottling_date: 
+    size: 700
+  marketing:
+    series: 
+    name: 
+    released: 2021
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 180951
+    image:
+      url: https://files.emilmallmin.com/linkwood-10-pst.jpeg
+      source: me
+
+linkwood-15-ca:
+  production:
+    vintage: 2007
+    producer: linkwood
+  maturation:
+    age: 15
+    cask: Bourbon Hogshead
+  bottling:
+    bottler: cadenheads
+    batching: small_batch
+    abv: 43.2
+    outturn: 
+    natural_color: yes
+    unchillfiltered: yes 
+    bottling_date: 
+    size: 200
+  marketing:
+    series: 
+    name: 
+    released: 2023
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 227535
+    image:
+      url: https://files.emilmallmin.com/linkwood-15-ca.jpeg
+      source: me
+
+#-----
 
 # bottle-key:
 #   production:

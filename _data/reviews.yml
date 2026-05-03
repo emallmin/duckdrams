@@ -1052,7 +1052,7 @@ springbank-10-cs-2023:
 glengoyne-14-hl:
   bottle: glengoyne-14-hl
   date: 2026-01-30
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: "available for €95"
     estimated_price:
@@ -1079,7 +1079,7 @@ glengoyne-14-hl:
 irish-whiskey-21-tbwc:
   bottle: irish-whiskey-21-tbwc
   date: 2026-01-30
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: "Available for €103"
     estimated_price:
@@ -1106,7 +1106,7 @@ irish-whiskey-21-tbwc:
 kilchoman-8: #bruhler 3
   bottle: kilchoman-8
   date: 2026-01-31
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: "Widely available in Germany online, €95-120"
     estimated_price:
@@ -1133,7 +1133,7 @@ kilchoman-8: #bruhler 3
 north-british-16-dt: #bruhler-4
   bottle: north-british-16-dt
   date: 2026-01-31
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Unavailable.
     estimated_price:
@@ -1160,7 +1160,7 @@ north-british-16-dt: #bruhler-4
 tormore-29-mmd: #bru-5
   bottle: tormore-29-mmd
   date: 2025-02
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: "Available at RRP of €190"
     estimated_price:
@@ -1187,7 +1187,7 @@ tormore-29-mmd: #bru-5
 glenfarclas-32-bwh: #bru 6
   bottle: glenfarclas-32-bwh
   date: 2026-02
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Sold out.
     estimated_price:
@@ -1215,7 +1215,7 @@ glenfarclas-32-bwh: #bru 6
 cameronbridge-40-jw: # bru 7
   bottle: cameronbridge-40-jw
   date: 2026-02-21
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Not available.
     estimated_price:
@@ -1242,7 +1242,7 @@ cameronbridge-40-jw: # bru 7
 macallan-classic-cut: #8
   bottle: macallan-classic-cut
   date: 2026-02-21
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Available at around €120
     estimated_price:
@@ -1269,7 +1269,7 @@ macallan-classic-cut: #8
 bowmore-22-mmd: #bru 9
   bottle: bowmore-22-mmd
   date: 2026-03 
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Standard price around €400 but ongoing sales "as low" as €330
     estimated_price:
@@ -1296,7 +1296,7 @@ bowmore-22-mmd: #bru 9
 bushmills-11: #bruhler 10
   bottle: bushmills-11
   date: 2026-03
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Avialble in range €85-120
     estimated_price:
@@ -1323,7 +1323,7 @@ bushmills-11: #bruhler 10
 tobermory-14-redwine: # bru 11
   bottle: tobermory-14-redwine
   date: 2026-03
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Available at €160
     estimated_price:
@@ -1350,7 +1350,7 @@ tobermory-14-redwine: # bru 11
 fiddichside-35-mmd: # bru 12
   bottle: fiddichside-35-mmd
   date: 2026-03
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Hard to find now, ca. €220
     estimated_price:
@@ -1378,7 +1378,7 @@ fiddichside-35-mmd: # bru 12
 bruichladdich-11-private: #bru 13
   bottle: bruichladdich-11-private
   date: 2026-03-20
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Unavailable
     estimated_price:
@@ -1431,7 +1431,7 @@ imperial-27-bwh: #bru 14
 meikle-toir-7: #15
   bottle: meikle-toir-7
   date: 2026-04-06
-  post: cathcing-up-with-the-calendar-2026
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Available at €120
     estimated_price:
@@ -1451,6 +1451,116 @@ meikle-toir-7: #15
         I'll go out on a limb and say this is a ex-mezcal or tequila cask finish, on top of sherry maturation, with an Islay distillate. Didn't feel too extremely strong, but above 50% for sure. No reason for the age to be even double digit.
       after_reveal: >
         Interesting, a heavily-peated Speyside. It's much better than I remember any of the Meikle Tors I tried previously being.  
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+review-key: # bru 16
+  bottle: ###
+  date: ###
+  post: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Rich and generous, with sweetness of custard, balanced by "green" notes of grass and green/unripe papaya and mango, and tasteful amount of oak, bringing spices. 
+    sipping: >
+      Spicy and relatively oily impression, not really that sweet, almost dry, and with a playful bitterness that is not overoaked to my palate. Old cognac, juicy oak, dried apicots and bananas, coconut flakes, fresh galia melon - all riding out in a decent-lengthed finish. 
+    comments:
+      before_reveal: >
+        That's a really beautiful, well-aged (30yo+) single grain whisky from a bourbon barrel or refill sherry butt. Some might find the greener, dryer side a let down, but to me that brought the balance and intrigue to this dram.
+      after_reveal: >
+        That's a pro-level guess! Besides it being very close in specs: I also notes custard and melon, and bottle says "custard - melon - depth". 
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
+
+review-key: # bru 17
+  bottle: ###
+  date: ###
+  post: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Yum! Funky-fruity-sooty-smoky. Fatty, waxy, sticky.
+    sipping: >
+      Sweet, umami-bomb, funky and sulphurious in a brilliant way. Overripe and grilled pineapple, tutti frutti, dash of high-ester jamaican rum, salty cured ham, charred wood and ash tray.  
+    comments:
+      before_reveal: >
+        If I hadn't tried the Springbank 5 already, I might have guess that - but surely it wasn't this fruity? Maybe a SB local barley. I'd rather hope it's Ardnahoe, Peallach, or even a Croftengea. Because whatever this is I need to buy a bottle (or two). Hard to guess casks, not obviously sherried expect for this intense fruitiness.
+      after_reveal: >
+        Noooooo it's SB 13 Local Barley and it's ~€300 at auction. Hands down the best Springbank I've ever tried. 
+    grade:
+      system: "three-tier-2026"
+      score: ⁕⁕
+
+bunnahabhain-17-feis-ile: #bru 18
+  bottle: bunnahabhain-17-feis-ile
+  date: 2026-05-01
+  post: catching-up-with-the-calendar-2026
+  market_context:
+    availability: Available at €250
+    estimated_price:
+      amount: 250
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Rich, acidic, peaty. Green, unripegrapes, somewhere between a farmhouse cider, a kriek, and club soda... but smoky! Meaty, like chorizo.  
+    sipping: >
+      Balance of brine, sweet but non-overacoat-y sherry notes, and meaty peat. And licorice, and some sticky, brown goo of dubious origin. Samsame-noori in the finisih. Does not need any water. A dram to pair with a really luxurious hamburger. 
+    comments:
+      before_reveal: >
+        To be honest, not entirely a blind tasting, because I might have accidentally seen that no. 18 was going to be a Bunnahabhain. And to the extent I had forgot that, the profile would immediately remind me. Lot's of common ground with a [Carn Mòr bottling](https://www.whiskybase.com/whiskies/whisky/183132/bunnahabhain-2004-mmck) I have owned.
+      after_reveal: >
+        Surprise!!! Not.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+glen-grant-25-wm: #bru 19
+  bottle: glen-grant-25-wm
+  date: 2026-05-01
+  post: catching-up-with-the-calendar-2026
+  market_context:
+    availability: Available around €350, but recently some sales at €307.
+    estimated_price:
+      amount: 350
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Strong alcohol. Spritely, fresh, and cognac-like. White pepper, citrus zest, piña colada, and a slightly sour grape note. And creamy oats.  
+    sipping: >
+      Robust, punchy, fruity spirit-driven experience. Sweet, in a natural fruit sort-of way, but the high abv also gives a sensation of "evaporation off the tongue". Let's dump a whole lot of water into this... Remains "bright and yellow" in the profile, but creamier, oat-sy, melon-y.  
+    comments:
+      before reveal: >
+        Reminds me a lot of a bourbon-cask Mannochmore in my stash, but also a bit of the bourbon-cask Kavalan. Could also be Irish; that might explain the oats. A mix of bourbon and marsala, for that fruit punch? What's certain is that this is quite young (sub-10yo) and way string, 55%+.
+      after_reveal: >
+        Wow, 25 years and so little to show for it. SAD. Not a bad whisky though. At 10yo and €45 I'd have called it a great success.
     grade:
       system: "three-tier-2026"
       score: ###
@@ -2467,6 +2577,60 @@ kilkerran-batch6:
       system: "original-2023"
       score: "⭐Notable Quality"
       wb_score: 84
+
+#--- linkies
+
+linkwood-10-pst:
+  bottle: linkwood-10-pst
+  date: 2023-04-19
+  post: lovely-linkies
+  market_context:
+    availability: Not avilable now. £45 in 2021
+    estimated_price:
+      amount: 45
+      currency: GBP
+  sample_context:
+    desc: pour from bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      We have entered a fruit orchard! Pears, apples, green grapes; a sweet floral scent (perhaps geranium); white wine. Some light dunnage warehouse notes.
+    sipping: >
+      On the palate it feels substantial, and has a slight but enticing bitterness; flavour is of fruit salad, Turkish delight, candied ginger. The finish is not very long. 
+    comments: >
+      Overall, a real fruity treat without any particular flaws.
+    grade:
+      system: "original-2023"
+      score: "❤️ Personal Favourite"
+      wb_score: 87-88
+      heart: yes
+
+linkwood-15-ca:
+  bottle: linkwood-15-ca
+  date: 2023-04-19
+  post: lovely-linkies
+  market_context:
+    availability: Only in Cadenhead's shop. £22.50 for a 20cl.
+    estimated_price:
+      amount: 22.50
+      currency: GBP
+  sample_context:
+    desc: pour from a bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Lovely nose with freshly cut grass alongside litchi, apple, lemon zest, and elderflower; also something a little dusty: like the smell of summer rain falling on dry ground (the fancy word is petrichor). 
+    sipping: >
+      On the palate, malty meets bitter meets sour in beautiful balance; dry rather than sweet. There’s a burst of fruity flavours, and even a whiff of smoke–not at all coming from peat, but perhaps from the inside charring of the cask. The flavours follow into a medium-length finish.
+    comments: >
+      This is so delicate and delicious, and manages to evoke deeply rooted scent memories of summer for me.
+    grade:
+      system: "original-2023"
+      score: "❤️ Personal Favourite"
+      wb_score: 90
+      heart: yes
 
 #-----------------------------
 # review-key:
