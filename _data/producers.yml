@@ -310,6 +310,15 @@ glenesk:
   peated: no
   status: closed
 
+dornoch:
+  name: Dornoch
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Malt
+  country: Scotland
+  region: Highland
+  peated: no
+  status: active
 
 glenallachie-peated:
   name: "GlenAllachie"

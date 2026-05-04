@@ -1456,17 +1456,17 @@ meikle-toir-7: #15
       score: ###
 
 
-review-key: # bru 16
-  bottle: ###
-  date: ###
-  post: ###
+girvan-40-mom: # bru 16
+  bottle: girvan-40-mom
+  date: 2026-04-26 #-ish
+  post: catching-up-with-the-calendar-2026
   market_context:
-    availability: ###
+    availability: Available from €190
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 190
+      currency: EUR
   sample_context:
-    desc: ###
+    desc: 2cl sample from whisky calendar
     blind: no
   review:
     intro: null
@@ -1484,17 +1484,17 @@ review-key: # bru 16
       score: ⁎
 
 
-review-key: # bru 17
-  bottle: ###
-  date: ###
-  post: ###
+springbank-13-local-barely-2023: # bru 17
+  bottle: springbank-13-local-barely-2023
+  date: 2026-04-26 #-ish
+  post: catching-up-with-the-calendar-2026
   market_context:
-    availability: ###
+    availability: RRP ~£100 but now only available at auction from €300+
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 300
+      currency: EUR
   sample_context:
-    desc: ###
+    desc: 2cl sample from whisky calendar
     blind: no
   review:
     intro: null

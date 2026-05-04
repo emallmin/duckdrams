@@ -2835,8 +2835,8 @@ linkwood-10-pst:
     batching: 
     abv: 52.1
     outturn: 262
-    natural_color: 
-    unchillfiltered: 
+    natural_color: yes
+    unchillfiltered: yes
     bottling_date: 
     size: 700
   marketing:
@@ -2880,6 +2880,65 @@ linkwood-15-ca:
     image:
       url: https://files.emilmallmin.com/linkwood-15-ca.jpeg
       source: me
+
+springbank-13-local-barely-2023:
+  production:
+    vintage: 2010
+    producer: springbank
+  maturation:
+    age: 13
+    cask: 60% Bourbon, 40% Sherry
+  bottling:
+    bottler:
+    batching:
+    abv: 54.1
+    outturn: 8400
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Local Barley
+    name: Local Barley
+    released: 2023
+    rrp:
+      amount:
+      currency: EUR
+  meta:
+    whiskybase_id: 244883
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/4883/449005-big.jpg
+      source: whiskybase
+
+girvan-40-mom:
+  production:
+    vintage: 1985
+    producer: girvan
+  maturation:
+    age: 40
+    cask: Sherry Butt
+  bottling:
+    bottler: master-of-malt
+    batching: single_cask
+    abv: 49.0
+    outturn: 473
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Masterpiece
+    name:
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 283682
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/3682/510251-big.jpg
+      source: whiskybase
+
 
 #-----
 
