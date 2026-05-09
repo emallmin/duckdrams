@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The Islay trip, day 3 – Ardnahoe, Bunnahabhain, Caol Ila, Laphroaig, Bowmore"
-date: 2023-05-01
+date: 2023-05-02
 categories: Legacy
 tags: null
 header:

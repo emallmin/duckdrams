@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The Islay trip, day 4 – Back to Edinburgh via Deanston"
-date: 2023-05-01
+date: 2023-05-02
 categories: Legacy
 tags: null
 header:
