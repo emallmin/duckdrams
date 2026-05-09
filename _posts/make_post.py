@@ -46,10 +46,7 @@ header:
   teaser: https://files.emilmallmin.com/coming_soon.png
 ---
 
-This is a post from the old blog: {old_url}
-
-It will eventually be ported here.
-
+This post will soon be ported from the old blog. [Link to the original post]({old_url})
 
 """
 

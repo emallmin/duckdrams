@@ -10,5 +10,5 @@ header:
   teaser: https://files.emilmallmin.com/coming_soon.png
 ---
 
-This post will soon be ported from the old blog. [https://duckdrams.com/2025/10/18/whats-filling-the-stocking/](Link to the original post)
+This post will soon be ported from the old blog. [Link to the original post](https://duckdrams.com/2025/10/18/whats-filling-the-stocking/)
 
