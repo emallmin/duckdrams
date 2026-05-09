@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The rehabilitation of Jura"
-date: 2023-03-23
+date: 2023-07-02
 categories: Review
 tags: [legacy, tag2]
 header:
