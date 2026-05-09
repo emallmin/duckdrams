@@ -1,0 +1,17 @@
+---
+layout: single
+title: "What's filling the stocking?"
+date: 2025-10-18
+categories: Legacy
+tags: null
+header:
+  overlay_image: https://files.emilmallmin.com/coming_soon.png
+  overlay_filter: 0.5
+  teaser: https://files.emilmallmin.com/coming_soon.png
+---
+
+This is a post from the old blog: https://duckdrams.com/2025/10/18/whats-filling-the-stocking/
+
+It will eventually be ported here.
+
+
