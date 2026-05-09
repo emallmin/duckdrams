@@ -4,6 +4,10 @@ title: "Sherry shenanigans"
 date: 2024-11-16
 categories: Review
 tags: [legacy, tag2]
+header:
+  overlay_image: https://files.emilmallmin.com/sherries.png
+  overlay_filter: 0.5
+  teaser: https://files.emilmallmin.com/sherries.png
 ---
 
 One recurring thought in the collective unconscious of the whisky sphere is: <em><a href="https://www.reddit.com/r/Scotch/comments/3qs0ju/what_scotch_should_i_add_sherry_to/">what </a><a href="https://homedistiller.org/forum/viewtopic.php?t=61779">happens </a><a href="https://www.reddit.com/r/Scotch/comments/7xepzk/adding_sherry_to_whisky/">if I add</a> <a href="https://www.reddit.com/r/Scotch/comments/zmms4u/please_correct_me/">sherry </a><a href="https://www.reddit.com/r/Scotch/comments/h0vgy6/mixing_whisky_with_a_tiny_bit_of_sherry/">to whisky</a>?</em> It's not such a wild idea. So much of Scotch is matured in whole or part in ex-sherry casks. Technically, such cask must be completely emptied according to Scotch rules, so that the interaction of whisky and wine is entirely mediated by the wood, but probably that happens less than fully, less than always. Today I will run a little experiment to see how, for better or worse, a touch of directly administered sherry will transform the whisky. Two sherries (an Oloroso and a PX) times two whiskies (a Glencadam 10 and an Ardnamurchan AD/) — four chances to find out.
