@@ -125,6 +125,11 @@ elixir:
   name: Elixir Distillers
   kind: bottler
 
+mos:
+  name: Malts of Scotland
+  kind: bottler
+  country: Germany
+
 bruhler:
   name: Brühler Whiskyhaus
   kind: bottler

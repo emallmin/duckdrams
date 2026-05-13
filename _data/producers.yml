@@ -291,6 +291,25 @@ cragganmore:
   category: Scotch Whisky
   class : Single Malt
 
+caperdonich:
+  name: "Caperdonich"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+  status: closed
+
+glenburgie:
+  name: "Glenburgie"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+  peated: no
+  status: active
+
 glenallachie:
   name: "GlenAllachie"
   kind: distillery

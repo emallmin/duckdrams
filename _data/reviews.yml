@@ -1564,6 +1564,136 @@ glen-grant-25-wm: #bru 19
       system: "three-tier-2026"
       score: ###
 
+islay-south-coast-19-bwh: #bru 20
+  bottle: islay-south-coast-19-bwh
+  date: 2026-05-08
+  market_context:
+    availability: Sold out.
+    estimated_price:
+      amount: 180
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Wood-forward, rather peaty, with smoked sausages; quite phenolic, even a little rubbery. Then on the juicier side, there's zesty orange, and brandy-like sweetness. 
+    sipping: >
+      Quite strong, I immediately reach for water. Very oily, densely flavourful, and umami-bomb. Cigar-breath, a phenolic rubber/latex note together with some smoky-herbal impression drawing towards mezcal, smoky ramen, but turns sweeter with baked cumquats, orange-syrupy sponge cake in the finish. 
+    comments:
+      before_reveal: >
+        I'm gussing a peated non-Scotch (German?) from some sort of non-standard cask (not a hogshead, maybe a QC, perhaps not american oak) with some sweet ex-wine content, perhaps sauternes if not somthing richer like a PX.
+      after_reveal: >
+        Nah, just an Islay 😭 Or perhaps not "just". Rumour has it this is Ardbeg, quite a rare sight independently bottled.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+caperdonich-27-bwh: #bru 21
+  bottle: caperdonich-27-bwh
+  date: 2026-05-08
+  market_context:
+    availability: From BWH should have been ~€300. Single bottles can be found for €400 now.
+    estimated_price:
+      amount: 300
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh, bright, clean, precise. Passion fruit, a little banana and coconut, vanilla custard; subtly floral, petrichor. 
+    sipping: >
+      Robust, and surprisingly salty. Very malty and biscuity, salted-butter popcorn, mango lassi, rather tart apples. Oily finish, whiff of smoke, lots of juicy oak, and a all manner of concetrated yellow fruits. 
+    comments:
+      before_reveal: >
+        Bourbon cask for sure. The richness and depth of flavour, despite some youngish tendencies of hotness and high alcohol, makes me think this could be a tropical maturation, like a Kavalan or even something Indian. Whatever this is, it's quite up my alley, and I would be enjoy a full bottle, though I don't <em> have to </em> have one. For €80 I would consider it a very good buy, though. Not inconceivable that it's a 20+ Highland Scotch for €200... or Irish. Ok, let's not chicken out: I stick to tropical ageing!
+      after_reveal: >
+        Aha! I bought a 10cl bottle of this for €51,40 on 29 Sept 2024. Will be fun to revisit, though from the first taste I'm not too sad I didn't splurge out on a full bottle.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+bowmore-26-nss: #bru 22
+  bottle: bowmore-26-nss
+  date: 2026-05-09
+  market_context:
+    availability: £250 at auction
+    estimated_price:
+      amount: 250
+      currency: GBP
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Complex, borderline confusing first impression. Cheesy and musky, funky in a lactic way, clearly peated but not reeking, fresh squeeze of lemon, red berries, spices, particularly cinnamon.  
+    sipping: >
+      Salty, sweet, umami-rich, also sour and a trailing bitterness — it's got every taste! Miso broth, flambeed banana, blue cheese on ginger bread, sulphur (but not to a fault), acid reflux. A lot going on. The finish leaves off on the sweeter notes, though funky.       
+    comments:
+      before_reveal: >
+        My early reaction was Campbeltown funk, but I'll revise that nd guess it's actually a really funky Laphroaig in a sherry cask. There's a lot of complexity coming from that combination of coastal, peaty distillate and a sulphurous and juicy cask. No need for excessive age, I'd guess 12. Almost hard to wrap one's head around. Totally drinkable at whatever strength this may be. 
+      after_reveal: >
+        I've got it in my head that Bowmore should be really quite tropical. This goes in a funky direction that I've sometimes read being characteristic of Bowmore, but I haven't tasted it yet, until now. 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+highland-park-32-ca: #bru 23
+  bottle: highland-park-32-ca
+  date: 2026-05-10
+  market_context:
+    availability: Going for about £350-450 at auction.
+    estimated_price:
+      amount: 380
+      currency: GBP
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Blackberries and currant, liquorice, chocolate brownie, leather, old cupboards. Water opens up more spices. Overall quite fresh and sour (not sour old wood, but fruit acidity)
+    sipping: >
+      Arrives quite dry, before it sweetens, and on the sour side. Cherries, flavoursome but slightly sour, baked red apples, biscotti, a certain meatiness, leather, tiger balm, whiff of smoke. Long, chocolaty and rancio'd finish.
+    comments:
+      before_reveal: >
+        Quite insane colour. I'm going to suppose this is a blended whisky (not just malt) with a very high age statement, 30+, and sherry casks, doubtless. Alcohol nonetheless feels in the 50%+. 
+      after_reveal: >
+        Doesn't surprise me much. The peat has almost been weatherd out of this old boy. Nearly €800 in EU shops, but surely a fraction of that when it was available from Cadenhead's. Going for around £350-450 at auction. It's an interesting and uncommon whisky, but it just didn't hit the magic button relative to it's age class, so no stars.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+glenburgie-39-mos: # bru 24
+  bottle: glenburgie-39-mos
+  date: 2026-05-10
+  market_context:
+    availability: Still avaiable in retail from €880. No auction lots.
+    estimated_price:
+      amount: 880
+      currency: EUR
+  sample_context:
+    desc: 2cl sample from whisky calendar
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Complex, old cask-y notes. Cognac, kiwi, gooseberries, grass, bright citrus notes with grapefruit sherbet, vanilla, cola sauce, wax cloth, damp undergrowth, or perhaps a dunnage earth floor. One of those drams where you just keep finding associations.
+    sipping: >
+      Very drinkable, but not at all tame. Balanaced sweetness, mandarin licqeur, waxy apples, amaretto biscotti, rancio with this mouth-filling umami aspect, floral and herbal notes with a whisper of (non-peat) smoke in the finish, where the waxiness and gooseberry linger the longest.  
+    comments:
+      before_reveal: >
+        I barely even dare to guess. This is something scarily rare and exclusive, for sure. Could be anything from Clynelish or Ben Nevis, to some bonkers 1970s Glenglassaugh or whatever. It's a flawless old and and dignified whisky from a slow bourbon cask maturation. I'd pay €300 without too much hesitation.
+      after_reveal: >
+        Not the least bit surprising. I was about to hedge my guess with saying it could be refill sherry, which of course it ended up being. Nearly €900 means I'll never get to drink this one again 🥲 
+    grade:
+      system: "three-tier-2026"
+      score: ⁎⁎⁎
+
 #------- Trio of grains
 
 north-of-scotland-46-mom:

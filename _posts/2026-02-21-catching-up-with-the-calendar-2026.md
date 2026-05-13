@@ -44,7 +44,15 @@ tags: [review, peated]
 
 {% include review.html id="glen-grant-25-wm" %}
 
+{% include review.html id="islay-south-coast-19-bwh" %}
+
+{% include review.html id="caperdonich-27-bwh" %}
+
+{% include review.html id="bowmore-26-nss" %}
+
+{% include review.html id="highland-park-32-ca" %}
+
+{% include review.html id="glenburgie-39-mos" %}
 
 
-
-More review will appear here as I work my way towards a belated Christmas...
+And so, on May 10th, 2026, I came to the brilliant finale that was Dram 24, almost three months after Dram 1. And just this week the 2027 calendar came up for pre-order — an instant buy!

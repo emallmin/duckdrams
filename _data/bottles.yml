@@ -2940,6 +2940,181 @@ girvan-40-mom:
       source: whiskybase
 
 
+highland-park-32-ca:
+  production:
+    vintage: 1992
+    producer: highland-park
+  maturation:
+    age: 32
+    cask: Oloroso cask since 2020
+  bottling:
+    bottler: cadenheads
+    batching: single_cask
+    abv: 56.0
+    outturn: 294
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: Authentic Collection
+    name:
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 258934
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/8934/466194-big.jpg
+      source: whiskybase
+
+caperdonich-27-bwh:
+  production:
+    vintage: null
+    producer: caperdonich
+  maturation:
+    age: 27
+    cask: Matured in a Hogshead
+  bottling:
+    bottler: bruhler
+    batching: single_cask
+    abv: 52.1
+    outturn: 182
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: A Dream of Scotland - The Tasteful 8
+    name:
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 261643
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/1643/471174-big.jpg
+      source: whiskybase
+
+glenburgie-39-mos:
+  production:
+    vintage: 1983
+    producer: glenburgie
+  maturation:
+    age: 39
+    cask: refill Sherry Hogshead
+  bottling:
+    bottler: mos
+    batching: single_cask
+    abv: 48.0
+    outturn: 115
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: Warehouse Diamonds
+    name:
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 264998
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/4998/478442-big.jpg
+      source: whiskybase
+
+islay-south-coast-19-bwh:
+  production:
+    vintage:
+    producer: undisclosed-islay
+  maturation:
+    age: 19
+    cask: Manzanilla Sherry Finish
+  bottling:
+    bottler: bruhler
+    batching: single_cask
+    abv: 53.8
+    outturn: 351
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: A Dream of Scotland - The Tasteful 8
+    name: Islay South Coast
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 282734
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/2734/512699-big.jpg
+      source: whiskybase
+
+springbank-5-100proof:
+  production:
+    vintage: null
+    producer: Springbank
+  maturation:
+    age: 5
+    cask: Bourbon
+  bottling:
+    bottler: Distillery Bottling
+    batching: null
+    abv: 57.1
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: 100° Proof
+    name: null
+    released: 2025
+    rrp:
+      amount: 65
+      currency: EUR
+  meta:
+    whiskybase_id: 288206
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/8206/518812-big.jpg
+      source: whiskybase
+
+bowmore-26-nss:
+  production:
+    vintage: 1996
+    producer: bowmore
+  maturation:
+    age: 26
+    cask: Bourbon Hogshead
+  bottling:
+    bottler: north-star-spirits
+    batching: single_cask
+    abv: 51.1
+    outturn: 120
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Cask Series 020
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 223491
+    image:
+      url: null
+      source: whiskybase
+
+
 #-----
 
 # bottle-key:
