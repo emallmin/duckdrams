@@ -1467,7 +1467,7 @@ girvan-40-mom: # bru 16
       currency: EUR
   sample_context:
     desc: 2cl sample from whisky calendar
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
@@ -1495,7 +1495,7 @@ springbank-13-local-barely-2023: # bru 17
       currency: EUR
   sample_context:
     desc: 2cl sample from whisky calendar
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
@@ -1574,7 +1574,7 @@ islay-south-coast-19-bwh: #bru 20
       currency: EUR
   sample_context:
     desc: 2cl sample from whisky calendar
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
@@ -1600,7 +1600,7 @@ caperdonich-27-bwh: #bru 21
       currency: EUR
   sample_context:
     desc: 2cl sample from whisky calendar
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
@@ -1626,7 +1626,7 @@ bowmore-26-nss: #bru 22
       currency: GBP
   sample_context:
     desc: 2cl sample from whisky calendar
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
@@ -1652,7 +1652,7 @@ highland-park-32-ca: #bru 23
       currency: GBP
   sample_context:
     desc: 2cl sample from whisky calendar
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
@@ -1678,7 +1678,7 @@ glenburgie-39-mos: # bru 24
       currency: EUR
   sample_context:
     desc: 2cl sample from whisky calendar
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
