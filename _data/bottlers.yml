@@ -149,3 +149,8 @@ berry-bros-rudd:
   name: "Berry Bros. & Rudd"
   kind: bottler
   country: UK
+
+whiskysite:
+  name: Whiskysite.nl
+  kind: bottler
+  country: The Netherlands

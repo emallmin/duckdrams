@@ -3199,8 +3199,37 @@ jlp-15:
   meta:
     whiskybase_id: #
     image:
-      url: #
-      source: #
+      url: https://files.emilmallmin.com/jlp-15.png
+      source: self
+
+mystery-highland-21:
+  production:
+    vintage: 2000
+    producer: ben-nevis
+  maturation:
+    age: 21
+    cask: Sherry Hogshead
+  bottling:
+    bottler: whiskysite
+    batching: single_cask
+    abv: 53.8
+    outturn: 378
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: null
+    name: Mystery Highland
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 212090
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/2090/373514-big.jpg
+      source: whiskybase
 
 #-----
 

@@ -2813,7 +2813,7 @@ jlp-15: # Jean-Luc Pasquet, 50.1%, 2006 / 2021, Cask #27, Kirsch Import, NC, CS,
   bottle: jlp-15
   date: 2026-03-22
   market_context:
-    availability: Sold out. Bought for €69.90 in 2023.
+    availability: Bought for €69.90 in 2023. Can still be found for €80.
     estimated_price:
       amount: 70
       currency: EUR
