@@ -101,8 +101,9 @@
     <p> <b>Comments</b> <em>(before reveal)</em>: {{ review.review.comments.before_reveal }} </p> 
     <p> <b>Comments</b> <em>(after reveal)</em>: {{ review.review.comments.after_reveal }} </p>
     {% else %}
-      <p><b>Comments:</b> {{review.review.comments}}</p> {% endif %}
-    {% endif %}    
+      <p><b>Comments:</b> {{review.review.comments}}</p>
+    {% endif %}
+  {% endif %}    
   <hr>
 </div>
 {% else %}
