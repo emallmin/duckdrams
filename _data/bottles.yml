@@ -3172,6 +3172,36 @@ benrinnes-15-eld-xmas:
       source: whiskybase
 
 
+jlp-15:
+  production:
+    vintage: 2006
+    producer: jlp
+    cru: Grande Champagne
+  maturation:
+    age: 15
+    cask: #
+  bottling:
+    bottler: #
+    batching: single_cask
+    abv: 50.1
+    outturn: #
+    natural_color: yes
+    unchillfiltered: yes
+    bottling_date: 2021 
+    size: 700
+  marketing:
+    series: For Kirsch Import
+    name: #
+    released: #
+    rrp:
+      amount: #
+      currency: EUR   
+  meta:
+    whiskybase_id: #
+    image:
+      url: #
+      source: #
+
 #-----
 
 # bottle-key:

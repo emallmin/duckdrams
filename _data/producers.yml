@@ -615,7 +615,12 @@ stauning:
   country: Denmark
   category: World Whiskey
 
-
+jlp:
+  name: Jean-Luc Pasques
+  kind: distillery
+  category: Eau-de-vie
+  class: Cognac
+  country: France
 
 # --- pseudo-producers 
 

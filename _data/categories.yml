@@ -54,3 +54,11 @@
       name: Taiwan
     - type: country
       name: The Netherlands
+
+- type: category
+  name: Eau-de-vie
+  items:
+    - type: class
+      name: Cognac
+    - type: class
+      name: Armagnac

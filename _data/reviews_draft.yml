@@ -1,28 +1,3 @@
-# N
-nectarosity:
-  bottle: ###
-  date: ###
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      Bright, lots of pear and some citrus. Peppery: white pepper, oak spice. Lemony cake icing, fudge. Mild booziness from the grain component. Likable, but not particularly memorable.
-    sipping: >
-      ###
-    comments: >
-      ###
-    grade:
-      system: "three-tier-2026"
-      score: ###
-
-
 mystery-malt-3-yellow: #yellow dot
   bottle: ###
   date: ###
@@ -79,14 +54,98 @@ mystery-malt-3-green: #green marker
       Definitely a sherry cask, and the stuffy and tobacco-y notes do suggest some age to boot. But it also reminds me a lots of an Octave Dalmunach I had, which punched way above its age. So I'm ready to believe almost anything., but would guess it's nearer to 20 than 10. Highland, most likely. Let's have a look at the list.
 
       Hard to say. Maybe the Glen Moray 16, or the Tobermory 24. 
-
-
     grade:
       system: "three-tier-2026"
       score: ###
 
 
-park-life-20:
+
+#----- Stuff
+
+
+ben-nevis-7-sv-100proof:
+  bottle: ben-nevis-7-sv-100proof
+  date: 2026-04-08
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Buttery bread... with olives! Seaweed and the sea. Toasted nuts, funk. It's an evocative nose. 
+    sipping: >
+      Briny, hay, grassy, earthy, peaty, but also chocoalte chip cookie and 
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+# -------------------
+
+
+clynelish-10-sv-100proof:
+  bottle: clynelish-10-sv-100proof
+  date: 2026-04-08
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      #1 floral honey, pear drops, fresh minerality / coastal, lemon sherbet, clove, white pepper. With water and time, more buttery.
+
+      #2 Honey, santizer, citrus, clementine, flower, exotic fruity, pine needles / green.
+    sipping: >
+      #1 Briny, a little "hot", tad bitter. Salted caramel. Herbal note in the early finish. Honey, heather in the long finish.
+
+      #2   Salty-sweet, fresh, clean, but a bitter streak. Robust, even bit hot - needs water, then mellows acceptably but not entirely. More toasted notes now appear. Some Gooseberries, honey in the finish.
+    comments: >
+      The nose is really good. The palate is not at all bad, but falls a bit short on what the nose promises. Also, I think blindly I would have guesse 7 years. 
+      Nose: 86
+      Palate: 83
+      Finish: 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+clynelish-10-ad:
+  bottle: clynelish-10-ad
+  date: 2026-04-08
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Floral: buttercups, coconut. Fresh minerality, crisp white wine, citrus zest, and a surprisingly vivid ripe strawberry dipped in white chocolate. And dare I say, some wax.
+    sipping: >
+      Immediately quite bitter, but in a delicious way: grapefruit or pomelo, roses, and a herbal streak. Also a bit hot neat, improves with water, though a pepperiness remains. The finish is excellent, though, with a classical bourbon cask gooseberry note and a waxiness lingering for a long time. 
+    comments: >
+      I would very happy to have a full bottle of this. Quite an active cask, and the expected wax notes are there.
+      Nose: 87
+      Palate: 87
+      Finish: 88
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+review-key: # carn mor clynelish 8
   bottle: ###
   date: ###
   market_context:
@@ -100,18 +159,269 @@ park-life-20:
   review:
     intro: null
     nosing: >
-      cold butter, mineral, coast, green apples, melon, trace of vegetal peat, hay, farm 
+      Browned butter, coca cola, stable, slightly sour cask notes, vanilla, fresh laundary, flowers, summer... 
     sipping: >
-      Yum! Briney, salty seafood, yellow fruits, and complex herbal mix, ending with quinine  
+      ###
+    comments: >
+      Nose starts assertive, and then turns more delicate... On par with the Adelphi, a little less unique (and less waxy), but more balanced. Drinks well neat, even.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+
+# ---- JW
+
+review-key:
+  bottle: johnnie-walker-
+  date: 2026-03-12
+  post: heres-johnny
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
     comments: >
       ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+review-key:
+  bottle: johnnie-walker-
+  date: 2026-03-12
+  post: heres-johnny
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+review-key:
+  bottle: johnnie-walker-
+  date: 2026-03-12
+  post: heres-johnny
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+review-key:
+  bottle: johnnie-walker-
+  date: 2026-03-12
+  post: heres-johnny
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+review-key:
+  bottle: johnnie-walker-
+  date: 2026-03-12
+  post: heres-johnny
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+review-key:
+  bottle: johnnie-walker-
+  date: 2026-03-12
+  post: heres-johnny
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+
+wolfburn-12:
+  bottle: wolfburn-12
+  date: 2026-04-26
+  post: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Once it opens up there's an appealing mix of orchard fruits (baked apples, pears, melon), confectionary notes (pastry, cinnamon, prunes), and coastal spray (some minerality) and a whiff of smoke.
+    sipping: >
+      Sweet and full-bodied, thick texture. Flavours in line with the nose; orchard fruit, though a bit more unripe and green w, confectionary sweetness, and a bit of brine with some smoke in the finish.
+    comments: >
+      It's well-made whisky. I'm getting the fruitiness I like of Glen Elgin and Linkwood, even with that tad of grassiness and bitterness the latter can have, with more of the coastal profile of Clynelish or Oban. Actually, it was morphing quite a bit with time, and I feel I needed more than 4cl to fully appreciate it - that's a good sign.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+#----------- oldies
+
+old-fettercairn-1980s:
+  bottle: old-fettercairn-1980s
+  date: 2026-05-01
+  post: oldies-are-goldies
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Soft sherry, with spices and ripe fruit, especially mango. Somewhat musty. Nice, but there some hint on the nose that we'll be dealing with old-bottle effect (and/ mini-bottle defect)
+    sipping: >
+      Luckily, there's nothing off! It arrives rather thin in texture, but then the sweetness and juiceiness of the fruity, candy-like flavours, joined by cinnamon and nutmeg, make it far from bland. Some subtle smoke in the background. It falls apart a bit in the finish, though. 
+    comments: >
+      It's quite aparant that it realativelt young and diluted whisky, but both spirit and cask have obvious quality. At a higher ABV with more body could have been a real treat.  
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+cragganmore-1984:
+  bottle: cragganmore-1984
+  date: 2026-05-01
+  post: oldies-are-goldies
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      The port wine is quite apartent on the nose, at least if you're expecting it to be there.Winegums, red berry compote, .. but there is depth to the nose. Fragrant jasmin tea, bourbon vanilla, leather, brown sugar, balsamico, cigar. T
+    sipping: >
+      A sweet, mostly malty and toffee-driven early arrival, that then blooms out into rich, winey, rancio'd amd quite smoky (though no peaty) flavours.  
+    comments: >
+      Really good cask influence here, probably with some decent age. Maybe I've been ruined by higher-ABV whiskies, but the 40% just falls a bit flat on texture, especially at the moment the liquid meets the tongue.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+blair-athol-1975:
+  bottle: ###
+  date: 2026-05-01
+  post: oldies-are-goldies
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Sticky toffee, cola sauce, ginger ale all the jazz, with some spreitely orange poking through. And.. shellfish? That is, a slight minerality. And a smidge of hessian, dunnage. And perhaps a little sweaty sock. Just a bit. Mostly cola, though, I promise! ... The empty glass smells lovely; like how dark chocoalte with pieces of nuts and dried fruits tastes.
+    sipping: >
+      It's a actually quite satisfying in terms of strength and texture. Robust spirit, malty, dried fruits, sugared almonds, spices this way and that; generally high-quality non-overbearing sherry notes, but they're meaty in a satisfying way. Thereto whiffs of smoke, and a very slight metallic and mineral note.
+    comments: >
+      Best of the bunch. Was it so simle back then? Good sherry casks for 12 years and this is what you get?
     grade:
       system: "three-tier-2026"
       score: ⁎
 
-park-life-23:
+#--------------- Closed live 2
+
+review-key: #1
   bottle: ###
   date: ###
+  post: ###
   market_context:
     availability: ###
     estimated_price:
@@ -123,120 +433,75 @@ park-life-23:
   review:
     intro: null
     nosing: >
-      Similar to the 20yo, fresh and coastal - a bit more, even - but also a little timid.
+      Quite gingery and peppery, but otherwise fruit-drive, with orchard fruits like apples and pears, some melon. Some coffe beans, and fresh cream.
     sipping: >
-      ###
-    comments: >
-      Adds a little sweetness and creaminess to the 20, which is easy to appreciate. Yet it's less pronounced in the herbal notes, which still leaves the 20 as the more interesting option.
+      Sweet, full-bodied and densely flavoured along the lines of the nose: dried peach and mango to the fore, then lots of spicy oak and considerable grassiness; the pepperiness of a virgin olive oil. Rather savoury, umami-laden, actually, but in fruity and malty way; it's a very "clean" profile, though some mildly leathery notes are hinted at in the finish, and just a bit bitter.  
+    comments:
+      before_reveal: >
+        All the signs of a 20 or even 30yo "slow matured" Speyside or Lowland whisky. I'd go for a mellow (possibly refill) sherry cask, though it could be ex-bourbon. I'm very partial to that profile, and this is a delicious dram, though no where near the upper echelons; the pepperiness is a bit much, and there really is rather little otherwise distinctive about this within the old & slow category.
+
+        I'm hoping it's not the Littlemill, because I'm hoping for one that will melt my heart, and this one doesn't. Could be Rosebank.
+      after_reveal: >
+        a#
     grade:
-      # system: "Legacy"
-      # score: ###
-      # system: "multidim-2025"
-      # nose_deliciousness: 3.5
-      # nose_fun_factor: 4
-      # sip_deliciousness: 3.5
-      # sip_fun_factor: 3
       system: "three-tier-2026"
       score: ###
 
-
-
-imperial-27-ls:
-  bottle: imperial-27-ls
-  date: 2026-02-27
+review-key:
+  bottle: ###
+  date: ###
   post: ###
   market_context:
-    availability: Available from around €320
+    availability: ###
     estimated_price:
-      amount: 320
-      currency: EUR
+      amount: ###
+      currency: ###
   sample_context:
-    desc: from a 6cl sample bottle
+    desc: ###
     blind: no
   review:
     intro: null
-    nosing:
-      Summer in a glass. Honey, wax, orchard fruits, notably pear, but also bergamot; elderflower cordial, grassy meadow, gorse, olive oil, nectar, and petrichor. Ice cream melt, vanilla. Complex and delicate
+    nosing: >
+      Sweet nose, cola sauce, honey, fruit-tea, polished hardwood. A slightly musty-sour Oloroso sherry note.
     sipping: >
-      Oily, with a robust spirit character, yet fresh and lively. Total fruit bomb, with ripe melons and peach, mangoes, and juicy oak; very slight tannins. 
-    comments: >
-      Flawless! It's not the Imperial to trump all others, but it is as good as you can really hope for. 
+      Balanced profile, with sweetness, oily texture, and soft smokiness but not overtly peated. Toasted bread with butter and marmalade, dried fruits like prunes and apricots, and toasted and sugared almonds. Drier and a bit bitter, even herbal, in the early-mid finish, but in the long run settles on oily and toasted.  
+    comments:
+      before_reveal:
+        Great old dram. I would have to guess Banff or Millburn.
+      after_reveal:
+        #a      
     grade:
-      # system: "Legacy"
-      # score: ###
-      # system: "multidim-2025"
-      # nose_deliciousness: 3.5
-      # nose_fun_factor: 4
-      # sip_deliciousness: 3.5
-      # sip_fun_factor: 3
+      system: "three-tier-2026"
+      score: ###
+
+review-key: #3
+  bottle: ###
+  date: ###
+  post: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Well-integrated nose with confectionary and fruity themes: ginger ale, orange marmalade, pecan nut pie, a little banana. Not heavily vanilla-laden, though. A little seaside air to add.
+    sipping: >
+      Very silky and luxurious texture; boozy and prickly elements are thankfully restrained. Pancakes with maple syrup, orange chocolate, and old-school sherry armoas of leather arm couch, rancio, and somwhere a fragrant cigar is fuming. More tropical fruits; dried mango and the like in the late finish.  
+    comments:
+      before_reveal: >
+        This is very close to the archetype of a well-matured old-school single malt. Say around 25 years, perfectly integrated sherry cask. Alcohol could be anywhere from 43-50%, but whatever it is, is just where it should be. I did not add any water. There is really nothing bad to say about this whisky. Though if it is close to an archetype, it is also not very unique, but not every whisky needs to be. Maybe Banff or Millburn?
+      after_reveal: >
+        ah
+    grade:
       system: "three-tier-2026"
       score: ⁎⁎
 
-mystery-highland-21:
-  bottle: mystery-highland-21
-  date: 2026-02-27
-  post: ###
-  market_context:
-    availability: Available €100
-    estimated_price:
-      amount: 100
-      currency: EUR
-  sample_context:
-    desc: From a 6cl sample bottle
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      Quite noticable alcohol. Salty sea breeze (with some rotting kelp)... but equally earthy and foest-y, with mushrooms and pine wood... Sherry aromas of dried fruits and orange peel, and certaintly funky/cheesy/sulphury notes, including burnt rubber, leather, grease.
-    sipping: >
-      Savoury and salty, properly meaty. Really cheesy, like blue cheese with ginger bread, fig marmalade, but also earthy, vegetal/peaty, heathery... oysters
-    comments: >
-      ###
-    grade:
-      # system: "Legacy"
-      # score: ###
-      # system: "multidim-2025"
-      # nose_deliciousness: 3.5
-      # nose_fun_factor: 4
-      # sip_deliciousness: 3.5
-      # sip_fun_factor: 3
-      system: "three-tier-2026"
-#       score: ###
-
-
-review-key:
-  bottle: roseisle-14
-  date: ###
-  post: ###
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      ###
-    sipping: >
-      nutty, very robust
-    comments: >
-      ###
-    grade:
-      # system: "Legacy"
-      # score: ###
-      # system: "multidim-2025"
-      # nose_deliciousness: 3.5
-      # nose_fun_factor: 4
-      # sip_deliciousness: 3.5
-      # sip_fun_factor: 3
-      system: "three-tier-2026"
-      score: ###
-
-
-review-key: #bruhler 10
+review-key: #4
   bottle: ###
   date: ###
   post: ###
@@ -251,26 +516,17 @@ review-key: #bruhler 10
   review:
     intro: null
     nosing: >
-      Sherried, but not so sweet; rather earthy, intead. Oxidized sherry, kiwi, touch of leather and dirt road, heather, and herbs.
+      Citric or even a bit lactic on first contact. Green grapes (not quite ripe), chalk and minerality, and (oh yes!) there is beeswax, and some vanilla.
     sipping: >
-      Sweet and salty, with a robust spirit; salted caramel, honeycomb, nuts, sultanas, and more herbal and a touch smoky in the finish.   
+      Full-bodied, slightly sour and medium sweet, with grilled pineapple, honey glaze, and well-integrated voluminous peat, and a drying finish. Not meaty, ashy, or iodine, though!
     comments:
       before_reveal: >
-        Not very confident in my tasting notes; it was chaning a lot with water, and I would need a bigger sample to converge in my description. Nonetheless, nothing contradicts a Scotch single malt, and I might even venture to guess it could be a Highland Park at the low end of peating. Or else a Highlander, like Glendronach.
-      after_reveal: >
-        adf
+        <em>Completely</em> blindly, I would have placed a lot of money on Bowmore. This is unquestionably the Brora of the bunch. It's very delicious, it's flawless, I'd lap up a bottle of this in no time. But is it the Brora to end all Broras? I think not. That is, I'm not floored, even though I'm purring.  
     grade:
-      # system: "Legacy"
-      # score: ###
-      # system: "multidim-2025"
-      # nose_deliciousness: 3.5
-      # nose_fun_factor: 4
-      # sip_deliciousness: 3.5
-      # sip_fun_factor: 3
       system: "three-tier-2026"
       score: ⁎
 
-review-key: # bru 11
+review-key: #5
   bottle: ###
   date: ###
   post: ###
@@ -285,44 +541,19 @@ review-key: # bru 11
   review:
     intro: null
     nosing: >
-      Very clearly a red wine cask. Lots of vanilla, red berries, Schweppes Russchian, but also some sooty notes, even a little sulphur.
+      Fresh, rather grassy, some citrus zest and passion fruit curd, touch of hessian or perhaps dunnage. After a moment I start noticing more floral impressions, like lavender.
     sipping: >
-      Strong alcohol! Drying and tannic, yet also dense and fatty, with a very powerful and heavy spirit.  
-    comments: >
-      Reminds me rather a lot of a red-wine cask Linkwood from Cadenhead's I got many years ago. Something heavy, like a Benrinnes or Roseisle (though this it couldn't be). Young, probably 8-ish. The dominating cask makes it rather one-dimensional.
+      Very muscular spirit, with authority of age. Malty, with savoury parmesan cheese, crunchy pear, toasty, borderline smoky notes, strong nuttiness, but also grassy/herbal. Upon swallowing there is this blooming tobacco. Very complex.   
+    comments:
+      before_reveal: >
+        I'm a bit confused, because I can't quite make up my mind whether this is peated or not. Old bourbon cask. I'm guessing this is the Rosebank.
     grade:
-      # system: "Legacy"
-      # score: ###
-      # system: "multidim-2025"
-      # nose_deliciousness: 3.5
-      # nose_fun_factor: 4
-      # sip_deliciousness: 3.5
-      # sip_fun_factor: 3
       system: "three-tier-2026"
-      score: ###
+      score: ⁎⁎
 
-# review-key:
-#   bottle: ###
-#   date: ###
-#   market_context:
-#     availability: ###
-#     estimated_price:
-#       amount: ###
-#       currency: ###
-#   sample_context:
-#     desc: ###
-#     blind: no
-#   review:
-#     intro: null
-#     nosing: >
-#       ###
-#     sipping: >
-#       ###
-#     comments: >
-#       ###
-#     grade:
-#       system: "three-tier-2026"
-#       score: ###
+
+#----- 
+
 
 
 # review-key:

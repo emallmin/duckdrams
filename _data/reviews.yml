@@ -2808,6 +2808,172 @@ benrinnes-15-eld-xmas:
       system: "categorical-2023"
       score: "⭐Notable Quality"
       wb_score: 87
+
+jlp-15: # Jean-Luc Pasquet, 50.1%, 2006 / 2021, Cask #27, Kirsch Import, NC, CS, NCF
+  bottle: jlp-15
+  date: 2026-03-22
+  market_context:
+    availability: Sold out. Bought for €69.90 in 2023.
+    estimated_price:
+      amount: 70
+      currency: EUR
+  sample_context:
+    desc: bottle kill
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Bright and fruity; particularly peach and other stone fruits, overripe overripe and very sweet cantaloupe melon. Oodles of honey, and definitely some marzipan and vanilla. Complex tertiary notes of fragrant tea, liquorice, and exotic spices.   
+    sipping: >
+      Balanced sweetness, slightly waxy, and flavours in synchrony with the nose: stone fruits galore, honey, hint of tea with a teensy bitter twang.
+    comments: >
+      This bottle has been waiting to be killed off for months if not well over a year. Somehow this last dram is better than I could ever recall this bottle having been. It's indeed rather excellent!
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+nectarosity:
+  bottle: nectarosity
+  date: 2026-03-22
+  market_context:
+    availability: Available around €50, with occasional discounts down to €40.
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc: bottle kill
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Bright, lots of pear and some citrus. Peppery: white pepper, oak spice. Lemony cake icing, fudge. Mild booziness from the grain component. Likable, but not particularly memorable.
+    sipping: >
+      Sweetness, caramel, surypy vanilla sponge cake, jaffa cake, orange, dried mango strips, oak spice. Really quite long aftertaste, with mango and toffee. 
+    comments: >
+      Delivers on the promise of fruit and toffe. The grain is detectable, though not in a negative sense. Tasty, easy to like, and can be recommended to the whisky novice at €50. But I think a rather more distinguished single malt can be found for the price.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+linkwood-15-eld: #linkwood
+  bottle: linkwood-15-eld
+  date: 2026-03-15 # pure guess
+  market_context:
+    availability: Available from €77
+    estimated_price:
+      amount: 78
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Very fruity, fresh, clean. Peardrops (or piggelin!), lychees, white wine, white pepper.
+    sipping: >
+      Very juicy, all manner of white and yellow fruits, notably pineapple, lychee, apples, grapes, "white flavour" Bassetts winegum. Just a little bit of sweetness. Drinks well neat. Robust spirit gives some depth.  
+    comments: >
+      Just a flawless, yummy Linkwood. Not complex, but yummy. At €77 my only reason not to buy is I already have so many bottles with this profile, and they will likely be available to buy in the future too.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+imperial-27-ls:
+  bottle: imperial-27-ls
+  date: 2026-02-27
+  post: ###
+  market_context:
+    availability: Available from around €320
+    estimated_price:
+      amount: 320
+      currency: EUR
+  sample_context:
+    desc: from a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing:
+      Summer in a glass. Honey, wax, orchard fruits, notably pear, but also bergamot; elderflower cordial, grassy meadow, gorse, olive oil, nectar, and petrichor. Ice cream melt, vanilla. Complex and delicate
+    sipping: >
+      Oily, with a robust spirit character, yet fresh and lively. Total fruit bomb, with ripe melons and peach, mangoes, and juicy oak; very slight tannins. 
+    comments: >
+      Flawless! It's not the Imperial to trump all others, but it is as good as you can really hope for. 
+    grade:
+      system: "three-tier-2026"
+      score: ⁎⁎
+
+mystery-highland-21:
+  bottle: mystery-highland-21
+  date: 2026-02-27
+  post: ###
+  market_context:
+    availability: Available €100
+    estimated_price:
+      amount: 100
+      currency: EUR
+  sample_context:
+    desc: from a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Quite noticable alcohol. Salty sea breeze (with some rotting kelp)... but equally earthy and foest-y, with mushrooms and pine wood... Sherry aromas of dried fruits and orange peel, and certaintly funky/cheesy/sulphury notes, including burnt rubber, leather, grease.
+    sipping: >
+      Savoury and salty, properly meaty. Really cheesy, like blue cheese with ginger bread, fig marmalade, but also earthy, vegetal/peaty, heathery... oysters!
+    comments: >
+      Such a fun and weird experience. I did right in getting a full bottle.
+    grade:
+      system: "three-tier-2026"
+      score:
+
+roseisle-14:
+  bottle: roseisle-14
+  date: 2026-03-02 # pure guess
+  post: ###
+  market_context:
+    availability: Currently €140. Wait a year and it will be well below €100.
+    estimated_price:
+      amount: 140
+      currency: EUR
+  sample_context:
+    desc: from a 6cl sample
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Toffee, sponge cake and coffe - tiramisu! But not overburdened by these sweet aromas; there's a fruty freshness cutting through. The distillery name is also suggestive; I do get rosey, flowery notes. 
+    sipping: >
+      Thick, oily, but with a robust malty character that I feel could carry any cask. Very nutty and chocolaty, then turning grassy and distinctly leathery.  
+    comments: >
+      I think this is a fabouls dram, with much complexity. When the prices inevitably drops below €100, I would consider buying a bottle. Reminds me of some really good Benrinnes'es, but it's also got its own thing going on.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+springbank-5-100proof:
+  bottle: springbank-5-100proof
+  date: 2026-04-03
+  market_context:
+    availability: Available from ~€65.
+    estimated_price:
+      amount: 65
+      currency: EUR
+  sample_context:
+    desc: from a 6cl sample bottle (WhiskySite.nl)
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Characteristically Springbank; funky, in a simultaneously fruity and cheesy way. "Damp". Citrus galore, with lemon and grapefruit (rind included), tart apricot, and grassy. Young and vibrant whisky.
+    sipping: >
+      Briny, briny, briny and surprisingly drinkable at 100 proof. Cantaloupe melon, cheddar cheese, farmy, warming peat. Yes, the tropical notes exists but are not as prevalent as the 10. Bit of an ashy aftertaste to the peat.  
+    comments: >
+      It's better than I had thought. I prefer the 10yo with its tropical bourbon notes, but the 100 proof does deliver a different experience, and does not feel immature, just more 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
 #-----------------------------
 # review-key:
 #   bottle: ###
