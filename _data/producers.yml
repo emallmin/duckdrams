@@ -23,6 +23,16 @@ linkwood:
   class: "Single Malt"
   owner: "Diageo"
 
+benrinnes:
+  name: "Benrinnes"
+  kind: distillery
+  status: "Active"
+  region: "Speyside"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  owner: "Diageo"
+
 ## Highland
 
 loch-lomond:

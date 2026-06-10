@@ -3114,6 +3114,63 @@ bowmore-26-nss:
       url: null
       source: whiskybase
 
+benrinnes-14-ch:
+  production:
+    vintage: null
+    producer: benrinnes
+  maturation:
+    age: 14
+    cask: 10y Bourbon Barrel, 4y Sherry Butt Finish
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 55.0
+    outturn: 226
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: null
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 211608
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/1608/388094-big.jpg
+      source: whiskybase
+
+benrinnes-15-eld-xmas:
+  production:
+    vintage: 2006
+    producer: benrinnes
+  maturation:
+    age: 15
+    cask: #
+  bottling:
+    bottler: elixir
+    batching: single_cask
+    abv: 56.2
+    outturn: yes
+    unchillfiltered: yes
+    bottling_date: #
+    size: 30
+  marketing:
+    series: Single Malt of Scotland #Single Cask #800214
+    name: #
+    released: #
+    rrp:
+      amount: #
+      currency: EUR   
+  meta:
+    whiskybase_id: #
+    image:
+      url: #
+      source: self
+
 
 #-----
 
