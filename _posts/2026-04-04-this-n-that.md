@@ -6,6 +6,7 @@ categories: whisky
 tags: [review, peated]
 ---
 
+
 {% include review.html id="nectarosity" %}
 
 {% include review.html id="jlp-15" %}
@@ -20,3 +21,4 @@ tags: [review, peated]
 
 {% include review.html id="springbank-5-100proof" %}
 
+Conclusion
