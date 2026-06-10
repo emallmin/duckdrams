@@ -154,3 +154,8 @@ whiskysite:
   name: Whiskysite.nl
   kind: bottler
   country: The Netherlands
+
+  living-souls:
+    name: Living Souls
+    kind: bottler
+    country: UK

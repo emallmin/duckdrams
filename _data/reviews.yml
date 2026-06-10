@@ -2883,9 +2883,9 @@ imperial-27-ls:
   date: 2026-02-27
   post: ###
   market_context:
-    availability: Available from around €320
+    availability: Available from around €340
     estimated_price:
-      amount: 320
+      amount: 340
       currency: EUR
   sample_context:
     desc: from a 6cl sample bottle

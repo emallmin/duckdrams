@@ -2288,7 +2288,7 @@ nectarosity:
     size: 700
   marketing:
     series: Core Collection
-    name: 
+    name: Nectarosity
     released: 2024
     rrp:
       amount: 50
@@ -3229,6 +3229,35 @@ mystery-highland-21:
     whiskybase_id: 212090
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/1/2090/373514-big.jpg
+      source: whiskybase
+
+imperial-27-ls:
+  production:
+    vintage: 1998
+    producer: imperial
+  maturation:
+    age: 27
+    cask: Refill bourbon barrels
+  bottling:
+    bottler: living-souls
+    batching: null
+    abv: 42.2
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 294842
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/4842/516423-big.jpg
       source: whiskybase
 
 #-----
