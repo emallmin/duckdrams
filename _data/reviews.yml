@@ -2766,10 +2766,10 @@ benrinnes-14-ch:
   date: 2023-05-20
   post: benrinnaissance
   market_context:
-    availability: ###
+    availability: Released for £80
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 80
+      currency: GBP
   sample_context:
     desc: 25ml sample from Hop/Scotch for £8
     blind: no
@@ -2791,7 +2791,7 @@ benrinnes-15-eld-xmas:
   date: 2023-05-20
   post: benrinnaissance
   market_context:
-    availability: ###
+    availability: Only in whisky calendar
     estimated_price:
       amount: ###
       currency: ###
