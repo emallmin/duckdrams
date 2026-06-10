@@ -3168,8 +3168,8 @@ benrinnes-15-eld-xmas:
   meta:
     whiskybase_id: 248271
     image:
-      url: #
-      source: self
+      url: https://static.whiskybase.com/storage/whiskies/default/big.png?v7
+      source: whiskybase
 
 
 #-----
