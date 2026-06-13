@@ -3059,7 +3059,7 @@ islay-south-coast-19-bwh:
 springbank-5-100proof:
   production:
     vintage: null
-    producer: Springbank
+    producer: springbank
   maturation:
     age: 5
     cask: Bourbon
@@ -3259,6 +3259,123 @@ imperial-27-ls:
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/9/4842/516423-big.jpg
       source: whiskybase
+
+gortinore-natterjack:
+  production:
+    vintage:
+    producer:
+  maturation:
+    age:
+    cask: Ex-Bourbon + Virgin American Oak Finish
+  bottling:
+    bottler: gortinore
+    batching:
+    abv: 40
+    outturn:
+    natural_color:
+    unchillfiltered:
+    bottling_date:
+    size: 700
+  marketing:
+    series: Blend No. 1
+    name: Blend No. 1
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 130415
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/3/0415/250687-big.jpg
+      source: whiskybase
+
+tullibardine-pape:
+  production:
+    vintage: 2008
+    producer: tullibardine
+  maturation:
+    age: null
+    cask: Bourbon + Châteauneuf-du-Pape Finish
+  bottling:
+    bottler:
+    batching:
+    abv: 46
+    outturn: 15720
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: The Murray - The Marquess Collection
+    name:
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 260566
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/0566/458713-big.jpg
+      source: whiskybase
+
+cameronbridge-13-bnsp:
+  production:
+    vintage: 2012
+    producer: Cameronbridge
+  maturation:
+    age: 13
+    cask: First Fill Bourbon Hogshead
+  bottling:
+    bottler: brave-new-spirits
+    batching: single_cask
+    abv: 60.1
+    outturn: 283
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Distiller's Cut - Cask Masters
+    name:
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 280742
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/0742/505391-big.jpg
+      source: whiskybase
+
+royal-brackla-18-ch:
+  production:
+    vintage: 2007
+    producer: royal-brackla
+  maturation:
+    age: 18
+    cask: Matured in a Sherry Hogshead
+  bottling:
+    bottler: caskhound
+    batching: single_cask
+    abv: 52.9
+    outturn: 223
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: 'The Fashionable Five #2'
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 281345
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/1345/506220-big.jpg
+      source: whiskybase
+
 
 #-----
 

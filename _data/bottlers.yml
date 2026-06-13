@@ -159,3 +159,18 @@ whiskysite:
     name: Living Souls
     kind: bottler
     country: UK
+
+gortinore:
+  name: Gortinore Distillers & Co.
+  kind: bottler
+  country: Ireland
+
+brave-new-spirits:
+  name: Brave New Spirits
+  kind: bottler
+  country: UK
+
+caskhound:
+  name: The Caskhound
+  kind: bottler
+  country: Germany

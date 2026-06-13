@@ -33,6 +33,25 @@ benrinnes:
   class: "Single Malt"
   owner: "Diageo"
 
+royal-brackla:
+  name: "Royal Brackla"
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+
+
+tullibardine:
+  name: "Tullibardine"
+  kind: distillery
+  status: "Active"
+  region: "Highland"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+
 ## Highland
 
 loch-lomond:
@@ -335,7 +354,7 @@ glenesk:
   category: Scotch Whisky
   class: Single Malt
   country: Scotland
-  region: Highland
+  region: Highlands
   peated: no
   status: closed
 
@@ -345,7 +364,7 @@ dornoch:
   category: Scotch Whisky
   class: Single Malt
   country: Scotland
-  region: Highland
+  region: Highlands
   peated: no
   status: active
 
