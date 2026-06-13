@@ -32,4 +32,4 @@ I like to stay a jour with what's hot in whisky circles, and the new Springbank 
 
 {% include review.html id="ben-nevis-7-sv-100proof" %}
 
-Conclusion
+Conclusion 

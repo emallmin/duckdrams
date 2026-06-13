@@ -423,6 +423,13 @@ meadowside-blend:
   category: Scotch Whisky
   class: Blended Scotch Whisky
 
+compass-box-bleded-malt:
+  name: Compass Box
+  kind: blender
+  country: Scotland
+  category: Scotch Whisky
+  class: Blended Scotch Whisky
+
 zuidam:
   name: Zuidam Distillery
   country: The Netherlands
