@@ -3377,6 +3377,35 @@ royal-brackla-18-ch:
       source: whiskybase
 
 
+ben-nevis-7-sv-100proof:
+  production:
+    vintage: 2019
+    producer: ben-nevis
+  maturation:
+    age: 7
+    cask: 2nd Fill Oloroso Sherry Butts
+  bottling:
+    bottler: signatory
+    batching: null
+    abv: 57.1
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2026
+    size: 700
+  marketing:
+    series: '100 Proof - Edition #75'
+    name:
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 296499
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/6499/534266-big.jpg
+      source: whiskybase
+
 #-----
 
 # bottle-key:

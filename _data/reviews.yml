@@ -2950,7 +2950,6 @@ roseisle-14:
       system: "three-tier-2026"
       score: ###
 
-
 springbank-5-100proof:
   bottle: springbank-5-100proof
   date: 2026-04-03
@@ -2972,7 +2971,31 @@ springbank-5-100proof:
       It's better than I had thought. I prefer the 10yo with its tropical bourbon notes, but the 100 proof does deliver a different experience, and does not feel immature as such. 
     grade:
       system: "three-tier-2026"
-      score: ###
+      score: 85
+
+ben-nevis-7-sv-100proof:
+  bottle: ben-nevis-7-sv-100proof
+  date: 2026-04-08
+  market_context:
+    availability: Available from around €43 
+    estimated_price:
+      amount: 43
+      currency: EUR
+  sample_context:
+    desc: from a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Buttery bread... with olives! Seaweed and the sea. Toasted nuts, funk, banana peels. It's an evocative nose. 
+    sipping: >
+      Briny-sweet, hay and grass, earthy, peaty, but also with chocolate mints. Cigar notes in the finish.
+    comments: >
+      Very good indeed!
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+      wb_score: 87
 
 #-----------------------------
 # review-key:
