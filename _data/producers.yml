@@ -159,7 +159,14 @@ johnnie-walker-blend:
   name: "Johnnie Walker"
   kind: blender
   category: "Scotch Whisky"
-  class: "Blend"
+  class: "Blended Scotch Whisky"
+  owner: "Diageo"
+
+johnnie-walker-blended-malt:
+  name: "Johnnie Walker"
+  kind: blender
+  category: "Scotch Whisky"
+  class: "Blendend Malt"
   owner: "Diageo"
 
 glen-keith:

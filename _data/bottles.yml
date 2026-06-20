@@ -3406,6 +3406,181 @@ ben-nevis-7-sv-100proof:
       url: https://static.whiskybase.com/storage/whiskies/2/9/6499/534266-big.jpg
       source: whiskybase
 
+johnnie-walker-ultimate:
+  production:
+    vintage: null
+    producer: johnnie-walker-blend
+  maturation:
+    age: 18
+    cask: null
+  bottling:
+    bottler:
+    batching:
+    abv: 40
+    outturn:
+    natural_color: no
+    unchillfiltered: no
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: 
+    name: Ultimate 18
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 211909
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/1909/395883-big.jpg
+      source: whiskybase
+
+johnnie-walker-green:
+  production:
+    vintage:
+    producer: johnnie-walker-blended-malt
+  maturation:
+    age: 15
+    cask:
+  bottling:
+    bottler:
+    batching:
+    abv: 43
+    outturn:
+    natural_color: no
+    unchillfiltered: no
+    bottling_date:
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 264720
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/4720/475895-big.jpg
+      source: whiskybase
+
+johnnie-walker-gold:
+  production:
+    vintage:
+    producer: johnnie-walker-blend
+  maturation:
+    age:
+    cask:
+  bottling:
+    bottler:
+    batching:
+    abv: 40.0
+    outturn:
+    natural_color: no
+    unchillfiltered: no
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: The Master Blender's Reserve
+    name: Gold
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 269246
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/9246/485296-big.jpg
+      source: whiskybase
+
+johnnie-walker-black-ruby:
+  production:
+    vintage:
+    producer: johnnie-walker-blend
+  maturation:
+    age:
+    cask: Bourbon, Oloroso, PX, Seasoned Red Wine
+  bottling:
+    bottler:
+    batching:
+    abv: 40
+    outturn:
+    natural_color: no
+    unchillfiltered: no
+    bottling_date:
+    size: 700
+  marketing:
+    series:
+    name: Black Ruby
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 271030
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/1030/489851-big.jpg
+      source: whiskybase
+
+johnnie-walker-double-black:
+  production:
+    vintage:
+    producer: johnnie-walker-blend
+  maturation:
+    age:
+    cask:
+  bottling:
+    bottler:
+    batching:
+    abv: 40
+    outturn:
+    natural_color: no
+    unchillfiltered: no
+    bottling_date:
+    size: 700
+  marketing:
+    series:
+    name: Double Black
+    released:
+    rrp:
+      amount:
+      currency: EUR
+  meta:
+    whiskybase_id: 291538
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/1538/533608-big.jpg
+      source: whiskybase
+
+johnnie-walker-red-old:
+  production:
+    vintage:
+    producer: johnnie-walker-blend
+  maturation:
+    age:
+    cask:
+  bottling:
+    bottler:
+    batching:
+    abv: 40
+    outturn:
+    natural_color: no
+    unchillfiltered: no
+    bottling_date: 1970s
+    size: 700
+  marketing:
+    series:
+    name: Red (1970s)
+    released:
+    rrp:
+      amount:
+      currency: EUR
+  meta:
+    whiskybase_id: 95631
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/9/5/631/149652-big.jpg
+      source: whiskybase
+
+
 #-----
 
 # bottle-key:
