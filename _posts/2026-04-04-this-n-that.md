@@ -6,7 +6,7 @@ categories: whisky
 tags: [review, peated]
 ---
 
-Sometimes I review single samples out of urgency, curiosity, or whim, with the idea that they'll somehow make it into a themed post soon enough. But they end up sitting sad, lonley, forgotten, and even half-drunk, waiting to no avail. Here I've rounded up a bit of this n' that n' that that's been sitting long enough.   
+Sometimes I review single samples out of urgency, curiosity, or whim, with the idea that they'll somehow make it into a themed post soon enough. But they end up sitting sad, lonley, forgotten, and even half-drunk, waiting to no avail. Here I've rounded up a bit of this n' that that's been sitting long enough.   
 
 We start off with a couple of bottle kill reviews.
 
@@ -31,5 +31,3 @@ I like to stay a jour with what's hot in whisky circles, and the new Springbank 
 {% include review.html id="springbank-5-100proof" %}
 
 {% include review.html id="ben-nevis-7-sv-100proof" %}
-
-Conclusion 

@@ -19,13 +19,15 @@ def main():
     for line in input_path.read_text(encoding="utf-8").splitlines():
         if not line.strip():
             continue
+        if line.lstrip().startswith("#"):
+            continue
 
-        match = re.match(r'"(.*?)"\s+(\d{4}-\d{2}-\d{2})', line)
+        match = re.match(r'(\d{4}-\d{2}-\d{2})\s+"(.*?)"', line)
         if not match:
             print(f"Skipping malformed line: {line}")
             continue
 
-        title, date = match.groups()
+        date, title = match.groups()
         slug = slugify(title)
 
         year, month, day = date.split("-")

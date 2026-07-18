@@ -1,28 +1,168 @@
-'285452':
+'240776':
   production:
-    vintage: '20.06.2017 # check!'
-    producer: Kilchoman
+    vintage: '26.11.2009 # check!'
+    producer: Strathmill
   maturation:
-    age: null
-    cask: Oloroso Sherry Cask
+    age: 13
+    cask: Bourbon
   bottling:
-    bottler: Distillery Bottling
+    bottler: Flickenschild
     batching: single_cask
-    abv: 57.6
-    outturn: 316
+    abv: 59.1
+    outturn: 271
     natural_color: true
     unchillfiltered: true
-    bottling_date: 11.08.2025
+    bottling_date: 05.06.2023
     size: 700 ml
   marketing:
-    series: The Awakening Series
+    series: Slainté
     name: null
-    released: '16 oct 2025 1:06 pm by Poppi # check!'
+    released: '23 oct 2023 5:51 pm by DuartSparky # check!'
     rrp:
       amount: null
       currency: EUR
   meta:
-    whiskybase_id: 285452
+    whiskybase_id: 240776
     image:
-      url: https://static.whiskybase.com/storage/whiskies/2/8/5452/512994-big.jpg
+      url: https://static.whiskybase.com/storage/whiskies/2/4/0776/434567-big.jpg
+      source: whiskybase
+'249294':
+  production:
+    vintage: null
+    producer: Lochlea
+  maturation:
+    age: null
+    cask: Ex-Islay Barrel
+  bottling:
+    bottler: Distillery Bottling
+    batching: null
+    abv: 46.0
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: '2024'
+    size: 700 ml
+  marketing:
+    series: Second Crop
+    name: null
+    released: '07 mar 2024 9:21 pm by Tauti # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 249294
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/9294/449180-big.jpg
+      source: whiskybase
+'250622':
+  production:
+    vintage: 2012
+    producer: Bunnahabhain
+  maturation:
+    age: 11
+    cask: Oloroso Sherry
+  bottling:
+    bottler: Signatory Vintage
+    batching: null
+    abv: 48.2
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: '2024'
+    size: 700 ml
+  marketing:
+    series: 'Small Batch Edition #7'
+    name: null
+    released: '28 mar 2024 12:16 pm by OmeJan1967 # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 250622
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/0622/451795-big.jpg
+      source: whiskybase
+'258128':
+  production:
+    vintage: null
+    producer: Ardbeg
+  maturation:
+    age: null
+    cask: null
+  bottling:
+    bottler: Distillery Bottling
+    batching: null
+    abv: 48.3
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 20./21.01.2025
+    size: 50 ml 700 ml 700 ml
+  marketing:
+    series: null
+    name: null
+    released: '23 jul 2024 11:21 am by Ardbeg1 # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 258128
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/8128/499772-big.jpg
+      source: whiskybase
+'284458':
+  production:
+    vintage: null
+    producer: Aberlour
+  maturation:
+    age: null
+    cask: FF Am.Oak & FF Oloroso, FF Oloroso & FF PX Finish
+  bottling:
+    bottler: Distillery Bottling
+    batching: null
+    abv: 56.2
+    outturn: null
+    natural_color: null
+    unchillfiltered: true
+    bottling_date: '2025'
+    size: 700 ml
+  marketing:
+    series: Sherry Cask Collection
+    name: null
+    released: '06 oct 2025 5:43 pm by Coldorak # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 284458
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/4458/523348-big.jpg
+      source: whiskybase
+'288263':
+  production:
+    vintage: 2015
+    producer: Tullibardine
+  maturation:
+    age: 10
+    cask: Malaga Wine Finish
+  bottling:
+    bottler: James Eadie
+    batching: null
+    abv: 46.0
+    outturn: 630
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: '2025'
+    size: 700 ml
+  marketing:
+    series: Small Batch
+    name: null
+    released: '20 nov 2025 10:19 pm by SeeingPoppy # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 288263
+    image:
+      url: null
       source: whiskybase

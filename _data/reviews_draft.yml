@@ -59,8 +59,125 @@ mystery-malt-3-green: #green marker
       score: ###
 
 
+#--- Final Clynelish
 
-#----- Clynelish
+clynelish-10-ad:
+  bottle: clynelish-10-ad
+  date: 2026-04-08
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Summarizing my impressions from three separate tasting occasions, there's zesty citrus (grapefruit), a slightly perfumed floral quality, crispness and minerality of a Riesling, strawberry dipped in white chocolate, and some denser coconutty bourbon cask notes. Maybe some wax if you go looking for it. It is a really good nose.
+    sipping: >
+      The second time I tried it (at which point it had had some areation and rest) I discovered a very lucid passion fruit note; also weeks later in my final sampling. Sweet, and both a bit bitter and salty but in a delicious way. Grapefruit or pomelo, roses, and a herbal streak. Also a bit hot neat, improves with water, though a pepperiness remains. The finish is excellent, though, with a classical bourbon cask gooseberry note and a waxiness lingering for a long time. 
+    comments: >
+      This one has plenty of character and dimensionality. Spirit-driven yet with an active cask. I would be very happy to have a bottle of this. Final score 87
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+clynelish-10-sv-100proof:
+  bottle: clynelish-10-sv-100proof
+  date: 2026-04-08
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Floral honey, pear drops, citrus and pine needles, white pepper, perhaps a bit of hand sanitizer. With water and time, more buttery and something rather candy-like. Quite all right, but rather less characterful than some of the other bottlings. 
+    sipping: >
+      Salty-sweet, fresh, clean, but a bitter streak. Robust, even bit hot "hot". Grapefruit, apricot jam (with water), heater-honey and gooseberries in the finish.
+    comments: >
+      A perfectly acceptable bottling, need some cajoling with water and air to be at its best. But never truly sparkles. 84 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+review-key: # carn mor clynelish 8
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Ginger ale, browned butter, banana candy, lemon, a mix of herbs and flowers, inculding rosemary, something farmy/stable.
+    sipping: >
+      Medium sweet, dense and oily, but also really quite bitter grapefruit rind, and with some maltloaf and tobacco-like undertones. 
+    comments: >
+      Drinks well neat and there's plenty going on, in a sweet and zest direction. I think it's a good one. 86
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+clynelish-12-je:
+  bottle: clynelish-12-je
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Candied tropical fruits, oxidized red apple, turkish delight, honey some oak spice. Getting some fatty notes, and burning candle. 
+    sipping: >
+      Sweet, briny, juicy, quaffable and smooth. Honeyed rice puffs, very juicy necarines, mango, orangettes. Slightly metallic in the finish.
+    comments: >
+      Really lovely fruit-bomb. Not super-Clynelish-y but still some waxy and coastal notes in there. 
+    grade:
+      system: "three-tier-2026"
+      score:
+      wb_score: 87
+
+clynelish-10-cb:
+  bottle: clynelish-10-cb
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Quite a few things going on: plenty of vanilla, some cardamom, and cedar wood; faint smoke, some minerality, and quite plenty of fizzy fruitiness: lemon, unripe papaya, rosehip.
+    sipping: >
+      Fruity sweetness, some salitiness. Lemon sherbet, and also malty, bread with nuts and dried fruits, gooseberry finish. Trails out with some bitterness.
+    comments: >
+      The ex-Islay cask is not at all obivous, but adds something. 85
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+#----- Clynelish--- initial
 
 
 clynelish-10-sv-100proof:
@@ -107,6 +224,7 @@ clynelish-10-ad:
   review:
     intro: null
     nosing: >
+
       Floral: buttercups, coconut. Fresh minerality, crisp white wine, citrus zest, and a surprisingly vivid ripe strawberry dipped in white chocolate. And dare I say, some wax.
     sipping: >
       Immediately quite bitter, but in a delicious way: grapefruit or pomelo, roses, and a herbal streak. Also a bit hot neat, improves with water, though a pepperiness remains. The finish is excellent, though, with a classical bourbon cask gooseberry note and a waxiness lingering for a long time. 
@@ -493,6 +611,111 @@ gortinore-natterjack:
       system: "three-tier-2026"
       score: 79
 
+review-key:
+  bottle: ###
+  date: 2026-06-21
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Hard to place. Acidic, slightly phenolic, bit of detergent, citrus, especially pomelo. Some candle, and a fattiness.
+    sipping: >
+      Malty, barley sugar, lots of body, hint of bitterness, but few very distinct flavour notes. 
+    comments:
+      before_reveal:
+        What could it be? Not a great deal of age, 7-13yo. Color does not speak to sherry, and only the fatty, somewhat sour notes would make me say sherry. 50%+ ABV no doubt. Speyside/Highland.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+review-key:
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh, crispy red apples, dusting of cinnamon, ginger, malt grist, lard
+    sipping: >
+      Medium-sweet, some dried fruit and nuts, orange chocolote, spices, but no heavy sherry.
+    comments:
+      before_reveal: >
+        I can see this sample is from whic.de. Almost all samples I had from them have the minibottle defect note. This one does too. a bit generic, but tasty. At some point my mind went Wolfburn. Something 46%ish, 10yo +-.
+      after_reveal: >
+        Aha! Ok, no sherry, but Wolfburn it is. Shame the sample was off.  
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+lochlea-second-ploughing:
+  bottle: lochlea-second-ploughing
+  date: 2026-06-26
+  market_context:
+    availability: Widely available for €50.
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc: from 5cl sample bottle
+    blind: no
+  review:
+    intro: One of the lightest coloured whiskyes I've seen.
+    nosing: >
+      Light peat, mineral and flinty, peach, spekuloos cookie,  vanilla 
+    sipping: >
+      Lands easy on the palate, then becomes spicier. Creamy flavours, with stone fruits, vanilla whip cream, and earthy, well-balanced peat.    
+    comments:
+      before_reveal: >
+        Already the colour spoke of young whisky in refill cask, so likely also peated to have some interest. Indeed! Young but tasty. I'd guess Ben Nevis. ABV is, but for a young whisky to not be boozy it has to have been cut down, so I'll say 46%. The subsequent spiciness feels a bit like alcohol sting, but I wager it's not.
+      after_reveal: >
+        Aha, ex-Islay cask. It is fascinating how it managed to emulate actual well-integrated direct peat.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+review-key:
+  bottle: 2026-06-26
+  date: 2026-06-26
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Sweet, zesty, rich. Trocadero, ginger ale, etc. Big on the orange, very ripe and juicy. Definitely some leather, and overall reminicent of a well-aged Vallein Tercinier cognac. Showing off age, but not excessively. It's beautiful! 
+    sipping: >
+      Sweet and salty, just a bit citrus-sour. Brings along a fair bit of spice, verging on being hot, though calms down with water to an extent. Tofeee, baked apples, candied orange, fig marmalade, cinnamon, chili-chocolate... a bright and zesty sherry-profile.   
+    comments:
+      before_reveal: > 
+        The nose really had me, the palate came in rather less convincingly. Still, a very tasty dram, and it would surprise me if it were younger than 15yo. Something like a Glen Garioch 15+? 50%. Sherry casks, possibly PX.
+      after_reveal: >
+        Wow, that drinks easily for 57%! The 11yo is 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
 #----- Chorlton
 
 ncnean-7-ch:
@@ -542,9 +765,9 @@ balblair-16-ch:
       system: "three-tier-2026"
       score: 85
 
-review-key:
-  bottle: ###
-  date: ###
+auchroisk-14-ch:
+  bottle: auchroisk-14-ch
+  date: 2026-06-14
   market_context:
     availability: ###
     estimated_price:
@@ -565,6 +788,57 @@ review-key:
       system: "three-tier-2026"
       score: ###
       wb_score: 88
+
+
+#----- Random
+
+ben-nevis-22-wn:
+  bottle: ben-nevis-22-wn
+  date: 2026-06-21
+  market_context:
+    availability: Avialble for €180
+    estimated_price:
+      amount: 180
+      currency: EUR
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fruit bomb! Clementines in particular, peach, honey, bouquet of flowers... The nose just takes me back in time
+    sipping: >
+      Quite spicy, prickly. Oily, sweet, fruit syrupy. Multivitamin juice, squirt of lime. Juicy bourn-caky finish. 
+    comments: >
+      From the nose I felt like I should have bought 3 bottles! Then on the palate I was less convinced.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+benrinnes-30-sv:
+  bottle: benrinnes-30-sv
+  date: 2026-06-24
+  market_context:
+    availability: Available around €300
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Neat: oaky, praline, nuts, marzipan, ginger ale. Very clearly a mature whisky. The nose opens up beautifully with water, revealing more ripe orchard fruits, more vibrancy in the giner ale / trocadero, and honey comb
+    sipping: >
+      Rather sweet, mouthfilling, with crème brûlée, or even more specfically Neuhaus Irrésistible pralines, some concentrated tropical fruits like passion fruit, oak and baking spices but not at all tannic, mild leathery notes.  
+    comments: >
+      It is a delectable whisky, though not transformative. €300 is not unreasonable given the market — right now there a sale and I could get it for €250 — but in this style and pricepoin I'm after something more precise, elegant, and surprising. I'll thoroughly enjoy the rest of the 6cl sample over another glass or two.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 89
+
 
 # review-key:
 #   bottle: ###
