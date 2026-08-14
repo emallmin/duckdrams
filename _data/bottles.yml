@@ -731,7 +731,7 @@ bruichladdich-14-private:
 classic-of-islay-2024:
   production:
     vintage:
-    producer: wiebers
+    producer: undisclosed-islay
   maturation:
     age:
     cask: Tempranillo Red Wine
@@ -876,7 +876,7 @@ zuidam-5:
 kavalan-solist-vinho-71C:
   production:
     vintage: 2016
-    producer: Kavalan
+    producer: kavalan
   maturation:
     age:
     cask: Vinho Barrique
@@ -1635,7 +1635,7 @@ ledaig-30-pst:
 ncnoch:
   production:
     vintage: 
-    producer: 
+    producer: thompson-bros-blended-malt
   maturation:
     age: 5
     cask: 
@@ -1662,9 +1662,9 @@ ncnoch:
       source: whiskybase
 
 ncnoch-px:
-  production:
+  production: 
     vintage: 
-    producer: 
+    producer: home-experiment-spirit-drink
   maturation:
     age: 5
     cask: 
@@ -2128,7 +2128,7 @@ park-life-22:
 park-life-20:
   production:
     vintage: 2004
-    producer: 
+    producer: highland-park
   maturation:
     age: 20
     cask: Ex-Bourbon
@@ -2273,12 +2273,12 @@ thy-2019-bbr:
 nectarosity:
   production:
     vintage: 
-    producer: 
+    producer: compass-box-bleded-malt
   maturation:
     age: 
     cask: American Oak Barrel
   bottling:
-    bottler: compass-box-bleded-malt
+    bottler: 
     batching: 
     abv: 46
     outturn: 
@@ -3263,12 +3263,12 @@ imperial-27-ls:
 gortinore-natterjack:
   production:
     vintage:
-    producer:
+    producer: gortinore-irish
   maturation:
     age:
     cask: Ex-Bourbon + Virgin American Oak Finish
   bottling:
-    bottler: gortinore
+    bottler:
     batching:
     abv: 40
     outturn:
@@ -3321,7 +3321,7 @@ tullibardine-pape:
 cameronbridge-13-bnsp:
   production:
     vintage: 2012
-    producer: Cameronbridge
+    producer: cameronbridge
   maturation:
     age: 13
     cask: First Fill Bourbon Hogshead

@@ -62,3 +62,9 @@
       name: Cognac
     - type: class
       name: Armagnac
+
+- type: category
+  name: Other
+  items:
+    - type: class
+      name: Spirit Drink

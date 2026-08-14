@@ -404,6 +404,16 @@ glen-grant:
   class : Single Malt
   peated: no
 
+balvenie:
+  name: "Balvenie"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+  peated: no
+
+
 roseisle:
   name: "Roseisle"
   kind: distillery
@@ -429,6 +439,13 @@ meadowside-blend:
   country: Scotland
   category: Scotch Whisky
   class: Blended Scotch Whisky
+
+thompson-bros-blended-malt:
+  name: "Blended Malt"
+  kind: blender
+  country: Scotland
+  category: Scotch Whisky
+  class: Blended Malt
 
 compass-box-bleded-malt:
   name: Compass Box
@@ -655,6 +672,12 @@ jlp:
   class: Cognac
   country: France
 
+gortinore-irish:
+  name: Gortinore Distillers & Co. Irish Whiskey
+  kind: blender
+  country: Ireland
+  category: Irish Whiskey
+
 # --- pseudo-producers 
 
 undisclosed-islay:
@@ -665,3 +688,10 @@ undisclosed-islay:
   category: Scotch Whisky
   class: Single Malt
 
+
+home-experiment-spirit-drink:
+  name: "Emil's experiment"
+  kind: blender
+  country: null
+  category: Other
+  class: Spirit Drink
