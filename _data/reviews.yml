@@ -27,6 +27,7 @@ linkwood-24-glmo-2023:
 ben-nevis-8-sv:
   bottle: ben-nevis-8-sv
   date: 2023-03-04
+  post: ben-nevis-bottle-kills
   market_context:
     availability: "€40"
     estimated_price:
@@ -1405,6 +1406,7 @@ bruichladdich-11-private: #bru 13
 imperial-27-bwh: #bru 14
   bottle: imperial-27-bwh
   date: 2026-04-06 # maybe?
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Sold out at €298
     estimated_price:
@@ -1567,6 +1569,7 @@ glen-grant-25-wm: #bru 19
 islay-south-coast-19-bwh: #bru 20
   bottle: islay-south-coast-19-bwh
   date: 2026-05-08
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Sold out.
     estimated_price:
@@ -1593,6 +1596,7 @@ islay-south-coast-19-bwh: #bru 20
 caperdonich-27-bwh: #bru 21
   bottle: caperdonich-27-bwh
   date: 2026-05-08
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: From BWH should have been ~€300. Single bottles can be found for €400 now.
     estimated_price:
@@ -1619,6 +1623,7 @@ caperdonich-27-bwh: #bru 21
 bowmore-26-nss: #bru 22
   bottle: bowmore-26-nss
   date: 2026-05-09
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: £250 at auction
     estimated_price:
@@ -1645,6 +1650,7 @@ bowmore-26-nss: #bru 22
 highland-park-32-ca: #bru 23
   bottle: highland-park-32-ca
   date: 2026-05-10
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Going for about £350-450 at auction.
     estimated_price:
@@ -1671,6 +1677,7 @@ highland-park-32-ca: #bru 23
 glenburgie-39-mos: # bru 24
   bottle: glenburgie-39-mos
   date: 2026-05-10
+  post: catching-up-with-the-calendar-2026
   market_context:
     availability: Still avaiable in retail from €880. No auction lots.
     estimated_price:
@@ -2812,6 +2819,7 @@ benrinnes-15-eld-xmas:
 jlp-15: # Jean-Luc Pasquet, 50.1%, 2006 / 2021, Cask #27, Kirsch Import, NC, CS, NCF
   bottle: jlp-15
   date: 2026-03-22
+  post: this-n-that
   market_context:
     availability: Bought for €69.90 in 2023. Can still be found for €80.
     estimated_price:
@@ -2835,6 +2843,7 @@ jlp-15: # Jean-Luc Pasquet, 50.1%, 2006 / 2021, Cask #27, Kirsch Import, NC, CS,
 nectarosity:
   bottle: nectarosity
   date: 2026-03-22
+  post: this-n-that
   market_context:
     availability: Available around €50, with occasional discounts down to €40.
     estimated_price:
@@ -2858,6 +2867,7 @@ nectarosity:
 linkwood-15-eld: #linkwood
   bottle: linkwood-15-eld
   date: 2026-03-15 # pure guess
+  post: this-n-that
   market_context:
     availability: Available from €77
     estimated_price:
@@ -2881,7 +2891,7 @@ linkwood-15-eld: #linkwood
 imperial-27-ls:
   bottle: imperial-27-ls
   date: 2026-02-27
-  post: ###
+  post: this-n-that
   market_context:
     availability: Available from around €340
     estimated_price:
@@ -2905,7 +2915,7 @@ imperial-27-ls:
 mystery-highland-21:
   bottle: mystery-highland-21
   date: 2026-02-27
-  post: ###
+  post: this-n-that
   market_context:
     availability: Available €100
     estimated_price:
@@ -2929,7 +2939,7 @@ mystery-highland-21:
 roseisle-14:
   bottle: roseisle-14
   date: 2026-03-02 # pure guess
-  post: ###
+  post: this-n-that
   market_context:
     availability: Currently €140. Wait a year and it will be well below €100.
     estimated_price:
@@ -2953,6 +2963,7 @@ roseisle-14:
 springbank-5-100proof:
   bottle: springbank-5-100proof
   date: 2026-04-03
+  post: this-n-that
   market_context:
     availability: Available from ~€65.
     estimated_price:
@@ -2976,6 +2987,7 @@ springbank-5-100proof:
 ben-nevis-7-sv-100proof:
   bottle: ben-nevis-7-sv-100proof
   date: 2026-04-08
+  post: this-n-that
   market_context:
     availability: Available from around €43 
     estimated_price:

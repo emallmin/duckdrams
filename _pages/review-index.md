@@ -15,7 +15,7 @@ classes: wide
   - [Blended Scotch Whisky](#blended-scotch-whisky)
 - [Irish Whiskey](#irish-whiskey)
 - [World Whiskey](#wold-whiskey)
-  - <span>&#x1F1F8;&#x1F1EA;</span>[Sweden](#sweden), [Denmark](#denmark), [Finland](#finland), [Taiwan](#taiwan), [Netherlands](#the-netherlands)
+  - [Sweden](#sweden), [Denmark](#denmark), [Finland](#finland), [Taiwan](#taiwan), [Netherlands](#the-netherlands)
 - [Eau-de-vie](#eau-de-vie)
   - [Cognac](#cognac), [Armagnac](#armagnac)
 - [Other](#other)
