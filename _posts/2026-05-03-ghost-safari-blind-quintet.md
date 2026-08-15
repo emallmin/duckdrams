@@ -10,9 +10,9 @@ header:
   teaser: https://files.emilmallmin.com/sisa_closed_tasting.png
 ---
 
-Placeholder text
-
+Placeholder text. What's going on
 <!--more-->
+
 
 | Distillery | Region | Core Style | Fruit Profile | Smoke/Peat | Texture | Notable Oddities |
 | --- | --- | --- | --- | --- | --- | --- |
