@@ -8,16 +8,16 @@ classes: wide
 ---
 - [Scotch Whisky](#scotch-whisky)
   - [Single Malt](#single-malt)
-    [Speyside](#speyside), [Lowlands](#lowlands), [Islay](#islay), [Highlands](#highlands), [Islands](#islands), [Campbeltown](#campbeltown)
+    - [Speyside](#speyside), [Lowlands](#lowlands), [Islay](#islay), [Highlands](#highlands), [Islands](#islands), [Campbeltown](#campbeltown)
   - [Blended Malt](#blended-malt)
   - [Single Grain](#single-grain)
   - [Blended Grain](#blended-grain)
   - [Blended Scotch Whisky](#blended-scotch-whisky)
 - [Irish Whiskey](#irish-whiskey)
 - [World Whiskey](#wold-whiskey)
-  [Sweden](#sweden), [Denmark](#denmark), [Finland](#finland), [Taiwan](#taiwan), [Netherlands](#the-netherlands)
+  - [Sweden](#sweden), [Denmark](#denmark), [Finland](#finland), [Taiwan](#taiwan), [Netherlands](#the-netherlands)
 - [Eau-de-vie](#eau-de-vie)
-  [Cognac](#cognac), [Armagnac](#armagnac)
+  - [Cognac](#cognac), [Armagnac](#armagnac)
 - [Other](#other)
   
 
