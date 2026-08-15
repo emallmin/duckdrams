@@ -21,6 +21,8 @@ sass:
 paginate: 5
 paginate_path: "/page:num/"
 
+search: true
+search_provider: lunr
 
 # excerpt_separator: "<!--more-->"
 
