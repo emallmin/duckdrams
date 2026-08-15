@@ -3155,7 +3155,155 @@ johnnie-walker-ultimate:
       system: "three-tier-2026"
       score: ###
 
+#------- glenfarclas gustation
 
+glenfarclas-12:
+  bottle: glenfarclas-12
+  date: 2023-11-12
+  post: the-grand-glenfarclas-gustation
+  market_context:
+    availability: Available from €35-40
+    estimated_price:
+      amount: 38
+      currency: EUR
+  sample_context:
+    desc: from a small sample bottle
+    blind: no
+  review:
+    intro: >
+      First, we have the Glenfarclas 12yo 43%, which I tried a sample of in July. 
+    nosing: >
+      Fresh fruits on the nose (orange zest, fresh grapes), soft oak and baking spices (vanilla, cinnamon)
+    sipping: >
+      Some spicy oak on the palate, otherwise quite gentle and sweet; caramelized sugar in the finish.
+    comments: >
+      Rather generic Speyside profile that does not do much for me, but it is a level above the cheaper single malt one would find in supermarkets. Not a bad starting place for whisky beginners.
+    grade:
+      system: "Legacy"
+      score: ###
+
+glenfarclas-15:
+  bottle: glenfarclas-15
+  date: 2023-11-12
+  post: the-grand-glenfarclas-gustation
+  market_context:
+    availability: Available from €63
+    estimated_price:
+      amount: 63
+      currency: EUR
+  sample_context:
+    desc: from a 70cl bottle
+    blind: no
+  review:
+    intro: >
+      Stepping up to the Glenfarclas 15yo 46%, I’ve had a good while to get acquainted with it. I opened it for a whisky tasting I arranged for my colleagues in early spring. My notes from July:
+    nosing: >
+      The nose is fresh, fruity, and sweet; orange marmalade, tinned tropical fruits (litchi), and ripe pear. Freshly ground coffee beans, cinnamon, nutmeg, and some dusty oak.
+    sipping: >
+       Rich in taste, sweet but not too sugary; dried figs, some leather, and woodfire smoke and oak spice.
+    comments: >
+      Many of the notes from the 12 and 15yo feature throughout the Glenfarclas line (and I shall not constantly repeat them), in particular the orange note (for me in the form of the Swedish “Trocadero” soda), red apples, and oak spice (e.g. cinnamon). But the 15yo has a familiar/generic sherry-butter-vanilla-toffee character that is not so intense in the 21, 25, and 30 year old.
+    grade:
+      system: "Legacy"
+      score: ###
+
+glenfarclas-21:
+  bottle: glenfarclas-21
+  date: 2023-11-12
+  post: the-grand-glenfarclas-gustation
+  market_context:
+    availability: 
+    estimated_price:
+      amount: 140
+      currency: EUR
+  sample_context:
+    desc: from a 20cl bottle
+    blind: no
+  review:
+    intro: >
+      Putting my nose into the Glenfarclas 21, the character is indeed somewhat different that the 15yo. I’ve had a while to familiarise myself with this 20cl mini-bottle too, which today (November) is almost finished. 
+    nosing: >
+      Prunes, sultanas, red apples, and gooseberries are more prominent. More of a white dessert wine impression.
+    sipping: >
+      On the palate I get dried mulberries and Inca berries and walnuts, which ride out a long and satisfying finish. Maybe the vaguest whiff of truffle too?
+    comments: >
+      ###
+    grade:
+      system: "Legacy"
+      score: ###
+
+glenfarclas-25:
+  bottle: glenfarclas-25
+  date: 2023-11-12
+  post: the-grand-glenfarclas-gustation
+  market_context:
+    availability: Available for around €180-200
+    estimated_price:
+      amount: 190
+      currency: EUR
+  sample_context:
+    desc: from a small sample bottle
+    blind: no
+  review:
+    intro: Compared to the previous:
+    nosing: >
+      ...brings back some vanilla, and enhances the fruits; some dried banana, in particular is present.
+    sipping: >
+      Compared to the 21yo, there is more woodsmoke (beech?) on the palate, a little pipe tobacco, and a slightly minerally, beach pebble note. The long finish is again of dried berries, gooseberry in particular. Just to be clear, neither the 21yo or 25yo are dry, but rather sweetish and succulent...
+    comments: >
+      ###
+    grade:
+      system: "Legacy"
+      score: ###
+
+glenfarclas-30:
+  bottle: glenfarclas-30
+  date: 2023-11-12
+  post: the-grand-glenfarclas-gustation
+  market_context:
+    availability: Available for around €600
+    estimated_price:
+      amount: 600
+      currency: EUR
+  sample_context:
+    desc: from a small sample bottle
+    blind: no
+  review:
+    intro: ...and so is the Glenfarclas 30yo 43%, a 3cl sample bought at a half-price sale for £30, as I recall. 
+    nosing: >
+       The nose here (after time and a drop of water) is a tad more generous than the 21 & 25yo, and pushes more on the canned tropical fruit aspect.
+    sipping: >
+      On the palate, the smoke is somewhat more to the fore than the predecessors; also a hint of iodine.
+    comments: >
+      ###
+    grade:
+      system: "Legacy"
+      score: ###
+
+glenfarclas-31-fmcd:
+  bottle: glenfarclas-31-fmcd
+  date: 2023-11-12
+  post: the-grand-glenfarclas-gustation
+  market_context:
+    availability: Probably at least €250
+    estimated_price:
+      amount: 250
+      currency: EUR
+  sample_context:
+    desc: from a small sample bottle
+    blind: no
+  review:
+    intro: >
+      Last, and sadly, least, we have the “Flora MacDonald”
+    nosing: >
+      Great nose, slightly smokier and more vinous/perfumy than the rest. Trocadero galore, and ginger ale.
+    sipping: >
+      Indeed, great nose, but there’s mini-bottle defect / wet cardboard on the palate.
+    comments: >
+      I had stored this 2cl pour in a 3cl mini-bottle. Although I tried to put some Argon gas into it to stave off the over-oxidation, it seemed my effort was in vain, and the sample did not survive its half-year under these suboptimal conditions…
+    grade:
+      system: "Legacy"
+      score: ###
 
 #-----------------------------
 # review-key:

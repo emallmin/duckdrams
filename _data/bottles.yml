@@ -3581,6 +3581,181 @@ johnnie-walker-red-old:
       source: whiskybase
 
 
+glenfarclas-31-fmcd:
+  production:
+    vintage: 1988
+    producer: glenfarclas
+  maturation:
+    age: 31
+    cask: Oloroso Sherry Casks
+  bottling:
+    bottler: Distillery Bottling
+    batching: small_batch
+    abv: 46
+    outturn: 3600
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2020
+    size: 700
+  marketing:
+    series: Flora MacDonald
+    name: Flora MacDonald
+    released: 2020
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 167864
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/6/7864/288532-big.jpg
+      source: whiskybase
+
+glenfarclas-21:
+  production:
+    vintage: null
+    producer: glenfarclas
+  maturation:
+    age: 21
+    cask: null
+  bottling:
+    bottler:
+    batching: null
+    abv: 43
+    outturn: null
+    natural_color: true
+    unchillfiltered: null
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: New Label
+    name: null
+    released: 2021
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 186744
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/8/6744/325070-big.jpg
+      source: whiskybase
+
+glenfarclas-12:
+  production:
+    vintage: null
+    producer: glenfarclas
+  maturation:
+    age: 12
+    cask: null
+  bottling:
+    bottler:
+    batching: null
+    abv: 43
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: New Label
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 225989
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/2/5989/402125-big.jpg
+      source: whiskybase
+
+glenfarclas-25:
+  production:
+    vintage: null
+    producer: glenfarclas
+  maturation:
+    age: 25
+    cask: null
+  bottling:
+    bottler:
+    batching: null
+    abv: 43
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: New Label
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 219912
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/9912/389552-big.jpg
+      source: whiskybase
+
+glenfarclas-30:
+  production:
+    vintage: null
+    producer: glenfarclas
+  maturation:
+    age: 30
+    cask: null
+  bottling:
+    bottler:
+    batching: null
+    abv: 43
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2019
+    size: 700
+  marketing:
+    series: New Label
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 206894
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/0/6894/363366-big.jpg
+      source: whiskybase
+
+glenfarclas-15:
+  production:
+    vintage: null
+    producer: glenfarclas
+  maturation:
+    age: 15
+    cask: Sherry
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: null
+    natural_color: true
+    unchillfiltered: null
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: New Label
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 213724
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/3724/374225-big.jpg
+      source: whiskybase
+
+
 #-----
 
 # bottle-key:
