@@ -12,6 +12,8 @@ header:
 
 Placeholder text
 
+<!--more-->
+
 | Distillery | Region | Core Style | Fruit Profile | Smoke/Peat | Texture | Notable Oddities |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Banff** | Highland | Fruity‑oily, lightly smoky | Apple, pear, citrus | Light | Oily | Mustard, vegetal, mineral quirks |
