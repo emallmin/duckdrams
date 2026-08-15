@@ -671,6 +671,14 @@ banff:
   category: "Scotch Whisky"
   class: "Single Malt"
 
+brora:
+  name: Brora
+  kind: distillery
+  status: closed
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+
 #----
 
 teerenpeli:

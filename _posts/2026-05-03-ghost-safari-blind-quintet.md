@@ -12,6 +12,14 @@ header:
 
 Placeholder text
 
+| Distillery | Region | Core Style | Fruit Profile | Smoke/Peat | Texture | Notable Oddities |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Banff** | Highland | Fruity‑oily, lightly smoky | Apple, pear, citrus | Light | Oily | Mustard, vegetal, mineral quirks |
+| **Millburn** | Highland (Inverness) | Fruity‑floral, creamy | Apple, pear, stewed fruit | Light | Creamy | Mineral, herbal, savoury |
+| **Rosebank** | Lowland | Floral, citrus, elegant | Pear, citrus, honey | None | Silky but firm (worm tubs) | Subtle mineral notes |
+| **Brora** | Highland | Waxy, oily, smoky/farmy | Lemon, orchard fruit | Medium–High (era‑dependent) | Heavy, waxy | Butyric batches; strong farmy notes |
+| **Littlemill** | Lowland | Fruity, grassy, lightly bitter | Peach, apricot, citrus | Very light | Light–medium | Bitter grapefruit, dry oak |
+
 {% include review.html id="rosebank-19-dl" %}
 
 {% include review.html id="banff-23-imcl" %}
