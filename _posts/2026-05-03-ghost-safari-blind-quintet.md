@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Ghost Safari: Blind Quintet" # AI edition
+excerpt: This is the excerpt
 date: 2026-05-03
 categories: Review
 tags: [tag1, tag2]
@@ -11,7 +12,6 @@ header:
 ---
 
 Placeholder text. What's going on
-<!--more-->
 
 
 | Distillery | Region | Core Style | Fruit Profile | Smoke/Peat | Texture | Notable Oddities |
