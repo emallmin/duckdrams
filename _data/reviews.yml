@@ -3212,7 +3212,7 @@ glenfarclas-21:
   date: 2023-11-12
   post: the-grand-glenfarclas-gustation
   market_context:
-    availability: 
+    availability: Available at €140
     estimated_price:
       amount: 140
       currency: EUR
@@ -3226,8 +3226,7 @@ glenfarclas-21:
       Prunes, sultanas, red apples, and gooseberries are more prominent. More of a white dessert wine impression.
     sipping: >
       On the palate I get dried mulberries and Inca berries and walnuts, which ride out a long and satisfying finish. Maybe the vaguest whiff of truffle too?
-    comments: >
-      ###
+    comments:
     grade:
       system: "Legacy"
       score: ###
@@ -3245,13 +3244,13 @@ glenfarclas-25:
     desc: from a small sample bottle
     blind: no
   review:
-    intro: Compared to the previous:
+    intro: >
+      Compared to the previous:
     nosing: >
       ...brings back some vanilla, and enhances the fruits; some dried banana, in particular is present.
     sipping: >
       Compared to the 21yo, there is more woodsmoke (beech?) on the palate, a little pipe tobacco, and a slightly minerally, beach pebble note. The long finish is again of dried berries, gooseberry in particular. Just to be clear, neither the 21yo or 25yo are dry, but rather sweetish and succulent...
-    comments: >
-      ###
+    comments:
     grade:
       system: "Legacy"
       score: ###
@@ -3269,13 +3268,13 @@ glenfarclas-30:
     desc: from a small sample bottle
     blind: no
   review:
-    intro: ...and so is the Glenfarclas 30yo 43%, a 3cl sample bought at a half-price sale for £30, as I recall. 
+    intro: >
+      ...and so is the Glenfarclas 30yo 43%, a 3cl sample bought at a half-price sale for £30, as I recall. 
     nosing: >
        The nose here (after time and a drop of water) is a tad more generous than the 21 & 25yo, and pushes more on the canned tropical fruit aspect.
     sipping: >
       On the palate, the smoke is somewhat more to the fore than the predecessors; also a hint of iodine.
-    comments: >
-      ###
+    comments:
     grade:
       system: "Legacy"
       score: ###
