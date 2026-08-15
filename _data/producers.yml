@@ -641,6 +641,38 @@ highland-park:
   class: Single Malt
   peated: yes
 
+littlemill:
+  name: Littlemill
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  status: closed
+
+rosebank:
+  name: Rosebank
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  status: closed
+
+millburn:
+  name: Millburn
+  kind: distillery
+  country: Scotland
+  region: Highlands
+  status: closed
+
+banff:
+  name: "Banff"
+  kind: distillery
+  status: closed
+  region: "Speyside"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+
+#----
+
 teerenpeli:
   name: Teerenpeli
   kind: distillery

@@ -145,6 +145,16 @@ thompson-bros:
   kind: bottler
   country: UK
 
+ian-macleod:
+  name: Ian Macleod
+  kind: bottler
+  country: UK
+
+lombard:
+  name: lombard
+  kind: bottler
+  country: UK
+
 berry-bros-rudd:
   name: "Berry Bros. & Rudd"
   kind: bottler

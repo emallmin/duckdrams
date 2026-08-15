@@ -1,15 +1,27 @@
-<!-- ---
+---
 layout: single
 title: "Ghost Safari: Blind Quintet" # AI edition
-date: 2024-00-00
+date: 2026-05-03
 categories: Review
 tags: [tag1, tag2]
 header:
-  overlay_image: https://files.emilmallmin.com/####
+  overlay_image: https://files.emilmallmin.com/sisa_closed_tasting.png
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/####
---- -->
+  teaser: https://files.emilmallmin.com/sisa_closed_tasting.png
+---
 
+{% include review.html id="rosebank-19-dl" %}
+
+{% include review.html id="banff-23-imcl" %}
+
+{% include review.html id="littlemill-16-mmd" %}
+
+{% include review.html id="millburn-17-sv" %}
+
+{% include review.html id="brora-21-lombard" %}
+
+
+<!-- 
 
 | Distillery | Region | Core Style | Fruit Profile | Smoke/Peat | Texture | Notable Oddities |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -23,4 +35,4 @@ header:
 2 - Banff 1979/2002 - 23yo - Hogshead #476 + 499 - Chieftain's Choice Ian Macleaod - 46%
 3 - Littlemill 1991/2007 - 16yo - Bourbon cask . Murray McDavid - 46% - WB1972
 4 - Millburn 1983/2001 - 17yo - Sherry Butt 1538 - Signatory Vintage Un-chill - 46% - WB12907
-5 - Brora 1982/2003 - 21yo - Jewels of the Highland - 50% - WB8084 
+5 - Brora 1982/2003 - 21yo - Jewels of the Highland - 50% - WB8084  -->

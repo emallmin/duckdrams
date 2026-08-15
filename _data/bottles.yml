@@ -3755,6 +3755,154 @@ glenfarclas-15:
       url: https://static.whiskybase.com/storage/whiskies/2/1/3724/374225-big.jpg
       source: whiskybase
 
+#---- quintet
+
+littlemill-16-mmd:
+  production:
+    vintage: 1991
+    producer: littlemill
+  maturation:
+    age: 16
+    cask: Bourbon
+  bottling:
+    bottler: murray-mcdavid
+    batching: null
+    abv: 46
+    outturn: 900
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2007
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2008
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 1972
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/9/72/202753-big.jpg
+      source: whiskybase
+
+millburn-17-sv:
+  production:
+    vintage: 1983
+    producer: millburn
+  maturation:
+    age: 17
+    cask: Sherry Butt
+  bottling:
+    bottler: signatory
+    batching: single_cask
+    abv: 46.0
+    outturn: 596
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2001
+    size: 700
+  marketing:
+    series: The Un-Chillfiltered Collection
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 12907
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/2/907/64469-big.jpg
+      source: whiskybase
+
+rosebank-19-dl:
+  production:
+    vintage: 1990
+    producer: rosebank
+  maturation:
+    age: 19
+    cask: Refill Butt
+  bottling:
+    bottler: douglas-laing
+    batching: single_cask
+    abv: 50.0
+    outturn: 670
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2009
+    size: 700
+  marketing:
+    series: The Old Malt Cask
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 14139
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/4/139/65115-big.jpg
+      source: whiskybase
+
+banff-23-imcl:
+  production:
+    vintage: 1979
+    producer: banff
+  maturation:
+    age: 23
+    cask: Hogshead
+  bottling:
+    bottler: ian-macleod
+    batching: small_batch
+    abv: 46
+    outturn: 708
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2002
+    size: 700
+  marketing:
+    series: "Chieftain's Choice"
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 1119
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/1/19/55778-big.jpg
+      source: whiskybase
+
+brora-21-lombard:
+  production:
+    vintage: 1982
+    producer: Brora
+  maturation:
+    age: 21
+    cask: null
+  bottling:
+    bottler: lombard
+    batching: null
+    abv: 50
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2003
+    size: 700
+  marketing:
+    series: Jewels of the Highlands
+    name: Jewels of the Highlands
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 8048
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/8/0/48/236765-big.jpg
+      source: whiskybase
+
+
 
 #-----
 
