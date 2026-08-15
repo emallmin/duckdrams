@@ -10,6 +10,8 @@ header:
   teaser: https://files.emilmallmin.com/sisa_closed_tasting.png
 ---
 
+Placeholder text
+
 {% include review.html id="rosebank-19-dl" %}
 
 {% include review.html id="banff-23-imcl" %}
