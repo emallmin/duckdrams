@@ -1,10 +1,16 @@
 ---
 layout: single
 title: Catching up with the calendar, 2026 ed.
-date: 2025-02-21
+date: 2026-02-21
 categories: whisky
 tags: [review, peated]
+header:
+  overlay_image: https://files.emilmallmin.com/calendar_2025.jpeg #byt ut
+  overlay_filter: 0.5
+  teaser: https://files.emilmallmin.com/calendar_2025.jpeg #byt ut
 ---
+
+Another year, another whisky advent calendar. For the third time, I have entrusted the good people a Brühler Whiskyhaus to make exciting selection of 24 single casks and small batch whiskies for €235. This time I will be adding reviews to this post as and when my review trickle in... 
 
 {% include review.html id="glengoyne-14-hl" %}
 
