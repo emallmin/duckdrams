@@ -470,6 +470,25 @@ balvenie:
   class : Single Malt
   peated: no
 
+balblair:
+  name: Balblair
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: Single Malt
+
+auchroisk:
+  name: Auchroisk
+  kind: distillery
+  status: "Active"
+  region: "Speyside"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: Single Malt
+  owner: "Diageo"
+
 
 roseisle:
   name: "Roseisle"
