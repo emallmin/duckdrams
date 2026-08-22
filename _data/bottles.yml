@@ -3902,9 +3902,565 @@ brora-21-lombard:
       url: https://static.whiskybase.com/storage/whiskies/8/0/48/236765-big.jpg
       source: whiskybase
 
-
-
 #-----
+wolfburn-potstill:
+  production:
+    vintage: 2016
+    producer: wolfburn
+  maturation:
+    age: 6
+    cask: First Fill Bourbon
+  bottling:
+    bottler:
+    batching: single_cask
+    abv: 50
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 219157
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/9157/387001-big.jpg
+      source: whiskybase
+
+lochlea-ploughing2:
+  production:
+    vintage: null
+    producer: lochlea
+  maturation:
+    age: null
+    cask: Ex-Islay Barrel
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing: 
+    series: "Ploughing Edition - Second Crop"
+    name: "Ploughing Edition - Second Crop"
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 249294
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/9294/449180-big.jpg
+      source: whiskybase
+
+#------ neujahr
+
+tullibaridine-malaga:
+  production:
+    vintage: 2015
+    producer: tullibardine
+  maturation:
+    age: 10
+    cask: Malaga Wine Finish
+  bottling:
+    bottler: james-eadie 
+    batching: null
+    abv: 46.0
+    outturn: 630
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: small_batch
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 288263
+    image:
+      url: null
+      source: whiskybase
+
+bunnahabhain-11-sv:
+  production:
+    vintage: 2012
+    producer: bunnahabhain
+  maturation:
+    age: 11
+    cask: Oloroso Sherry
+  bottling:
+    bottler: signatory
+    batching: small_batch
+    abv: 48.2
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: 'Small Batch Edition #7'
+    name: 'Small Batch Edition #7'
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 250622
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/0622/451795-big.jpg
+      source: whiskybase
+
+aberlour-abunadh-2025:
+  production:
+    vintage: null
+    producer: aberlour
+  maturation:
+    age: null
+    cask: FF Am.Oak & FF Oloroso, FF Oloroso & FF PX Finish
+  bottling:
+    bottler:
+    batching: null
+    abv: 56.2
+    outturn: null
+    natural_color: null
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Sherry Cask Collection
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 284458
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/4458/523348-big.jpg
+      source: whiskybase
+
+orkney-14-sv:
+  production:
+    vintage: 2011
+    producer: highland-park
+  maturation:
+    age: 14
+    cask: 1st Fill Palo Cortado Hogshead Finish
+  bottling:
+    bottler: signatory
+    batching: small_batch
+    abv: 57.1
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: '100 Proof - Edition #59'
+    name: Orkney (HP)
+    released: '31 jul 2025 5:26 pm by Crushed_ldH # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 280726
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/0726/507407-big.jpg
+      source: whiskybase
+
+ardbeg-smokiverse:
+  production:
+    vintage: null
+    producer: ardbeg
+  maturation:
+    age: null
+    cask: null
+  bottling:
+    bottler:
+    batching: null
+    abv: 48.3
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: Smokiverse
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 258128
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/8128/499772-big.jpg
+      source: whiskybase
+
+strathmill-13-flick:
+  production:
+    vintage: 2009
+    producer: strathmill
+  maturation:
+    age: 13
+    cask: Bourbon
+  bottling:
+    bottler: flickenschild
+    batching: single_cask
+    abv: 59.1
+    outturn: 271
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700 ml
+  marketing:
+    series: Slainté
+    name: null
+    released: '23 oct 2023 5:51 pm by DuartSparky # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 240776
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/0776/434567-big.jpg
+      source: whiskybase
+
+#--- chorlton 2025
+
+ncnean-7-ch:
+  production:
+    vintage: null
+    producer: ncnean
+  maturation:
+    age: 7
+    cask: 1st Fill Barrel
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 57.9
+    outturn: 243
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 279447
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/9447/526778-big.jpg
+      source: whiskybase
+
+caolila-18-ch:
+  production:
+    vintage: null
+    producer: caol-ila
+  maturation:
+    age: 18
+    cask: Hogshead
+  bottling:
+    bottler: Chorlton Whisky
+    batching: single_cask
+    abv: 50.7
+    outturn: 276
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: '2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 279516
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/9516/526774-big.jpg
+      source: whiskybase
+
+bruichladdich-22-ch:
+  production:
+    vintage: null
+    producer: bruichladdich
+  maturation:
+    age: 22
+    cask: Refill barrel
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 56.7
+    outturn: 181
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 287164
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/7164/526783-big.jpg
+      source: whiskybase
+
+auchroisk-14-ch:
+  production:
+    vintage: null
+    producer: auchroisk
+  maturation:
+    age: 14
+    cask: Oloroso Sherry Hogshead
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 58.4
+    outturn: 255
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 289398
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/9398/526784-big.jpg
+      source: whiskybase
+
+highland-21-ch:
+  production:
+    vintage: null
+    producer: jura
+  maturation:
+    age: 21
+    cask: Refill Barrel
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 54.5
+    outturn: 198
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: '2025'
+    size: 700
+  marketing:
+    series: null
+    name: null
+    undisclosed: true
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 289399
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/9399/526786-big.jpg
+      source: whiskybase
+
+balblair-16-ch:
+  production:
+    vintage: null
+    producer: Balblair
+  maturation:
+    age: 16
+    cask: Hogshead
+  bottling:
+    bottler: Chorlton Whisky
+    batching: single_cask
+    abv: 55.8
+    outturn: 271
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 301801
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/3/0/1801/515359-big.jpg
+      source: whiskybase
+
+#----- Chorlton
+
+ncnean-7-ch:
+  bottle: ncnean-7-ch
+  date: 2026-06-14
+  market_context:
+    availability: Available frome €69
+    estimated_price:
+      amount: 69
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      The initial alcohol makes my nose hairs curl. Lemon sorbet, limoncello, green apple. Very fresh and bright, clean.
+    sipping: >
+      Fruity-sweet, malty, mouth-filling, and just a bit salty. Lots of citrus, especially pomelo. Not bitter initially, just a bit comes out with added water.  
+    comments: >
+      Young, simple, clean, tasty. Nothing to complain about, but did not have the pizzazz of some other Nc'Neans, like the Lemon Meadow, for instance. 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 84
+
+balblair-16-ch:
+  bottle: balblair-16-ch
+  date: 2026-06-14
+  market_context:
+    availability: Available from £100
+    estimated_price:
+      amount: 120
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      First a very clear butterscotch, then buttery-citruss like french orange blossom bread, and looking beyond, a grappa-like grapiness and "greenness".   
+    sipping: >
+      Honeyed and sweet, without alcohol sting despite the 55%. More spicy, warmin, and dry in the finish. Mix of candy and fruity sweetness, with cotton candy, lemon drops, turning more grapefruit-bitter. 
+    comments: >
+      Not super memorable, but nice. There is evidence of age in the balance, if not the complexity.
+    grade:
+      system: "three-tier-2026"
+      score: 85
+
+auchroisk-14-ch:
+  bottle: auchroisk-14-ch
+  date: 2026-06-14
+  market_context:
+    availability: Available at €75
+    estimated_price:
+      amount: 75
+      currency: EUR
+  sample_context:
+    desc: froma 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Sulphury in an absolutely positive way. Leathery, jammy, blueberry soup, hints of coastal minerality, and lavender. Complexity that opens up further with water.  
+    sipping: >
+      Very dry, salty, and an umami-bomb. Cocoa nibs, leather, liquorice, bit of pipe tobacco. Whoops! The sample is gone... 
+    comments: >
+      I got the blueberry note from reading a whisky base review, but when I saw it it was so obvious. Hitting above it's specs, one to think about buying.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 88
+
+
+bruichladdich-22-ch:
+  bottle: bruichladdich-22-ch
+  date: 2026-08-21
+  market_context:
+    availability: Sold out at £170
+    estimated_price:
+      amount: 180
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Smoked cheese, nacho cheese powder,  but not overly strong; there's a freshness as well, with galia melon, lemon oil, coastal spray, pine needle tea, bit of lactic acidity.
+    sipping: >
+      Salty, savoury, slightly sweet. Cheese, buttered popcorn, salted caramel, mellow peat and seaweed. Warming finish. Drinks well neat. 
+    comments: >
+      Very good indeed! A cheesy but balanced well-aged Laddie. Would happily have a full bottle.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 89
+
+
+caolila-18-ch:
+  bottle: caolila-18-ch
+  date: 2026-08-21
+  market_context:
+    availability: Available at €138
+    estimated_price:
+      amount: 138
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh and coastal, with brine, mild peat, grapefruit and lemon, crabfish, and notes of heather and flowers.     
+    sipping: >
+      Peaty with ashy notes, quite oily, briny, a also with zest and juicy yellow fruits, liquorice.  
+    comments: >
+      One essentially never goes wrong with Caol Ila, and that stays well and true here.    
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 88
+
+highland-21-ch:
+  bottle: highland-21-ch
+  date: 2026-08-21
+  market_context:
+    availability: Still available at €140
+    estimated_price:
+      amount: 140
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Some age and complexity to the nose: leather, peat, nuts and dried fruits (strawberries, mango), tomato vine, dash of white pepper, hint of vanilla.
+    sipping: >
+      Overall a very dry feel; peaty, ashy, earthy and rather vegetal and slightly bitter, walnuts, grapefruit, cigar, toasted wood, sesame oil.  
+    comments: >
+      Chorlton states this is an undisclosed Jura, and I am totally on board with that — and I love it. Not quite as good as the jaw-dropping *really* old Juras I've had, but going in that direction. 86.64 rating on WB is an insult.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 89
+
 
 # bottle-key:
 #   production:
