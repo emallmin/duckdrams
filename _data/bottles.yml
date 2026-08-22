@@ -4176,13 +4176,13 @@ caolila-18-ch:
     age: 18
     cask: Hogshead
   bottling:
-    bottler: Chorlton Whisky
+    bottler: chorlton
     batching: single_cask
     abv: 50.7
     outturn: 276
     natural_color: true
     unchillfiltered: true
-    bottling_date: '2025
+    bottling_date: 2025
     size: 700
   marketing:
     series: null
@@ -4269,7 +4269,7 @@ highland-21-ch:
     outturn: 198
     natural_color: true
     unchillfiltered: true
-    bottling_date: '2025'
+    bottling_date: 2025
     size: 700
   marketing:
     series: null
@@ -4293,7 +4293,7 @@ balblair-16-ch:
     age: 16
     cask: Hogshead
   bottling:
-    bottler: Chorlton Whisky
+    bottler: chorlton
     batching: single_cask
     abv: 55.8
     outturn: 271
