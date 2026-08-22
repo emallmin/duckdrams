@@ -3436,6 +3436,152 @@ brora-21-lombard:
       system: "three-tier-2026"
       score: ⁎⁎
 
+#----- Chorlton
+
+ncnean-7-ch:
+  bottle: ncnean-7-ch
+  date: 2026-06-14
+  market_context:
+    availability: Available frome €69
+    estimated_price:
+      amount: 69
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      The initial alcohol makes my nose hairs curl. Lemon sorbet, limoncello, green apple. Very fresh and bright, clean.
+    sipping: >
+      Fruity-sweet, malty, mouth-filling, and just a bit salty. Lots of citrus, especially pomelo. Not bitter initially, just a bit comes out with added water.  
+    comments: >
+      Young, simple, clean, tasty. Nothing to complain about, but did not have the pizzazz of some other Nc'Neans, like the Lemon Meadow, for instance. 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 84
+
+balblair-16-ch:
+  bottle: balblair-16-ch
+  date: 2026-06-14
+  market_context:
+    availability: Available from £100
+    estimated_price:
+      amount: 120
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      First a very clear butterscotch, then buttery-citruss like french orange blossom bread, and looking beyond, a grappa-like grapiness and "greenness".   
+    sipping: >
+      Honeyed and sweet, without alcohol sting despite the 55%. More spicy, warmin, and dry in the finish. Mix of candy and fruity sweetness, with cotton candy, lemon drops, turning more grapefruit-bitter. 
+    comments: >
+      Not super memorable, but nice. There is evidence of age in the balance, if not the complexity.
+    grade:
+      system: "three-tier-2026"
+      score: 85
+
+auchroisk-14-ch:
+  bottle: auchroisk-14-ch
+  date: 2026-06-14
+  market_context:
+    availability: Available at €75
+    estimated_price:
+      amount: 75
+      currency: EUR
+  sample_context:
+    desc: froma 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Sulphury in an absolutely positive way. Leathery, jammy, blueberry soup, hints of coastal minerality, and lavender. Complexity that opens up further with water.  
+    sipping: >
+      Very dry, salty, and an umami-bomb. Cocoa nibs, leather, liquorice, bit of pipe tobacco. Whoops! The sample is gone... 
+    comments: >
+      I got the blueberry note from reading a whisky base review, but when I saw it it was so obvious. Hitting above it's specs, one to think about buying.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 88
+
+
+bruichladdich-22-ch:
+  bottle: bruichladdich-22-ch
+  date: 2026-08-21
+  market_context:
+    availability: Sold out at £170
+    estimated_price:
+      amount: 180
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Smoked cheese, nacho cheese powder,  but not overly strong; there's a freshness as well, with galia melon, lemon oil, coastal spray, pine needle tea, bit of lactic acidity.
+    sipping: >
+      Salty, savoury, slightly sweet. Cheese, buttered popcorn, salted caramel, mellow peat and seaweed. Warming finish. Drinks well neat. 
+    comments: >
+      Very good indeed! A cheesy but balanced well-aged Laddie. Would happily have a full bottle.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 89
+
+
+caolila-18-ch:
+  bottle: caolila-18-ch
+  date: 2026-08-21
+  market_context:
+    availability: Available at €138
+    estimated_price:
+      amount: 138
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh and coastal, with brine, mild peat, grapefruit and lemon, crabfish, and notes of heather and flowers.     
+    sipping: >
+      Peaty with ashy notes, quite oily, briny, a also with zest and juicy yellow fruits, liquorice.  
+    comments: >
+      One essentially never goes wrong with Caol Ila, and that stays well and true here.    
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 88
+
+highland-21-ch:
+  bottle: highland-21-ch
+  date: 2026-08-21
+  market_context:
+    availability: Still available at €140
+    estimated_price:
+      amount: 140
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Some age and complexity to the nose: leather, peat, nuts and dried fruits (strawberries, mango), tomato vine, dash of white pepper, hint of vanilla.
+    sipping: >
+      Overall a very dry feel; peaty, ashy, earthy and rather vegetal and slightly bitter, walnuts, grapefruit, cigar, toasted wood, sesame oil.  
+    comments: >
+      Chorlton states this is an undisclosed Jura, and I am totally on board with that — and I love it. Not quite as good as the jaw-dropping *really* old Juras I've had, but going in that direction. 86.64 rating on WB is an insult.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 89
 
 #---------------
 # review-key:
