@@ -15,7 +15,6 @@ header:
 
 
 
-
 ## 1 Compass Box
 Nose: Alcohol punch. Bright, fruity, zesty. Lychee, papaya, tropical. Bit of floral honey, hint of wax, cedar wood. 
 Sipping: Sweet, not hot. Clean, fruity profile, with pear, sweet grapefruit, hint of salt. Gooseberry/bourbon finish. 

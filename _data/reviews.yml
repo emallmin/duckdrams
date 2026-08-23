@@ -1503,7 +1503,7 @@ springbank-13-local-barely-2023: # bru 17
     nosing: >
       Yum! Funky-fruity-sooty-smoky. Fatty, waxy, sticky.
     sipping: >
-      Sweet, umami-bomb, funky and sulphurious in a brilliant way. Overripe and grilled pineapple, tutti frutti, dash of high-ester jamaican rum, salty cured ham, charred wood and ash tray.  
+      Sweet, umami-bomb, funky and sulphurous in a brilliant way. Overripe and grilled pineapple, tutti frutti, dash of high-ester jamaican rum, salty cured ham, charred wood and ash tray.  
     comments:
       before_reveal: >
         If I hadn't tried the Springbank 5 already, I might have guess that - but surely it wasn't this fruity? Maybe a SB local barley. I'd rather hope it's Ardnahoe, Peallach, or even a Croftengea. Because whatever this is I need to buy a bottle (or two). Hard to guess casks, not obviously sherried expect for this intense fruitiness.
@@ -3771,6 +3771,7 @@ blair-athol-12yo1975:
 royal-brackla-18-ch:
   bottle: royal-brackla-18-ch
   date: 2026-06-12
+  post: summer-black-box
   market_context:
     availability: Launched at €128, now sold out.
     estimated_price:
@@ -3799,6 +3800,7 @@ royal-brackla-18-ch:
 tullibardine-pape:
   bottle: tullibardine-pape
   date: 2026-06-12
+  post: summer-black-box
   market_context:
     availability: Available form €75
     estimated_price:
@@ -3827,6 +3829,7 @@ tullibardine-pape:
 cameronbridge-13-bnsp:
   bottle: cameronbridge-13-bnsp
   date: 2026-06-12
+  post: summer-black-box
   market_context:
     availability: Available from €55.
     estimated_price:
@@ -3855,6 +3858,7 @@ cameronbridge-13-bnsp:
 gortinore-natterjack:
   bottle: gortinore-natterjack
   date: 2026-06-12
+  post: summer-black-box
   market_context:
     availability: Available from €38
     estimated_price:
@@ -3881,13 +3885,14 @@ gortinore-natterjack:
 strathmill-13-flick:
   bottle: strathmill-13-flick
   date: 2026-06-21
+  post: summer-black-box
   market_context:
-    availability: ###
+    availability: Sold out
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 80
+      currency: EUR
   sample_context:
-    desc: ###
+    desc: from a 2cl sample bottle
     blind: yes
   review:
     intro: null
@@ -3906,13 +3911,14 @@ strathmill-13-flick:
 wolfburn-potstill:
   bottle: wolfburn-potstill
   date: 2026-06-21
+  post: summer-black-box
   market_context:
-    availability: ###
+    availability: Available from €75
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 75
+      currency: EUR
   sample_context:
-    desc: ###
+    desc: from a 3cl sample bottle
     blind: yes
   review:
     intro: null
@@ -3932,6 +3938,7 @@ wolfburn-potstill:
 lochlea-ploughing2:
   bottle: lochlea-ploughing2
   date: 2026-06-26
+  post: summer-black-box
   market_context:
     availability: Widely available for €50.
     estimated_price:
@@ -3954,6 +3961,176 @@ lochlea-ploughing2:
     grade:
       system: "three-tier-2026"
       score: ###
+
+#---- New year
+
+tullibaridine-malaga:
+  bottle: tullibaridine-malaga
+  date: 2026-07-17
+  post: new-year-in-july
+  market_context:
+    availability: Available at €45
+    estimated_price:
+      amount: 45
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Fresh, sprite-y, very citrussy, a bit grassy, apples & pears; summery. 
+    sipping: >
+      Sprit-driven, with a sweet maltiness, light grassy notes, grapefruit. 
+    comments:
+      before_reveal: >
+        Tasty, competent, if in no way extraordinary single malt. Something like a Fettercairn or Deanston 12? 46% Mainly bourbon casks.
+      after_reveal : >
+        That Malaga cask is completely invisible. Otherwise the specs check out.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 84
+
+bunnahabhain-11-sv:
+  bottle: bunnahabhain-11-sv
+  date: 2026-07-17
+  post: new-year-in-july
+  market_context:
+    availability: Available from €66
+    estimated_price:
+      amount: 66
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Woody, nutty, toasted, red berries. Aromatic, and a bit sweaty/musky too. 
+    sipping: >
+      Medium to high sweetness, lots of wood spice, cinnamon buns, pruny, leather.   
+    comments:
+      before_reveal: >
+        More interesting on the nose than the palate. Hesitating between Oloroso and PX, but let's go Oloroso. Highland malt. Could be an every so lightly peated HP, but more likely something else.
+      after_reveal : >
+        Ah, Bunnahabhain checks out!
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 85
+
+aberlour-abunadh-2025:
+  bottle: aberlour-abunadh-2025
+  date: 2026-07-17
+  post: new-year-in-july
+  market_context:
+    availability: Available below €100
+    estimated_price:
+      amount: 100
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Brown sugar, treacle, cola sauce, orange marmalade; rich sherry.
+    sipping: >
+      Sweet, salted caramel, honey-waffle, sherried, completely cask-driven, but a sweet treat.
+    comments:
+      before_reveal: >
+        Sherry cask, closer to 49%, 9-13 years old, no distillery signature.
+      after_reveal : >
+        Abunadh makes perfect sense. Been a while since I had one.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 85
+
+orkney-14-sv:
+  bottle: orkney-14-sv
+  date: 2026-07-17
+  post: new-year-in-july
+  market_context:
+    availability: Widely available at €50
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Yet another sherry bomb. Big on he red fruits and berries, also a slight earthy dampness. Strong alcohol.
+    sipping: >
+      Now there's rich but rather dry sherry playing off against a light, earthy and herbaceous peat.
+    comments:
+      before_reveal: >
+        I'll be damned if this is not Highland Park. 11 years old, at a decently high cask strength, sherry cask, possibly a fresh finish.
+      after_reveal : >
+        Oh yeah, I pretty much nailed it! It is indeed HP, 57.1%, and a sherry finish.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 85
+
+ardbeg-smokiverse:
+  bottle: ardbeg-smokiverse
+  date: 2026-07-17
+  post: new-year-in-july
+  market_context:
+    availability: Available at €110
+    estimated_price:
+      amount: 110
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Beech-smoked ham, sea spray, earthy, citrus-fresh, apricot 
+    sipping: >
+      Minty, fresh, green, saline, rather ashy in the finish
+    comments:
+      before_reveal: >
+        Why not ex-bourbon Caol Ila? No reason to be older than 8. Cask strength around 56%.
+      after_reveal : >
+        Actually only less than 49%. Not exactly a bargain at the price, but that fanciful Ardbeg marketing always comes with a markup.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 87
+
+lingdarroch-3-ch:
+  bottle: lingdarroch-3-ch
+  date: 2026-07-17
+  post: new-year-in-july
+  market_context:
+    availability: Sold out at €35 for 50cl
+    estimated_price:
+      amount: 35
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Vanilla is the first note I get; a bit closed (or my nose is closing up). Light fruity/tropical notes, some chalky/minerally freshness. Now it's opening up and I get just oodles of honey. Fatty fish-n-chips newspaper. Pommegrenade juice and green apple. 
+    sipping: >
+      Heavy peat, tarred rope, juicy yellow fruits, candi sugar, rather medicinal, herbal, metholic.
+    comments:
+      before_reveal: >
+        Again Islay, could well be a Laphi of some sort. The sweetness speaks of some sweet wine finish — maybe sauternes? 10 years, plus or minus.
+      after_reveal : >
+        Unexpectedly, it's a 3-year old peated Bladnoch in an Amarone cask. €35 for 50cl of this quality is some serious price/performance ratio.
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+      wb_score: 87
 
 
 #---------------

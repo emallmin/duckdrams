@@ -3438,6 +3438,36 @@ royal-brackla-18-ch:
       source: whiskybase
 
 
+strathmill-13-flick:
+  production:
+    vintage: 2009
+    producer: strathmill
+  maturation:
+    age: 13
+    cask: Bourbon
+  bottling:
+    bottler: flickenschild
+    batching: single_cask
+    abv: 59.1
+    outturn: 271
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700 ml
+  marketing:
+    series: Slainté
+    name: null
+    released: 2023
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 240776
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/0776/434567-big.jpg
+      source: whiskybase
+
+
 ben-nevis-7-sv-100proof:
   production:
     vintage: 2019
@@ -4130,7 +4160,7 @@ orkney-14-sv:
   marketing:
     series: '100 Proof - Edition #59'
     name: Orkney (HP)
-    released: '31 jul 2025 5:26 pm by Crushed_ldH # check!'
+    released: 2025
     rrp:
       amount: null
       currency: EUR
@@ -4169,34 +4199,36 @@ ardbeg-smokiverse:
       url: https://static.whiskybase.com/storage/whiskies/2/5/8128/499772-big.jpg
       source: whiskybase
 
-strathmill-13-flick:
+lingdarroch-3-ch:
   production:
-    vintage: 2009
-    producer: strathmill
+    vintage: 2022
+    producer: lingdarroch
   maturation:
-    age: 13
-    cask: Bourbon
+    age: null
+    cask: Amarone
   bottling:
-    bottler: flickenschild
+    bottler: Caskhound
     batching: single_cask
-    abv: 59.1
-    outturn: 271
+    abv: 61.1
+    outturn: 125
     natural_color: true
     unchillfiltered: true
-    bottling_date: 2023
-    size: 700 ml
+    bottling_date: 2025
+    size: 500
   marketing:
-    series: Slainté
+    series: null
     name: null
-    released: '23 oct 2023 5:51 pm by DuartSparky # check!'
+    released: 2025
     rrp:
       amount: null
       currency: EUR
   meta:
-    whiskybase_id: 240776
+    whiskybase_id: 289974
     image:
-      url: https://static.whiskybase.com/storage/whiskies/2/4/0776/434567-big.jpg
+      url: https://static.whiskybase.com/storage/whiskies/2/8/9974/519666-big.jpg
       source: whiskybase
+
+
 
 #--- chorlton 2025
 

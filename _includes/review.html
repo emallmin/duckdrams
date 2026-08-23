@@ -98,8 +98,8 @@
   {% if system == "multidim-2025" %} Deliciousness: {{review.grade.sip_deliciousness}}  Fun factor: {{review.grade.sip_fun_factor}} {% endif %}
   {% if review.review.comments %}
     {% if is_blind %}
-    <p> <b>Comments</b> <em>(before reveal)</em>: {{ review.review.comments.before_reveal }} </p> 
-    <p> <b>Comments</b> <em>(after reveal)</em>: {{ review.review.comments.after_reveal }} </p>
+    <p> <b>Comments before reveal</b>: {{ review.review.comments.before_reveal }} </p> 
+    <p> <b>Comments after reveal</b>: {{ review.review.comments.after_reveal }} </p>
     {% else %}
       <p><b>Comments:</b> {{review.review.comments}}</p>
     {% endif %}

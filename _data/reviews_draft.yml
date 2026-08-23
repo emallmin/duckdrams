@@ -446,32 +446,6 @@ benrinnes-30-sv:
       wb_score: 89
 
 
-#---- New year
-
-tullibaridine-malaga:
-  bottle: tullibaridine-malaga
-  date: ###
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      ###
-    sipping: >
-      ###
-    comments: >
-      ###
-    grade:
-      system: "three-tier-2026"
-      score: ###
-
-
 
 # review-key:
 #   bottle: ###

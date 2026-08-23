@@ -551,6 +551,20 @@ glasgow:
   country: Scotland
   region: Lowlands
 
+bladnoch:
+  name: Bladnoch
+  kind: distillery
+  category: Scotch Whisky
+  country: Scotland
+  region: Lowlands
+  peated: no
+
+lingdarroch:
+  name: Lingdarroch
+  kind: line
+  distillery: bladnoch
+  peated: yes
+
 st-magdalene:
   name: St. Magdalene
   kind: distillery
