@@ -4314,6 +4314,124 @@ balblair-16-ch:
       url: https://static.whiskybase.com/storage/whiskies/3/0/1801/515359-big.jpg
       source: whiskybase
 
+#---- Springbank quartet
+
+springbank-15-society:
+  production:
+    vintage: 2003
+    producer: springbank
+  maturation:
+    age: 15
+    cask: Fresh Port Hogsheads
+  bottling:
+    bottler: 
+    batching: null
+    abv: 56.2
+    outturn: 1020
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2018
+    size: 700
+  marketing:
+    series: 
+    name: Society Bottling
+    released: 2018
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 117238
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/1/7238/205866-big.jpg
+      source: whiskybase
+
+springbank-tr2019:
+  production:
+    vintage: null
+    producer: springbank
+  maturation:
+    age: null
+    cask: Sherry & Bourbon casks
+  bottling:
+    bottler:
+    batching: null
+    abv: 57.6
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2019
+    size: 700
+  marketing:
+    series:
+    name: The Tasting Room
+    released: 2019
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 129686
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/2/9686/224643-big.jpg
+      source: whiskybase
+
+springbank-14-dutypaid:
+  production:
+    vintage: 2004
+    producer: springbank
+  maturation:
+    age: 14
+    cask: Refill Bourbon Hogshead
+  bottling:
+    bottler: 
+    batching: single_cask
+    abv: 58.6
+    outturn: 1
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2019
+    size: 700
+  marketing:
+    series:
+    name: Duty Paid Sample
+    released: 2019
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 131645
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/3/1645/221260-big.jpg
+      source: whiskybase
+
+springbank-8-society:
+  production:
+    vintage: 2012
+    producer: springbank
+  maturation:
+    age: 8
+    cask: Fresh Oloroso Sherry Hogsheads
+  bottling:
+    bottler: 
+    batching: null
+    abv: 57.3
+    outturn: 1830
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: 
+    name: Society Bottling
+    released: 2021
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 184984
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/8/4984/323801-big.jpg
+      source: whiskybase
+
 
 # bottle-key:
 #   production:

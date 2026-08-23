@@ -3583,6 +3583,106 @@ highland-21-ch:
       score: ###
       wb_score: 89
 
+
+#----- Springbank quartet
+
+springbank-tr2019:
+  bottle: springbank-tr2019
+  date: 2026-08-22
+  market_context:
+    availability: Sold once at auction in 2025 for €130.
+    estimated_price:
+      amount: 130
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Strong alcohol! Beind this curtain of ethanol: hemp and manageable sulphur, orange chocolate, almond nougat, oak wood 
+    sipping: >
+      Salty-savoury-sweet, strong alcohol, mentholic, spicy, rye-like, with bitter orange, dark chocolate coated nuts, a diffused earthy peat, drying wood. Ended up cutting it waaay back with water. The spiciness becomes less obstrusive, and one notices the oiliness of the spirit more.
+    comments: >
+      Once watered down, and expressive and fun dram. The dominant flavour note is this somewhat generic peat-sherry-cask sulphury note. It's not off, just a bit boring to carry a full dram.  
+    grade:
+      system: "three-tier-2026"
+      score:
+      wb_score: 84
+
+springbank-14-dutypaid:
+  bottle: springbank-14-dutypaid
+  date: 2026-08-22
+  market_context:
+    availability: Hard to find this exact cask; comparable casks go for around £120 at auction 
+    estimated_price:
+      amount: 150
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Strong alcohol, timid aroma. Bright and fresh. Underripe apples, grass, green papaya, grapefruit, some faint smoke, toasted sesame seeds.
+    sipping: >
+      Very biscuity, yet low sweetnes and rather salty. Lemon, shortbread, some subdued tropical fruits, and very gentle hint a barny Springbankiness. Watering down... Still not that much going on.  
+    comments: >
+      Not that "Springbanky", and not that much going on, despite 14 years of age. A refill cask indeed. I'd take the OB 10yo over this any day. I'd be happy to get this level of experience from a 6yo Dalmunach.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 83
+
+
+springbank-8-society:
+  bottle: springbank-8-society
+  date: 2026-08-22
+  market_context:
+    availability: Quite steady around €200 at auction.
+    estimated_price:
+      amount: 200
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Concentrated aroma of red fruits and berries; strawberry-flavoured candy laces, juciest of sherry casks, well-aged armagnac.  
+    sipping: >
+      Very rich, with the sherry sweetnes yet simultaneously an oaky dryness, salty and meaty (honey-glazed grilled pork), with ample licuorice, strawberry cordial, leather, menthol. Quite drinkable neat, but better with a dollop of water. The farmy notes amplify and linger longer, meeting the sherry very well.  
+    comments: >
+      "Fresh sherry hogshead" indeed; and a good one! Complemented superbly by the Springbank spirit. Reminds me a lot of an Alphi 5yo sherried Ben Nevis close to my heart.  
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 87
+
+springbank-15-society:
+  bottle: springbank-15-society
+  date: 2026-08-22
+  market_context:
+    availability: Around €260 at auction
+    estimated_price:
+      amount: 260
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Brioche: buttery, bready, sweet. Cream licqeur, coffee with condensed milk, cherries, oak spice, especially cinnamon. Some savoury, meaty aromas of pork scratchings, and a vague damp cellar, hempy kind of smell.  
+    sipping: >
+      Quite balanced between sweet, salty , savoury. Definitely salted caramel with peanuts, cured meat on melon, leather, and a smoky, cigar-like  touch. Actually works really well neat, though even better with water.
+    comments: >
+      Best of the bunch! And a rather complex and balanced meeting of masculine spirit and sweet and rich cask.
+    grade:
+      system: "three-tier-2026"
+      score: 88
+
+
 #---------------
 # review-key:
 #   bottle: ###

@@ -10,7 +10,9 @@ header:
   teaser: https://files.emilmallmin.com/chorlton_2025.png
 ---
 
-"The New Wave (French: Nouvelle Vague, French pronunciation: [nuvɛl vaɡ]), also called the French New Wave, is a French art film movement that emerged in the late 1950s. The movement was characterized by its rejection of traditional filmmaking conventions, favoring experimentation and a spirit of iconoclasm." That's the name indepent bottler Chorlton chose for his second bottling series, spanning and some 70 odd bottlings over about 5 years. The very distinctive artwork in this series, medieval paintings of people tending orchards, is revealed by a reverse image search to have been made by arabic Christian physician Ibn Butlan sometime in the 11th century. 
+"The New Wave (French: Nouvelle Vague, French pronunciation: [nuvɛl vaɡ]), also called the French New Wave, is a French art film movement that emerged in the late 1950s. The movement was characterized by its rejection of traditional filmmaking conventions, favoring experimentation and a spirit of iconoclasm." (Wikipedia)
+
+That's the name indepent bottler Chorlton chose for his second bottling series, spanning and some 70 odd bottlings over about 5 years. The very distinctive artwork in this series, medieval paintings of people tending orchards, is revealed by a reverse image search to have been made by arabic Christian physician Ibn Butlan sometime in the 11th century. 
 
 I have reviewed five whiskies from this series already. Now from whiskybase I bought a tasting pack of six drams from the final 2025 releases, some of the last in the series. Will these whiskies bring a sense of iconoclasm, or transport me to a medieval orchard?  
 
