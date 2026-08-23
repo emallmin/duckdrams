@@ -3766,6 +3766,196 @@ blair-athol-12yo1975:
       system: "three-tier-2026"
       score: ⁎
 
+#----- Summer black box
+
+royal-brackla-18-ch:
+  bottle: royal-brackla-18-ch
+  date: 2026-06-12
+  market_context:
+    availability: Launched at €128, now sold out.
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Cola, mandarin, toffee, almonds, vanilla. Nicley bound sherry notes, more fresh than stuffy.
+    sipping: >
+      Punchy, vibrant, well-sherried, but not sticky-sweet, touch salty and woodsy-bitter. Malty, biscuit-y, cola, nutty, heathery, spicy (cinnamon, especially). Toasted notes, especially in the finish, with a bit of woody dryness, and herbal trail.  
+    comments:
+      before_reveal: >
+        Tasty, sherried dram. Something around 13yo, cask strength but not exceedingly high. Sherry, obviously. 
+      after_reveal: >
+        Actually, a bit more age than I guessed makes a lot of sense, to reveal these woody notes, to bring down the ABV, and integrate the sherry. With a bit more patiance I might also score it even higher.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 86
+
+
+tullibardine-pape:
+  bottle: tullibardine-pape
+  date: 2026-06-12
+  market_context:
+    availability: Available form €75
+    estimated_price:
+      amount: 75
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Very lightly coastal. Chalky, some yellow fruits, particularly apricots. Some heather honey, and figs. Light sherry influence.
+    sipping: >
+      Zesty, spicy, and honied. Pomelo, bit of marzipan and milk chocolate. Does rather well without water. 
+    comments:
+      before_reveal: >
+        Perfectly pleasant dram. 11 years, sherry finish, 50%.
+      after_reveal: >
+        Unusual with a red wine finish of a specifically named Chateau, and one I also know as my wine-loving father's favourite.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 83
+
+
+cameronbridge-13-bnsp:
+  bottle: cameronbridge-17-bnsp
+  date: 2026-06-12
+  market_context:
+    availability: Available from €55.
+    estimated_price:
+      amount: EUR
+      currency: 55
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Definitely grain. Lemon-scented cleaning detergent, pine wood, freshly baked egg tart, 
+    sipping: >
+      Very spicy, warming, strong at first sip, but also sweet. Mellows appreciably with a dollop of water. Honey, even some wax, cream, sweet grapes, vanilla, cedar wood.   
+    comments:
+      before_reveal: > 
+        Since the sample cap wasn't sealed, this must be "leftovers" that I myself had saved. But I don't remember what grain that would be? A blend of various stuff? Perhaps something of intermediate maturity for a grain, mostly bourbon cask.
+      after_reveal: >
+        Ah, a gift sample from Whisky Maniac, that explain the lack of seal. And indeed, an ex-bourbon grain of intermediate age, one I have not tried before. At €55 it's a good value proposition.
+    grade:
+      system: "three-tier-2026"
+      score: 
+      wb_score: 84
+
+
+gortinore-natterjack:
+  bottle: gortinore-natterjack
+  date: 2026-06-12
+  market_context:
+    availability: Available from €38
+    estimated_price:
+      amount: 38
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      There's a sour wood thing going on. Green grapes, grass, hint of lukewarm beer, vanilla.
+    sipping: >
+      Lands quite flat, watery. Mild mandarin, honey sweetness, loads of vanilla. Bland as it gets.
+    comments:
+      before_reveal: >
+        There is somewhat a staleness that could be sample related, but even so this is a very bland whisky whose main quality is the absence of pronounced off note. Just 
+      after_reveal: >
+        Not surprised that it's a blend at 40%. A sample I got as part of a random set. Not something I would have chosen, and rightly so. 
+    grade:
+      system: "three-tier-2026"
+      score: 79
+
+strathmill-13-flick:
+  bottle: strathmill-13-flick
+  date: 2026-06-21
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Hard to place. Acidic, slightly phenolic, bit of detergent, citrus, especially pomelo. Some candle, and a fattiness.
+    sipping: >
+      Malty, barley sugar, lots of body, hint of bitterness, but few very distinct flavour notes. 
+    comments:
+      before_reveal:
+        What could it be? Not a great deal of age, 7-13yo. Color does not speak to sherry, and only the fatty, somewhat sour notes would make me say sherry. 50%+ ABV no doubt. Speyside/Highland.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+wolfburn-potstill:
+  bottle: wolfburn-potstill
+  date: 2026-06-21
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Fresh, crispy red apples, dusting of cinnamon, ginger, malt grist, lard
+    sipping: >
+      Medium-sweet, some dried fruit and nuts, orange chocolote, spices, but no heavy sherry.
+    comments:
+      before_reveal: >
+        I can see this sample is from whic.de. Almost all samples I had from them have the minibottle defect note. This one does too. a bit generic, but tasty. At some point my mind went Wolfburn. Something 46%ish, 10yo +-.
+      after_reveal: >
+        Aha! Ok, no sherry, but Wolfburn it is. Shame the sample was off.  
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+lochlea-ploughing2:
+  bottle: lochlea-ploughing2
+  date: 2026-06-26
+  market_context:
+    availability: Widely available for €50.
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc: from 5cl sample bottle
+    blind: yes
+  review:
+    intro: One of the lightest coloured whiskyes I've seen.
+    nosing: >
+      Light peat, mineral and flinty, peach, spekuloos cookie,  vanilla 
+    sipping: >
+      Lands easy on the palate, then becomes spicier. Creamy flavours, with stone fruits, vanilla whip cream, and earthy, well-balanced peat.    
+    comments:
+      before_reveal: >
+        Already the colour spoke of young whisky in refill cask, so likely also peated to have some interest. Indeed! Young but tasty. I'd guess Ben Nevis. ABV is, but for a young whisky to not be boozy it has to have been cut down, so I'll say 46%. The subsequent spiciness feels a bit like alcohol sting, but I wager it's not.
+      after_reveal: >
+        Aha, ex-Islay cask. It is fascinating how it managed to emulate actual well-integrated direct peat.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
 #---------------
 # review-key:
 #   bottle: ###
