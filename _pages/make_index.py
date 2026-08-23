@@ -6,7 +6,8 @@ import slugify
 DATA_DIR = Path("_data")
 
 def load_yaml(name):
-    return yaml.safe_load((DATA_DIR / f"{name}.yml").read_text())
+    return yaml.safe_load((DATA_DIR / f"{name}.yml").read_text(encoding="utf-8"))
+
 
 categories = load_yaml("categories")
 reviews = load_yaml("reviews")

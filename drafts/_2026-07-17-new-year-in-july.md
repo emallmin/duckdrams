@@ -17,7 +17,7 @@ header:
 
 
 
-#1
+#1 tullibaridine-malaga
 nose:
 Fresh, sprite-y, very citrussy, a bit grassy, apples & pears; summery. 
 
@@ -32,7 +32,7 @@ Tasty, competent, if in no way extraordinary single malt. Something like a Fette
 That Malaga cask is completely invisible. Otherwise the specs check out.
 
 
-#2
+#2 bunnahabhain-11-sv
 nose: 
 Woody, nutty, toasted, red berries. Aromatic, and a bit sweaty/musky too. 
 
@@ -45,7 +45,7 @@ More interesting on the nose than the palate. Hesitating between Oloroso and PX,
 Ah, Bunnahabhain checks out!
 85
 
-#3
+#3 aberlour-abunadh-2025
 nose:
 Brown sugar, treacle, cola sauce, orange marmalade; rich sherry.
 
@@ -58,7 +58,7 @@ sherry cask, closer to 49%, 9-13 years old, no distillery signature.
 Abunadh makes perfect sense. Been a while since I had one.
 85
 
-#4
+#4 orkney-14-sv
 
 Nose: Yet another sherry bomb. Big on he red fruits and berries, also a slight earthy dampness. Strong alcohol. 
 
@@ -68,7 +68,7 @@ Guess: I'll be damned if this is not Highland Park. 11 years old, at a decently 
 
 85
 
-#5
+#5 ardbeg-smokiverse
 nose: beech-smoked ham, sea spray, earthy, citrus-fresh, apricot 
 
 palate: minty, fresh, green, saline, rather ashy in the finish
@@ -77,7 +77,7 @@ guess: Why no ex-bourbon Caol Ila? No reason to be older than 8. Cask strength a
 
 87
 
-#6
+#6 lingdarroch
 nose: vanilla is the first note I get; a bit closed (or my nose is closing up). Light fruity/tropical notes, some chalky/minerally freshness. Now it's opening up and I get just oodles of honey. Fatty fish-n-chips newspaper. Pommegrenade juice and green apple. 
 
 palate: heavy peat, tarred rope, juicy yellow fruits, candi sugar, rather medicinal, herbal, metholic.   

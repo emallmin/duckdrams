@@ -2831,7 +2831,7 @@ jlp-15: # Jean-Luc Pasquet, 50.1%, 2006 / 2021, Cask #27, Kirsch Import, NC, CS,
   review:
     intro: null
     nosing: >
-      Bright and fruity; particularly peach and other stone fruits, overripe overripe and very sweet cantaloupe melon. Oodles of honey, and definitely some marzipan and vanilla. Complex tertiary notes of fragrant tea, liquorice, and exotic spices.   
+      Bright and fruity; particularly peach and other stone fruits, overripe and very sweet cantaloupe melon. Oodles of honey, and definitely some marzipan and vanilla. Complex tertiary notes of fragrant tea, liquorice, and exotic spices.   
     sipping: >
       Balanced sweetness, slightly waxy, and flavours in synchrony with the nose: stone fruits galore, honey, hint of tea with a teensy bitter twang.
     comments: >
@@ -3441,6 +3441,7 @@ brora-21-lombard:
 ncnean-7-ch:
   bottle: ncnean-7-ch
   date: 2026-06-14
+  post: la-nouvelle-vague
   market_context:
     availability: Available frome €69
     estimated_price:
@@ -3465,6 +3466,7 @@ ncnean-7-ch:
 balblair-16-ch:
   bottle: balblair-16-ch
   date: 2026-06-14
+  post: la-nouvelle-vague
   market_context:
     availability: Available from £100
     estimated_price:
@@ -3488,6 +3490,7 @@ balblair-16-ch:
 auchroisk-14-ch:
   bottle: auchroisk-14-ch
   date: 2026-06-14
+  post: la-nouvelle-vague
   market_context:
     availability: Available at €75
     estimated_price:
@@ -3513,6 +3516,7 @@ auchroisk-14-ch:
 bruichladdich-22-ch:
   bottle: bruichladdich-22-ch
   date: 2026-08-21
+  post: la-nouvelle-vague
   market_context:
     availability: Sold out at £170
     estimated_price:
@@ -3538,6 +3542,7 @@ bruichladdich-22-ch:
 caolila-18-ch:
   bottle: caolila-18-ch
   date: 2026-08-21
+  post: la-nouvelle-vague
   market_context:
     availability: Available at €138
     estimated_price:
@@ -3562,6 +3567,7 @@ caolila-18-ch:
 highland-21-ch:
   bottle: highland-21-ch
   date: 2026-08-21
+  post: la-nouvelle-vague
   market_context:
     availability: Still available at €140
     estimated_price:
@@ -3589,6 +3595,7 @@ highland-21-ch:
 springbank-tr2019:
   bottle: springbank-tr2019
   date: 2026-08-22
+  post: springbank-society
   market_context:
     availability: Sold once at auction in 2025 for €130.
     estimated_price:
@@ -3613,6 +3620,7 @@ springbank-tr2019:
 springbank-14-dutypaid:
   bottle: springbank-14-dutypaid
   date: 2026-08-22
+  post: springbank-society
   market_context:
     availability: Hard to find this exact cask; comparable casks go for around £120 at auction 
     estimated_price:
@@ -3638,6 +3646,7 @@ springbank-14-dutypaid:
 springbank-8-society:
   bottle: springbank-8-society
   date: 2026-08-22
+  post: springbank-society
   market_context:
     availability: Quite steady around €200 at auction.
     estimated_price:
@@ -3662,6 +3671,7 @@ springbank-8-society:
 springbank-15-society:
   bottle: springbank-15-society
   date: 2026-08-22
+  post: springbank-society
   market_context:
     availability: Around €260 at auction
     estimated_price:

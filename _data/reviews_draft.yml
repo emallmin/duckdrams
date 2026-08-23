@@ -611,7 +611,7 @@ gortinore-natterjack:
       system: "three-tier-2026"
       score: 79
 
-review-key:
+review-key: # strathmill-13-flick ???
   bottle: ###
   date: 2026-06-21
   market_context:
@@ -636,7 +636,7 @@ review-key:
       score: ###
 
 
-review-key:
+wolfburn-potstill:
   bottle: ###
   date: ###
   market_context:
@@ -663,8 +663,8 @@ review-key:
       score: ###
 
 
-lochlea-second-ploughing:
-  bottle: lochlea-second-ploughing
+lochlea-ploughing2:
+  bottle: lochlea-ploughing2
   date: 2026-06-26
   market_context:
     availability: Widely available for €50.
@@ -690,7 +690,7 @@ lochlea-second-ploughing:
       score: ###
 
 
-review-key:
+review-key: # Mortlach 11
   bottle: 2026-06-26
   date: 2026-06-26
   market_context:
@@ -716,78 +716,7 @@ review-key:
       system: "three-tier-2026"
       score: ###
 
-#----- Chorlton
 
-ncnean-7-ch:
-  bottle: ###
-  date: ###
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      The initial alcohol makes my nose hairs curl. Lemon sorbet, limoncello, green apple. Very fresh and bright, clean.
-    sipping: >
-      Fruity-sweet, malty, mouth-filling, and just a bit salty. Lots of citrus, especially pomelo. Not bitter initially, just a bit comes out with added water.  
-    comments: >
-      Young, simple, clean, tasty. Nothing to complain about, but did not have the pizzazz of some other Nc'Neans, like the Lemon Meadow, for instance. 
-    grade:
-      system: "three-tier-2026"
-      score: ###
-      wb_score: 84
-
-balblair-16-ch:
-  bottle: ###
-  date: 2026-06-14
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      First a very clear butterscotch, then buttery-citruss like french orange blossom bread, and looking beyond, a grappa-like grapiness and "greenness".   
-    sipping: >
-      Honeyed and sweet, without alcohol sting despite the 55%. More spicy, warmin, and dry in the finish. Mix of candy and fruity sweetness, with cotton candy, lemon drops, turning more grapefruit-bitter. 
-    comments: >
-      Not super.memorable, but nice. There is evidence of age in the balance, if not the complexity.
-    grade:
-      system: "three-tier-2026"
-      score: 85
-
-auchroisk-14-ch:
-  bottle: auchroisk-14-ch
-  date: 2026-06-14
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      Sulphury in an absolutely positive way. Leathery, jammy, blueberry soup, hints of coastal minerality, and lavender. Complexity that opens up further with water.  
-    sipping: >
-      Very dry, salty, and an umami-bomb. Cocoa nibs, leather, liquorice, bit of pipe tobacco. Whoops! The sample is gone... 
-    comments: >
-      I got the blueberry note from reading a whisky base review, but when I saw it it was so obvious. Hitting above it's specs, one to think about buying.
-    grade:
-      system: "three-tier-2026"
-      score: ###
-      wb_score: 88
 
 
 #----- Random
@@ -806,11 +735,11 @@ ben-nevis-22-wn:
   review:
     intro: null
     nosing: >
-      Fruit bomb! Clementines in particular, peach, honey, bouquet of flowers... The nose just takes me back in time
+      On the first try: Fruit bomb! Clementines in particular, peach, honey, bouquet of flowers... The nose just takes me back in time. Nosing two months later (with some aeration): lots of citrus fruits still, also getting toasted hazelnuts, hay and some farminess, chalk, and lactic action.
     sipping: >
-      Quite spicy, prickly. Oily, sweet, fruit syrupy. Multivitamin juice, squirt of lime. Juicy bourn-caky finish. 
+      On the first try: Quite spicy, prickly. Oily, sweet, fruit syrupy. Multivitamin juice, squirt of lime. Juicy bourn-caky finish. Two months later: Less boozy, for sure. Behind the bright, zesty fruits, there's a farmy, cheesy note, and earthiness and cigar smoke, that bumps the complexity an interest up a notch.
     comments: >
-      From the nose I felt like I should have bought 3 bottles! Then on the palate I was less convinced.
+      First impression: From the nose I felt like I should have bought 3 bottles! Then on the palate I was less convinced. Second impression: more balanced, more complex, considerable improvement. If only a little less sharp, it would be splendid. I'll enjoy the one bottle for the €158 I paid.
     grade:
       system: "three-tier-2026"
       score: ###
@@ -840,9 +769,37 @@ benrinnes-30-sv:
       wb_score: 89
 
 
+#---- New year
+
+tullibaridine-malaga:
+  bottle: tullibaridine-malaga
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      ###
+    sipping: >
+      ###
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+
+
 # review-key:
 #   bottle: ###
 #   date: ###
+#   post: ###
 #   market_context:
 #     availability: ###
 #     estimated_price:

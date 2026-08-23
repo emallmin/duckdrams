@@ -3876,7 +3876,7 @@ banff-23-imcl:
 brora-21-lombard:
   production:
     vintage: 1982
-    producer: Brora
+    producer: brora
   maturation:
     age: 21
     cask: null
