@@ -12,9 +12,17 @@ header:
 
 
 
+{% include review.html id="tullibaridine-malaga" %}
 
-{% include review.html id="" %}
+{% include review.html id="bunnahabhain-11-sv" %}
 
+{% include review.html id="aberlour-abunadh-2025" %}
+
+{% include review.html id="orkney-14-sv" %}
+
+{% include review.html id="ardbeg-smokiverse" %}
+
+{% include review.html id="lingdarroch-3-ch" %}
 
 
 #1 tullibaridine-malaga
@@ -77,7 +85,8 @@ guess: Why no ex-bourbon Caol Ila? No reason to be older than 8. Cask strength a
 
 87
 
-#6 lingdarroch
+#6 lingdarroch 
+# Sold out at €35 for 50cl
 nose: vanilla is the first note I get; a bit closed (or my nose is closing up). Light fruity/tropical notes, some chalky/minerally freshness. Now it's opening up and I get just oodles of honey. Fatty fish-n-chips newspaper. Pommegrenade juice and green apple. 
 
 palate: heavy peat, tarred rope, juicy yellow fruits, candi sugar, rather medicinal, herbal, metholic.   
