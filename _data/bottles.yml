@@ -3876,7 +3876,7 @@ banff-23-imcl:
 brora-21-lombard:
   production:
     vintage: 1982
-    producer: Brora
+    producer: brora
   maturation:
     age: 21
     cask: null
@@ -3902,9 +3902,536 @@ brora-21-lombard:
       url: https://static.whiskybase.com/storage/whiskies/8/0/48/236765-big.jpg
       source: whiskybase
 
-
-
 #-----
+wolfburn-potstill:
+  production:
+    vintage: 2016
+    producer: wolfburn
+  maturation:
+    age: 6
+    cask: First Fill Bourbon
+  bottling:
+    bottler:
+    batching: single_cask
+    abv: 50
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2022
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 219157
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/9157/387001-big.jpg
+      source: whiskybase
+
+lochlea-ploughing2:
+  production:
+    vintage: null
+    producer: lochlea
+  maturation:
+    age: null
+    cask: Ex-Islay Barrel
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing: 
+    series: "Ploughing Edition - Second Crop"
+    name: "Ploughing Edition - Second Crop"
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 249294
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/9294/449180-big.jpg
+      source: whiskybase
+
+#------ neujahr
+
+tullibaridine-malaga:
+  production:
+    vintage: 2015
+    producer: tullibardine
+  maturation:
+    age: 10
+    cask: Malaga Wine Finish
+  bottling:
+    bottler: james-eadie 
+    batching: null
+    abv: 46.0
+    outturn: 630
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: small_batch
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 288263
+    image:
+      url: null
+      source: whiskybase
+
+bunnahabhain-11-sv:
+  production:
+    vintage: 2012
+    producer: bunnahabhain
+  maturation:
+    age: 11
+    cask: Oloroso Sherry
+  bottling:
+    bottler: signatory
+    batching: small_batch
+    abv: 48.2
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: 'Small Batch Edition #7'
+    name: 'Small Batch Edition #7'
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 250622
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/0622/451795-big.jpg
+      source: whiskybase
+
+aberlour-abunadh-2025:
+  production:
+    vintage: null
+    producer: aberlour
+  maturation:
+    age: null
+    cask: FF Am.Oak & FF Oloroso, FF Oloroso & FF PX Finish
+  bottling:
+    bottler:
+    batching: null
+    abv: 56.2
+    outturn: null
+    natural_color: null
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: Sherry Cask Collection
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 284458
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/4458/523348-big.jpg
+      source: whiskybase
+
+orkney-14-sv:
+  production:
+    vintage: 2011
+    producer: highland-park
+  maturation:
+    age: 14
+    cask: 1st Fill Palo Cortado Hogshead Finish
+  bottling:
+    bottler: signatory
+    batching: small_batch
+    abv: 57.1
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: '100 Proof - Edition #59'
+    name: Orkney (HP)
+    released: '31 jul 2025 5:26 pm by Crushed_ldH # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 280726
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/0726/507407-big.jpg
+      source: whiskybase
+
+ardbeg-smokiverse:
+  production:
+    vintage: null
+    producer: ardbeg
+  maturation:
+    age: null
+    cask: null
+  bottling:
+    bottler:
+    batching: null
+    abv: 48.3
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: Smokiverse
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 258128
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/5/8128/499772-big.jpg
+      source: whiskybase
+
+strathmill-13-flick:
+  production:
+    vintage: 2009
+    producer: strathmill
+  maturation:
+    age: 13
+    cask: Bourbon
+  bottling:
+    bottler: flickenschild
+    batching: single_cask
+    abv: 59.1
+    outturn: 271
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700 ml
+  marketing:
+    series: Slainté
+    name: null
+    released: '23 oct 2023 5:51 pm by DuartSparky # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 240776
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/0776/434567-big.jpg
+      source: whiskybase
+
+#--- chorlton 2025
+
+ncnean-7-ch:
+  production:
+    vintage: null
+    producer: ncnean
+  maturation:
+    age: 7
+    cask: 1st Fill Barrel
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 57.9
+    outturn: 243
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 279447
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/9447/526778-big.jpg
+      source: whiskybase
+
+caolila-18-ch:
+  production:
+    vintage: null
+    producer: caol-ila
+  maturation:
+    age: 18
+    cask: Hogshead
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 50.7
+    outturn: 276
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 279516
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/9516/526774-big.jpg
+      source: whiskybase
+
+bruichladdich-22-ch:
+  production:
+    vintage: null
+    producer: bruichladdich
+  maturation:
+    age: 22
+    cask: Refill barrel
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 56.7
+    outturn: 181
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 287164
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/7164/526783-big.jpg
+      source: whiskybase
+
+auchroisk-14-ch:
+  production:
+    vintage: null
+    producer: auchroisk
+  maturation:
+    age: 14
+    cask: Oloroso Sherry Hogshead
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 58.4
+    outturn: 255
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 289398
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/9398/526784-big.jpg
+      source: whiskybase
+
+highland-21-ch:
+  production:
+    vintage: null
+    producer: jura
+  maturation:
+    age: 21
+    cask: Refill Barrel
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 54.5
+    outturn: 198
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    undisclosed: true
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 289399
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/9399/526786-big.jpg
+      source: whiskybase
+
+balblair-16-ch:
+  production:
+    vintage: null
+    producer: balblair
+  maturation:
+    age: 16
+    cask: Hogshead
+  bottling:
+    bottler: chorlton
+    batching: single_cask
+    abv: 55.8
+    outturn: 271
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 301801
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/3/0/1801/515359-big.jpg
+      source: whiskybase
+
+#---- Springbank quartet
+
+springbank-15-society:
+  production:
+    vintage: 2003
+    producer: springbank
+  maturation:
+    age: 15
+    cask: Fresh Port Hogsheads
+  bottling:
+    bottler: 
+    batching: null
+    abv: 56.2
+    outturn: 1020
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2018
+    size: 700
+  marketing:
+    series: 
+    name: Society Bottling
+    released: 2018
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 117238
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/1/7238/205866-big.jpg
+      source: whiskybase
+
+springbank-tr2019:
+  production:
+    vintage: null
+    producer: springbank
+  maturation:
+    age: null
+    cask: Sherry & Bourbon casks
+  bottling:
+    bottler:
+    batching: null
+    abv: 57.6
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2019
+    size: 700
+  marketing:
+    series:
+    name: The Tasting Room
+    released: 2019
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 129686
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/2/9686/224643-big.jpg
+      source: whiskybase
+
+springbank-14-dutypaid:
+  production:
+    vintage: 2004
+    producer: springbank
+  maturation:
+    age: 14
+    cask: Refill Bourbon Hogshead
+  bottling:
+    bottler: 
+    batching: single_cask
+    abv: 58.6
+    outturn: 1
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2019
+    size: 700
+  marketing:
+    series:
+    name: Duty Paid Sample
+    released: 2019
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 131645
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/3/1645/221260-big.jpg
+      source: whiskybase
+
+springbank-8-society:
+  production:
+    vintage: 2012
+    producer: springbank
+  maturation:
+    age: 8
+    cask: Fresh Oloroso Sherry Hogsheads
+  bottling:
+    bottler: 
+    batching: null
+    abv: 57.3
+    outturn: 1830
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: 
+    name: Society Bottling
+    released: 2021
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 184984
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/8/4984/323801-big.jpg
+      source: whiskybase
+
 
 # bottle-key:
 #   production:

@@ -23,6 +23,26 @@ linkwood:
   class: "Single Malt"
   owner: "Diageo"
 
+aberlour:
+  name: "Aberlour"
+  kind: distillery
+  status: "Active"
+  region: "Speyside"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+
+strathmill:
+  name: "Strathmill"
+  kind: distillery
+  status: "Active"
+  region: "Speyside"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  owner: "Diageo"
+
+
 benrinnes:
   name: "Benrinnes"
   kind: distillery
@@ -45,6 +65,15 @@ royal-brackla:
 
 tullibardine:
   name: "Tullibardine"
+  kind: distillery
+  status: "Active"
+  region: "Highland"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+
+wolfburn:
+  name: "Wolfburn"
   kind: distillery
   status: "Active"
   region: "Highland"
@@ -189,6 +218,25 @@ imperial:
   peated: no
   status: closed
 
+ncnean:
+  name: "Nc'Nean"
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+
+lochlea:
+  name: "Lochlea"
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  category: Scotch Whisky
+  class: Single Malt
+  # peated: yes
+  status: Active
+
 glenfiddich:
   name: "Glenfiddich"
   kind: distillery
@@ -209,6 +257,15 @@ glenrothes:
 
 laphroaig:
   name: "Laphroaig"
+  kind: distillery
+  country: Scotland
+  region: Islay
+  category: Scotch Whisky
+  class: Single Malt
+  peated: yes
+
+caol-ila:
+  name: "Caol Ila"
   kind: distillery
   country: Scotland
   region: Islay
@@ -412,6 +469,25 @@ balvenie:
   category: Scotch Whisky
   class : Single Malt
   peated: no
+
+balblair:
+  name: Balblair
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: Single Malt
+
+auchroisk:
+  name: Auchroisk
+  kind: distillery
+  status: "Active"
+  region: "Speyside"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: Single Malt
+  owner: "Diageo"
 
 
 roseisle:

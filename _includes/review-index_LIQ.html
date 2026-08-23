@@ -1,0 +1,61 @@
+Test3
+
+
+<div class="review-index">
+
+{% assign categories = site.data.categories %}
+{% assign reviews = site.data.reviews %}
+
+<!-- 
+<ul>
+{% for category in categories %}
+  {% assign category_name = category[0] %}
+  {% assign classes = category[1] %}
+  {% assign cat_id = category_name | slugify %}
+  <li><a href="#{{cat_id}}">{{category_name}}</a>
+    <ul>
+      {% for class in classes %}
+        {% assign class_id = class | slugify %}
+        <li><a href="#{{class_id}}">{{class}}</a></li>
+      {% endfor %}
+    </ul>  
+  </li>
+{% endfor %}
+</ul>
+TOC -->
+
+
+{% for category in categories %}
+  <h2 id="{{ category.name | slugify }}">{{ category.name }}</h2>
+
+  {% for item in category.items %}
+    <h3 id="{{ item.name | slugify }}">{{ item.name }}</h3>
+    {% if item.items %}
+      {% for subitem in item.items %}
+        <h4 id="{{ sub.name | slugify }}">{{ subitem.name }}</h4>
+        {%- for r in reviews -%}
+          {%- assign review_id = r[0] -%}
+          {%- include category-class-country-region.html id=review_id return=return -%}
+          {%- assign cccr = return | split: "^" -%}          
+          {% if category.name == cccr[0] and item.type == "class" and subitem.type == "region" and item.name == cccr[1] and subitem.name == cccr[3] %}
+            {%- include review-string.html id=review_id -%}
+          {% endif %}
+        {%- endfor -%} 
+      {% endfor %}
+    {% else%}
+      {%- for r in reviews -%}
+        {%- assign review_id = r[0] -%}
+        {%- include category-class-country-region.html id=review_id return=return -%}
+        {%- assign cccr = return | split: "^" -%}          
+        {% if category.name == cccr[0] and item.type == "class" and item.name == cccr[1] %}
+          {%- include review-string.html id=review_id -%}
+        {% elsif category.name == "World Whiskey" and item.name == cccr[2] %}
+          {%- include review-string.html id=review_id -%}
+        {% endif %}
+      {%- endfor -%}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+</div>
+
