@@ -2855,7 +2855,7 @@ old-fettercairn-1980s:
 blair-athol-12yo1975:
   production:
     vintage: 1975
-    producer: fettercairn
+    producer: blair-athol
   maturation:
     age: 12
     cask: null
