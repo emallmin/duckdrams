@@ -172,10 +172,10 @@ whiskysite:
   kind: bottler
   country: The Netherlands
 
-  living-souls:
-    name: Living Souls
-    kind: bottler
-    country: UK
+living-souls:
+  name: Living Souls
+  kind: bottler
+  country: UK
 
 gortinore:
   name: Gortinore Distillers & Co.

@@ -2903,7 +2903,7 @@ imperial-27-ls:
   review:
     intro: null
     nosing:
-      Summer in a glass. Honey, wax, orchard fruits, notably pear, but also bergamot; elderflower cordial, grassy meadow, gorse, olive oil, nectar, and petrichor. Ice cream melt, vanilla. Complex and delicate
+      Summer in a glass. Honey, wax, orchard fruits, notably pear, but also bergamot; elderflower cordial, grassy meadow, gorse, olive oil, nectar, and petrichor. Ice cream melt, vanilla. Complex and delicate.
     sipping: >
       Oily, with a robust spirit character, yet fresh and lively. Total fruit bomb, with ripe melons and peach, mangoes, and juicy oak; very slight tannins. 
     comments: >
@@ -3692,6 +3692,79 @@ springbank-15-society:
       system: "three-tier-2026"
       score: 88
 
+#----------- oldies
+
+old-fettercairn-1980s:
+  bottle: old-fettercairn-1980s
+  date: 2026-05-01
+  post: oldies-are-goldies
+  market_context:
+    availability: One sold for €90 at auction last year
+    estimated_price:
+      amount: 90
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Soft sherry, with spices and ripe fruit, especially mango. Somewhat musty. Nice, but there some hint on the nose that we'll be dealing with old-bottle effect (and/ mini-bottle defect)
+    sipping: >
+      Luckily, there's nothing off! It arrives rather thin in texture, but then the sweetness and juiceiness of the fruity, candy-like flavours, joined by cinnamon and nutmeg, make it far from bland. Some subtle smoke in the background. It falls apart a bit in the finish, though. 
+    comments: >
+      It's quite aparant that it realativelt young and diluted whisky, but both spirit and cask have obvious quality. At a higher ABV with more body could have been a real treat.  
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+cragganmore-1984:
+  bottle: cragganmore-1984
+  date: 2026-05-01
+  post: oldies-are-goldies
+  market_context:
+    availability: Wide spread around €120 at auction.
+    estimated_price:
+      amount: 120
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      The port wine is quite apartent on the nose, at least if you're expecting it to be there.Winegums, red berry compote, .. but there is depth to the nose. Fragrant jasmin tea, bourbon vanilla, leather, brown sugar, balsamico, cigar. T
+    sipping: >
+      A sweet, mostly malty and toffee-driven early arrival, that then blooms out into rich, winey, rancio'd amd quite smoky (though no peaty) flavours.  
+    comments: >
+      Really good cask influence here, probably with some decent age. Maybe I've been ruined by higher-ABV whiskies, but the 40% just falls a bit flat on texture, especially at the moment the liquid meets the tongue.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+blair-athol-12yo1975:
+  bottle: blair-athol-12yo1975
+  date: 2026-05-01
+  post: oldies-are-goldies
+  market_context:
+    availability: Unknown
+    estimated_price:
+      amount: 150
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: no
+  review:
+    intro: I can find no record on whiskybase or elsewhere of a 1975 vintage 12yo Blair Athol, distillery bottling, at 43%. If it weren't for the supposed 1975 vintage, it would have to be a Flora & Fauna bottling, but these only started in 1991. 
+    nosing: >
+      Sticky toffee, cola sauce, ginger ale all the jazz, with some spreitely orange poking through. And.. shellfish? That is, a slight minerality. And a smidge of hessian, dunnage. And perhaps a little sweaty sock. Just a bit. Mostly cola, though, I promise! ... The empty glass smells lovely; like how dark chocoalte with pieces of nuts and dried fruits tastes.
+    sipping: >
+      It's a actually quite satisfying in terms of strength and texture. Robust spirit, malty, dried fruits, sugared almonds, spices this way and that; generally high-quality non-overbearing sherry notes, but they're meaty in a satisfying way. Thereto whiffs of smoke, and a very slight metallic and mineral note.
+    comments: >
+      Best of the bunch. Was it so simle back then? Good sherry casks for 12 years and this is what you get?
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
 
 #---------------
 # review-key:

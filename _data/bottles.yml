@@ -2792,6 +2792,8 @@ glen-grant-25-wm:
       url: https://static.whiskybase.com/storage/whiskies/2/3/4069/428091-big.jpg
       source: whiskybase
 
+#--- oldies
+
 cragganmore-1984:
   production:
     vintage: 1984
@@ -2820,6 +2822,65 @@ cragganmore-1984:
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/7/818/244817-big.jpg
       source: whiskybase
+
+old-fettercairn-1980s:
+  production:
+    vintage: null
+    producer: fettercairn
+  maturation:
+    age: null
+    cask: null
+  bottling:
+    bottler: 
+    batching: null
+    abv: 40
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: null
+    size: 750 ml
+  marketing:
+    series: Old Fettercairn
+    name: 1980s
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 36795
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/3/6/795/75963-big.jpg
+      source: whiskybase
+
+blair-athol-12yo1975:
+  production:
+    vintage: 1975
+    producer: fettercairn
+  maturation:
+    age: 12
+    cask: null
+  bottling:
+    bottler: 
+    batching: null
+    abv: 43
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: null
+    size: 700
+  marketing:
+    series:
+    name:
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: null
+    image:
+      url: https://files.emilmallmin.com/unknown_bottle.png
+      source: self
+
 
 #----- lovely linkies
 

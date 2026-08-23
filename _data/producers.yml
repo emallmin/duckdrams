@@ -699,6 +699,14 @@ glenfarclas:
   country: "Scotland"
   category: "Scotch Whisky"
 
+fettercairn:
+  name: Fettercairn
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+
 ardbeg:
   name: Ardbeg
   kind: distillery
