@@ -18,7 +18,7 @@ show_tags: true
 sass:
   style: compressed
 
-paginate: 5
+paginate: 12
 paginate_path: "/page:num/"
 
 search: true

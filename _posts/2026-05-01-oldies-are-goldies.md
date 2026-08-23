@@ -10,7 +10,7 @@ header:
   teaser: https://files.emilmallmin.com/mystery_oldschool.png
 ---
 
-Simple Sample every once in a while sells these mystery pack. And I'm weak for a whisky mystery. Let's see if there's an exciting resolution to this mystery pack.
+Simple Sample every once in a while sells these mystery packs. And I'm weak for a whisky mystery. Let's see if there's an exciting resolution to this one.
 
 {% include review.html id="old-fettercairn-1980s" %}
 
