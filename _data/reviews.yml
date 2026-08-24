@@ -1533,7 +1533,7 @@ bunnahabhain-17-feis-ile: #bru 18
       Balance of brine, sweet but non-overacoat-y sherry notes, and meaty peat. And licorice, and some sticky, brown goo of dubious origin. Samsame-noori in the finisih. Does not need any water. A dram to pair with a really luxurious hamburger. 
     comments:
       before_reveal: >
-        To be honest, not entirely a blind tasting, because I might have accidentally seen that no. 18 was going to be a Bunnahabhain. And to the extent I had forgot that, the profile would immediately remind me. Lot's of common ground with a [Carn Mòr bottling](https://www.whiskybase.com/whiskies/whisky/183132/bunnahabhain-2004-mmck) I have owned.
+        To be honest, not entirely a blind tasting, because I might have accidentally seen that no. 18 was going to be a Bunnahabhain. And to the extent I had forgot that, the profile would immediately remind me. Lot's of common ground with a <a href="https://www.whiskybase.com/whiskies/whisky/183132/bunnahabhain-2004-mmck">Carn Mòr bottling</a> I have owned.
       after_reveal: >
         Surprise!!! Not.
     grade:
@@ -4131,6 +4131,142 @@ lingdarroch-3-ch:
       system: "three-tier-2026"
       score: ⁎
       wb_score: 87
+
+
+#--------------- Closed live 2
+
+rosebank-19-dl: 
+  bottle: rosebank-19-dl
+  date: 2026-05-03
+  post: ghost-safari-blind-quintet
+  market_context:
+    availability: Around €250 at auction
+    estimated_price:
+      amount: 250
+      currency: EUR
+  sample_context:
+    desc: froma a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Quite gingery and peppery, but otherwise fruit-drive, with orchard fruits like apples and pears, some melon. Some coffe beans, and fresh cream.
+    sipping: >
+      Sweet, full-bodied and densely flavoured along the lines of the nose: dried peach and mango to the fore, then lots of spicy oak and considerable grassiness; the pepperiness of a virgin olive oil. Rather savoury, umami-laden, actually, but in fruity and malty way; it's a very "clean" profile, though some mildly leathery notes are hinted at in the finish, and just a bit bitter.  
+    comments:
+      before_reveal: >
+        All the signs of a 20 or even 30yo "slow matured" Speyside or Lowland whisky. I'd go for a mellow (possibly refill) sherry cask, though it could be ex-bourbon. I'm very partial to that profile, and this is a delicious dram, though no where near the upper echelons; the pepperiness is a bit much, and there really is rather little otherwise distinctive about this within the old & slow category.
+
+        I'm hoping it's not the Littlemill, because I'm hoping for one that will melt my heart, and this one doesn't. Could be Rosebank.
+      after_reveal: >
+        a#
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+banff-23-imcl:
+  bottle: banff-23-imcl
+  date: 2026-05-03
+  post: ghost-safari-blind-quintet
+  market_context:
+    availability: Rare at auction; sold for €330 in 2022 and €400 in 2023
+    estimated_price:
+      amount: 350
+      currency: EUR
+  sample_context:
+    desc: froma a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Sweet nose, cola sauce, honey, fruit-tea, polished hardwood. A slightly musty-sour Oloroso sherry note.
+    sipping: >
+      Balanced profile, with sweetness, oily texture, and soft smokiness but not overtly peated. Toasted bread with butter and marmalade, dried fruits like prunes and apricots, and toasted and sugared almonds. Drier and a bit bitter, even herbal, in the early-mid finish, but in the long run settles on oily and toasted.  
+    comments:
+      before_reveal:
+        Great old dram. I would have to guess Banff or Millburn.
+      after_reveal:
+        #a      
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+littlemill-16-mmd: 
+  bottle: littlemill-16-mmd
+  date: 2026-05-03
+  post: ghost-safari-blind-quintet
+  market_context:
+    availability: Rare at auction; sold for £160 in 2025
+    estimated_price:
+      amount: 190
+      currency: EUR
+  sample_context:
+    desc: froma a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Well-integrated nose with confectionary and fruity themes: ginger ale, orange marmalade, pecan nut pie, a little banana. Not heavily vanilla-laden, though. A little seaside air to add.
+    sipping: >
+      Very silky and luxurious texture; boozy and prickly elements are thankfully restrained. Pancakes with maple syrup, orange chocolate, and old-school sherry armoas of leather arm couch, rancio, and somwhere a fragrant cigar is fuming. More tropical fruits; dried mango and the like in the late finish.  
+    comments:
+      before_reveal: >
+        This is very close to the archetype of a well-matured old-school single malt. Say around 25 years, perfectly integrated sherry cask. Alcohol could be anywhere from 43-50%, but whatever it is, is just where it should be. I did not add any water. There is really nothing bad to say about this whisky. Though if it is close to an archetype, it is also not very unique, but not every whisky needs to be. Maybe Banff or Millburn?
+      after_reveal: >
+        ah
+    grade:
+      system: "three-tier-2026"
+      score: ⁎⁎
+
+millburn-17-sv: #4
+  bottle: millburn-17-sv
+  date: 2026-05-03
+  post: ghost-safari-blind-quintet
+  market_context:
+    availability: Around €280 at auction
+    estimated_price:
+      amount: 280
+      currency: EUR
+  sample_context:
+    desc: froma a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Citric or even a bit lactic on first contact. Green grapes (not quite ripe), chalk and minerality, and (oh yes!) there is beeswax, and some vanilla.
+    sipping: >
+      Full-bodied, slightly sour and medium sweet, with grilled pineapple, honey glaze, and well-integrated voluminous peat, and a drying finish. Not meaty, ashy, or iodine, though!
+    comments:
+      before_reveal: >
+        <em>Completely</em> blindly, I would have placed a lot of money on Bowmore. This is unquestionably the Brora of the bunch. It's very delicious, it's flawless, I'd lap up a bottle of this in no time. But is it the Brora to end all Broras? I think not. That is, I'm not floored, even though I'm purring.  
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
+brora-21-lombard: #5
+  bottle: brora-21-lombard
+  date: 2026-05-03
+  post: ghost-safari-blind-quintet
+  market_context:
+    availability: Rare at auction; €475 in 2025
+    estimated_price:
+      amount: 475
+      currency: EUR
+  sample_context:
+    desc: from a 2cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Fresh, rather grassy, some citrus zest and passion fruit curd, touch of hessian or perhaps dunnage. After a moment I start noticing more floral impressions, like lavender.
+    sipping: >
+      Very muscular spirit, with authority of age. Malty, with savoury parmesan cheese, crunchy pear, toasty, borderline smoky notes, strong nuttiness, but also grassy/herbal. Upon swallowing there is this blooming tobacco. Very complex.   
+    comments:
+      before_reveal: >
+        I'm a bit confused, because I can't quite make up my mind whether this is peated or not. Old bourbon cask. I'm guessing this is the Rosebank.
+    grade:
+      system: "three-tier-2026"
+      score: ⁎⁎
 
 
 #---------------
