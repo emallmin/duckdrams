@@ -856,6 +856,12 @@ undisclosed-islay:
   category: Scotch Whisky
   class: Single Malt
 
+irish-whiskey:
+  name: Irish Whiskey
+  kind: undisclosed
+  country: Ireland
+  category: Irish Whiskey
+
 
 home-experiment-spirit-drink:
   name: "Emil's experiment"

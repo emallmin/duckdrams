@@ -4676,7 +4676,7 @@ skellig-triple-cask:
 irish-21-tbwc:
   production:
     vintage: null
-    producer: null
+    producer: irish-whiskey
   maturation:
     age: 21
     cask: Rum barrels, refill bourbon, PX & Oloroso butt
