@@ -5,9 +5,9 @@ date: 2026-08-28
 categories: Review
 tags: [tag1, tag2]
 header:
-  overlay_image: https://files.emilmallmin.com/coming_soon.png
+  overlay_image: https://files.emilmallmin.com/irish_lineup.jpeg.png
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/coming_soon.png
+  teaser: https://files.emilmallmin.com/irish_lineup.jpeg.png
 ---
 
 Opening text
