@@ -816,6 +816,28 @@ gortinore-irish:
   country: Ireland
   category: Irish Whiskey
 
+fercullen:
+  name: fercullen
+  kind: distillery
+  country: Ireland
+  category: Irish Whiskey
+  class: Single Malt
+
+west-cork:
+  name: West Cork Distillers
+  kind: distillery
+  country: Ireland
+  category: Irish Whiskey
+  class: Single Malt
+
+skellig:
+  name: Skellig Six18 Distillery
+  kind: distillery
+  country: Ireland
+  category: Irish Whiskey
+  class: Single Pot Still
+
+
 # --- pseudo-producers 
 
 undisclosed-islay:
@@ -833,3 +855,5 @@ home-experiment-spirit-drink:
   country: null
   category: Other
   class: Spirit Drink
+
+undisclosed-pot

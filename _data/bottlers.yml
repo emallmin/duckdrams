@@ -191,3 +191,8 @@ caskhound:
   name: The Caskhound
   kind: bottler
   country: Germany
+
+vintage-malt-co:
+  name: The Vintage Malt Whisky Co Ltd.
+  kind: Blender
+  country: UK

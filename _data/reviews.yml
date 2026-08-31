@@ -667,7 +667,7 @@ glenallachie-4:
     sipping: >
       Again, very dry, but there is a robust malty, and fruity base. Just a bit of vomit hick-up… aka peat phenols.
     comments: >
-      A showcase of things to come… In my opinion the MK5 is way better, so the price on this one could only be justified by the hype to try peated GlenAllachie for the first time back in 2022. And it ain't 2022 anymore.
+      A showcase of things to come… In my opinion the MK5 is way better, so the price on this one could only be justified by the hype to try peated GlenAllachie for the first time back in 2022. And it ain't 2022 no more.
     grade:
       system: "multidim-2025"
       nose_deliciousness: 3.5
@@ -4267,6 +4267,160 @@ brora-21-lombard: #5
     grade:
       system: "three-tier-2026"
       score: ⁎⁎
+
+
+#----- The irishman
+
+finlaggan-old-reserve:
+  bottle: finlaggan-old-reserve
+  date: 2026-08-28
+  post: irish-inspiration
+  market_context:
+    availability: Discontinued version (~€26)
+    estimated_price:
+      amount: 26
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      I was not expecting peat, but there it is plain and clear. Earthy and sandy, a bit phenolic. Some light yellow fruits, lemongrass, white pepper.
+    sipping: >
+      A bit "watery" at that low ABV, but not too bad; the sweetness feels a bit hollow though, but there's a nice pinch of salt. Flavourwise, medium peat, earth but not ashy, some non-distinct and mellow stone fruits. Finish a but pungent.          
+    comments: >
+      For a 40% NAS I'm not disappointed. ... I was about to say it could almost be an Islay - and turns out this is no Irishman at all, but an Scot! I suppose the name 
+    grade:
+      system: "three-tier-2026"
+      score: 
+      wb_score: 80
+
+skellig-triple-cask:
+  bottle: skellig-triple-cask
+  date: 2026-08-28
+  post: irish-inspiration
+  market_context:
+    availability: Discontinued (~€48)
+    estimated_price:
+      amount: 48
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fruuuiiitttyy! Tutti-frutti, bubblegum, bourbon. Perhaps some smoked cheddar?       
+    sipping: >
+      Fruity, with wine gums, fruit cake, some oak spice. On the tongue, more towards sour than sweet fruits; even a bit dry. The mildest puff of smoke in the finish that also concentrate the sweetness more.
+    comments: >
+      Ah, now we've reached Ireland from our mistaked trip to Islay. But perhaps we've not left Islay entirely? There's at least some ex-peated casks in the mix. Not very prominently, though, but discernably there. It's a charming whisky, I'd say. The fruits appeal to me, adds just a little more interest. Nothing extraordinary, though.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 82
+
+west-cork-7:
+  bottle: west-cork-7
+  date: 2026-08-28
+  post: irish-inspiration
+  market_context:
+    availability: Available at €49
+    estimated_price:
+      amount: 49
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Interesting: bourbon-y, cola, biscuits, flowet bouquet, fruity and vegetal tobacco leaf, fruity coffee, grain mash.  
+    sipping: >
+      Satisfyingly robust body, with a mix of sweet, sour, and a little bitter. Similar to the nose in terms of flavour; very nutty and biscuity (digestives), but not dry, with dried fruits, black tea with bergamot, oak spice.   
+    comments: >
+      Bourbon cask finish makes total sense of what I experience. I am rather partial to such a nose, but on the palate there's more of the single malt characteristics. It's a full-flavoured, full-bodied, balanced if not very subtle expression. Nice.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_Score: 86
+
+fercullen-first:
+  bottle: fercullen-first
+  date: 2026-08-28
+  post: irish-inspiration
+  market_context:
+    availability: Avaialable from €40
+    estimated_price:
+      amount: 40
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Gentle, but not quiescent.  Fresh fruits and flowers: elderflower cordial, crisp white wine, "sockerdricka", fragrant peach, medium-ripe mango, but also creamy egg-tart, vanilla, and the color red: apple skins, berries, red wine (in addition to white!)     
+    sipping: >
+      Full-bodied and fruity, with every flavour of winegum, sponge cake, cinnamon and oak spice, touch of rosé pepper. Buscuity finish. 
+    comments: >
+      Tasty, not a bad as a NAS at this price. Makes me want to try more Fercullen. 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 84
+
+irish-21-tbwc:
+  bottle: irish-21-tbwc
+  date: 2026-08-28
+  post: irish-inspiration
+  market_context:
+    availability: Available at €100
+    estimated_price:
+      amount: 100
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Bright and fruity + cereal-y and pastry-y. Nectarines, cinnamon-dusted cream nata, shortbread, hint of glue, hint of dunnage; the nose does show some moderate sign of age, and rather a lot of grain.
+    sipping: >
+      Medium or more sweet, cereally and biscuity predominantly, shortbread, bourbon-influenced, some yellow fruits. 
+    comments: >
+      Nice enough, but nothing too exciting. Was definitiley hoping for something more expressive. That roundess and depth of age is a bit offset by the confectory straithforwardness of the grain component.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 84
+
+
+waterford-cuvee:
+  bottle: waterford-cuvee
+  date: 2026-08-28
+  post: irish-inspiration
+  market_context:
+    availability: Available from €65
+    estimated_price:
+      amount: 65
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Dark chocolate, toasted malt ... or burnt toast. Rather suplhury sherry (?) cask, earthy, farmy, dirty, vegetal (decomposing), banana peel, sheep wool...   
+    sipping: >
+      Savoury, salty. Earthy, fermented black beans, heavily toasted oak, some vanilla and sweetness, unripe banana, slightly metallic, smoked salmon (?), soy sauce.  
+    comments: >
+       My notes are all over the place. Definitely because I've had enough drams for one evening, but also this Waterford is treading into some proper funky territory. It's fun and more than a gimmick. Shame the distillery recently went bust. To note: perhaps the only (?) sample from whic.de I had that didn't have sample bottle defect — or it just blends right in with the funk.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 86
 
 
 #---------------

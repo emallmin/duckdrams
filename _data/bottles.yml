@@ -4526,6 +4526,184 @@ springbank-8-society:
       source: whiskybase
 
 
+#---- irish
+
+waterford-cuvee:
+  production:
+    vintage: null
+    producer: waterford
+  maturation:
+    age: 4
+    cask: US 1st Fill, US New Oak, French Oak, VDN
+  bottling:
+    bottler: Distillery Bottling
+    batching: null
+    abv: 50.0
+    outturn: 40000
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2021
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 190069
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/9/0069/343574-big.jpg
+      source: whiskybase
+
+finlaggan-old-reserve:
+  production:
+    vintage: null
+    producer: undisclosed-islay
+  maturation:
+    age: null
+    cask: null
+  bottling:
+    bottler: vintage-malt-co
+    batching: null
+    abv: 40.0
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Small Batch Release
+    name: Finlaggan
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 226948
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/2/6948/436134-big.jpg
+      source: whiskybase
+
+fercullen-first:
+  production:
+    vintage: null
+    producer: fercullen
+  maturation:
+    age: null
+    cask: Ex-Bourbon Barrels
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: 6000
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: 
+    name: First Release
+    released: 
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 231451
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/1451/418333-big.jpg
+      source: whiskybase
+
+west-cork-7:
+  production:
+    vintage: null
+    producer: west-cork
+  maturation:
+    age: 7
+    cask: Sherry , Bourbon Finish
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Bourbon Cask Finish
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 243599
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/3599/405543-big.jpg
+      source: whiskybase
+
+skellig-triple-cask:
+  production:
+    vintage: null
+    producer: skellig
+  maturation:
+    age: null
+    cask: Ex-Bourbon, PX-Sherry, peated Cask
+  bottling:
+    bottler: Distillery Bottling
+    batching: null
+    abv: 43
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: null
+    size: 700
+  marketing:
+    series: Six 18 Step Collection
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 244886
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/4886/445929-big.jpg
+      source: whiskybase
+
+irish-21-tbwc:
+  production:
+    vintage: null
+    producer: null
+  maturation:
+    age: 21
+    cask: Rum barrels, refill bourbon, PX & Oloroso butt
+  bottling:
+    bottler: tbwc
+    batching: null
+    abv: 45.8
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 274046
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/7/4046/503077-big.jpg
+      source: whiskybase
+
+
+
 # bottle-key:
 #   production:
 #     vintage: #
