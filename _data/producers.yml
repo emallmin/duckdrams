@@ -837,6 +837,14 @@ skellig:
   category: Irish Whiskey
   class: Single Pot Still
 
+waterford:
+  name: Waterford
+  kind: distillery
+  country: Ireland
+  category: Irish Whiskey
+  class: Single Malt
+  status: closed
+
 
 # --- pseudo-producers 
 
