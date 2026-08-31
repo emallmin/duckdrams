@@ -10,7 +10,7 @@ header:
   teaser: https://files.emilmallmin.com/bwh_springbank_stack.png
 ---
 
-I'm seasoning a new wok today. Has the apartment smelling like burnt cooking oil. I've aired it out as much as possible, but there is a lingering smell. So for tonight's tasting, I need somthing potent! Ah, the these samples of cask strenth Springbank society bottling will do.  
+I'm seasoning a new wok today. Has the apartment smelling like burnt cooking oil. I've aired it out as much as possible, but there is a lingering smell. So for tonight's tasting, I need somthing potent! Ah, the these samples of cask strenth Springbank society bottling ought to do it.  
 
 {% include review.html id="springbank-tr2019" %}
 
