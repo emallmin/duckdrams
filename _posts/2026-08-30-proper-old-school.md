@@ -23,11 +23,8 @@ Coming soon.
 {% include review.html id="port-ellen-1974-gm" %}
 
 
+- subtle sherry influence - depth
 
+- waxy with time
 
-
-
-
-
-
-
+- expressive despite 40%
