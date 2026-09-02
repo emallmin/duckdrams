@@ -62,6 +62,15 @@ royal-brackla:
   category: "Scotch Whisky"
   class: "Single Malt"
 
+tomatin:
+  name: Tomatin
+  kind: distillery
+  status: "Active"
+  region: "Highlands"
+  country: "Scotland"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+
 
 tullibardine:
   name: "Tullibardine"
@@ -119,6 +128,15 @@ ben-wyvis:
   category: "Scotch Whisky"
   class: "Single Malt"
   peated: no
+
+lochside:
+  name: "Lochside"
+  kind: distillery
+  status: closed
+  region: "Highlands"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  #peated: no
 
 
 ben-nevis:
@@ -384,11 +402,31 @@ cragganmore:
   category: Scotch Whisky
   class : Single Malt
 
+
+
 caperdonich:
   name: "Caperdonich"
   kind: distillery
   country: Scotland
   region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+  status: closed
+
+dallas-dhu:
+  name: "Dallas Dhu"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+  status: closed
+
+port-ellen:
+  name: Port Ellen
+  kind: distillery
+  country: Scotland
+  region: Islay
   category: Scotch Whisky
   class : Single Malt
   status: closed
@@ -405,6 +443,24 @@ glenburgie:
 
 glenallachie:
   name: "GlenAllachie"
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Malt
+  country: Scotland
+  region: Speyside
+  peated: no
+
+royal-lochnagar:
+  name: "Royal Lochnagar"
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Malt
+  country: Scotland
+  region: Speyside
+  peated: no
+
+mortlach:
+  name: Mortlach
   kind: distillery
   category: Scotch Whisky
   class: Single Malt
@@ -817,7 +873,7 @@ gortinore-irish:
   category: Irish Whiskey
 
 fercullen:
-  name: fercullen
+  name: Fercullen
   kind: distillery
   country: Ireland
   category: Irish Whiskey

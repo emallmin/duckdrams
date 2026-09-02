@@ -4702,6 +4702,179 @@ irish-21-tbwc:
       url: https://static.whiskybase.com/storage/whiskies/2/7/4046/503077-big.jpg
       source: whiskybase
 
+tomatin-1964-gm:
+  production:
+    vintage: 1964
+    producer: tomatin
+  maturation:
+    age: 17
+    cask: 
+  bottling:
+    bottler: gordon-macphail
+    batching: 
+    abv: 40
+    outturn: 
+    natural_color: 
+    unchillfiltered: 
+    bottling_date: 
+    size: 750
+  marketing:
+    series: Connoisseurs Choice
+    name:
+    released:
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 149352
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/4/9352/356027-big.jpg
+      source: whiskybase
+
+lochside-1965-gm:
+  production:
+    vintage: 1965
+    producer: lochside
+  maturation:
+    age: 20
+    cask: 
+  bottling:
+    bottler: gordon-macphail
+    batching: 
+    abv: 40
+    outturn: 
+    natural_color: 
+    unchillfiltered: 
+    bottling_date: 
+    size: 750
+  marketing:
+    series: Connoisseurs Choice
+    name: 
+    released:
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 16549
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/6/549/382985-big.jpg
+      source: whiskybase
+
+dallas-dhu-1972-gm:
+  production:
+    vintage: 1972
+    producer: dallas-dhu
+  maturation:
+    age: 16
+    cask: 
+  bottling:
+    bottler: gordon-macphail
+    batching: 
+    abv: 40
+    outturn: 
+    natural_color: true
+    unchillfiltered: 
+    bottling_date: 
+    size: 750
+  marketing:
+    series: Connoisseurs Choice
+    name: 
+    released:
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 16663
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/6/663/198079-big.jpg
+      source: whiskybase
+
+port-ellen-1974-gm:
+  production:
+    vintage: 1974
+    producer: port-ellen
+  maturation:
+    age: 16
+    cask: 
+  bottling:
+    bottler: gordon-macphail
+    batching: 
+    abv: 40
+    outturn: 
+    natural_color: 
+    unchillfiltered: 
+    bottling_date: 1991
+    size: 700
+  marketing:
+    series: Connoisseurs Choice
+    name: 
+    released:
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 19184
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/9/184/87205-big.jpg
+      source: whiskybase
+
+royal-lochnagar-1970-gm:
+  production:
+    vintage: 1970
+    producer: royal-lochnagar
+  maturation:
+    age: 14
+    cask: 
+  bottling:
+    bottler: gordon-macphail
+    batching: 
+    abv: 40
+    outturn: 
+    natural_color: 
+    unchillfiltered: 
+    bottling_date: 
+    size: 750
+  marketing:
+    series: Connoisseurs Choice
+    name: 
+    released: '30 oct 2014 12:46 pm by macwhisky # check!'
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 59485
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/5/9/485/149301-big.jpg
+      source: whiskybase
+
+mortlach-11-sv100proof:
+  production:
+    vintage: 2013
+    producer: mortlach
+  maturation:
+    age: 11
+    cask: 1st & 2nd Fill Oloroso Sherry Butt
+  bottling:
+    bottler: signatory
+    batching: 
+    abv: 57.1
+    outturn: 
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series: '100 Proof - Edition #34'
+    name: '100 Proof - Edition #34'
+    released:
+    rrp:
+      amount: 
+      currency: EUR
+  meta:
+    whiskybase_id: 66516
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/6/6/516/485930-big.jpg
+      source: whiskybase
 
 
 # bottle-key:
