@@ -18,7 +18,7 @@ For no very particular reason, I’m doing a Deanston tasting with the samples I
 
 
 Review placeholder for [WB198123 - Deanston | 11yo (2009) | 46% | Home of Malts](https://www.whiskybase.com/whiskies/whisky/198123):
-- Info: €70
+- Info: €70. Small sample review.
 - Nosing: There is primarily a sour note (lemon, white wine) that interacts with woodsy notes (oak, dunnage, dry spices) and light fruit (pear, apricot). I get some rice pudding with cinnamon too. 
 - Sipping: The palate is quite sweet, has a nice hint of bitter, and is positively malty and mouthfilling with toasted oak, nuts, orange, and a trace of wheat flour.
 - Comments: It’s not the best Deanston, but quite decent. But I enjoy the regular 12yo more (and for less money). The nose goes just a little too much towards dishcloth. The powerful palate is good, but undercuts the freshness.
