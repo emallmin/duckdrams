@@ -1,3 +1,10 @@
+---
+title: Old review index (2023-2025)
+permalink: /old-blog-distillery-index/
+layout: single
+classes: wide
+---
+
 <!-- 
 <p><em><strong>This is the list of all spirits I have reviewed on this blog and the link to their blog posts.</strong></em></p>
 
