@@ -13,11 +13,10 @@ header:
 *This post has be ported from the old blog. Full formatting and inclusion in the review index to be done. [Link to the original post](https://duckdrams.com/2025/02/22/blind-black-friday/)*
 
 
-
 What better symbol for the age of consumerism than Black Friday, unironically taking place the day after Thanksgiving. Sadly, my contribution to this sacred shopping spree was very minimal in 2024. In my defence I already have pretty much everything I need—but perhaps that’s missing the point. Except… whisky, one can always get some more whisky! And I did, jumping on an offer from SimpleSample for an €80 blind tasting pack of six 2cl single malt drams, with the hint that the distilleries represented were Bowmore, Springbank, Brora, Laphroigh, Port Ellen, Macallan. Perhaps the most sought-after (rightly or wrongly) distilleries out there. Now the time has come to put it to the test. And to put me to the test. Tasting all drams in one sitting, can I guess which one hails from which distillery?
 
 
-## [WB6297 - Springbank | bott. 1997 | 46%](https://www.whiskybase.com/whiskies/whisky/6297):
+## [Springbank | bott. 1997 | 46% | WB6297](https://www.whiskybase.com/whiskies/whisky/6297)
 - **Info**: Bottle availablity: ~€130 in auction. Review: from a 2cl sample bottle tasted blindly
 - **Nosing**: Bright fruits (pear, melon), sweet wheat bread, bourbon vanilla, dunnage, cheese in wax cloth, wood smoke
 - **Sipping**: Very dynamic: immediate impression if of a light mouthfeel, but over the course of the 10-15 second it blooms out with flavour, mouthfeel and oak spice. Somewhat austere; there’s fruit like melon, but little sweetness; bread, milk chocolate, dried tobacco leaf.
@@ -30,7 +29,7 @@ Value for money 🔴🟡⚫
 Punchline - Dynamic Springy
 
 
-## [WB9258 - Brora | 19yo (1982) | 50% | Silver Seal](https://www.whiskybase.com/whiskies/whisky/9258):
+## [Brora | 19yo (1982) | 50% | Silver Seal | WB9258](https://www.whiskybase.com/whiskies/whisky/9258)
 - **Info**: Bottle availablity: a few went in UK auctions in recent years for ~£750. Review: from a 2cl sample bottle tasted blindly
 - **Nosing**: Rather shy on the nose at first. Fresh minerality, florality, orange, and coconut, toasted oak. With hours in the glass a really nice Trocadero note and some cheese!
 - **Sipping**: Balanced taste with bitter, savoury, salty, sweet, and sour all there. Quite a lot of oak spice. Vanilla, coffee, lots of toasted notes, leather. Mild peat and farminess.
@@ -43,7 +42,7 @@ Value for money 🔴⚫⚫
 Punchline - Why so shy, Bro?
 
 
-## [WB7720 - Macallan | 12yo (1990) | 57.3% | Signatory Vintage](https://www.whiskybase.com/whiskies/whisky/7720):
+## [Macallan | 12yo (1990) | 57.3% | Signatory Vintage | WB7720](https://www.whiskybase.com/whiskies/whisky/7720)
 - **Info**: Bottle availablity: ~€350 at auction. Review: from a 2cl sample bottle tasted blindly
 - **Nosing**: Rich and decadent old sherry profile: prunes, molasses, red berry compote, leather and old furniture. A cigar cabinet? Hint of rubber with time.
 - **Sipping**: Viscous, sweet, and really quite tannic; but the spirit still exerts itself and this needs some water. Fruit cake, balsamico, maltiness. Dried cranberry and other fruits in the finish.
@@ -55,7 +54,7 @@ Value for money 🔴⚫⚫
 Punchline - Rich and decadent, whisky and distillery alike
 
 
-## [WB23826 - Port Ellen | 14yo (1983) | 58.1% | Vintage Malt Whisky Co](https://www.whiskybase.com/whiskies/whisky/23826):
+## [Port Ellen | 14yo (1983) | 58.1% | Vintage Malt Whisky Co | WB23826](https://www.whiskybase.com/whiskies/whisky/23826)
 - **Info**: Bottle availablity: ~€650 at auction. Review: from a 2cl sample bottle tasted blindly
 - **Nosing**: Cheese doodles! Some really overripe fruits, matcha tea, aaaand cattle dung and yeast 😂.
 - **Sipping**: Very briny, heavy peat, some ripe stone fruits, a little vanilla. Comes together very nicely.
@@ -68,7 +67,7 @@ Punchline - My kind of dung
 
 
 
-## [WB67484 - Bowmore | 30yo (1984) | 47.6% | Official](https://www.whiskybase.com/whiskies/whisky/67484):
+## [Bowmore | 30yo (1984) | 47.6% | Official | WB67484](https://www.whiskybase.com/whiskies/whisky/67484)
 - **Info**: Bottle availablity: rare; €1000+ at auction. Review: from a 5cl sample bottle tasted blindly
 - **Nosing**: Dry, minerally, and subtle tropical fruits (mango, pina colada) and something floral and candy-like, along with some oak and resin.
 - **Sipping**: Somewhere between dry and medium sweet; not bitter. The peat is medium-heavy. I’m getting fig chutney, green grapes, cheese, saffron.
@@ -80,7 +79,7 @@ Value for money 🔴⚫⚫
 Punchline - Beaut of a Bowmore. Award: ❤️
 
 
-## [WB23365 - Laphroaig | 20yo (1991) | 53.3% | Liquid Sun](https://www.whiskybase.com/whiskies/whisky/23365):
+## [Laphroaig | 20yo (1991) | 53.3% | Liquid Sun | WB23365](https://www.whiskybase.com/whiskies/whisky/23365)
 - **Info**: Bottle availablity: ~€350 at auction. Review: from a 2cl sample bottle tasted blindly
 - **Nosing**: Characteristic rubber note (sherry sulphur), mildly stinky feet, dried figs, toffee, costal spray
 - **Sipping**: Sweetish, salted caramel, some rubber, and a decent amount of peat.
