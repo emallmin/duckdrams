@@ -7,7 +7,7 @@ classes: wide
 # toc_label
 ---
 
-Below is the auto-generated for index for all reviews from late 2025 onward, as well as older reviews as I port them from the old blog. You can find review index of all bottles up until late 2025 <a href="http://emilmallmin.com/duckdrams/old-blog-review-index/)">here</a>.
+Below is the auto-generated for index for all reviews from late 2025 onward, as well as older reviews as I port them from the old blog. You can find review index of all bottles up until late 2025 <a href="http://emilmallmin.com/duckdrams/old-blog-review-index/">here</a>.
  
 - [Scotch Whisky](#scotch-whisky)
   - [Single Malt](#single-malt)
