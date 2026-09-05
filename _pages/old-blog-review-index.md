@@ -1,6 +1,6 @@
 ---
 title: Old review index (2023-2025)
-permalink: /old-blog-distillery-index/
+permalink: /old-blog-review-index/
 layout: single
 classes: wide
 ---
