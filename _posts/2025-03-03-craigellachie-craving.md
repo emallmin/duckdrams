@@ -21,9 +21,7 @@ I’ve recently done many blind tastings (the whisky calendar, the Black Friday 
 - **Nosing**: This ‘un sports a somewhat dirty and dusty sherry profile along with some very overripe tropical fruits. Mushy banana and deep-yellow pineapple meet egg tart with a cinnamon dusting. There’s a dirty dishrag in an old oak drawer somewhere nearby. Zesty orange and a bit of booziness freshen up.
 - **Sipping**: Good drinking strength. There’s a a nice development, with fruit punsch and digestive biscuits at the fore in the beginning leading into dried fruits, leather, tobacco, and funk (vegemite?). Not particularly sweet, more towards savoury and bitter. Chinese prickly ash in the early finish, but what lingers are the fruits.
 - **Comments**: I like this a lot, and there’s a lot of the spirit character here; definitely not a sherry-drenched impression. The only thing dragging it down a little for me is the spiciness. Still, it could potentially beat the regular 13yo, but I’d have to do a side-by-side.
-- **Score**: 
-
-Deliciousness ⚫🟡🟢
+- **Score**: Deliciousness ⚫🟡🟢
 Fun factor ⚫🟡🟢
 Value for money ⚫⚫🟢
 Punchline - Signatory succeed yet again

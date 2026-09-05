@@ -197,11 +197,37 @@ clynelish-8-tb:
   review:
     intro: null
     nosing: >
-      Pear, grapefruit, lemon cake icing, summer meadow with perfumy flowers, some herbs, petrichor or a little dunnage. Overall, fresh, fruity, chalky.
+      Pear, grapefruit, lemon cake icing, summer meadow with perfumy flowers, some herbs, petrichor or a little dunnage, bit waxy with time. Overall, fresh, fruity, chalky.
     sipping: >
       Oily texture, sweet and a bit salty, clean umami. Beeswax, honey, melon. Just a hint of metallic in the aftertaste, then gooseberry.  
     comments: >
       ###
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
+
+clynelish-8-dt: #Specially For WHISKY071
+  bottle: clynelish-8-dt
+  date: 2026-09-04
+  post: clynelish-deluge
+  market_context:
+    availability: 
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc: from a 6cl bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh, with pomelo and grapefruit, honied and waxy notes, a little parmesan
+    sipping: >
+      Salty, savoury, sweet. Honey 
+    comments: >
+      One of the waxier noses
+       
     grade:
       system: "three-tier-2026"
       score: ⁎
