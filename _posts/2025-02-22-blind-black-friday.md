@@ -3,19 +3,15 @@ layout: single
 title: "Blind Black Friday"
 date: 2025-02-22
 categories: Legacy
-tags: null
+tags: ported
 header:
   overlay_image: https://files.emilmallmin.com/blind_black_friday.jpeg
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/coming_soon.png
+  teaser: https://files.emilmallmin.com/blind_black_friday.jpeg
 ---
 
-This post will soon be ported from the old blog. [Link to the original post](https://duckdrams.com/2025/02/22/blind-black-friday/)
+*This post has be ported from the old blog. Full formatting and inclusion in the review index to be done. [Link to the original post](https://duckdrams.com/2025/02/22/blind-black-friday/)*
 
-
-- Text copied: Y
-- Cover image copied: Y
-- Content images coped: N/A
 
 
 What better symbol for the age of consumerism than Black Friday, unironically taking place the day after Thanksgiving. Sadly, my contribution to this sacred shopping spree was very minimal in 2024. In my defence I already have pretty much everything I need—but perhaps that’s missing the point. Except… whisky, one can always get some more whisky! And I did, jumping on an offer from SimpleSample for an €80 blind tasting pack of six 2cl single malt drams, with the hint that the distilleries represented were Bowmore, Springbank, Brora, Laphroigh, Port Ellen, Macallan. Perhaps the most sought-after (rightly or wrongly) distilleries out there. Now the time has come to put it to the test. And to put me to the test. Tasting all drams in one sitting, can I guess which one hails from which distillery?
