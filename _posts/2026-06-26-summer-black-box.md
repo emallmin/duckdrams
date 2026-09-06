@@ -14,7 +14,7 @@ The black box concept started as a natural way to do blind tastings. For random 
 - [Aug 2025]({% post_url 2025-08-31-black-box-august %})
 - [July 2025]({% post_url 2025-07-31-black-box-july %})
 - [May 2025]({% post_url 2025-05-27-black-box-may-2025 %})
-- [Nov 2024]({% post_url 2025/03/02/this-and-that %})
+- [Nov 2024]({% post_url 2025-03-02-this-and-that %})
 - [Oct 2024]({% post_url 2024-10-30-october-black-box-nourishing-ncnean-and-nineteen-seventy-nine %})
 - [Sep 2024]({% post_url 2024-09-29-the-black-box-1 %})
 
