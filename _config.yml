@@ -2,6 +2,10 @@ title: "DuckDrams"
 description: "A personal whisky blog"
 remote_theme: mmistakes/minimal-mistakes
 
+url: "http://emilmallmin.com"
+baseurl: "/duckdrams"
+
+
 # Optional: Markdown and posts
 markdown: kramdown
 plugins:
