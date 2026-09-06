@@ -10,6 +10,7 @@ header:
   teaser: https://files.emilmallmin.com/summer-black-box.png
 ---
 The black box concept started as a natural way to do blind tastings. For random samples that are not fitted into a themed tasting, I cover up their labels, and put them in a special stash. Soon I forget all about what's in there (there's a lot!) and drawing random samples from there I'm often totally surprised about what I find. The previous editions are listed below, so we can see that there's been no withdrawal from the black box in a long time — but ther have been deposits! So time to get to work again.
+
 - [Oct 2025]({% post_url 2025-10-31-october-black-box %})
 - [Aug 2025]({% post_url 2025-08-31-black-box-august %})
 - [July 2025]({% post_url 2025-07-31-black-box-july %})
