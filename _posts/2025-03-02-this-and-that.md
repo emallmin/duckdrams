@@ -12,7 +12,7 @@ header:
 
 *This post has be ported from the old blog. Full formatting and inclusion in the review index to be done.* [Link to the original post](https://duckdrams.com/2025/03/02/this-and-that/)
 
-Most of my post are multi-dram tastings with clear themes. But sometimes it doesn’t work out that way.
+Most of my post are multi-dram tastings with clear themes. But sometimes it doesn’t work out that way. Here's a couple of reviews that were just sitting in the draft stage too long, so I dump them in this random post.
 
 This first dram was the only one in my “black box” for November last year:
 
