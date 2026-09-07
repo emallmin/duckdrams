@@ -14,10 +14,10 @@ header:
 
 This is another entry in the Ghost Safari series, where I am on a mission to try all closed Scotched single malt distilleries one can reasonable get one’s hands on (= that produced some whisky in the last 50 years). We come now to a set of long-gone Glens that I never tried before: Glen Flagler, Glen Albyn, Glenury Royal, Glenugie. As a measure of their rarity, we can look at the number of different bottlings for each distillery listed on whiskybase:
 
-*Glen Flagler* — 45
-*Glen Albyn* — 201
-*Glenury Royal* — 127
-*Glenugie* — 1156
+*Glen Flagler* — 45  
+*Glen Albyn* — 201  
+*Glenury Royal* — 127  
+*Glenugie* — 1156  
 
 As a comparison, Caol Ila, common among indie bottlers, has nearly 6400 entries. Glenfiddich, a venerable and well-marketed distillery, but rarely independently bottled (at least under its true name), has about 1500 entries. Most distilleries seem to lie in the range of 1000 to 7000 entries.
 
@@ -48,7 +48,7 @@ Value for money (not considered) ⚫⚫⚫  Punchline - Reminder of a gentler er
 Fun factor ⚫🟡⚫
 Value for money (not considered) ⚫⚫⚫ Punchline - Not everything that glitters is gold
 
-## Glenury Royal | 22yo (1984) | 48.5% | Duncan Taylor | [WBXXXXX](https://www.whiskybase.com/whiskies/whisky/15021)
+## Glenury Royal | 22yo (1984) | 48.5% | Duncan Taylor | [WB15021](https://www.whiskybase.com/whiskies/whisky/15021)
 - **Info**: Bottle availablity: very rare; expect ~€400 at autction. Review: from a 5cl sample bottle
 - **Nosing**: Tricky one; there are lots of subtle herbal, grassy, floral aromas, along with fruits and minerality and a dusty and oily vibe. Various notes that came to mind (in order of appearance): pineapple, ham & cheese, rhubarb, herbs, strawberry, grape, clay, flower violet, a little tiger balm, lemon, wood (with water), sesame oil.
 - **Sipping**: A medium sweetness, and a little salty. Very malt-driven, with fruity elements, fragrant mint, sour lemon drops, and maybe parma ham with melon, acorns (?!), and overall slightly oily and a wee bit dirty.
@@ -58,7 +58,7 @@ Fun factor ⚫⚫🟢
 Value for money (not considered) ⚫⚫⚫ Punchline - An olfactory workout
 
 
-## [ Glenugie | 25yo (1981) | 51.5% | Duncan Taylor | WB2828](https://www.whiskybase.com/whiskies/whisky/2828)
+## Glenugie | 25yo (1981) | 51.5% | Duncan Taylor | [WB2828](https://www.whiskybase.com/whiskies/whisky/2828)
 - **Info**: Bottle availablity: rare at auction; €400+ estimate. Review: from a 5cl sample bottle
 - **Nosing**: Lots of sherry cask influence here: leather, fruit leather, red wine, cream/butter, maple syrup, hardwood, caramel-coated nuts, seriously dark chocolate, a little savon de provence.
 
