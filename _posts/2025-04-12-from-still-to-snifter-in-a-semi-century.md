@@ -33,7 +33,7 @@ Punchline       70s gherkin
 - **Comments**: Not so complicated, but really quite nice.
 - **Score**: 
 Deliciousness   ⚫🟡🟢    
-Fun factor      ⚫🟡⚫ 
+Fun factor      ⚫🟡⚫  
 Value for money ⚫⚫⚫  
 Punchline: 70s lemons
 
@@ -42,7 +42,7 @@ Punchline: 70s lemons
 - **Info**: Specs: Scotch single malt. Bottle availablity: €600+. Review: from a 2cl sample bottle.
 - **Nosing**: Various yellow fruits, limoncello, litchi, “Champis”, sponge cake, fresh grass, cinnamon, oak spice
 - **Sipping**: Salty, just a little sweet and peppery. More peat than on the nose, turning a bit vegetal, plenty of citrus, salted grapefruit, and definitely oatcakes.
-- **Comments**: Another pretty good one! Not super-memoranle
+- **Comments**: Another pretty good one! Not super-memorable.
 - **Score**: 
 Deliciousness   ⚫🟡🟢  
 Fun factor      ⚫🟡⚫  

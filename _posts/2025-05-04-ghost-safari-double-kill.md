@@ -14,7 +14,7 @@ header:
 
 Only a few weeks ago in my review of Glen Flagler I wrote:
 
-The same compound housed a grain distillery Garnheath, the Glen Flagler malt distillery, and Killyloch malt distillery. The latter was a lighty-peated style (with a heavily peated ‘Islabrae’ version) whose production stopped in the early 1970s. Only three bottlings on whiskybase! That’s going to be neigh-impossible to find a sample of…
+*The same compound housed a grain distillery Garnheath, the Glen Flagler malt distillery, and Killyloch malt distillery. The latter was a lighty-peated style (with a heavily peated ‘Islabrae’ version) whose production stopped in the early 1970s. Only three bottlings on whiskybase! That’s going to be neigh-impossible to find a sample of…*
 
 Well, here I am with a sample I picked up at Limburg Whisky Festival for the princely sum of €45 for a single cl! Making it the most I’ve paid to try a whisky.
 
