@@ -4640,8 +4640,8 @@ clynelish-10-sv-100proof:
       system: "three-tier-2026"
       score: ###
 
-clynelish-8-cm: # carn mor clynelish 8
-  bottle: clynelish-8-cm
+clynelish-11-cm:
+  bottle: clynelish-11-cm
   date: ###
   post: clynelish-for-the-people
   market_context:
