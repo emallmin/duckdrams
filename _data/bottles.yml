@@ -5015,14 +5015,14 @@ clynelish-8-dt:
   marketing:
     series: null
     name: null
-    released: '15 jul 2026 9:34 pm by granella2003 # check!'
+    released: 2026
     rrp:
       amount: null
       currency: EUR
   meta:
     whiskybase_id: 303905
     image:
-      url: null
+      url: https://static.whiskybase.com/storage/whiskies/3/0/3905/551894-big.jpg
       source: whiskybase
 
 clynelish-not-a-blend-cb:
