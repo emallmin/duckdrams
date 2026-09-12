@@ -4556,6 +4556,38 @@ port-ellen-1974-gm:
       score: ##
       wb_score: 89
 
+#--- Limburg 2025
+
+old-school-malt-31-sv-2025b:
+  bottle: old-school-malt-31-sv
+  date: 2025-05-03
+  post: limburg-2025
+  market_context:
+    availability: "In stock at €350"
+    estimated_price:
+      amount: 350
+      currency: EUR
+  sample_context:
+    desc: "From a 2cl sample bottle."
+    blind: no
+  review:
+    intro: 
+    nosing: >
+      First and foremost very fruity, leaning in a tutti-frutti tropical direction, and lots of cola aromas and confectionary (vanilla, milk chocoalte), and a bit dusty in a comfy way (leather, polished wood). Something fatty and sooty in there too, enhanced with time and aeration.      
+    sipping: >
+      Big flavours, in a relatively oily texture. Fits the nose well, with fruits and winegums, but also some light medicinal notes, and tobacco smoke.
+    comments: 
+      I still find it super-delicious, but on this tasting I'm perhaps a little less hyped. And my tasting notes are a bit different, actually. At €200 a no brainer, but at €300 (best price online right now, buying from a private person in whiskybase market place) I'm really hesitating. It's gone a few times at auction for £168-208 in the UK, so perhaps if I bide my time, I'll eventually get a good deal.
+    grade:
+      system: "stoplight-2024"
+      deliciousness: "⚫⚫🟢"
+      fun_factor: "⚫⚫🟢"
+      value: "🔴🟡⚫"
+      punchline: Catch you in the actions!
+      mark: "❤️"
+
+
+
 #---------------
 # review-key:
 #   bottle: ###
