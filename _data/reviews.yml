@@ -4556,6 +4556,8 @@ port-ellen-1974-gm:
       score: ##
       wb_score: 89
 
+
+
 #--- Limburg 2025
 
 old-school-malt-31-sv-2025b:
@@ -4585,6 +4587,179 @@ old-school-malt-31-sv-2025b:
       value: "🔴🟡⚫"
       punchline: Catch you in the actions!
       mark: "❤️"
+
+
+
+#--- Clynelish for the people
+
+clynelish-10-ad:
+  bottle: clynelish-10-ad
+  date: 2026-04-08
+  post: clynelish-for-the-people
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Summarizing my impressions from three separate tasting occasions, there's zesty citrus (grapefruit), a slightly perfumed floral quality, crispness and minerality of a Riesling, strawberry dipped in white chocolate, and some denser coconutty bourbon cask notes. Maybe some wax if you go looking for it. It is a really good nose.
+    sipping: >
+      The second time I tried it (at which point it had had some areation and rest) I discovered a very lucid passion fruit note; also weeks later in my final sampling. Sweet, and both a bit bitter and salty but in a delicious way. Grapefruit or pomelo, roses, and a herbal streak. Also a bit hot neat, improves with water, though a pepperiness remains. The finish is excellent, though, with a classical bourbon cask gooseberry note and a waxiness lingering for a long time. 
+    comments: >
+      This one has plenty of character and dimensionality. Spirit-driven yet with an active cask. I would be very happy to have a bottle of this. Final score 87
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+clynelish-10-sv-100proof:
+  bottle: clynelish-10-sv-100proof
+  date: 2026-04-08
+  post: clynelish-for-the-people
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Floral honey, pear drops, citrus and pine needles, white pepper, perhaps a bit of hand sanitizer. With water and time, more buttery and something rather candy-like. Quite all right, but rather less characterful than some of the other bottlings. 
+    sipping: >
+      Salty-sweet, fresh, clean, but a bitter streak. Robust, even bit hot "hot". Grapefruit, apricot jam (with water), heater-honey and gooseberries in the finish.
+    comments: >
+      A perfectly acceptable bottling, need some cajoling with water and air to be at its best. But never truly sparkles. 84 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+clynelish-8-cm: # carn mor clynelish 8
+  bottle: clynelish-8-cm
+  date: ###
+  post: clynelish-for-the-people
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 6cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Ginger ale, browned butter, banana candy, lemon, a mix of herbs and flowers, inculding rosemary, something farmy/stable.
+    sipping: >
+      Medium sweet, dense and oily, but also really quite bitter grapefruit rind, and with some maltloaf and tobacco-like undertones. 
+    comments: >
+      Drinks well neat and there's plenty going on, in a sweet and zest direction. I think it's a good one. 86
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+clynelish-12-je:
+  bottle: clynelish-12-je
+  date: ###
+  post: clynelish-for-the-people
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Candied tropical fruits, oxidized red apple, turkish delight, honey, some oak spice. Getting some fatty notes, and burning candle. 
+    sipping: >
+      Sweet, briny, juicy, quaffable and smooth. Honeyed rice puffs, very juicy necarines, mango, orangettes. Slightly metallic in the finish.
+    comments: >
+      Really lovely fruit-bomb. Not super-Clynelish-y but still some waxy and coastal notes in there. 
+    grade:
+      system: "three-tier-2026"
+      score:
+      wb_score: 87
+
+clynelish-not-a-blend-cb:
+  bottle: clynelish-not-a-blend-cb
+  date: ###
+  post: clynelish-for-the-people
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Quite a few things going on: plenty of vanilla, some cardamom, and cedar wood; faint smoke, some minerality, and quite plenty of fizzy fruitiness: lemon, unripe papaya, rosehip.
+    sipping: >
+      Fruity sweetness, some salitiness. Lemon sherbet, and also malty, bread with nuts and dried fruits, something dirty/funky/farmy. Gooseberry finish, and trails out with some metallic bitterness.
+    comments: >
+      It's has a difference to the other bottling, and clearly it's the ex-Islay cask, though I could not have guessed in blid.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+clynelish-8-tb:
+  bottle: clynelish-8-tb
+  date: 2026-08-23
+  post: clynelish-for-the-people
+  market_context:
+    availability: Widely available from €45
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Pear, grapefruit, lemon cake icing, summer meadow with perfumy flowers, some herbs, petrichor or a little dunnage, bit waxy with time. Overall, fresh, fruity, chalky.
+    sipping: >
+      Oily texture, sweet and a bit salty, clean umami. Beeswax, honey, melon. Just a hint of metallic in the aftertaste, then gooseberry.  
+    comments: >
+      ###
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+
+clynelish-8-dt: #Specially For WHISKY071
+  bottle: clynelish-8-dt
+  date: 2026-09-04
+  post: clynelish-for-the-people
+  market_context:
+    availability: 
+    estimated_price:
+      amount: 50
+      currency: EUR
+  sample_context:
+    desc: from a 6cl bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Fresh, with pomelo and grapefruit, honied and waxy notes, a little parmesan
+    sipping: >
+      Salty, savoury, sweet. Honey 
+    comments: >
+      One of the waxier noses
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
 
 
 

@@ -109,6 +109,11 @@ north-star-spirits:
   kind: bottler
   country: UK
 
+carn-mor:
+  name: Càrn Mòr 
+  kind: bottler
+  country: UK
+
 meadowside:
   name: Meadowside Blending
   kind: bottler

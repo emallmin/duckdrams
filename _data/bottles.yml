@@ -4877,6 +4877,274 @@ mortlach-11-sv100proof:
       source: whiskybase
 
 
+
+#---- Clynlish for the people
+
+clynelish-12-je:
+  production:
+    vintage: 2013
+    producer: clynelish
+  maturation:
+    age: 12
+    cask: Re-charred Hogshead
+  bottling:
+    bottler: james-eadie
+    batching: null
+    abv: 52.5
+    outturn: 982
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: .2026
+    size: 700
+  marketing:
+    series: Distilleries of Great Britain & Ireland Commemorative
+    name:
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 295527
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/5527/529945-big.jpg
+      source: whiskybase
+
+clynelish-10-sv-100proof:
+  production:
+    vintage: 2016
+    producer: clynelish
+  maturation:
+    age: 10
+    cask: Refill Oloroso Sherry & New Wood Hogshead
+  bottling:
+    bottler: Signatory Vintage
+    batching: null
+    abv: 57.1
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2026
+    size: 700
+  marketing:
+    series: '100 Proof - Edition #77'
+    name: '100 Proof - Edition #77'
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 296524
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/6524/534256-big.jpg
+      source: whiskybase
+
+clynelish-11-cm:
+  production:
+    vintage: 2014
+    producer: clynelish
+  maturation:
+    age: 11
+    cask: Bourbon hogshead
+  bottling:
+    bottler: carn-mor
+    batching: single_cask
+    abv: 52.4
+    outturn: 264
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2026
+    size: 700
+  marketing:
+    series:
+    name: 
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 300812
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/3/0/0812/535239-big.jpg
+      source: whiskybase
+
+clynelish-8-tb:
+  production:
+    vintage: null
+    producer: clynelish
+  maturation:
+    age: 8
+    cask: Re-Fill Hogshead
+  bottling:
+    bottler: thompson-bros
+    batching: null
+    abv: 48.0
+    outturn: 2187
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2026
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 302230
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/3/0/2230/546389-big.jpg
+      source: whiskybase
+
+clynelish-8-dt:
+  production:
+    vintage: 2017
+    producer: clynelish
+  maturation:
+    age: 8
+    cask: Octave Palo Cortado Finish
+  bottling:
+    bottler: duncan-taylor
+    batching: null
+    abv: 51.9
+    outturn: 97
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: null
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: '15 jul 2026 9:34 pm by granella2003 # check!'
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 303905
+    image:
+      url: null
+      source: whiskybase
+
+clynelish-not-a-blend-cb:
+  production:
+    vintage: 2015
+    producer: clynelish
+  maturation:
+    age: 10
+    cask: first fill bourbon barrel and Former Bowmore
+  bottling:
+    bottler: compass-box
+    batching: null
+    abv: 50.0
+    outturn: 1278
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series:
+    name: THIS IS NOT A BLEND
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 284361
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/4361/525890-big.jpg
+      source: whiskybase
+
+clynelish-12-tb:
+  production:
+    vintage: 2013
+    producer: clynelish
+  maturation:
+    age: 12
+    cask: Rechar Hogshead
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 50.1
+    outturn: 254
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: null
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 296080
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/6080/531913-big.jpg
+      source: whiskybase
+
+clynelish-10-ad:
+  production:
+    vintage: 2015
+    producer: clynelish
+  maturation:
+    age: 10
+    cask: First Fill Bourbon Barrel
+  bottling:
+    bottler: adelphi
+    batching: single_cask
+    abv: 54.9
+    outturn: 232
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2026
+    size: 700
+  marketing:
+    series: Selection
+    name: null
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 296184
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/6184/544921-big.jpg
+      source: whiskybase
+
+
+#--- Glencadam
+
+glencadam:
+  production:
+    vintage: 2006
+    producer: glencadam
+  maturation:
+    age: 15
+    cask: Ex-Bourbon AO + White Port Barrel Finish
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: 3684
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: Reserva De Porto Branco
+    name: Reserva De Porto Branco
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 202120
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/0/2120/363778-big.jpg
+      source: whiskybase
+
+
 # bottle-key:
 #   production:
 #     vintage: #

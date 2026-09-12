@@ -320,6 +320,16 @@ auchentoshan:
   class: Single Malt
   peated: no
 
+daftmill:
+  name: Daftmill
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+
+
 signatory-blended-malt:
   name: Signatory Vintage
   kind: blender
@@ -402,7 +412,13 @@ cragganmore:
   category: Scotch Whisky
   class : Single Malt
 
-
+glencadam:
+  name: "Glencadam"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
 
 caperdonich:
   name: "Caperdonich"
