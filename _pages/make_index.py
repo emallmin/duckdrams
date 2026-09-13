@@ -87,6 +87,14 @@ def review_string(review_id):
     abv = bottle["bottling"].get("abv")
     bottler = bottlers.get(bottle["bottling"]["bottler"])
     system = r["review"]["grade"]["system"]
+    try:
+        heart = r["review"]["grade"]["heart"]
+        if not heart:
+            mark = r["review"]["grade"]["mark"]
+            if mark == "❤️" or mark == "❤️ Personal Favourite":
+                heart = True    
+    except:
+        heart = False
 
     age_snippet = f"{age}yo" if age else "NAS"
 
@@ -105,8 +113,12 @@ def review_string(review_id):
     if bottler:
         html += f" <em>{bottler['name']}</em>"
     html += "</a>"
-    if system != "three-tier-2026":
-        html += '<span style="color:LightGray;">[legacy]</span>'
+    if system == "three-tier-2026":
+        score = r["review"]["grade"]["score"]
+        if score in ["⁎","⁎⁎","⁎⁎⁎"]:
+            html += f'<span> {score}</span>'
+    elif heart:
+        html += '<span style="color:LightGray;">[legacy ♥]</span>'
     html += "</div>"
 
     return html
