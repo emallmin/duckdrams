@@ -11,7 +11,6 @@
 {% assign _bottler = site.data.bottlers[_bottle.bottling.bottler] %}
 {% assign system =  review.review.grade.system %}
 
-
 {% assign _delim = "^" %}
 {% assign return = _producer | append: _delim | append: _expression | append: _delim | append: _age | append: _delim | append: _vintage | append: _delim | append: abv | append: _delim  | append: _bottler | split: _delim %}
 
@@ -24,6 +23,17 @@
   {% endif %}
 {%- endcapture %}
 
+<!-- Legacy star? -->
+{% if review.review.grade.mark %}
+  {% assign mark = review.review.grade.mark %}
+{% else %}
+  {% assign mark = "NONE" %}
+{% endif %}
+{% if review.review.grade.heart or mark == "❤️" or mark == "❤️ Personal Favourite"%}
+  {% assign heart = true %}
+{% else %}
+  {% assign heart = false %}
+{% endif %}
 <div>
 <a href="{%- include review-href.html id=_review_id -%}">
 {% if _producer_name -%}{{ _producer_name }} {% endif -%}
@@ -33,5 +43,8 @@
 {% if _abv -%} {{ _abv }}% {% endif -%}
 {% if _bottler -%} <em>{{ _bottler.name }}</em> {% endif -%}
 </a>
-{% if system != "three-tier-2026" %}<span style="color:LightGray;">[legacy]</span>{% endif -%}
+{% if system == "three-tier-2026" and review.review.grade.score %} {{review.review.grade.score}}{% endif -%}
+{% if heart %}<span style="color:LightGray;">[legacy ❤️]</span>{% endif -%}
 </div>
+
+
