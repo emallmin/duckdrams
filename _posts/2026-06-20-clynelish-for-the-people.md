@@ -34,11 +34,12 @@ For the last few years IB Clynelishes were few and far between, appearing every 
 
 {% include review.html id="clynelish-8-tb" %}
 
-<!-- {% include review.html id="clynelish-12-tb" %} -->
-
 {% include review.html id="clynelish-not-a-blend-cb" %}
 
 {% include review.html id="clynelish-12-je" %}
+
+<!-- {% include review.html id="clynelish-12-tb" %} -->
+
 
 My overall conclusion from this cavalcade of Clynelishes:
 

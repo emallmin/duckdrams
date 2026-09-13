@@ -15,22 +15,23 @@ header:
 
 *This post has be ported from the old blog. Full formatting and inclusion in the review index to be done.*
 
-## [ TITLE | WBXXXXX]()
-- **Info**: Bottle availablity: . Review:
+## TITLE | [WBXXXXX]()
+- **Info**: Specs: . Bottle availablity: . Review: .
 - **Nosing**: 
 - **Sipping**: 
 - **Comments**:
 - **Score**: 
+Deliciousness   ---  
+Fun factor      ---  
+Value for money --- 
 
-## [ TITLE | WBXXXXX]()
-- **Info**: Bottle availablity: . Review:
+
+## TITLE | [WBXXXXX]()
+- **Info**: Specs: . Bottle availablity: . Review: .
 - **Nosing**: 
 - **Sipping**: 
 - **Comments before reveal**:
-- **Comments before reveal**:
+- **Comments after reveal**:
 - **Score**: 
 
-
-- Text copied: Y
-- Cover image copied: N
-- Content images coped: N/A
+[Link to post]({{ site.baseurl }}{% post_url POST_SLUG %})
