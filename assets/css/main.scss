@@ -80,14 +80,14 @@ search: false
 
 .score-box-text {
   display: block;
-  width: 520px;              /* or 30em */
+  width: 480px;              /* or 30em */
   max-width: none;
   visibility: hidden;
   opacity: 0;
   position: absolute;
   z-index: 10;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-38%);
   bottom: 120%;
   background: #222;
   color: #fff;
