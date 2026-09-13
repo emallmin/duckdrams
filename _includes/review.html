@@ -105,7 +105,7 @@
   {% assign system = review.review.grade.system %}
   {% assign score = review.review.grade.score %} 
   {% if system == "three-tier-2026" %}
-    {% if score%}
+    {% if score %}
       <span style="font-size:32px">{{score}}</span>
     {% endif %} 
   {% elsif system == "multidim-2025" %} Deliciousness: {{review.grade.nose_deliciousness}}  Fun factor: {{review.grade.nose_fun_factor}} {% endif %}
