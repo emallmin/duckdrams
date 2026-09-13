@@ -106,13 +106,7 @@
   {% assign score = review.review.grade.score %} 
   {% if system == "three-tier-2026" %}
     {% if score %}
-    <b>Award<span class="score-box" tabindex="0">ⓘ
-      <span class="score-box-text">
-        ⁎ : <br>
-        ⁎⁎ : <br>
-        ⁎⁎⁎ : <br>
-      </span>
-      </span>:</b>
+    <b>Award{% include star-box.html %}:</b>
       <div style="text-align:center">
         <span style="font-size:72px; line-height:0.7;">{{score}}</span>
       </div>
