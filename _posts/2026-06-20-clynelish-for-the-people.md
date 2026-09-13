@@ -12,6 +12,13 @@ header:
 
 For the last few years IB Clynelishes were few and far between, appearing every once in a while as a cat-themed secret Highland or Sutherland, and often with a heavy price premium. Now, economic desperation or magnanimous generosity (you be the judge) has had Diageo releasing a lot of Clynelish casks for the IBs and the market is flooding with that briney-sweet, disputedly waxy, nectar. 
 
+
+2026 - 63
+2025 - 55
+2024 - 28
+2023 - 34
+
+
 {% include review.html id="clynelish-10-ad" %}
 
 {% include review.html id="clynelish-11-cm" %}

@@ -4977,7 +4977,7 @@ clynelish-8-tb:
   bottling:
     bottler: thompson-bros
     batching: null
-    abv: 48.0
+    abv: 48
     outturn: 2187
     natural_color: true
     unchillfiltered: true
