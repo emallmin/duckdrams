@@ -108,8 +108,12 @@
     {% if score %}
       <span style="font-size:32px">{{score}}</span>
     {% endif %} 
-  {% elsif system == "multidim-2025" %} Deliciousness: {{review.grade.nose_deliciousness}}  Fun factor: {{review.grade.nose_fun_factor}} {% endif %}
-  {% elsif system == "multidim-2025" %} Deliciousness: {{review.grade.sip_deliciousness}}  Fun factor: {{review.grade.sip_fun_factor}} {% endif %}
+  <!-- {% elsif system == "stoplight-2024" %} Deliciousness: {{review.grade.nose_deliciousness}}  Fun factor: {{review.grade.nose_fun_factor}} 
+  {% elsif system == "stoplight-2024" %} Deliciousness: {{review.grade.sip_deliciousness}}  Fun factor: {{review.grade.sip_fun_factor}} -->
+  {% else %}
+    {% if review.review.grade.heart %}
+      <span style="font-size:32px">❤️</span>
+    {% endif %}
   {% endif %}
   <hr>
 </div>
