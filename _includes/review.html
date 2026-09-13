@@ -118,7 +118,10 @@
     {% assign mark = "NONE" %}
   {% endif %}
   {% if review.review.grade.heart or mark == "❤️" or mark == "❤️ Personal Favourite"%}
-    <span style="font-size:72px">❤️</span>
+    <b>Award{% include heart-box.html %}:</b>
+      <div style="text-align:center">
+        <span style="font-size:72px; line-height:0.7;">❤️</span>
+      </div>
   {% endif %}
   <hr>
 </div>
