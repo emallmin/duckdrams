@@ -77,6 +77,26 @@ gallery_2:
     alt: 
     title: 
 
+gallery_gordon:
+  - url: https://files.emilmallmin.com/wl25_bottle_gordon.jpeg
+    image_path: https://files.emilmallmin.com/wl25_.jpeg
+  - url: https://files.emilmallmin.com/wl25_12.jpeg
+    image_path: https://files.emilmallmin.com/wl25_12.jpeg
+
+
+gallery_mmd:
+  - url: https://files.emilmallmin.com/wl25_murray.jpeg
+    image_path: https://files.emilmallmin.com/wl25_murray.jpeg
+  - url: https://files.emilmallmin.com/wl25_12.jpeg
+    image_path: https://files.emilmallmin.com/wl25_murray_ll.jpeg
+
+gallery_strange:
+  - url: https://files.emilmallmin.com/wl25_dung.jpeg
+    image_path: https://files.emilmallmin.com/wl25_dung.jpeg
+  - url: https://files.emilmallmin.com/wl25_dok.jpeg
+    image_path: https://files.emilmallmin.com/wl25_dok.jpeg
+  - url: https://files.emilmallmin.com/wl25_santis.jpeg
+    image_path: https://files.emilmallmin.com/wl25_santis.jpeg
 ---
 
 Lite intro text
@@ -88,17 +108,27 @@ Lite intro text
 ## Duck's Choice Award
 **Winner: *Elixir Distillers - Single Malts of Scotland Range***.  I was already really into this brand, and they did not disappoint. What I find appealing about them is their solid cask policy: they basically don't do finishes, but let the spirit rest for a good time in a single casks, or sometimes they will re-rack (which is technically still a finish) but then let it sit for a long time afterwards. In short — no gimmicks! They have many bottlings in the 15-22yo range, which I think is generally speaking optimal, and though they aren't cheap, they are reasonable for the current economy (usually €70-120). The bottles on show were bangers, and they were selling several of them on the spot, including the special bottling for the show, a 10yo single cask Laphroaig for €95 that was beyond reproach, just not entirely my cup of Scotch. What was my cup of Scotch however — and the hands-down best whisky of the show for me — was their 26yo Imperial. I made a very reasonable offer of €250 for a bottle, but since it retails for an absolutely ridiculous €900 (contradicting my statement about their reasonable prices) my offer was very firmly rejected. According to the lad I chatted with, Elixir Distillers basically sit on most of the remaining Imperial stock.
 
+<img src="https://files.emilmallmin.com/wl25_elixir.jpeg" alt="">
+
+
 **Honourable mention: *Vallein Tercinier Cognac (represented by Kirsch Import)***. Almost all cognac goes to a mass-consumer audience, bottled at 40%, with additives, and fake-luxury branding, and I see no point in wasting my time with it. But Vallein Tercinier is special (along with a few others like Pasquet), in that they offer vintage and integrity-bottled single casks outside France. Speaking with the Kirsch representative, I learned it was they who pitched the idea to VT to directly target the whisky-geeks by elevating their product to the high standards set for independent whisky bottlings - and I'm one example that this strategy was on point. My stash is overflowing with VTs. I tried a few ones at the show: the entry-level "Roots" did not appeal to me at all, being too "brandy-like" and tangerine-y, but once we reached the 1980s (selling at €130 — unthinkable for whisky of a similar age) I was in old oak-juice heaven, soaring above most whiskies that can be had at that price.
 
 ## Generosity Award
 **Winner: *Gordon & MacPhail***. Basically, they took it upon themselves to single-handedly run the "Orange", as it were. At the Whisky Fringe in Edinburgh the ticket comes with one voucher for a "Half-time Orange" - most exhibitors have a very special bottle in store that they will let you try in exchange for your voucher at the half-time point of the day. In years past I remember trying 2-3 decades old Mortlach and Bunnahabhain, and even 1940s Glen Grant this way. In Hamburg, GM had a timetable for pouring a whole series of such remarkable drams, which I only realized in time to catch the two last (but most exclusive) ones — a 1980s Convalmore (closed distillery) and a (1958) Glen Grant. These were really beautiful, but not life-changing drams. While I tried to sit down in peace and slowly enjoy my ~0.5ml with concentration, the circumstances of a marathon-tasting event like this is not going to do full justice to such drams. Beside these rarities, GM had a range of bottles to try on-demand, including the show-bottling, a 2xyo Bunnahabhain.
 
-**Honourable Mention 1: *Murray McDavid***. To be frank, I've not been a huge fan of theirs — they are all in for wild cask finishes, and not the slow and confident maturation that I'm fond of. Still, I have to commend them for bringing their best game to the show, including 22yo Bowmore, 28yo Allt-a-Bhainne, and more of that calibre. And not to forget their eminently affordable range of . I spoke with a lady (the lady?) of the brand, and she was very sympathetic. This is show exhibition done right. I come out with a much more positive feeling for the brand, though they remain in the try-before-buy category for me.
+{% include gallery id="gallery_gordon" caption="The Gordon & MacPhail booth" %}
 
-Honourable mention 2: Kirsch. I believe they are the biggest spirits importer in Germany, and
 
-## Stinginess Anit-Award
+**Honourable Mention: *Murray McDavid***. To be frank, I've not been a huge fan of theirs — they are all in for wild cask finishes, and not the slow and confident maturation that I'm fond of. Still, I have to commend them for bringing their best game to the show, including 22yo Bowmore, 28yo Allt-a-Bhainne, and more of that calibre. And not to forget their eminently affordable range of . I spoke with a lady (the lady?) of the brand, and she was very sympathetic. This is show exhibition done right. I come out with a much more positive feeling for the brand, though they remain in the try-before-buy category for me.
+
+{% include gallery id="gallery_mmd" caption="The Murray McDavid booth" %}
+
+
+## Stinginess Anti-Award
 **Winner: *Bacardi***- They brought the full range of Royal Bracklas, Craigellachies, etc. But they were charging you extra (and quite a lot) for anything above the standard 12 or 13yo. So while GM is popping bottles worth thousands of euros to distribute for free, Bacaradi (a bloody mega-corp)can't even offer a pour of a sub-€100 Craigellachie 17 to earn a little good-will. Booooo! It has to be said that even Diageo were offering samples of most of their "Special Releases" for free. Sure, these are heavily overpriced to begin with, but at least they'd let you try it even if it's supposedly a €150 bottle. Let me mention in the same breath that the Roseisle 14yo is a muscular beast that one would definitely want to snag at auction.
+
+<img src="https://files.emilmallmin.com/wl25_bacardi.jpeg" alt="">
+
 
 ## The new and strange (for me)
 Part of the fun of spirits festival is discovering the unexpected.
@@ -108,6 +138,9 @@ I've not considered myself a rum person, based on limited but not very convincin
 While taking to the young and friendly distiller of Boann (a lovely Irish whisky recommended by a maltmate in the Ralfy's Discord channel), I was lured in by the exhibitor next to Boann to try a Swiss whisky called Säntis. The Swiss gentleman asked what I was into. I said "unpeated bourbon cask", and he pours me whisky that was anything but that — essentially smoked sausage in liquid form with forest berry jelly and juniper wood shavings.
 
 In principle the weirdest thing I encountered was the elephant dung available for sniffing at Ondjaba's stall. Turns out it works well for drying barley with.
+
+{% include gallery id="gallery_strange" caption="Strange experiences" %}
+
 
 ## Full list of samples
 
