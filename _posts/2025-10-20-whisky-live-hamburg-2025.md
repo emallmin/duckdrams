@@ -94,12 +94,12 @@ gallery_mmd:
     image_path: https://files.emilmallmin.com/wl25_murray_ll.jpeg
 
 gallery_strange:
-  - url: https://files.emilmallmin.com/wl25_dung.jpeg
-    image_path: https://files.emilmallmin.com/wl25_dung.jpeg
   - url: https://files.emilmallmin.com/wl25_dok.jpeg
     image_path: https://files.emilmallmin.com/wl25_dok.jpeg
   - url: https://files.emilmallmin.com/wl25_santis.jpeg
     image_path: https://files.emilmallmin.com/wl25_santis.jpeg
+  - url: https://files.emilmallmin.com/wl25_dung.jpeg
+    image_path: https://files.emilmallmin.com/wl25_dung.jpeg
 
 gallery_bottles:
   - url: https://files.emilmallmin.com/wl25_bottle_1.jpeg
@@ -134,6 +134,10 @@ gallery_bottles:
     image_path: https://files.emilmallmin.com/wl25_bottle_15.jpeg
   - url: https://files.emilmallmin.com/wl25_bottle_16.jpeg
     image_path: https://files.emilmallmin.com/wl25_bottle_16.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_17.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_17.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_18.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_18.jpeg
 
 ---
 
