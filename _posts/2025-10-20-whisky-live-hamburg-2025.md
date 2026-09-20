@@ -2,7 +2,7 @@
 layout: single
 title: Whisky Live Hamburg 2025
 date: 2025-10-20
-categories: "Fairs & Festivals"
+categories: ["Fairs & Festivals"]
 tags: [tag1, tag2]
 header:
   overlay_image: https://files.emilmallmin.com/coming_soon.png
