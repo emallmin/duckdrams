@@ -109,48 +109,48 @@ In principle the weirdest thing I encountered was the elephant dung available fo
 ## Full list of samples
 
 <ol>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/281946/glenburgie-2009-je">Glenburgie 16, James Eadie</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/195889/cotswolds-reserve">Cotswolds "Reserve"</a> — *ok*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/285461/teeling-single-cask">Teeling Single Pot Still, "Awakening Series"</a> — *ok*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/284404/edradour-2018-sv">Edradour 7yo, "No.2 Inaugural", Signatory Vintage</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/285183/linkwood-1995-sv">Linkwood 30yo, "Awakening Series", Signatory Vintage</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/283474/callington-mill-enigma">Callington "Enigma"</a> — *meh*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/285669/deanston-2008-eld">Deanston 16yo, Single Malts of Scotland</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/228068/imperial-26-year-old-eld">Imperial 26yo, Single Malts of Scotland</a> — *urmahgherd 10/10*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/269281/tormore-2005-eld">Tormore 18yo, Single Malts of Scotland</a> — *yaay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/282233/glen-elgin-2008-eld">Glen Elgin 16yo, Single Malts of Scotland</a> — *yaaay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/281886/laphroaig-2014-eld">Laphroaig 11yo, Single Malts of Scotland</a> — *yay*</li>
-<li>[Cognac] Vallein Tercinier Roots — *nah*</li>
-<li>[Cognac] Vallein Tercinier Lot 96 Grande Champagne — *ok*</li>
-<li>[Cognac] Vallein Tercinier Lot 83 Petite Champagne — *yaay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/256141/boann-distillery-single-pot-still-madeira-cask">Boann "Madeira Cask"</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/228502/sntis-malt-edition-alpstein">Säntis "Alpstein XIX"</a> (I think) — *wtf*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/274037/ncnean-2019">Nc'Nean "Lemon Meadow"</a> — *yay*</li>
-<li>Nc'Nean "Artist.01 Collab" — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/284554/ncnean-2020">Nc'Nean "Quiet Rebels - Simon"</a> — *ok*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/276854/blended-malt-scotch-whisky-brle-royale-cb">Compass Box "Brûlée Royale"</a> — *yaay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/274148/flaming-heart-25th-anniversary-edition-cb">Compass Box "Flaming Heart"</a> — *ok*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/282256/indri-agneya">Indri "Agneya"</a> — *meh*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/286147/lindores-abbey-2020">Lindores Abbey "The Exclusive Cask"</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/283866/roseisle-14-year-old-harmonic-grace">Roseisle 14yo</a> — *yaay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/284229/bunnahabhain-1998-gm">Bunnahabhain 26yo, Gordon &amp; MacPhail</a> — *yaay*</li>
-<li>[Jamaican rum] Hampden 8yo — *yay*</li>
-<li>[Jamaican rum] Hampden HGML 2020 — *yaaa-wtf?*</li>
-<li>[Jamaican rum] Hampden DOK 2017 — *wtffffff*</li>
-<li>Koval bourbon — *ok*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/221458/convalmore-1982-gm">Convalmore 40yo, Gordon &amp; MacPhail</a> — *yaaaay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/236211/blended-malt-scotch-whisky-coleburn-deluxe-blend-2002-mm">"Coleburn" 20yo, Murray McDavid</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/277072/loch-lomond-1996-mm">Loch Lomond 28yo, Murray McDavid</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/276004/allt-a-bhainne-1996-mm">Allt-a-Bhainne 28, Murray McDavid</a> — *yaaay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/285459/bowmore-2003-mm">Bowmore 22, Murray McDavid</a> — *yay*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/285424/white-peak-2018-eld">White Peak, Whisky Trail</a> — *ok*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/266482/bimber-2016">Bimber 8yo Single Cask</a> — *ok*</li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/281946/glenburgie-2009-je">Glenburgie 16, James Eadie</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/195889/cotswolds-reserve">Cotswolds "Reserve"</a> — <em>ok</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/285461/teeling-single-cask">Teeling Single Pot Still, "Awakening Series"</a> — <em>ok</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/284404/edradour-2018-sv">Edradour 7yo, "No.2 Inaugural", Signatory Vintage</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/285183/linkwood-1995-sv">Linkwood 30yo, "Awakening Series", Signatory Vintage</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/283474/callington-mill-enigma">Callington "Enigma"</a> — <em>meh</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/285669/deanston-2008-eld">Deanston 16yo, Single Malts of Scotland</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/228068/imperial-26-year-old-eld">Imperial 26yo, Single Malts of Scotland</a> — <em>urmahgherd 10/10</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/269281/tormore-2005-eld">Tormore 18yo, Single Malts of Scotland</a> — <em>yaay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/282233/glen-elgin-2008-eld">Glen Elgin 16yo, Single Malts of Scotland</a> — <em>yaaay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/281886/laphroaig-2014-eld">Laphroaig 11yo, Single Malts of Scotland</a> — <em>yay</em></li>
+<li>[Cognac] Vallein Tercinier Roots — <em>nah</em></li>
+<li>[Cognac] Vallein Tercinier Lot 96 Grande Champagne — <em>ok</em></li>
+<li>[Cognac] Vallein Tercinier Lot 83 Petite Champagne — <em>yaay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/256141/boann-distillery-single-pot-still-madeira-cask">Boann "Madeira Cask"</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/228502/sntis-malt-edition-alpstein">Säntis "Alpstein XIX"</a> (I think) — <em>wtf</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/274037/ncnean-2019">Nc'Nean "Lemon Meadow"</a> — <em>yay</em></li>
+<li>Nc'Nean "Artist.01 Collab" — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/284554/ncnean-2020">Nc'Nean "Quiet Rebels - Simon"</a> — <em>ok</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/276854/blended-malt-scotch-whisky-brle-royale-cb">Compass Box "Brûlée Royale"</a> — <em>yaay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/274148/flaming-heart-25th-anniversary-edition-cb">Compass Box "Flaming Heart"</a> — <em>ok</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/282256/indri-agneya">Indri "Agneya"</a> — <em>meh</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/286147/lindores-abbey-2020">Lindores Abbey "The Exclusive Cask"</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/283866/roseisle-14-year-old-harmonic-grace">Roseisle 14yo</a> — <em>yaay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/284229/bunnahabhain-1998-gm">Bunnahabhain 26yo, Gordon &amp; MacPhail</a> — <em>yaay</em></li>
+<li>[Jamaican rum] Hampden 8yo — <em>yay</em></li>
+<li>[Jamaican rum] Hampden HGML 2020 — <em>yaaa-wtf?</em></li>
+<li>[Jamaican rum] Hampden DOK 2017 — <em>wtffffff</em></li>
+<li>Koval bourbon — <em>ok</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/221458/convalmore-1982-gm">Convalmore 40yo, Gordon &amp; MacPhail</a> — <em>yaaaay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/236211/blended-malt-scotch-whisky-coleburn-deluxe-blend-2002-mm">"Coleburn" 20yo, Murray McDavid</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/277072/loch-lomond-1996-mm">Loch Lomond 28yo, Murray McDavid</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/276004/allt-a-bhainne-1996-mm">Allt-a-Bhainne 28, Murray McDavid</a> — <em>yaaay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/285459/bowmore-2003-mm">Bowmore 22, Murray McDavid</a> — <em>yay</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/285424/white-peak-2018-eld">White Peak, Whisky Trail</a> — <em>ok</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/266482/bimber-2016">Bimber 8yo Single Cask</a> — <em>ok</em></li>
 <li>[New make] Dunphail</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/261038/ondjaba-the-namibian-malt">Ondjaba "Classic"</a> — *ok*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/230536/glen-grant-1959-gm">Glen Grant 63yo (1959), Gordon &amp; MacPhail</a> — *yaay*</li>
-<li>probably <a href="https://www.whiskybase.com/whiskies/whisky/261542/ben-nevis-2012-dl">Ben Nevis 12yo, Douglas Laing</a> — *ok*</li>
-<li><a href="https://www.whiskybase.com/whiskies/whisky/281526/ardnahoe-bholsa">Ardnahoe "Bholsa" </a> — *yay*</li>
-<li>[Cognac] Vallein Tercinier 1978 — *yaay*</li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/261038/ondjaba-the-namibian-malt">Ondjaba "Classic"</a> — <em>ok</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/230536/glen-grant-1959-gm">Glen Grant 63yo (1959), Gordon &amp; MacPhail</a> — <em>yaay</em></li>
+<li>probably <a href="https://www.whiskybase.com/whiskies/whisky/261542/ben-nevis-2012-dl">Ben Nevis 12yo, Douglas Laing</a> — <em>ok</em></li>
+<li><a href="https://www.whiskybase.com/whiskies/whisky/281526/ardnahoe-bholsa">Ardnahoe "Bholsa" </a> — <em>yay</em></li>
+<li>[Cognac] Vallein Tercinier 1978 — <em>yaay</em></li>
 <li>some version of GlenAllachie 21yo</li>
 <li><a href="https://www.whiskybase.com/whiskies/whisky/285464/holyrood-2020">Hollyrood 5yo "Awakening Series"</a></li>
 <li><a href="https://www.whiskybase.com/whiskies/whisky/247860/craigellachie-2008-dt">Craigellachie 14, The Octave / Duncan Taylor</a></li>
