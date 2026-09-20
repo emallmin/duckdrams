@@ -26,20 +26,24 @@ intro_gallery:
     image_path: https://files.emilmallmin.com/wl25_4.jpeg
     alt: 
     title: 
-  - url: https://files.emilmallmin.com/wl25_5.jpeg
-    image_path: https://files.emilmallmin.com/wl25_5.jpeg
-    alt: 
-    title: 
   - url: https://files.emilmallmin.com/wl25_6.jpeg
     image_path: https://files.emilmallmin.com/wl25_6.jpeg
     alt: 
     title: 
-  - url: https://files.emilmallmin.com/wl25_7.jpeg
-    image_path: https://files.emilmallmin.com/wl25_7.jpeg
+  - url: https://files.emilmallmin.com/wl25_5.jpeg
+    image_path: https://files.emilmallmin.com/wl25_5.jpeg
     alt: 
     title: 
   - url: https://files.emilmallmin.com/wl25_8.jpeg
     image_path: https://files.emilmallmin.com/wl25_8.jpeg
+    alt: 
+    title: 
+  - url: https://files.emilmallmin.com/wl25_11.jpeg
+    image_path: https://files.emilmallmin.com/wl25_11.jpeg
+    alt: 
+    title: 
+  - url: https://files.emilmallmin.com/wl25_7.jpeg
+    image_path: https://files.emilmallmin.com/wl25_7.jpeg
     alt: 
     title: 
   - url: https://files.emilmallmin.com/wl25_9.jpeg
@@ -48,10 +52,6 @@ intro_gallery:
     title: 
   - url: https://files.emilmallmin.com/wl25_10.jpeg
     image_path: https://files.emilmallmin.com/wl25_10.jpeg
-    alt: 
-    title: 
-  - url: https://files.emilmallmin.com/wl25_11.jpeg
-    image_path: https://files.emilmallmin.com/wl25_11.jpeg
     alt: 
     title: 
   - url: https://files.emilmallmin.com/wl25_12.jpeg
