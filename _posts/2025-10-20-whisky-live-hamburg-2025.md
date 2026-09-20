@@ -29,6 +29,10 @@ intro_gallery:
   - url: https://files.emilmallmin.com/wl25_6.jpeg
     image_path: https://files.emilmallmin.com/wl25_6.jpeg
     alt: 
+    title:
+  - url: https://files.emilmallmin.com/wl25_7.jpeg
+    image_path: https://files.emilmallmin.com/wl25_7.jpeg
+    alt: 
     title: 
   - url: https://files.emilmallmin.com/wl25_5.jpeg
     image_path: https://files.emilmallmin.com/wl25_5.jpeg
@@ -40,10 +44,6 @@ intro_gallery:
     title: 
   - url: https://files.emilmallmin.com/wl25_11.jpeg
     image_path: https://files.emilmallmin.com/wl25_11.jpeg
-    alt: 
-    title: 
-  - url: https://files.emilmallmin.com/wl25_7.jpeg
-    image_path: https://files.emilmallmin.com/wl25_7.jpeg
     alt: 
     title: 
   - url: https://files.emilmallmin.com/wl25_9.jpeg
