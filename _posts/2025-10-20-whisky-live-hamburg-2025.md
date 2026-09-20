@@ -83,6 +83,10 @@ gallery_gordon:
   - url: https://files.emilmallmin.com/wl25_12.jpeg
     image_path: https://files.emilmallmin.com/wl25_12.jpeg
 
+gallery_elixir:
+  - url: https://files.emilmallmin.com/wl25_elixir.jpeg
+    image_path: https://files.emilmallmin.com/wl25_elixir.jpeg
+
 gallery_bacardi:
   - url: https://files.emilmallmin.com/wl25_bacardi.jpeg
     image_path: https://files.emilmallmin.com/wl25_bacardi.jpeg
@@ -150,7 +154,7 @@ Lite intro text
 ## Duck's Choice Award
 **Winner: *Elixir Distillers - Single Malts of Scotland Range***.  I was already really into this brand, and they did not disappoint. What I find appealing about them is their solid cask policy: they basically don't do finishes, but let the spirit rest for a good time in a single casks, or sometimes they will re-rack (which is technically still a finish) but then let it sit for a long time afterwards. In short — no gimmicks! They have many bottlings in the 15-22yo range, which I think is generally speaking optimal, and though they aren't cheap, they are reasonable for the current economy (usually €70-120). The bottles on show were bangers, and they were selling several of them on the spot, including the special bottling for the show, a 10yo single cask Laphroaig for €95 that was beyond reproach, just not entirely my cup of Scotch. What was my cup of Scotch however — and the hands-down best whisky of the show for me — was their 26yo Imperial. I made a very reasonable offer of €250 for a bottle, but since it retails for an absolutely ridiculous €900 (contradicting my statement about their reasonable prices) my offer was very firmly rejected. According to the lad I chatted with, Elixir Distillers basically sit on most of the remaining Imperial stock.
 
-<img src="https://files.emilmallmin.com/wl25_elixir.jpeg" alt="">
+{% include gallery id="gallery_elixir" caption="The Elixir booth" %}
 
 
 **Honourable mention: *Vallein Tercinier Cognac (represented by Kirsch Import)***. Almost all cognac goes to a mass-consumer audience, bottled at 40%, with additives, and fake-luxury branding, and I see no point in wasting my time with it. But Vallein Tercinier is special (along with a few others like Pasquet), in that they offer vintage and integrity-bottled single casks outside France. Speaking with the Kirsch representative, I learned it was they who pitched the idea to VT to directly target the whisky-geeks by elevating their product to the high standards set for independent whisky bottlings - and I'm one example that this strategy was on point. My stash is overflowing with VTs. I tried a few ones at the show: the entry-level "Roots" did not appeal to me at all, being too "brandy-like" and tangerine-y, but once we reached the 1980s (selling at €130 — unthinkable for whisky of a similar age) I was in old oak-juice heaven, soaring above most whiskies that can be had at that price.
