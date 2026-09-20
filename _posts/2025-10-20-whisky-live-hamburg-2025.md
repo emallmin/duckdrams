@@ -77,7 +77,7 @@ gallery_2:
     alt: 
     title: 
 
-  ---
+---
 
 {% include gallery id="intro_gallery" caption="Photos from Whisky Live 2025 in Hamburg" %}
 
