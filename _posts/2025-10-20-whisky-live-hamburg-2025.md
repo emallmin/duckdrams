@@ -79,10 +79,13 @@ gallery_2:
 
 gallery_gordon:
   - url: https://files.emilmallmin.com/wl25_bottle_gordon.jpeg
-    image_path: https://files.emilmallmin.com/wl25_.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_gordon.jpeg
   - url: https://files.emilmallmin.com/wl25_12.jpeg
     image_path: https://files.emilmallmin.com/wl25_12.jpeg
 
+gallery_bacardi:
+  - url: https://files.emilmallmin.com/wl25_bacardi.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bacardi.jpeg
 
 gallery_mmd:
   - url: https://files.emilmallmin.com/wl25_murray.jpeg
@@ -162,7 +165,9 @@ Lite intro text
 ## Stinginess Anti-Award
 **Winner: *Bacardi***. They brought the full range of Royal Bracklas, Craigellachies, etc. But they were charging you extra (and quite a lot) for anything above the standard 12 or 13yo. So while GM is popping bottles worth thousands of euros to distribute for free, Bacaradi (a bloody mega-corp)can't even offer a pour of a sub-€100 Craigellachie 17 to earn a little good-will. Booooo! It has to be said that even Diageo were offering samples of most of their "Special Releases" for free. Sure, these are heavily overpriced to begin with, but at least they'd let you try it even if it's supposedly a €150 bottle. Let me mention in the same breath that the Roseisle 14yo is a muscular beast that one would definitely want to snag at auction.
 
-<img src="https://files.emilmallmin.com/wl25_bacardi.jpeg" alt="">
+{% include gallery id="gallery_bacardi" caption="The Bacardi booth" %}
+
+<!-- <img src="https://files.emilmallmin.com/wl25_bacardi.jpeg" alt=""> -->
 
 
 ## The new and strange (for me)
