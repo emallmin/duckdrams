@@ -2,7 +2,7 @@
 layout: single
 title: "Another walk in the park"
 date: 2025-11-19
-categories: Legacy
+categories: Review
 tags: null
 header:
   overlay_image: https://files.emilmallmin.com/coming_soon.png

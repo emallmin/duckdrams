@@ -2,7 +2,7 @@
 layout: single
 title: "Ghost Safari: Bar from afar"
 date: 2025-11-16
-categories: whisky
+categories: Review
 tags: [review, peated]
 header:
   overlay_image: https://files.emilmallmin.com/bar_from_afar.jpeg

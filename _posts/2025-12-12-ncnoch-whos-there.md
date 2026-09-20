@@ -2,7 +2,7 @@
 layout: single
 title: "NcNoch - who's there?"
 date: 2025-12-12
-categories: whisky
+categories: [Review, Experiment]
 tags: [review]
 # header:
 #   overlay_image: https://files.emilmallmin.com/bar_from_afar.jpeg

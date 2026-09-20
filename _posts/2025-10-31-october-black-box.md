@@ -2,7 +2,7 @@
 layout: single
 title: "October Black Box"
 date: 2025-10-31
-categories: Legacy
+categories: ["Blind review"]
 tags: null
 header:
   overlay_image: https://files.emilmallmin.com/coming_soon.png

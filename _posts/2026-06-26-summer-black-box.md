@@ -2,7 +2,7 @@
 layout: single
 title: Summer black box
 date: 2026-06-26
-categories: Review
+categories: ["Blind review"]
 tags: [tag1, tag2]
 header:
   overlay_image: https://files.emilmallmin.com/summer-black-box.png

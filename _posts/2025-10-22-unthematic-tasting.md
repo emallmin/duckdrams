@@ -2,7 +2,7 @@
 layout: single
 title: "Unthematic tasting"
 date: 2025-10-22
-categories: Legacy
+categories: Review
 tags: null
 header:
   overlay_image: https://files.emilmallmin.com/coming_soon.png
