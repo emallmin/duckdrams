@@ -97,6 +97,41 @@ gallery_strange:
     image_path: https://files.emilmallmin.com/wl25_dok.jpeg
   - url: https://files.emilmallmin.com/wl25_santis.jpeg
     image_path: https://files.emilmallmin.com/wl25_santis.jpeg
+
+gallery_bottles:
+  - url: https://files.emilmallmin.com/wl25_bottle_1.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_1.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_2.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_2.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_3.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_3.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_4.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_4.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_5.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_5.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_6.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_6.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_7.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_7.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_8.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_8.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_9.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_9.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_10.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_10.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_11.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_11.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_12.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_12.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_13.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_13.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_14.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_14.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_15.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_15.jpeg
+  - url: https://files.emilmallmin.com/wl25_bottle_16.jpeg
+    image_path: https://files.emilmallmin.com/wl25_bottle_16.jpeg
+
 ---
 
 Lite intro text
@@ -125,7 +160,7 @@ Lite intro text
 
 
 ## Stinginess Anti-Award
-**Winner: *Bacardi***- They brought the full range of Royal Bracklas, Craigellachies, etc. But they were charging you extra (and quite a lot) for anything above the standard 12 or 13yo. So while GM is popping bottles worth thousands of euros to distribute for free, Bacaradi (a bloody mega-corp)can't even offer a pour of a sub-€100 Craigellachie 17 to earn a little good-will. Booooo! It has to be said that even Diageo were offering samples of most of their "Special Releases" for free. Sure, these are heavily overpriced to begin with, but at least they'd let you try it even if it's supposedly a €150 bottle. Let me mention in the same breath that the Roseisle 14yo is a muscular beast that one would definitely want to snag at auction.
+**Winner: *Bacardi***. They brought the full range of Royal Bracklas, Craigellachies, etc. But they were charging you extra (and quite a lot) for anything above the standard 12 or 13yo. So while GM is popping bottles worth thousands of euros to distribute for free, Bacaradi (a bloody mega-corp)can't even offer a pour of a sub-€100 Craigellachie 17 to earn a little good-will. Booooo! It has to be said that even Diageo were offering samples of most of their "Special Releases" for free. Sure, these are heavily overpriced to begin with, but at least they'd let you try it even if it's supposedly a €150 bottle. Let me mention in the same breath that the Roseisle 14yo is a muscular beast that one would definitely want to snag at auction.
 
 <img src="https://files.emilmallmin.com/wl25_bacardi.jpeg" alt="">
 
@@ -195,3 +230,4 @@ In principle the weirdest thing I encountered was the elephant dung available fo
 <li>Reprise: <a href="https://www.whiskybase.com/whiskies/whisky/228068/imperial-26-year-old-eld">Imperial 26yo, Single Malts of Scotland</a></li>
 </ol>
 
+{% include gallery id="gallery_bottles" caption="Some of the bottles I sampled" %}
