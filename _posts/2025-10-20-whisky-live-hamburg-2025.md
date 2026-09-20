@@ -60,7 +60,7 @@ intro_gallery:
     title: 
 
 gallery_2:
-- url: https://files.emilmallmin.com/wl25_.jpeg
+  - url: https://files.emilmallmin.com/wl25_.jpeg
     image_path: https://files.emilmallmin.com/wl25_.jpeg
     alt: 
     title: 
