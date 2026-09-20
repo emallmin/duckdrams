@@ -2,7 +2,7 @@
 layout: single
 title: Whisky Live Hamburg 2025
 date: 2025-10-20
-categories: Legacy
+categories: "Fairs & Festivals"
 tags: [tag1, tag2]
 header:
   overlay_image: https://files.emilmallmin.com/coming_soon.png
@@ -78,6 +78,9 @@ gallery_2:
     title: 
 
 ---
+
+Lite intro text
+
 
 {% include gallery id="intro_gallery" caption="Photos from Whisky Live 2025 in Hamburg" %}
 
