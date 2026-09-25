@@ -1,9 +1,13 @@
 ---
 layout: single
-title: This n' that 
+title: The leftovers
 date: 2026-04-07
-categories: whisky
-tags: [review, peated]
+categories: Review
+tags: []
+header:
+  overlay_image: https://files.emilmallmin.com/leftovers.png
+  overlay_filter: 0.5
+  teaser: https://files.emilmallmin.com/leftovers.png
 ---
 
 Sometimes I review single samples out of urgency, curiosity, or whim, with the idea that they'll somehow make it into a themed post soon enough. But they end up sitting sad, lonley, forgotten, and even half-drunk, waiting to no avail. Here I've rounded up a bit of this n' that that's been sitting long enough.   
