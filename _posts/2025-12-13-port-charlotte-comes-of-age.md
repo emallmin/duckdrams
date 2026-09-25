@@ -2,7 +2,7 @@
 layout: single
 title: "Port Charlotte comes of age"
 date: 2025-12-13
-categories: Legacy
+categories: Review
 tags: null
 header:
   overlay_image: https://files.emilmallmin.com/coming_soon.png

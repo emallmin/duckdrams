@@ -3880,7 +3880,7 @@ gortinore-natterjack:
         Not surprised that it's a blend at 40%. A sample I got as part of a random set. Not something I would have chosen, and rightly so. 
     grade:
       system: "three-tier-2026"
-      score: 79
+      wb_score: 79
 
 strathmill-13-flick:
   bottle: strathmill-13-flick
@@ -3903,6 +3903,8 @@ strathmill-13-flick:
     comments:
       before_reveal:
         What could it be? Not a great deal of age, 7-13yo. Color does not speak to sherry, and only the fatty, somewhat sour notes would make me say sherry. 50%+ ABV no doubt. Speyside/Highland.
+      after_reveal:
+        Ok, bourbon cask, but it is a rather anonymous Speyside distillery within the age range I guessed.
     grade:
       system: "three-tier-2026"
       score: ###

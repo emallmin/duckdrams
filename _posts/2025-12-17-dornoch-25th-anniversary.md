@@ -2,7 +2,7 @@
 layout: single
 title: "Dornoch 25th Anniversary Tasting"
 date: 2025-12-17
-categories: whisky
+categories: Review
 tags: [review]
 # header:
 #   overlay_image: https://files.emilmallmin.com/bar_from_afar.jpeg

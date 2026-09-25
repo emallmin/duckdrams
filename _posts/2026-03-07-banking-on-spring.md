@@ -2,7 +2,7 @@
 layout: single
 title: Banking on Spring 
 date: 2026-03-07
-categories: whisky
+categories: Review
 tags: [review, peated]
 ---
 

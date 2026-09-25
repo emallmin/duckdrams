@@ -2,7 +2,7 @@
 layout: single
 title: Catching up with the calendar, 2026 ed.
 date: 2026-02-21
-categories: whisky
+categories: ["Blind review"]
 tags: [review, peated]
 header:
   overlay_image: https://files.emilmallmin.com/calendar_2025.jpeg #byt ut
