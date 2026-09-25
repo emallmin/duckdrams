@@ -5,7 +5,7 @@ date: 2026-09-04
 categories: Review
 tags: [Clynelish]
 header:
-  overlay_image: https://files.emilmallmin.com/clynelish_logo.png
+  overlay_image: https://files.emilmallmin.com/clynelish_logo_cat.png
   overlay_filter: 0.5
   teaser: https://files.emilmallmin.com/clynelish_logo.png
 ---
