@@ -2982,7 +2982,7 @@ springbank-5-100proof:
       It's better than I had thought. I prefer the 10yo with its tropical bourbon notes, but the 100 proof does deliver a different experience, and does not feel immature as such. 
     grade:
       system: "three-tier-2026"
-      score: 85
+      wb_score: 85
 
 ben-nevis-7-sv-100proof:
   bottle: ben-nevis-7-sv-100proof
