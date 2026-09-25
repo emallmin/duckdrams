@@ -3,26 +3,20 @@ layout: single
 title: Clynelish for the people
 date: 2026-09-04
 categories: Review
-tags: [tag1, tag2]
+tags: [Clynelish]
 header:
-  overlay_image: https://files.emilmallmin.com/coming_soon.png
+  overlay_image: https://files.emilmallmin.com/clynelish_logo.png
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/coming_soon.png
+  teaser: https://files.emilmallmin.com/clynelish_logo.png
 ---
 
-For the last few years IB Clynelishes were few and far between, appearing every once in a while as a cat-themed secret Highland or Sutherland, and often with a heavy price premium. Now, economic desperation or magnanimous generosity (you be the judge) has had Diageo releasing a lot of Clynelish casks for the IBs and the market is flooding with that briney-sweet, disputedly waxy, nectar. 
-<span class="score-box" tabindex="0">ⓘ
-  <span class="score-box-text">
-    This is the extra information you want to show.
-  </span>
-</span>
+For the last few years IB Clynelishes were few and far between, appearing every once in a while as a cat-themed secret Highland or Sutherland, and often with a heavy price premium. Now, economic desperation or magnanimous generosity (you be the judge) has had Diageo releasing a lot of Clynelish casks for the IBs and the market is flooding with that briney-sweet, disputedly waxy, nectar. I've collected many samples of recent bottling, and time has come to pass judgement.
 
-
+<!-- 
 2026 - 63
 2025 - 55
 2024 - 28
-2023 - 34
-
+2023 - 34 -->
 
 {% include review.html id="clynelish-10-ad" %}
 

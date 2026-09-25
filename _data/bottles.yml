@@ -5008,8 +5008,8 @@ clynelish-8-dt:
     batching: null
     abv: 51.9
     outturn: 97
-    natural_color: null
-    unchillfiltered: null
+    natural_color: yes
+    unchillfiltered: yes
     bottling_date: null
     size: 700
   marketing:
