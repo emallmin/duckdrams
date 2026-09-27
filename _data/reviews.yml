@@ -2982,6 +2982,7 @@ springbank-5-100proof:
       It's better than I had thought. I prefer the 10yo with its tropical bourbon notes, but the 100 proof does deliver a different experience, and does not feel immature as such. 
     grade:
       system: "three-tier-2026"
+      score: 
       wb_score: 85
 
 ben-nevis-7-sv-100proof:
@@ -3485,6 +3486,7 @@ balblair-16-ch:
       Not super memorable, but nice. There is evidence of age in the balance, if not the complexity.
     grade:
       system: "three-tier-2026"
+      score: 
       wb_score: 85
 
 auchroisk-14-ch:
@@ -3880,6 +3882,7 @@ gortinore-natterjack:
         Not surprised that it's a blend at 40%. A sample I got as part of a random set. Not something I would have chosen, and rightly so. 
     grade:
       system: "three-tier-2026"
+      score: 
       wb_score: 79
 
 strathmill-13-flick:
@@ -4347,7 +4350,7 @@ west-cork-7:
     grade:
       system: "three-tier-2026"
       score: ###
-      wb_Score: 86
+      wb_score: 86
 
 fercullen-first:
   bottle: fercullen-first
@@ -4812,6 +4815,7 @@ glencadam-reserva-andalucia:
        As a sherried NAS there's absolutely no shame in what's presented here. It won't blow your socks off, or bedazzle with its uniqueness, but it's pleasant and drinkable, and the light, fruity, and slightly bitter profile has some ... perhaps *self-respect* is the word? ... for not being a sweet, sherried mess.
     grade:
       system: "three-tier-2026"
+      score: 
       wb_score: 82
 
 glencadam-13-sauternes:
@@ -4836,6 +4840,7 @@ glencadam-13-sauternes:
       Now we're getting more character! Sauternes finishes tend to work really well in general, in my experience.
     grade:
       system: "three-tier-2026"
+      score: 
       wb_score: 85
 
 glencadam-15-port:
@@ -4860,6 +4865,7 @@ glencadam-15-port:
       It just works a total treat. But it's a lot more expensive than I'd have thought. At €75 as a core line up I would have said is a slam dunk.
     grade:
       system: "three-tier-2026"
+      score: 
       wb_score: 88
 
 
