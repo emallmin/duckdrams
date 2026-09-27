@@ -18,7 +18,7 @@ header:
 
 {% include review.html id="glencadam-13-sauternes" %}
 
-{% include review.html id="glencadam-2006-port" %}
+{% include review.html id="glencadam-15-port" %}
 
 
 I'm reminded of why I appreciate Glencadam. It is in principle a light Speysider, but it is not forgettable. That bitterness is precisely what I like in Linkwood; it not an off-flavour, but an element of the texture and maturity of the profile. 
