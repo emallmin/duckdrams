@@ -4765,18 +4765,17 @@ clynelish-8-dt: #Specially For WHISKY071
 
 #--- Glencadam
 
-
 glencadam-american-oak:
   bottle: glencadam-american-oak
   date: 2026-09-09
   post: tasting-the-wild-geese
   market_context:
-    availability: ###
+    availability: Still available at around €30
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 33
+      currency: EUR
   sample_context:
-    desc: from a 5cl sample bottle
+    desc: from a 4cl sample bottle
     blind: no
   review:
     intro: null
@@ -4796,12 +4795,12 @@ glencadam-reserva-andalucia:
   date: 2026-09-09
   post: tasting-the-wild-geese
   market_context:
-    availability: ###
+    availability: Available below €40
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 37
+      currency: EUR
   sample_context:
-    desc: from a 5cl sample bottle
+    desc: from a 4cl sample bottle
     blind: no
   review:
     intro: null
@@ -4820,12 +4819,12 @@ glencadam-13-sauternes:
   date: 2026-09-09
   post: tasting-the-wild-geese
   market_context:
-    availability: ###
+    availability: Available around €90
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 90
+      currency: EUR
   sample_context:
-    desc: from a 5cl sample bottle
+    desc: from a 4cl sample bottle
     blind: no
   review:
     intro: null
@@ -4844,12 +4843,12 @@ glencadam-15-port:
   date: 2026-09-09
   post: tasting-the-wild-geese
   market_context:
-    availability: ###
+    availability: Available below €110
     estimated_price:
-      amount: ###
-      currency: ###
+      amount: 110
+      currency: EUR
   sample_context:
-    desc: from a 5cl sample bottle
+    desc: from a 4cl sample bottle
     blind: no
   review:
     intro: null
