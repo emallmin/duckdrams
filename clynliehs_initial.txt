@@ -1,0 +1,84 @@
+#----- Clynelish--- initial
+
+
+clynelish-10-sv-100proof:
+  bottle: clynelish-10-sv-100proof
+  date: 2026-04-08
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      #1 floral honey, pear drops, fresh minerality / coastal, lemon sherbet, clove, white pepper. With water and time, more buttery.
+
+      #2 Honey, santizer, citrus, clementine, flower, exotic fruity, pine needles / green.
+    sipping: >
+      #1 Briny, a little "hot", tad bitter. Salted caramel. Herbal note in the early finish. Honey, heather in the long finish.
+
+      #2   Salty-sweet, fresh, clean, but a bitter streak. Robust, even bit hot - needs water, then mellows acceptably but not entirely. More toasted notes now appear. Some Gooseberries, honey in the finish.
+    comments: >
+      The nose is really good. The palate is not at all bad, but falls a bit short on what the nose promises. Also, I think blindly I would have guesse 7 years. 
+      Nose: 86
+      Palate: 83
+      Finish: 
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+clynelish-10-ad:
+  bottle: clynelish-10-ad
+  date: 2026-04-08
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+
+      Floral: buttercups, coconut. Fresh minerality, crisp white wine, citrus zest, and a surprisingly vivid ripe strawberry dipped in white chocolate. And dare I say, some wax.
+    sipping: >
+      Immediately quite bitter, but in a delicious way: grapefruit or pomelo, roses, and a herbal streak. Also a bit hot neat, improves with water, though a pepperiness remains. The finish is excellent, though, with a classical bourbon cask gooseberry note and a waxiness lingering for a long time. 
+    comments: >
+      I would very happy to have a full bottle of this. Quite an active cask, and the expected wax notes are there.
+      Nose: 87
+      Palate: 87
+      Finish: 88
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+review-key: # carn mor clynelish 8
+  bottle: ###
+  date: ###
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: ###
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Browned butter, coca cola, stable, slightly sour cask notes, vanilla, fresh laundary, flowers, summer... 
+    sipping: >
+      ###
+    comments: >
+      Nose starts assertive, and then turns more delicate... On par with the Adelphi, a little less unique (and less waxy), but more balanced. Drinks well neat, even.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+
+

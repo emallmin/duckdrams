@@ -35,3 +35,20 @@ Value for money ---
 - **Score**: 
 
 [Link to post]({{ site.baseurl }}{% post_url POST_SLUG %})
+
+
+
+# I preample
+gallery_id:
+  - url: https://files.emilmallmin.com/#####.jpeg
+    image_path: https://files.emilmallmin.com/#####.jpeg
+    alt: 
+    title: 
+  - url: https://files.emilmallmin.com/#####.jpeg
+    image_path: https://files.emilmallmin.com/#####.jpeg
+    alt: 
+    title: 
+
+Include:
+
+{% include gallery id="gallery_id" caption="Photos from #####" %}
