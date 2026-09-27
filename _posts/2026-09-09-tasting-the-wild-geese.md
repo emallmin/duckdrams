@@ -25,4 +25,3 @@ Some three years ago I bought a tasting set of Glencadams mainly to obtain a sam
 
 I'm reminded of why I appreciate Glencadam. It is in principle a light Speysider, but it is not forgettable. That light bitterness is precisely what I like in Linkwood; it not an off-flavour, but an element of the texture and elegance of the profile. 
 
-Some three years ago a bought a tasting set of 
