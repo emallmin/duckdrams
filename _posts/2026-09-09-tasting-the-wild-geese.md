@@ -5,9 +5,9 @@ date: 2026-09-09
 categories: Review
 tags:
 header:
-  overlay_image: https://files.emilmallmin.com/coming_soon.png
+  overlay_image: https://files.emilmallmin.com/glencadam_geese.png
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/coming_soon.png
+  teaser: https://files.emilmallmin.com/glencadam_geese.png
 ---
 
 
