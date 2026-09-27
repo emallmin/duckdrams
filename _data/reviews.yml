@@ -3485,7 +3485,7 @@ balblair-16-ch:
       Not super memorable, but nice. There is evidence of age in the balance, if not the complexity.
     grade:
       system: "three-tier-2026"
-      score: 85
+      wb_score: 85
 
 auchroisk-14-ch:
   bottle: auchroisk-14-ch
@@ -4763,6 +4763,105 @@ clynelish-8-dt: #Specially For WHISKY071
       system: "three-tier-2026"
       score: ⁎
 
+#--- Glencadam
+
+
+glencadam-american-oak:
+  bottle: glencadam-american-oak
+  date: 2026-09-09
+  post: tasting-the-wild-geese
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Sweet, orchard fruits, yellow apples, mandarin, also papaya, whip cream, vanilla, some petrichor.
+    sipping: >
+      Sweet impression first, then dryer, flatter and bitter, before the sweetness appears in the aftertaste. The bitterness is actually pleasant, but the flatness no so much. Again orchard fruits. Honey and oat biscuits.
+    comments: >
+      There is definitely some mini-bottle defect, that I will do my best to look past. It's simple but enjoyable, except for this slightly stale, flat impression on the palate. <em>Two weeks later</em>: Coming back to finish off the sample, I still find it a bit flat, but not so clear mini-bottle cardboard note. Hmm...
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 80
+
+glencadam-reserva-andalucia:
+  bottle: glencadam-reserva-andalucia
+  date: 2026-09-09
+  post: tasting-the-wild-geese
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Mellow sherry profile: candied orange peel, caramel, cinnamon, little citric acidity.
+    sipping: >
+      Rich, but not particularly sweet; some salted, toasted almonds, more dried/candied fruit pieces, and a pleasant bitterness,. Unfortunately, quite a lot of mini-bottle cardboard off-note. 
+    comments: >
+       As a sherried NAS there's absolutely no shame in what's presented here. It won't blow your socks off, or bedazzle with its uniqueness, but it's pleasant and drinkable, and the light, fruity, and slightly bitter profile has some ... perhaps *self-respect* is the word? ... for not being a sweet, sherried mess.
+    grade:
+      system: "three-tier-2026"
+      wb_score: 82
+
+glencadam-13-sauternes:
+  bottle: glencadam-13-sauternes
+  date: 2026-09-09
+  post: tasting-the-wild-geese
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      It does indeed have a sweet, winey, explicitly suatern-y nose.  Grapes, green apples, quite a lot of waxy, oily notes too. An outdoorsy minerality . Not that complex, but delicious.
+    sipping: >
+      weet, but not sugary, a mild bitterness and some acidity brings structure; concentrated desert wine notes, wine gums, and some candy-like armonas, bit of hazelnuit, vanilla.  A little MBE but significantly a bit less than the previous two.
+    comments: >
+      Now we're getting more character! Sauternes finishes tend to work really well in general, in my experience.
+    grade:
+      system: "three-tier-2026"
+      wb_score: 85
+
+glencadam-15-port:
+  bottle: glencadam-2006-port
+  date: 2026-09-09
+  post: tasting-the-wild-geese
+  market_context:
+    availability: ###
+    estimated_price:
+      amount: ###
+      currency: ###
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      Much more tropical than anything previous: peach, passion fruit, ripe melon. Some spongecake and honey. Crisp, clean, refreshing.
+    sipping: >
+      Very balanced: medium sweet, a little bitter. We got those richly fruity, peachy notes, complemented by mature oaky notes, almost cognac-like, and with a hint of leather. And I'm relieved it has minimal amounts of MBE.
+    comments: >
+      It just works a total treat. But it's a lot more expensive than I'd have thought. At €75 as a core line up I would have said is a slam dunk.
+    grade:
+      system: "three-tier-2026"
+      wb_score: 88
 
 
 #---------------

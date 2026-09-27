@@ -5115,7 +5115,36 @@ clynelish-10-ad:
 
 #--- Glencadam
 
-glencadam:
+glencadam-reserva-andalucia:
+  production:
+    vintage: null
+    producer: glencadam
+  maturation:
+    age: null
+    cask: Sherry & Bourbon, Oloroso (Andalucia) Finish
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2020
+    size: 700
+  marketing:
+    series: null
+    name: Reserva Andalucía
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 159691
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/5/9691/272332-big.jpg
+      source: whiskybase
+
+glencadam-15-port:
   production:
     vintage: 2006
     producer: glencadam
@@ -5142,6 +5171,95 @@ glencadam:
     whiskybase_id: 202120
     image:
       url: https://static.whiskybase.com/storage/whiskies/2/0/2120/363778-big.jpg
+      source: whiskybase
+
+glencadam-13-sauternes:
+  production:
+    vintage: 2008
+    producer: glencadam
+  maturation:
+    age: 13
+    cask: Sauternes Wine Cask Finish
+  bottling:
+    bottler:
+    batching: null
+    abv: 46
+    outturn: 3042
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: Réserve de Sauternes
+    name: Réserve de Sauternes
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 202329
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/0/2329/366040-big.jpg
+      source: whiskybase
+
+glencadam-american-oak:
+  production:
+    vintage: null
+    producer: glencadam
+  maturation:
+    age: null
+    cask: American Oak
+  bottling:
+    bottler:
+    batching: null
+    abv: 40
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 2021
+    size: 700
+  marketing:
+    series: small_batch
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 242539
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/2539/435703-big.jpg
+      source: whiskybase
+
+#---- Autumn 2026 black box
+
+islay-10-mom:
+  production:
+    vintage: 2012
+    producer: undisclosed-islay
+  maturation:
+    age: 10
+    cask: null
+  bottling:
+    bottler: master-of-malt
+    batching: null
+    abv: 51.1
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: 
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 229801
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/2/9801/412136-big.jpg
       source: whiskybase
 
 
