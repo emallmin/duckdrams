@@ -1,13 +1,13 @@
 ---
 layout: single
-title: Whisky Live Hamburg 2025
+title: Whisky Live Germany 2025
 date: 2025-10-20
 categories: ["Fairs & Festivals"]
-tags: ["Whisky Live Hamburg"]
+tags: ["Whisky Live Germany"]
 header:
-  overlay_image: https://files.emilmallmin.com/coming_soon.png
+  overlay_image: https://files.emilmallmin.com/wl25_7.jpeg
   overlay_filter: 0.5
-  teaser: https://files.emilmallmin.com/coming_soon.png
+  teaser: https://files.emilmallmin.com/wl25_7.jpeg
 
 intro_gallery:
   - url: https://files.emilmallmin.com/wl25_1.jpeg
@@ -145,8 +145,7 @@ gallery_bottles:
 
 ---
 
-Lite intro text
-
+The Whisky Live brand of trade fairs has come to Germany, thanks to Kirsch imports, the largest importer of whisky for the German market. It was held in the Congress Center Hamburg on October 11th and 12th, with the Saturday for the public, and the Sunday for tradespeople. Of course I had to be there. Tickets cost €70 (though I found whisky.de sold ticket codes with a €10 discount) and gave you access to unlimited free samples from the many booths at the show, from opening at 11 until closing at 18. Additional tickets for limited "Master Classes" and the like could be bought online, but I opted out. In summary, I had a splendid time. There was an incredible range of whisky and other spirits. The quality of what's on offer surely rivals Edinburgh's Whisky Fringe or the Glasgow Whisky Festival, though the venue is less atmospheric and the only food option was an uninspired canteen. Below I hand out my (not so) prestiguous awards for best in show!
 
 {% include gallery id="intro_gallery" caption="Photos from Whisky Live 2025 in Hamburg" %}
 
