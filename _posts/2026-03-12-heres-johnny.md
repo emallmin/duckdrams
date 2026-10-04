@@ -27,3 +27,5 @@ And to lure me in, the enty-level "Red Label" but from 1970s, lored to benefit f
 {% include review.html id="johnnie-walker-gold" %}
 
 {% include review.html id="johnnie-walker-ultimate" %}
+
+What to conclude? There's a range of quality here, from really banal and overengineered (Black Ruby) to quite good (Green). 
