@@ -168,89 +168,55 @@ benrinnes-30-sv:
       wb_score: 89
 
 
-# Black box Autumn -------------
+# review-key:
+#   bottle: ###
+#   date: ###
+#   post: ###
+#   market_context:
+#     availability: ###
+#     estimated_price:
+#       amount: ###
+#       currency: ###
+#   sample_context:
+#     desc: ###
+#     blind: no
+#   review:
+#     intro: null
+#     nosing: >
+#       ###
+#     sipping: >
+#       ###
+#     comments: >
+#       ###
+#     grade:
+#       system: "three-tier-2026"
+#       score: ###
 
-glen-scotia-double-cask: # random
-  bottle: glen-scotia-double-cask
-  date: 2026-09-26
-  post: ###
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: yes
-  review:
-    intro: null
-    nosing: >
-      Light nose, with ginger ale, pancakes, spices, vague forest floor, mushroom/yeast associations.
-    sipping: >
-      Easy drinking strength, on the sweeter end; shortbread and biscuits, some chocolate. Then juicy, zesty citrus cuts through (landing between orange and grapefruit), sour grapes, wood spice. Quite a lively palate, actually. Gooseberries in the late finish.
-    comments:
-      before_reveal: >
-        It's quaffable, with clear signs of a lively, good spirit, with some heft, shining through the casks. I'm guessing Highlander, around 46%, mixed sherry and bourbon cask.
-      after_reveal: >
-        Ah, a Campbeltown does make sense of the mushroomy notes (that we could call funky). For a NAS bottle that can be found around €30, it's actually a good value proposition. American oak barrels, finished in PX; that checks out.
-    grade:
-      system: "three-tier-2026"
-      wb_score: 83
 
-scapa-10:
-  bottle: scapa-10
-  date: 2026-09-26
-  post: ###
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      Light and seductive nose: pink lady apples, liquorice, fresh bread dough, waxy notes as the glass is drained. 
-    sipping: >
-      Continues the themes of the nose: fresh, zingy orchard and tropical fruit notes (notable apples, some pears and mandarin, pineapple) , white pepper; bready, and cereally notes — a very spirit-driven dram, with quite a bit of enjoyable bitterness, and a late finish showing mature, tobacco-y and earthy notes. Totally drinkable neat.
-    comments:
-      before_reveal: >
-        Hard one to guess! It has signs of age, as in a certain focus and depth. THe ABV is not excessive, maybe around 52%, that also speaks for age. But it remains lively, spirit-driven, and in this way rather young. The cask is likely bourbon, though I do sense some white wine, as sauternes or white port, that could add the impression of age to a rather young whisky. Let me pin down my guess to, 14-16 year old, with some white wine influence, 52%. 
-      after_reveal: >
-        Lovely! I've been curious about this one for so long, having high expectations, and it fantastic to have those met in a blind tasting. I'm likely to buy a bottle, and could absolutely see this as a "house malt".
-    grade:
-      system: "three-tier-2026"
-      wb_score: 87
 
-review-key:
-  bottle: ###
-  date: ###
-  post: ###
-  market_context:
-    availability: ###
-    estimated_price:
-      amount: ###
-      currency: ###
-  sample_context:
-    desc: ###
-    blind: no
-  review:
-    intro: null
-    nosing: >
-      Peaty and buttery. We're very much in the grilled seafood and corn cob with butter, turning into popocorn. Deinifalty estragon, like a bearnaise sauce. But smoked. And fresh lemon cutting through. 
-    sipping: >
-      Grilled aubergine, bearnaise sauce, toast with aioli, sweet ashes (whatever that means)... then totally locks in on smoky Mezcal, with an iodine note.
-    comments:
-      before_reveal: >
-        This has me stumped. It is clearly a sample bottle I myself will have filled at some point, but when, and with what? Clearly a ~55% cask strength (but loving it neat) and an Islay profile. Bourbon cask 100%. I do wish I had more of it.
-      after_reveal: >
-        It says "Secret Islay 10"
-    grade:
-      system: "three-tier-2026"
-      wb_score: 87
-
+# review-key:
+#   bottle: ###
+#   date: ###
+#   post: ###
+#   market_context:
+#     availability: ###
+#     estimated_price:
+#       amount: ###
+#       currency: ###
+#   sample_context:
+#     desc: ###
+#     blind: no
+#   review:
+#     intro: null
+#     nosing: >
+#       ###
+#     sipping: >
+#       ###
+#     comments: >
+#       ###
+#     grade:
+#       system: "three-tier-2026"
+#       score: ###
 
 
 # review-key:

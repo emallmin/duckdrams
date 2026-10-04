@@ -4869,6 +4869,150 @@ glencadam-15-port:
       wb_score: 88
 
 
+# Black box Autumn -------------
+
+glen-scotia-double-cask: # random
+  bottle: glen-scotia-double-cask
+  date: 2026-09-26
+  post: autumn-black-box
+  market_context:
+    availability: Available below €35
+    estimated_price:
+      amount: 35
+      currency: EUR
+  sample_context:
+    desc: from a 4cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Light nose, with ginger ale, pancakes, spices, vague forest floor, mushroom/yeast associations.
+    sipping: >
+      Easy drinking strength, on the sweeter end; shortbread and biscuits, some chocolate. Then juicy, zesty citrus cuts through (landing between orange and grapefruit), sour grapes, wood spice. Quite a lively palate, actually. Gooseberries in the late finish.
+    comments:
+      before_reveal: >
+        It's quaffable, with clear signs of a lively, good spirit, with some heft, shining through the casks. I'm guessing Highlander, around 46%, mixed sherry and bourbon cask.
+      after_reveal: >
+        Ah, a Campbeltown does make sense of the mushroomy notes (that we could call funky). For a NAS bottle that can be found around €30, it's actually a good value proposition. American oak barrels, finished in PX; that checks out.
+    grade:
+      system: "three-tier-2026"
+      wb_score: 83
+
+scapa-10:
+  bottle: scapa-10
+  date: 2026-09-26
+  post: autumn-black-box
+  market_context:
+    availability: Available from around €47
+    estimated_price:
+      amount: 47
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Light and seductive nose: pink lady apples, liquorice, fresh bread dough, waxy notes as the glass is drained. 
+    sipping: >
+      Continues the themes of the nose: fresh, zingy orchard and tropical fruit notes (notable apples, some pears and mandarin, pineapple) , white pepper; bready, and cereally notes — a very spirit-driven dram, with quite a bit of enjoyable bitterness, and a late finish showing mature, tobacco-y and earthy notes. Totally drinkable neat.
+    comments:
+      before_reveal: >
+        Hard one to guess! It has signs of age, as in a certain focus and depth. THe ABV is not excessive, maybe around 52%, that also speaks for age. But it remains lively, spirit-driven, and in this way rather young. The cask is likely bourbon, though I do sense some white wine, as sauternes or white port, that could add the impression of age to a rather young whisky. Let me pin down my guess to, 14-16 year old, with some white wine influence, 52%. 
+      after_reveal: >
+        Lovely! I've been curious about this one for so long, having high expectations, and it fantastic to have those met in a blind tasting. I'm likely to buy a bottle, and could absolutely see this as a "house malt".
+    grade:
+      system: "three-tier-2026"
+      wb_score: 87
+
+islay-10-mom:
+  bottle: islay-10-mom
+  date: 2026-09-26
+  post: autumn-black-box
+  market_context:
+    availability: Retailed for £39.95 back in 2023.
+    estimated_price:
+      amount: 39.95
+      currency: GBP
+  sample_context:
+    desc: from a 2cl sample bottle archived from my full bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Peaty and buttery. We're very much in the grilled seafood and corn cob with butter, turning into popocorn. Deinifalty estragon, like a bearnaise sauce. But smoked. And fresh lemon cutting through. 
+    sipping: >
+      Grilled aubergine, bearnaise sauce, toast with aioli, sweet ashes (whatever that means)... then totally locks in on smoky Mezcal, with an iodine note.
+    comments:
+      before_reveal: >
+        This has me stumped. It is clearly a sample bottle I myself will have filled at some point, but when, and with what? Clearly a ~55% cask strength (but loving it neat) and an Islay profile. Bourbon cask 100%. I do wish I had more of it.
+      after_reveal: >
+        It says "Secret Islay 10"
+    grade:
+      system: "three-tier-2026"
+      wb_score: 87
+
+
+glen-grant-12-1970s:
+  bottle: glen-grant-12-1970s
+  date: 2026-09-30
+  post: autumn-black-box
+  market_context:
+    availability: Seem to go for around €160 at auction.
+    estimated_price:
+      amount: 160
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: yes
+  review:
+    intro: null
+    nosing: >
+      Juicy, fruity first impression, with orananges and grapes, then more pastry-led with Swedish almond tart (mazarin), Jaffa cakes, ending with subtly flinty and vegetal note.   
+    sipping: >
+      Smooth, quite creamy, sweet arrival. No alcohol burn, but nor is it watery. Continues with ample honey, vanilla, spices, heather, and a faint smoke trail.  
+    comments:
+      before_reveal: >
+        I think this is a blended whisky, but a "better" one with high malt content. Perhaps something like White Heater 15? What speaks for this guess is the lower ABV, the pleasantly smooth but somehow also "smoothed out" flavour profile, the pastry-dominance that may be the grain, and this faint smoke that suggests the mixing of a small quantity of peated casks in a large batch.
+      after_reveal: >
+        Glen Grant 12 from the 70s! About the only thing I could guess right was the low ABV. At least the fact of low ABV but with intact body is consistent with my past experience of these yeasteryear standard bottlings.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 84
+
+
+glasgow-batch01:
+  bottle: glasgow-batch01
+  date: 2026-09-30
+  post: autumn-black-box
+  market_context:
+    availability: Mostly sold out, prices around €90.
+    estimated_price:
+      amount: 90
+      currency: EUR
+  sample_context:
+    desc: from a 5cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      A warming and intense nose, full of wood smoke, varnished wood, and vinous, pruny, coca-cola, leathery, and musky notes.
+    sipping: >
+      Unusally salty, quite savoury and sweet yet tanically dry. Wood and smoke, sweet BBQ port ribs, grilled Portobello, sweet wine, and a musculur malty spirit shing throughout.   
+    comments:
+      before_reveal: >
+        A rather extreme malt, but pulled together nicely. Neither the smoke, wine, or malty character take overhand. It must be an Edradour/Ballechin, or otherwise a peated Campbeltown, at a higher strength and not necessarily above 10 years old. Red wine, port, or PX cask.
+      after_reveal: >
+        Bravo Glasgow! Feels nowhere near 60% and it can definitely challenge the big boys! At a more accessible price I'd give it a ⁎.
+    grade:
+      system: "three-tier-2026"
+      score: ###
+      wb_score: 87
+
+
+
+
 #---------------
 # review-key:
 #   bottle: ###

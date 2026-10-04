@@ -676,6 +676,14 @@ springbank:
   category: Scotch Whisky
   class: Single Malt
 
+glen-scotia:
+  name: Glen Scotia
+  kind: distillery
+  country: Scotland
+  region: Campbeltown
+  category: Scotch Whisky
+  class: Single Malt
+
 kilkerran:
   name: Kilkerran
   kind: line

@@ -5263,6 +5263,152 @@ islay-10-mom:
       source: whiskybase
 
 
+glenglen-scotia-double-cask:
+  production:
+    vintage:
+    producer: glen-scotia
+  maturation:
+    age:
+    cask: 1st Fill Bourbon & Pedro Ximénez Sherry Casks
+  bottling:
+    bottler:
+    batching:
+    abv: 46
+    outturn:
+    natural_color:
+    unchillfiltered: true
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: Classic Campbeltown Malt
+    name: Double Cask
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 212772
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/1/2772/396032-big.jpg
+      source: whiskybase
+
+islay-10-mom:
+  production:
+    vintage: 2012
+    producer: null
+  maturation:
+    age: 10
+    cask: null
+  bottling:
+    bottler: master-of-malt
+    batching: null
+    abv: 51.1
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series:
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 229801
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/2/9801/412136-big.jpg
+      source: whiskybase
+
+glen-grant-12-1970s:
+  production:
+    vintage: null
+    producer: glen-grant
+  maturation:
+    age: 12
+    cask: null
+  bottling:
+    bottler:
+    batching: null
+    abv: 43
+    outturn: null
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: null
+    size: 750
+  marketing:
+    series: null
+    name: 1970s Giovinetti Import
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 231396
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/1396/443773-big.jpg
+      source: whiskybase
+
+glasgow-batch01:
+  production:
+    vintage: null
+    producer: The Glasgow Distillery Co.
+  maturation:
+    age: null
+    cask: Virgin Oak & PX Sherry Finish
+  bottling:
+    bottler: Distillery Bottling
+    batching: null
+    abv: 60.8
+    outturn: 1000
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2023
+    size: 700
+  marketing:
+    series: "Rich & Smoky"
+    name: "Rich & Smoky Batch 01"
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 241065
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/4/1065/432304-big.jpg
+      source: whiskybase
+
+scapa-10:
+  production:
+    vintage: null
+    producer: Scapa
+  maturation:
+    age: 10
+    cask: American Oak
+  bottling:
+    bottler: Distillery Bottling
+    batching: null
+    abv: 48.0
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2024
+    size: 700
+  marketing:
+    series:
+    name:
+    released: 2024
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 262706
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/6/2706/474383-big.jpg
+      source: whiskybase
+
+
 # bottle-key:
 #   production:
 #     vintage: #

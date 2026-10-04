@@ -1,4 +1,0 @@
-
-
-
-# glen scotia double cask
