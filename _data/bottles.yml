@@ -5408,6 +5408,68 @@ scapa-10:
       url: https://static.whiskybase.com/storage/whiskies/2/6/2706/474383-big.jpg
       source: whiskybase
 
+#---- VT 1930s
+
+vallein-tercinier-40s-bons-bois:
+  production:
+    vintage: 
+    producer: vallein-tercinier
+    cru: Bons Bois
+  maturation:
+    age: 80
+    cask: French Limousine oak
+  bottling:
+    bottler: #
+    batching: small_batch
+    abv: 48.2
+    outturn: #
+    natural_color: yes
+    unchillfiltered: yes
+    bottling_date: 2021 
+    size: 700
+  marketing:
+    series:
+    name: Small Batch 41-43 
+    released: #
+    rrp:
+      amount: #
+      currency: EUR   
+  meta:
+    whiskybase_id: #
+    image:
+      url: https://files.emilmallmin.com/vt-40s.bons-bois.jpg
+      source: self
+
+vallein-tercinier-rue-34:
+  production:
+    vintage: 1934
+    producer: vallein-tercinier
+    cru: Grande Champagne
+  maturation:
+    age: 81
+    cask: French Limousine oak
+  bottling:
+    bottler: #
+    batching: single_cask
+    abv: 42
+    outturn: #
+    natural_color: yes
+    unchillfiltered: yes
+    bottling_date: 2015 
+    size: 700
+  marketing:
+    series:
+    name: Rue 34 
+    released: #
+    rrp:
+      amount: #
+      currency: EUR   
+  meta:
+    whiskybase_id: #
+    image:
+      url: https://files.emilmallmin.com/vt-rue34.jpg
+      source: self
+
 
 # bottle-key:
 #   production:
