@@ -1,11 +1,11 @@
 main:
-  - title: All reviews
+  - title: All drams
     url: /review-index/
-  - title: Distilleries
-    url: /distillery-index/
-  - title: Post archive
+  # - title: Distilleries
+  #   url: /distillery-index/
+  - title: All posts
     url: /posts/
-  - title: Categories
-    url: /categories/
-  - title: Tags
-    url: /tags/
+  # - title: Categories
+  #   url: /categories/
+  # - title: Tags
+  #   url: /tags/
