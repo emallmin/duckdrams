@@ -1,10 +1,10 @@
 ---
-title: "Post archive"
+title: "All posts"
 permalink: /posts/
 layout: posts
 author_profile: false
 entries_layout: grid
 ---
 
-- [By category](/categories/)
-- [By tags](/tags/)
+- [By category]({{ site.baseurl }}/categories/)
+- [By tags]({{ site.baseurl }}/tags/)

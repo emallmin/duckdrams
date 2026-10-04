@@ -4991,7 +4991,7 @@ glasgow-batch01:
   date: 2026-09-30
   post: autumn-black-box
   market_context:
-    availability: Mostly sold out, prices around €90.
+    availability: Mostly sold out, priced around €90.
     estimated_price:
       amount: 90
       currency: EUR

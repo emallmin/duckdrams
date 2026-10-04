@@ -1,5 +1,5 @@
 ---
-title: All reviews
+title: All drams
 permalink: /review-index/
 layout: single
 classes: wide

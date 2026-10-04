@@ -10,7 +10,7 @@ header:
   teaser: https://files.emilmallmin.com/JW_logo.png
 ---
 
-Scotch whisky is dominated by large brands of blends. Of these brands, Johnnie Walker is the biggest, accounting for a bit less than 1/3 of market volume. Given that single malt make up about 10% of Scotch production (though 30% of value), it is safe to say that there's more bottles of Johnnie Walker being produced than all single malts combined.
+Scotch whisky is dominated by large brands of blends. Of these brands, Johnnie Walker is the biggest, accounting for a bit less than 1/3 of market volume. Given that single malt makes up only about 10% of Scotch production (though 30% of value), it is safe to say that there's more bottles of Johnnie Walker being produced than all single malts combined.
 
 And yet I've barely tried JW. Surely at some WOLS tasting, long forgotten, and surely in some cocktail. But not being familiar with the world's biggest brand, just keeping a snobbish distance, is a gap in my whisky education that must be rectified.
 
