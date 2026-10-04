@@ -89,12 +89,15 @@ def review_string(review_id):
     system = r["review"]["grade"]["system"]
     try:
         heart = r["review"]["grade"]["heart"]
-        if not heart:
-            mark = r["review"]["grade"]["mark"]
-            if mark == "❤️" or mark == "❤️ Personal Favourite":
-                heart = True    
     except:
-        heart = False
+        try:
+            mark = r["review"]["grade"]["mark"].strip()
+            if mark == "❤️" or mark == "❤️ Personal Favourite":
+                heart = True
+            else:
+                heart = False
+        except:
+            heart = False    
 
     age_snippet = f"{age}yo" if age else "NAS"
 
