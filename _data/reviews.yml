@@ -3692,7 +3692,8 @@ springbank-15-society:
       Best of the bunch! And a rather complex and balanced meeting of masculine spirit and sweet and rich cask.
     grade:
       system: "three-tier-2026"
-      score: 88
+      score: ###
+      wb_score: 88
 
 #----------- oldies
 

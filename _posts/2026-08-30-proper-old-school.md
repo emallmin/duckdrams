@@ -3,7 +3,7 @@ layout: single
 title: Proper Old School
 date: 2026-08-30
 categories: Review
-tags: [tag1, tag2]
+tags: 
 header:
   overlay_image: https://files.emilmallmin.com/old_map_scotland.jpg
   overlay_filter: 0.5
