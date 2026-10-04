@@ -3,11 +3,9 @@
 ## Smögen Askeim 8 batch 2
 - **Nosing**: Butterscotch, golden syrup, yeasty dough, sourness, tinned pinapple, strawberries, hint of "wet dog", iodine and peat, juniper wood smoke. With time in the glass and some water, it becomes really waxy. Café de Paris.
 - **Sipping**: Oily, saline, sweet-ish (though drier in the long run), a little sour, very malty, chewy; indeed a complex range of tastes. Flavourwise, I'm finding honey, dried apricots, figs, hay, and gentle smoke and peat influence, drawing towards the vegetal, floral (not unlike Highland Park).
-- **Comments** It's really got that depth of a true craft whisky, with long fermentation time, heritage barley... a kind of malty depth. I'm just going to go ahead and buy a bottle.
+- **Comments** It's really got that depth of a true craft whisky, with long fermentation time, heritage barley... a kind of malty, oily core. I'm just going to go ahead and buy a bottle.
 - **Score** 89
 - **Award** ⁎
-
-
 
 ## Smögen 15
 - **Nosing**: Citrus, grass, raspberry cheese cake, mormorshosta, beech smoke, juniper wood 
