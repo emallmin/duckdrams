@@ -890,6 +890,13 @@ jlp:
   class: Cognac
   country: France
 
+vallein-tercinier:
+  name: Vallein Tercinier
+  kind: distillery
+  category: Eau-de-vie
+  class: Cognac
+  country: France
+
 gortinore-irish:
   name: Gortinore Distillers & Co. Irish Whiskey
   kind: blender
