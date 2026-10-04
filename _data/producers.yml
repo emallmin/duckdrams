@@ -819,6 +819,15 @@ highland-park:
   class: Single Malt
   peated: yes
 
+scapa:
+  name: Scapa
+  kind: distillery
+  country: Scotland
+  region: Islands
+  category: Scotch Whisky
+  class: Single Malt
+  peated: no
+
 littlemill:
   name: Littlemill
   kind: distillery

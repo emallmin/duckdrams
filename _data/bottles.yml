@@ -5295,7 +5295,7 @@ glen-scotia-double-cask:
 islay-10-mom:
   production:
     vintage: 2012
-    producer: null
+    producer: undisclosed-islay
   maturation:
     age: 10
     cask: null
@@ -5382,7 +5382,7 @@ glasgow-batch01:
 scapa-10:
   production:
     vintage: null
-    producer: Scapa
+    producer: scapa
   maturation:
     age: 10
     cask: American Oak

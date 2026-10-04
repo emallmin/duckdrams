@@ -118,7 +118,7 @@ def review_string(review_id):
         if score in ["⁎","⁎⁎","⁎⁎⁎"]:
             html += f'<span> {score}</span>'
     elif heart:
-        html += '<span style="color:LightGray;">[legacy ♥]</span>'
+        html += '<span style="color:LightGray;">♥</span>'
     html += "</div>"
 
     return html
