@@ -4998,7 +4998,7 @@ glasgow-batch01:
       currency: EUR
   sample_context:
     desc: from a 5cl sample bottle
-    blind: no
+    blind: yes
   review:
     intro: null
     nosing: >
