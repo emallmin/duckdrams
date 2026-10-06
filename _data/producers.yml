@@ -148,6 +148,15 @@ ben-nevis:
   class: "Single Malt"
   peated: no
 
+ben-nevis-peated:
+  name: "Ben Nevis"
+  kind: line
+  status: active
+  region: "Highlands"
+  category: "Scotch Whisky"
+  class: "Single Malt"
+  peated: yes
+
   
 edradour:
   name: "Edradour"

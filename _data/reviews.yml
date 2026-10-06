@@ -2820,7 +2820,7 @@ benrinnes-15-eld-xmas:
 jlp-15: # Jean-Luc Pasquet, 50.1%, 2006 / 2021, Cask #27, Kirsch Import, NC, CS, NCF
   bottle: jlp-15
   date: 2026-03-22
-  post: this-n-that
+  post: the-leftovers
   market_context:
     availability: Bought for €69.90 in 2023. Can still be found for €80.
     estimated_price:
@@ -2844,7 +2844,7 @@ jlp-15: # Jean-Luc Pasquet, 50.1%, 2006 / 2021, Cask #27, Kirsch Import, NC, CS,
 nectarosity:
   bottle: nectarosity
   date: 2026-03-22
-  post: this-n-that
+  post: the-leftovers
   market_context:
     availability: Available around €50, with occasional discounts down to €40.
     estimated_price:
@@ -2868,7 +2868,7 @@ nectarosity:
 linkwood-15-eld: #linkwood
   bottle: linkwood-15-eld
   date: 2026-03-15 # pure guess
-  post: this-n-that
+  post: the-leftovers
   market_context:
     availability: Available from €77
     estimated_price:
@@ -2892,7 +2892,7 @@ linkwood-15-eld: #linkwood
 imperial-27-ls:
   bottle: imperial-27-ls
   date: 2026-02-27
-  post: this-n-that
+  post: the-leftovers
   market_context:
     availability: Available from around €340
     estimated_price:
@@ -2916,7 +2916,7 @@ imperial-27-ls:
 mystery-highland-21:
   bottle: mystery-highland-21
   date: 2026-02-27
-  post: this-n-that
+  post: the-leftovers
   market_context:
     availability: Available €100
     estimated_price:
@@ -2940,7 +2940,7 @@ mystery-highland-21:
 roseisle-14:
   bottle: roseisle-14
   date: 2026-03-02 # pure guess
-  post: this-n-that
+  post: the-leftovers
   market_context:
     availability: Currently €140. Wait a year and it will be well below €100.
     estimated_price:
@@ -2964,7 +2964,7 @@ roseisle-14:
 springbank-5-100proof:
   bottle: springbank-5-100proof
   date: 2026-04-03
-  post: this-n-that
+  post: the-leftovers
   market_context:
     availability: Available from ~€65.
     estimated_price:
@@ -2989,7 +2989,7 @@ springbank-5-100proof:
 ben-nevis-7-sv-100proof:
   bottle: ben-nevis-7-sv-100proof
   date: 2026-04-08
-  post: this-n-that
+  post: the-leftovers
   market_context:
     availability: Available from around €43 
     estimated_price:
