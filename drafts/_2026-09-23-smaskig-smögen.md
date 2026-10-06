@@ -14,9 +14,9 @@
 88
 
 ## Smögen 10 sherry 51.4%
-- **nosing**: Really leveraging those rustic sherry notes of leather, cigar room, kabanos sausage, some rubber. There's also that fragrant juniper wood note, which I tend to get in Smögen. 
-- **sipping**: Salty, savoury, and medium sweet. Rich notes of fig marmalade, smoked sausage (not so much peat), and straigght-up Oloroso sherry hit first,  then trail out to a somewhat flatter and dry late finish.
-- **Comments**
+- **nosing**: Really leveraging those rustic sherry notes of leather, cigar room, kabanos sausage, some rubber. There's also that fragrant juniper wood note, which it seems I tend to get in Smögen. 
+- **sipping**: Salty, savoury, and medium sweet. Rich notes of fig marmalade, candied orange peel, and straight-up Oloroso sherry, smoked sausage (not so much peat). A somewhat flatter and dry late finish.
+- **Comments**: This is again very well-made whisky. The sherry is strong but fuses well with the malty, oily distillate.
 87 
 
 sub-70: Rat poinson
