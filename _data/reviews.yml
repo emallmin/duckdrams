@@ -5068,6 +5068,88 @@ vallein-tercinier-40s-bons-bois:
       score: ⁎⁎
 
 
+#-- Littlemill little emil
+
+littlemill-1992-hl:
+  bottle: littlemill-1992-hl
+  date: 2023-07-23
+  post: littlemill-for-little-emil
+  market_context:
+    availability: ~£400 from Ardnahoe distillery
+    estimated_price:
+      amount: 400
+      currency: GBP
+  sample_context:
+    desc: Review sample bought for £15 from Ardnahoe distillery bar
+    blind: no
+  review:
+    intro: 
+    nosing: >
+      A very delicate nose of green grass and minerality, foremost; also flowers, citrus, and ripe tropical fruits. Hints of vanilla and nutmeg as well; just a little perfumey. 
+    sipping: >
+      The palate has wonderful texture, is semi-dry, with a fine bitterness. A little ashiness develops in the finish; otherwise the taste is predominantly fruity and malty.
+    comments: >
+      In my book, this is an outstanding bourbon-cask maturation resulting in a delicate and delicious dram, that may be rather straightforward but is fully satisfying and without any particular flaws. I would easily pay €150 for a bottle of this. A shame it’s €400…
+    grade:
+      system: "original-2023"
+      score: ["⭐ Great Quality", "❤️ Personal Favourite"]
+      wb_score:
+      heart: yes
+
+
+littlemill-1989-mb:
+  bottle: littlemill-1989-mb
+  date: 2023-07-23
+  post: littlemill-for-little-emil
+  market_context:
+    availability: €575, now sold out
+    estimated_price:
+      amount: 575
+      currency: EUR
+  sample_context:
+    desc: 2cl review sample bought from Maltbarn for €17 at Limburg Whisky Fair 2023
+    blind: no
+  review:
+    intro: 
+    nosing: >
+      Peachy nose. Super peachy. And some really exotic tropical fruits that I can’t put my finger on (dragon fruit maybe?). A floral touch too, carried by tea leaves and coriander seed; some vanilla and hint of tiger balm.
+    sipping: >
+      Intense on the palate; the alcohol is lively, the texture thick. The primary flavour is of tropical fruit (ripe mango and bergamot). With each sip, an ashy taste blooms and then subsides; the finish is nice and fruity, but more generic than the beautiful nose.
+    comments: >
+      Absolutely gorgeous nose, complex and mature. Not so delicate, more of a fruit punch. It’s not best in the class of old ex-bourbon Speysiders, but it’s hella good!
+    grade:
+      system: "original-2023"
+      score: ["⭐ Great Quality", "❤️ Personal Favourite"]
+      wb_score:
+      heart: yes
+
+
+littlemill-25-dl:
+  bottle: littlemill-25-dl
+  date: 2023-07-23
+  post: littlemill-for-little-emil
+  market_context:
+    availability: original RRP unknown; secondary market currently €800+
+    estimated_price:
+      amount: 800
+      currency: EUR
+  sample_context:
+    desc: 2cl review sample bought from Malt Harry for €16 at Limburg Whisky Fair 2023
+    blind: no
+  review:
+    intro: 
+    nosing: >
+      Summer meadow on the nose; grassy (like a quality olive oil) and floral; fruits too, in particular lemon and pomegranate. Some fresh cream and a powdering of vanilla sugar. Overall, a very delicate nose.
+    sipping: >
+      The taste is quite austere, somewhat bitter and phenolic. Beside a grassy, peppery flavour, I detect a cardboardy note that I associate with improper storage, in particular in sample bottles…
+    comments: >
+      The nose is absolutely magnificent, but the staleness of the palate means this sample is off. Very sad, as I believe an untainted sample would’ve easily earned a ❤️.
+    grade:
+      system: "original-2023"
+      score: ❓Inconclusive
+      wb_score:
+      heart: no
+
 #---------------
 # review-key:
 #   bottle: ###

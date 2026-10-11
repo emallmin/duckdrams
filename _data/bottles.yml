@@ -5470,6 +5470,95 @@ vallein-tercinier-rue-34:
       url: https://files.emilmallmin.com/vt-rue34.jpg
       source: self
 
+#--- Littlemill little emil
+
+littlemill-1992-hl:
+  production:
+    vintage: 1992
+    producer: littlemill
+  maturation:
+    age: 26
+    cask: null
+  bottling:
+    bottler: hunter-laing
+    batching: single_cask
+    abv: 50.0
+    outturn: 270
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2018
+    size: 700
+  marketing:
+    series: The Old Malt Cask - 20th Anniversary
+    name: The Old Malt Cask
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 120446
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/2/0446/214805-big.jpg
+      source: whiskybase
+
+littlemill-1989-mb:
+  production:
+    vintage: 1989
+    producer: littlemill
+  maturation:
+    age: 33
+    cask: ex Bourbon
+  bottling:
+    bottler: maltbarn
+    batching: single_cask
+    abv: 50.1
+    outturn: 37
+    natural_color: null
+    unchillfiltered: null
+    bottling_date: 2022
+    size: 700
+  marketing:
+    series: 'The 26 #9'
+    name: 'The 26 #9'
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 231835
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/3/1835/415942-big.jpg
+      source: whiskybase
+
+littlemill-25-dl:
+  production:
+    vintage: 1988
+    producer: littlemill
+  maturation:
+    age: 25
+    cask: Refill Hogshead
+  bottling:
+    bottler: Douglas Laing
+    batching: single_cask
+    abv: 56.2
+    outturn: 225
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2014
+    size: 700
+  marketing:
+    series: Directors' Cut
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 56401
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/5/6/401/88538-big.jpg
+      source: whiskybase
+
 
 # bottle-key:
 #   production:

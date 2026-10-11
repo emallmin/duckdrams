@@ -75,6 +75,11 @@ alambic-classique:
   kind: bottler
   country: Germany
 
+maltbarn:
+  name: Maltbarn
+  kind: bottler
+  country: Germany
+
 whisky-jury:
   name: "The Whisky Jury"
   kind: bottler
