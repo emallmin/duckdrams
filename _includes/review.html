@@ -95,8 +95,10 @@
   {% if review.review.sipping %} <p><b>Sipping:</b> {{review.review.sipping}} </p> {% endif %}
   {% if review.review.comments %}
     {% if is_blind %}
-    <p> <b>Comments before reveal</b>: {{ review.review.comments.before_reveal }} </p> 
-    <p> <b>Comments after reveal</b>: {{ review.review.comments.after_reveal }} </p>
+    <p> <b>Comments before reveal</b>: {{ review.review.comments.before_reveal }} </p>
+      {% if review.review.comments.after_reveal %} 
+      <p> <b>Comments after reveal</b>: {{ review.review.comments.after_reveal }} </p>
+      {% endif %}
     {% else %}
       <p><b>Comments:</b> {{review.review.comments}}</p>
     {% endif %}
