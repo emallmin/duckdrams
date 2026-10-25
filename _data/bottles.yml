@@ -5559,6 +5559,213 @@ littlemill-25-dl:
       url: https://static.whiskybase.com/storage/whiskies/5/6/401/88538-big.jpg
       source: whiskybase
 
+#--- colebank dhu
+
+dallas-dhu-1981-sv:
+  production:
+    vintage: 1981
+    producer: dallas-dhu
+  maturation:
+    age: 19
+    cask: Refill Sherry Butt
+  bottling:
+    bottler: signatory
+    batching: single_cask
+    abv: 43
+    outturn: 878
+    natural_color: true
+    unchillfiltered: null
+    bottling_date: 2000
+    size: 700
+  marketing:
+    series: Vintage Collection
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 10450
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/0/450/63023-big.jpg
+      source: whiskybase
+
+coleburn-1983-sv:
+  production:
+    vintage: 1983
+    producer: coleburn
+  maturation:
+    age: 14
+    cask: Oak Casks
+  bottling:
+    bottler: signatory
+    batching: null
+    abv: 43
+    outturn: 540
+    natural_color: true
+    unchillfiltered: null
+    bottling_date: 1997
+    size: 700
+  marketing:
+    series: Vintage Collection
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 11555
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/1/1/555/63718-big.jpg
+      source: whiskybase
+
+rosebank-1983-sv:
+  production:
+    vintage: 1983
+    producer: rosebank
+  maturation:
+    age: 11
+    cask: Oak Casks
+  bottling:
+    bottler: signatory
+    batching: null
+    abv: 43
+    outturn: 840
+    natural_color: true
+    unchillfiltered: null
+    bottling_date: 1995
+    size: 700
+  marketing:
+    series: Vintage Collection
+    name: null
+    released:
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 89858
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/8/9/858/180616-big.jpg
+      source: whiskybase
+
+#---- thompson trust
+
+invergordon-34-tb:
+  production:
+    vintage: null
+    producer: Invergordon
+  maturation:
+    age: 34
+    cask: null
+  bottling:
+    bottler: thompson-bros
+    batching: null
+    abv: 40.1
+    outturn: null
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: A Ross-shire Dram
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 287145
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/7145/530736-big.jpg
+      source: whiskybase
+
+glan-garioch-27-tb:
+  production:
+    vintage: 1998
+    producer: glen-garioch
+  maturation:
+    age: 27
+    cask: 1st Fill Fino Sherry Butt
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 49.3
+    outturn: 597
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2025
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 287147
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/8/7147/538924-big.jpg
+      source: whiskybase
+
+ben-nevis-29-tb:
+  production:
+    vintage: '25.10.1996 # check!'
+    producer: Ben Nevis
+  maturation:
+    age: 29
+    cask: Refill Sherry Butt
+  bottling:
+    bottler: thompson-bros
+    batching: single_cask
+    abv: 48.9
+    outturn: 436
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2026
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 294636
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/4636/529431-big.jpg
+      source: whiskybase
+
+bowmore-19-tb:
+  production:
+    vintage: 2006
+    producer: bowmore
+  maturation:
+    age: 19
+    cask: Refill Oak
+  bottling:
+    bottler: thompson-bros
+    batching: null
+    abv: 51.4
+    outturn: 199
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2025
+    size: 700
+  marketing:
+    series: null
+    name: null
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 296030
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/2/9/6030/531917-big.jpg
+      source: whiskybase
+
 
 # bottle-key:
 #   production:

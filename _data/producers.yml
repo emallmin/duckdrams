@@ -438,6 +438,15 @@ caperdonich:
   class : Single Malt
   status: closed
 
+coleburn:
+  name: "Coleburn"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+  status: closed
+
 dallas-dhu:
   name: "Dallas Dhu"
   kind: distillery
@@ -505,6 +514,17 @@ glenesk:
 
 dornoch:
   name: Dornoch
+  kind: distillery
+  category: Scotch Whisky
+  class: Single Malt
+  country: Scotland
+  region: Highlands
+  peated: no
+  status: active
+
+
+glen-garioch:
+  name: Glen Garioch
   kind: distillery
   category: Scotch Whisky
   class: Single Malt
