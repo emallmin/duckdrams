@@ -2,6 +2,7 @@
 layout: single
 title: "Ghost Safari: Blind Quintet" # AI edition
 date: 2026-05-03
+excerpt: Here with a quintet of lost distillery drams, from Rosebank, Littlemill, Brora, Millburn, and Banff. But I don't know anything more about the bottlings, and I don't know which sample is which! The challenge is to see if I can figure it out from smell and taste alone. While I've tried Rosebank, Brora, and Littlemill enough times to have a grip on what to expect, not so with Millburn and Banff.
 categories: Review
 tags: [tag1, tag2]
 header:
@@ -9,7 +10,7 @@ header:
   overlay_filter: 0.5
   teaser: https://files.emilmallmin.com/sisa_closed_tasting.png
 ---
-Here with a quintet of lost distillery drams, for an auspicious blind tasting. While I've tried Rosebank, Brora, and Littlemill enough times to have a grip on what to expect, not so with Millburn and Banff. So for what it's worth I let a ChatGPT generate a comparison of all the distilleries involved, to help me with the guesswork. 
+Here with a quintet of lost distillery drams, from Rosebank, Littlemill, Brora, Millburn, and Banff. But I don't know anything more about the bottlings, and I don't know which sample is which! The challenge is to see if I can figure it out from smell and taste alone. While I've tried Rosebank, Brora, and Littlemill enough times to have a grip on what to expect, not so with Millburn and Banff. So for what it's worth I let a ChatGPT generate a comparison of all the distilleries involved, to help me with the guesswork. 
 
 | Distillery | Region | Core Style | Fruit Profile | Smoke/Peat | Texture | Notable Oddities |
 | --- | --- | --- | --- | --- | --- | --- |
