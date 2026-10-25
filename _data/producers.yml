@@ -877,6 +877,7 @@ millburn:
   country: Scotland
   region: Highlands
   status: closed
+  style:
 
 banff:
   name: "Banff"
@@ -894,6 +895,7 @@ brora:
   region: "Highlands"
   country: "Scotland"
   category: "Scotch Whisky"
+  style: peated
 
 #----
 
