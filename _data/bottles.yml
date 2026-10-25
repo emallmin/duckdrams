@@ -5766,6 +5766,34 @@ bowmore-19-tb:
       url: https://static.whiskybase.com/storage/whiskies/2/9/6030/531917-big.jpg
       source: whiskybase
 
+craigellachie-23-wa:
+  production:
+    vintage: 2003
+    producer: craigellachie
+  maturation:
+    age: 23
+    cask: Ex-Bourbon Barrel
+  bottling:
+    bottler: The Caskhound
+    batching: single_cask
+    abv: 45.7
+    outturn: 60
+    natural_color: true
+    unchillfiltered: true
+    bottling_date: 2026
+    size: 700
+  marketing:
+    series: Joint bottling with Whisky Agents
+    name: th Anniversary Whisky Agents
+    released: 2026
+    rrp:
+      amount: null
+      currency: EUR
+  meta:
+    whiskybase_id: 308385
+    image:
+      url: https://static.whiskybase.com/storage/whiskies/3/0/8385/552910-big.jpg
+      source: whiskybase
 
 # bottle-key:
 #   production:
