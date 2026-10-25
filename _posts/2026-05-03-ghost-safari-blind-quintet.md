@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Ghost Safari: Blind Quintet" # AI edition
-excerpt: This is the excerpt
 date: 2026-05-03
 categories: Review
 tags: [tag1, tag2]
