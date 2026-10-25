@@ -10,9 +10,7 @@ header:
   overlay_filter: 0.5
   teaser: https://files.emilmallmin.com/sisa_closed_tasting.png
 ---
-
-Placeholder text. What's going on
-
+Here with a quintet of lost distillery drams, for an auspicious blind tasting. While I've tried Rosebank, Brora, and Littlemill enough times to have a grip on what to expect, not so with Millburn and Banff. So for what it's worth I let a ChatGPT generate a comparison of all the distilleries involved, to help me with the guesswork. 
 
 | Distillery | Region | Core Style | Fruit Profile | Smoke/Peat | Texture | Notable Oddities |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -21,6 +19,8 @@ Placeholder text. What's going on
 | **Rosebank** | Lowland | Floral, citrus, elegant | Pear, citrus, honey | None | Silky but firm (worm tubs) | Subtle mineral notes |
 | **Brora** | Highland | Waxy, oily, smoky/farmy | Lemon, orchard fruit | Medium–High (era‑dependent) | Heavy, waxy | Butyric batches; strong farmy notes |
 | **Littlemill** | Lowland | Fruity, grassy, lightly bitter | Peach, apricot, citrus | Very light | Light–medium | Bitter grapefruit, dry oak |
+
+Wish me luck, here we go:
 
 {% include review.html id="rosebank-19-dl" %}
 
@@ -32,6 +32,18 @@ Placeholder text. What's going on
 
 {% include review.html id="brora-21-lombard" %}
 
+## Comments after reveal
+
+It started so well:
+- Rosebank: "Could be Rosebank."
+- Banff: "I would have to guess Banff or Millburn"
+Then we got a bit stuck:
+- Littlemill: "Maybe Banff or Millburn?"
+And then as wrong as wrong can be:
+- Millburn: "This is unquestionably the Brora of the bunch"
+- Brora: "can't quite make up my mind whether this is peated or not ... I'm guessing this is the Rosebank."
+
+Maybe Millburn is the new Brora? Let's have some more Millburn in the near future, shall we.
 
 <!-- 
 
