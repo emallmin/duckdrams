@@ -37,11 +37,13 @@ Wish me luck, here we go:
 It started so well:
 - Rosebank: "Could be Rosebank."
 - Banff: "I would have to guess Banff or Millburn"  
+
 Then we got a bit stuck:
-- Littlemill: "Maybe Banff or Millburn?"  
+- Littlemill: "Maybe Banff or Millburn?"   
+
 And then as wrong as wrong can be:
 - Millburn: "This is unquestionably the Brora of the bunch"
-- Brora: "can't quite make up my mind whether this is peated or not ... I'm guessing this is the Rosebank."
+- Brora: "can't quite make up my mind whether this is peated or not ... I'm guessing this is the Rosebank."  
 
 Maybe Millburn is the new Brora? Let's have some more Millburn in the near future, shall we.
 

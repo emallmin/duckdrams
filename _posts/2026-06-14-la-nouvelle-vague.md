@@ -28,7 +28,7 @@ I have reviewed five whiskies from this series already. Now from whiskybase I bo
 
 {% include review.html id="highland-21-ch" %}
 
-At the moment, there a "Dutch auction" on whiskybase shop, where all of these bottlings except the Bruichladdich are available: every day at noon an additional 5% reduction in price is applied, up to a total of 25%. But when a bottle sells out, it's gone. Once we hit the higher discounts, perhaps I'll snag myself the Auchroisk or the Jura.
+At the moment, there's a "Dutch auction" on whiskybase shop, where all of these bottlings except the Bruichladdich are available: every day at noon an additional 5% reduction in price is applied, up to a total of 25%. But when a bottle sells out, it's gone. Once we hit the higher discounts, perhaps I'll snag myself the Auchroisk or the Jura.
 
 
 
