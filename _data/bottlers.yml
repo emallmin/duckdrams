@@ -206,3 +206,8 @@ vintage-malt-co:
   name: The Vintage Malt Whisky Co Ltd.
   kind: Blender
   country: UK
+
+cask-wizard:
+  name: The Cask Wizard
+  kind: bottler
+  country: Germany
