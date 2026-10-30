@@ -5148,6 +5148,34 @@ littlemill-25-dl:
       wb_score:
       heart: no
 
+#--- agentic
+
+craigellachie-23-wa:
+  bottle: craigellachie-23-wa
+  date: 2026-10-07
+  post: agentic-craigellachie
+  market_context:
+    availability: Avilable for €144.90 at WhiskyAgent.com
+    estimated_price:
+      amount: 145
+      currency: EUR
+  sample_context:
+    desc: from a 4cl sample bottle
+    blind: no
+  review:
+    intro: null
+    nosing: >
+      First impression is of vanilla wafers, then admits some light tropical fruits, pineapple and coconut, like a mild pina colada, rhubarb, fresh green grass, and a slight sour-funky smell. With time becomes waxy, the fruits brighter and tangier, and the vanilla subtler.  
+    sipping: >
+      Comfortable drinking strength, yet oily and very expressive. Rather overripe pineapple, pink grapefruit with some bitter pith, a growing smokiness, with a touch of mezcal, lots of spice with some bite to it as the liquid moves back in the mouth, white pepper. Lingering waxy notes, star fruit and green papaya, vanilla.   
+    comments: >
+      I'm delighted: it has character! The biggest disappointment in buying a bottle from a "character distillery" is for it to have, well, no character. In a blind tasting one could really only have made a few reasonable guesses as to the provenance of this liquid. Springbank is one, beside Craigellachie. The nose is very good, but not extraordinary for a mature whisky. The palate is definitely the star of the show.
+    grade:
+      system: "three-tier-2026"
+      score: ⁎
+      wb_score: 88
+
+
 #---------------
 # review-key:
 #   bottle: ###

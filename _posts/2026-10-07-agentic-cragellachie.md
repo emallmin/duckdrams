@@ -3,7 +3,6 @@ layout: single
 title: Agentic Craigellachie
 date: 2026-10-07
 categories: Review
-tags: 
 header:
   overlay_image: https://files.emilmallmin.com/agentic_craigellachie.png
   overlay_filter: 0.5
