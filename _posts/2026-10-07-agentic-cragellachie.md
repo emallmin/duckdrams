@@ -3,6 +3,7 @@ layout: single
 title: Agentic Craigellachie
 date: 2026-10-07
 categories: Review
+excerpt: Craigellachie is probably the only distillery for which I can say that the official releases (their prime-numbered 13, 17, 19, 23 years olds) have consistently outperformed all the independent bottlings I've tried, about 10 or so. It's therefore at some risk of disappointment that I have ordered a bottle of Whisky Agent's 5th anniversary bottling of Craigellachie.
 header:
   overlay_image: https://files.emilmallmin.com/agentic_craigellachie.png
   overlay_filter: 0.5
