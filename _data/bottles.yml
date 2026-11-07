@@ -5776,7 +5776,7 @@ craigellachie-23-wa:
     age: 23
     cask: Ex-Bourbon Barrel
   bottling:
-    bottler: The Caskhound
+    bottler: caskhound
     batching: single_cask
     abv: 45.7
     outturn: 60
@@ -5786,7 +5786,7 @@ craigellachie-23-wa:
     size: 700
   marketing:
     series: Joint bottling with Whisky Agents
-    name: th Anniversary Whisky Agents
+    name: 5th Anniversary Whisky Agents
     released: 2026
     rrp:
       amount: null

@@ -421,6 +421,14 @@ cragganmore:
   category: Scotch Whisky
   class : Single Malt
 
+craigellachie:
+  name: "Craigellachie"
+  kind: distillery
+  country: Scotland
+  region: Speyside
+  category: Scotch Whisky
+  class : Single Malt
+
 glencadam:
   name: "Glencadam"
   kind: distillery
