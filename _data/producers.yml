@@ -781,6 +781,14 @@ north-british:
   category: Scotch Whisky
   class: Single Grain
 
+invergordon:
+  name: Invergordon
+  kind: distillery
+  country: Scotland
+  region: Lowlands
+  category: Scotch Whisky
+  class: Single Grain
+
 macallan:
   name: "Macallan"
   kind: distillery
