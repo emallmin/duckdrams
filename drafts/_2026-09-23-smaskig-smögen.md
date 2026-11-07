@@ -9,8 +9,8 @@
 
 ## Smögen 15
 - **Nosing**: Citrus, grass, raspberry cheese cake, mormorshosta, beech smoke, juniper wood 
-- **Sipping**: Pear, 
-- **Comments** It's clearly of the same make as the Askeim. But a bit lighter, more refined and precise, but perhaps also less charming. 
+- **Sipping**: Mouht-filling, textured and chewy, pear, bright and citrussy notes of orange, grapefruit, liquorice, soft peat with a herbal tinge, and a woody, ashy, smoke. 
+- **Comments** It's clearly of the same make as the Askeim. But a bit lighter, more refined and precise, but perhaps also less charming for me. 
 88
 
 ## Smögen 10 sherry 51.4%

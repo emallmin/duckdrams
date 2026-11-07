@@ -169,31 +169,6 @@ benrinnes-30-sv:
 
 
 
-# review-key:
-#   bottle: ###
-#   date: ###
-#   post: ###
-#   market_context:
-#     availability: ###
-#     estimated_price:
-#       amount: ###
-#       currency: ###
-#   sample_context:
-#     desc: ###
-#     blind: no
-#   review:
-#     intro: null
-#     nosing: >
-#       ###
-#     sipping: >
-#       ###
-#     comments: >
-#       ###
-#     grade:
-#       system: "three-tier-2026"
-#       score: ###
-
-
 
 # review-key:
 #   bottle: ###
@@ -220,6 +195,7 @@ benrinnes-30-sv:
 #       score: ###
 
 
+
 # review-key:
 #   bottle: ###
 #   date: ###
@@ -243,3 +219,5 @@ benrinnes-30-sv:
 #     grade:
 #       system: "three-tier-2026"
 #       score: ###
+
+
